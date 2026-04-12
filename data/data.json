@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "48cQ74ab5BPcgD0vBCLwWo",
+    "_rev": "0vJl3HsPHyXwhTtFLvefTh",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "48cQ74ab5BPcgD0vBCLr04"
+        "rev": "48cQ74ab5BPcgD0vBCLwWo"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-04-12T14:38:20Z",
+    "_updatedAt": "2026-04-12T14:49:54Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -28,7 +28,7 @@
                 "width": 159
               }
             ],
-            "title": "Digital Core Banking"
+            "title": "Digital Core Bankingssssss"
           },
           {
             "_key": "92a117c7-a6a2-4aa0-9347-0d6bd16ad7ce",
