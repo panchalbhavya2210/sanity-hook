@@ -1105,15 +1105,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "0vJl3HsPHyXwhTtFLvvKO6",
+    "_rev": "2LL9JC6EMX15mEdNnsOpwe",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "0vJl3HsPHyXwhTtFLvreSe"
+        "rev": "0vJl3HsPHyXwhTtFLvvKO6"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-04-13T08:54:53Z",
+    "_updatedAt": "2026-04-13T10:34:01Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -1127,7 +1127,7 @@
           "_type": "reference"
         }
       },
-      "title": "Disrupt the market, innovate at scale, and launch digital financial propositions faster with our next generation digital banking and fintech platform.",
+      "title": "Disrupt the market, innovate at scale, and launch digital financial propositions faster with our next generation digital banking and fintech platforms.",
       "variant": "stacked"
     },
     "partners": {
