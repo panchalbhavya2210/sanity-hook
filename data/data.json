@@ -11,7 +11,6 @@
     },
     "_type": "navbar",
     "_updatedAt": "2026-04-13T08:22:15Z",
-    "image": null,
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -608,8 +607,7 @@
           "type": "careerSideCard"
         }
       }
-    ],
-    "sections": null
+    ]
   },
   {
     "_createdAt": "2026-04-10T10:40:35Z",
@@ -623,7 +621,6 @@
     },
     "_type": "footer",
     "_updatedAt": "2026-04-13T06:16:31Z",
-    "image": null,
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -644,7 +641,6 @@
     "sections": [
       {
         "_key": "fdb19e9f-460f-4269-9beb-c09cbc123fc9",
-        "image": null,
         "items": [
           {
             "_key": "08276a6b-c783-41c9-b334-2f68942557eb",
@@ -774,7 +770,6 @@
       },
       {
         "_key": "7e5cc5c4-f578-482c-96d2-2c6e08eaba11",
-        "image": null,
         "items": [
           {
             "_key": "429c9ed7-d503-4e37-9bc9-9e10f5971cea",
@@ -898,7 +893,6 @@
       },
       {
         "_key": "44d4d4a5-6252-49a1-a73f-41cddf780b64",
-        "image": null,
         "items": [
           {
             "_key": "328f8849-7947-4bdd-b862-1e53a465c4bc",
@@ -929,7 +923,6 @@
       },
       {
         "_key": "10f5dd39-a8a6-4ef5-b068-a2f2842849cf",
-        "image": null,
         "items": [
           {
             "_key": "b9f00698-309b-451d-b81e-69fb431c5916",
@@ -960,7 +953,6 @@
       },
       {
         "_key": "132ec183-cbca-4dbe-a126-ad1f678dda95",
-        "image": null,
         "items": [
           {
             "_key": "15557b9c-d6ce-47ad-984b-89dad119ee59",
@@ -991,7 +983,6 @@
       },
       {
         "_key": "2982a5d5-978a-4b26-a929-73af31238a51",
-        "image": null,
         "items": [
           {
             "_key": "6668f70e-5be2-49ae-b263-442b6bc2f0fd",
@@ -1139,7 +1130,6 @@
       "title": "Disrupt the market, innovate at scale, and launch digital financial propositions faster with our next generation digital banking and fintech platform.",
       "variant": "stacked"
     },
-    "image": null,
     "partners": {
       "ctaButton": "How We Made an Impact",
       "headerIcon": {
@@ -1724,8 +1714,7 @@
           "text": "Stack — For Innovators & Institutions."
         }
       ]
-    },
-    "sections": null
+    }
   },
   {
     "_createdAt": "2026-04-13T08:52:31Z",
@@ -1735,7 +1724,6 @@
     "_updatedAt": "2026-04-13T08:52:31Z",
     "assetId": "01251360be8807ef290b604432bedecc3e1c4819",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MHEfvV^+D4M|pb_N%Ns8RjD%QkkX*0RPI9",
@@ -1805,7 +1793,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-3.webp",
     "path": "images/b9v36ogc/production/01251360be8807ef290b604432bedecc3e1c4819-551x246.webp",
-    "sections": null,
     "sha1hash": "01251360be8807ef290b604432bedecc3e1c4819",
     "size": 32248,
     "uploadId": "u57MLaL6v9sr3eGAMBqOTIzY0WQ22xw3",
@@ -1819,7 +1806,6 @@
     "_updatedAt": "2026-04-13T06:34:52Z",
     "assetId": "03c848c903cf43447287727cd681b621c14be6df",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "e97d,{s^rCkCET0HxcO*j^-S_AJ4rbnnI:9h#rXRXQxGxTGBj1nASh",
@@ -1889,7 +1875,6 @@
     "mimeType": "image/webp",
     "originalFilename": "SMBT_Bank.webp",
     "path": "images/b9v36ogc/production/03c848c903cf43447287727cd681b621c14be6df-68x57.webp",
-    "sections": null,
     "sha1hash": "03c848c903cf43447287727cd681b621c14be6df",
     "size": 3592,
     "uploadId": "eYNdXAHZB94LFbndCCGjXKYbxcp6XARG",
@@ -1903,7 +1888,6 @@
     "_updatedAt": "2026-04-13T06:34:12Z",
     "assetId": "1014da560db2e41a93304714e641d76624b81031",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ecRxcax]*Jt7t,offkj@aykC*Jaeg3VsMJtRayf6fQaeyXaKR5kWbH",
@@ -1973,7 +1957,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Pravara_Bank.webp",
     "path": "images/b9v36ogc/production/1014da560db2e41a93304714e641d76624b81031-68x69.webp",
-    "sections": null,
     "sha1hash": "1014da560db2e41a93304714e641d76624b81031",
     "size": 2510,
     "uploadId": "D0hy30riqabFYWokF4CIaCxHPcxAkosJ",
@@ -1987,7 +1970,6 @@
     "_updatedAt": "2026-04-13T06:33:20Z",
     "assetId": "141e67ced42d64f9ddb2faa16af46855cdba2e87",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "DB1qQKjVjEkDfOX=i]jDfkfP",
@@ -2057,7 +2039,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Citizens_Bank.webp",
     "path": "images/b9v36ogc/production/141e67ced42d64f9ddb2faa16af46855cdba2e87-68x20.webp",
-    "sections": null,
     "sha1hash": "141e67ced42d64f9ddb2faa16af46855cdba2e87",
     "size": 2374,
     "uploadId": "bv8zwDUKtYB7qIECxr2OPfJQMxy4dsKA",
@@ -2071,7 +2052,6 @@
     "_updatedAt": "2026-04-13T06:36:59Z",
     "assetId": "18da21463b0a305e46bc5ad2dce4eb7de7b8ec37",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eHM7Gwof00RP00ofxuRjRjtQ00WU9Yof_NWBRjtRbFRj00az?bof%3",
@@ -2141,7 +2121,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Navanagar_Bank.webp",
     "path": "images/b9v36ogc/production/18da21463b0a305e46bc5ad2dce4eb7de7b8ec37-68x68.webp",
-    "sections": null,
     "sha1hash": "18da21463b0a305e46bc5ad2dce4eb7de7b8ec37",
     "size": 4474,
     "uploadId": "xeE0eC1yElmjjVvIwnomOcGZnDhYwjc4",
@@ -2155,7 +2134,6 @@
     "_updatedAt": "2026-04-13T06:33:33Z",
     "assetId": "209fc6bb87711b8eb7ef130a1fbcc61784bcf7db",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "efP6:Sof_Noft7WBayofj[of_Nj[RPkCRjt7fQj[jtWBxuayM{ayfl",
@@ -2225,7 +2203,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Bhagyodaya_Bank.webp",
     "path": "images/b9v36ogc/production/209fc6bb87711b8eb7ef130a1fbcc61784bcf7db-68x68.webp",
-    "sections": null,
     "sha1hash": "209fc6bb87711b8eb7ef130a1fbcc61784bcf7db",
     "size": 2798,
     "uploadId": "qdUquZ89wCJFSUGD8hbuOaOotMGJBUW9",
@@ -2239,7 +2216,6 @@
     "_updatedAt": "2026-04-13T08:52:38Z",
     "assetId": "21b946e1cd4a040f2d7a590611ba7c92fab42014",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "M79t=dMcb|4TDNU[Dh?wELpx?GM_HqOt.9",
@@ -2309,7 +2285,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-5.webp",
     "path": "images/b9v36ogc/production/21b946e1cd4a040f2d7a590611ba7c92fab42014-551x246.webp",
-    "sections": null,
     "sha1hash": "21b946e1cd4a040f2d7a590611ba7c92fab42014",
     "size": 25820,
     "uploadId": "plFq6HwZo4aLuT5hW7wGWwNwF3DkkRkt",
@@ -2323,7 +2298,6 @@
     "_updatedAt": "2026-04-13T06:31:49Z",
     "assetId": "239b212029679493cc340653edbf3fb2b45e9624",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eaNmcxt6~Xo#.7KOaer_ofxT_3j[cGaxav%2j[RiWXkX%gbHe,jZIB",
@@ -2393,7 +2367,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Baghat_Bank.webp",
     "path": "images/b9v36ogc/production/239b212029679493cc340653edbf3fb2b45e9624-68x68.webp",
-    "sections": null,
     "sha1hash": "239b212029679493cc340653edbf3fb2b45e9624",
     "size": 3946,
     "uploadId": "dMgvieab8qQKpxwzVTh2wCrnn4179Ixc",
@@ -2407,7 +2380,6 @@
     "_updatedAt": "2026-04-13T06:34:32Z",
     "assetId": "28d038a1a1ab82512f32a60c5b10a3ce6b1a7055",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MFI3Uhs;00RiOr{zayB9kCkWHXWByrozjF",
@@ -2477,7 +2449,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Karnavati_Bank.webp",
     "path": "images/b9v36ogc/production/28d038a1a1ab82512f32a60c5b10a3ce6b1a7055-68x34.webp",
-    "sections": null,
     "sha1hash": "28d038a1a1ab82512f32a60c5b10a3ce6b1a7055",
     "size": 1444,
     "uploadId": "R25ZTs30w8WPtgFCFXPkaGYNj6wx2PCV",
@@ -2491,7 +2462,6 @@
     "_updatedAt": "2026-04-13T06:35:42Z",
     "assetId": "295bff689eafb120d786c3a1b7db2e682fb3ef58",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eAG+5SWF00j?tm02oJj;WC^*00a{NPof-D~oWX?7j[NxSkj?-Ya#Np",
@@ -2561,7 +2531,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Ambajogai_Bank.webp",
     "path": "images/b9v36ogc/production/295bff689eafb120d786c3a1b7db2e682fb3ef58-68x75.webp",
-    "sections": null,
     "sha1hash": "295bff689eafb120d786c3a1b7db2e682fb3ef58",
     "size": 4840,
     "uploadId": "fQPIlOgDqurFXFKnzp1UC1a4EYVUwEhc",
@@ -2575,7 +2544,6 @@
     "_updatedAt": "2026-04-13T06:16:11Z",
     "assetId": "2a96f11ec3215f93398096a3f15dd462464a0c18",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "DqOCpy}G,@WBOXtQkAj[j[ay",
@@ -2645,7 +2613,6 @@
     "mimeType": "image/png",
     "originalFilename": "partner-mobipro.png",
     "path": "images/b9v36ogc/production/2a96f11ec3215f93398096a3f15dd462464a0c18-228x82.png",
-    "sections": null,
     "sha1hash": "2a96f11ec3215f93398096a3f15dd462464a0c18",
     "size": 6933,
     "uploadId": "bSwYf5QdMftuEVy92Cs00Gv8cnNWvEdI",
@@ -2659,7 +2626,6 @@
     "_updatedAt": "2026-04-13T06:27:09Z",
     "assetId": "2b78dedca2a9cd1ea9930ba91f46681d87312e3f",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "D8Hk#6o00|$P^Q}Za|WBWVo1",
@@ -2729,7 +2695,6 @@
     "mimeType": "image/webp",
     "originalFilename": "AMCO_Bank.webp",
     "path": "images/b9v36ogc/production/2b78dedca2a9cd1ea9930ba91f46681d87312e3f-68x21.webp",
-    "sections": null,
     "sha1hash": "2b78dedca2a9cd1ea9930ba91f46681d87312e3f",
     "size": 2388,
     "uploadId": "C6FIRxHHpXRR4HgKpGgYA7k0KXVflSYj",
@@ -2743,7 +2708,6 @@
     "_updatedAt": "2026-04-13T06:30:30Z",
     "assetId": "2c2b502ebfcfdcf2057376ef898e448579059289",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ecRL-Dt7%gofx]Tdj[s:kCt7.maeMyj[V@#lbHR*V[RQ?vf,S4WBWB",
@@ -2813,7 +2777,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Bhuj_Bank.webp",
     "path": "images/b9v36ogc/production/2c2b502ebfcfdcf2057376ef898e448579059289-68x55.webp",
-    "sections": null,
     "sha1hash": "2c2b502ebfcfdcf2057376ef898e448579059289",
     "size": 2526,
     "uploadId": "UAwAI1Gdh6PfebwDunpIZzZcE4aCvXFz",
@@ -2827,7 +2790,6 @@
     "_updatedAt": "2026-04-13T06:35:25Z",
     "assetId": "2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eKFzyjNG0$w_0#|:j[5lbba}16sm$%Sh}q5SbIsSsm-TIobI-9jZJA",
@@ -2897,7 +2859,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Rajkot_Commercial_Bank.webp",
     "path": "images/b9v36ogc/production/2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5-68x68.webp",
-    "sections": null,
     "sha1hash": "2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5",
     "size": 3418,
     "uploadId": "z7yuIdIc7MpkT5tr3bp85MzfXBD4fanA",
@@ -2911,7 +2872,6 @@
     "_updatedAt": "2026-04-13T06:29:32Z",
     "assetId": "2dfee76a540640cbaa47e4e99687f361c6aff6be",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eTSFeEs:.AtRW@.SkCWFayRP%ijuM_a|oHjLazj:j[j?tTfkaJaeX8",
@@ -2981,7 +2941,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Sarvodaya_Bank.webp",
     "path": "images/b9v36ogc/production/2dfee76a540640cbaa47e4e99687f361c6aff6be-68x72.webp",
-    "sections": null,
     "sha1hash": "2dfee76a540640cbaa47e4e99687f361c6aff6be",
     "size": 2690,
     "uploadId": "AKxGeablvOFOeyYKDQqcoDJCSJHqjlZG",
@@ -2995,7 +2954,6 @@
     "_updatedAt": "2026-04-13T06:36:41Z",
     "assetId": "3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eNN8y,R.@YoHMc}SoKoga{kC*dxVF1jdpJ?HW;NFspjFMdWYyDaeof",
@@ -3065,7 +3023,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Vasai_Janata_Bank.webp",
     "path": "images/b9v36ogc/production/3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86-68x68.webp",
-    "sections": null,
     "sha1hash": "3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86",
     "size": 3206,
     "uploadId": "Yg3K9rDsVRZc3Kc2Az1CnjfA0OsMWqzv",
@@ -3079,7 +3036,6 @@
     "_updatedAt": "2026-04-13T06:16:27Z",
     "assetId": "3d3571786fab9c4375b42c22d2f91375a6f9b606",
     "extension": "jpg",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "DEAngR~ot6t89HRqxtt7RkNG",
@@ -3149,7 +3105,6 @@
     "mimeType": "image/jpeg",
     "originalFilename": "partner-easy-net-pro.jpg",
     "path": "images/b9v36ogc/production/3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90.jpg",
-    "sections": null,
     "sha1hash": "3d3571786fab9c4375b42c22d2f91375a6f9b606",
     "size": 27408,
     "uploadId": "nqzAvGp53ITNlfEhEhEMzkCeLS6vSlMv",
@@ -3163,7 +3118,6 @@
     "_updatedAt": "2026-04-13T06:26:56Z",
     "assetId": "421e304bd2af86fd23d22c9428aab474e3b84a8e",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eIR_n@xa*Jxao}r?fQkCkCoz*JkCyXkCjFyDayV@j[a|o}aeozfkae",
@@ -3233,7 +3187,6 @@
     "mimeType": "image/png",
     "originalFilename": "AMCO_Bank.png",
     "path": "images/b9v36ogc/production/421e304bd2af86fd23d22c9428aab474e3b84a8e-63x63.png",
-    "sections": null,
     "sha1hash": "421e304bd2af86fd23d22c9428aab474e3b84a8e",
     "size": 7294,
     "uploadId": "bPMDQ0jsjjQHx3JZAyDq3nM3gi3YI0nt",
@@ -3247,7 +3200,6 @@
     "_updatedAt": "2026-04-13T08:22:11Z",
     "assetId": "42a2824e39df1c2b8d90ff1a17efa8352b770d52",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "M4Av@DY8Ki00R1nL00I[~W?^PC%i4.$c4;",
@@ -3317,7 +3269,6 @@
     "mimeType": "image/webp",
     "originalFilename": "life-at-bankai.webp",
     "path": "images/b9v36ogc/production/42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111.webp",
-    "sections": null,
     "sha1hash": "42a2824e39df1c2b8d90ff1a17efa8352b770d52",
     "size": 9652,
     "uploadId": "K82Bc67sWVTKGpSp7tRBCHYrcke7jjB4",
@@ -3331,7 +3282,6 @@
     "_updatedAt": "2026-04-13T06:26:23Z",
     "assetId": "442d109a931a7f0209ea40f1f72247c9182006c4",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "egPsqykB~Et7Opu3fks;kCV@.8j[SzkCRPwKj@MxaeS1-qj[I.ays;",
@@ -3401,7 +3351,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Kheti_Bank.webp",
     "path": "images/b9v36ogc/production/442d109a931a7f0209ea40f1f72247c9182006c4-68x79.webp",
-    "sections": null,
     "sha1hash": "442d109a931a7f0209ea40f1f72247c9182006c4",
     "size": 2380,
     "uploadId": "v68iLgHv7B4P8CsjxCSP6yngh7ln1hcX",
@@ -3415,7 +3364,6 @@
     "_updatedAt": "2026-04-13T06:36:26Z",
     "assetId": "47c56177186dec421c4fe4503381f5250c92aaf5",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eMO:^eofE-tRMM57j[xCay-p~Xj]_0jY?tVbay-:j[I.OTjs?aof8{",
@@ -3485,7 +3433,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Vaidyanath_Bank.webp",
     "path": "images/b9v36ogc/production/47c56177186dec421c4fe4503381f5250c92aaf5-68x69.webp",
-    "sections": null,
     "sha1hash": "47c56177186dec421c4fe4503381f5250c92aaf5",
     "size": 3316,
     "uploadId": "2bjSbDqMTUaiGo61cBbKdFgbY4EHwLfK",
@@ -3499,7 +3446,6 @@
     "_updatedAt": "2026-04-13T06:36:11Z",
     "assetId": "4968dd3eb998832e164afbb92ac80c907779ac17",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ecN-y0t7~Eoz%3kBfQj[j[j[~Dayofj[NGt7fkjaayay-pj[NFayR%",
@@ -3569,7 +3515,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Kalol_Bank.webp",
     "path": "images/b9v36ogc/production/4968dd3eb998832e164afbb92ac80c907779ac17-68x67.webp",
-    "sections": null,
     "sha1hash": "4968dd3eb998832e164afbb92ac80c907779ac17",
     "size": 2820,
     "uploadId": "z3PzdV8G7M3W5TSDPaICxglvtfiu4wDD",
@@ -3583,7 +3528,6 @@
     "_updatedAt": "2026-04-13T08:54:33Z",
     "assetId": "4c4855cd1b3ebe22904d9819c20a6b4028cfc725",
     "extension": "svg",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ebHKgYrGE3XSNK{|W=J.jER+9OX5Nts:oxFZxFbbX4R+RVxpS^I[er",
@@ -3653,7 +3597,6 @@
     "mimeType": "image/svg+xml",
     "originalFilename": "favicon.svg",
     "path": "images/b9v36ogc/production/4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31.svg",
-    "sections": null,
     "sha1hash": "4c4855cd1b3ebe22904d9819c20a6b4028cfc725",
     "size": 2201,
     "uploadId": "Pmf9MuLVxWeQQvx7e4bpEli3Bi3wpOXz",
@@ -3667,7 +3610,6 @@
     "_updatedAt": "2026-04-13T08:52:22Z",
     "assetId": "4dbe6d8be21a09bcf0fc69fc5c4426d1a3dbabe3",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "M$Hn,gtkXh^-s+%Nxaoyo#spRhWAspWBR*",
@@ -3737,7 +3679,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-1.webp",
     "path": "images/b9v36ogc/production/4dbe6d8be21a09bcf0fc69fc5c4426d1a3dbabe3-551x246.webp",
-    "sections": null,
     "sha1hash": "4dbe6d8be21a09bcf0fc69fc5c4426d1a3dbabe3",
     "size": 27534,
     "uploadId": "vzwGYO5yIGpSUB4JIBf9eLnBmTjWsZXD",
@@ -3751,7 +3692,6 @@
     "_updatedAt": "2026-04-13T06:15:02Z",
     "assetId": "51a4c3284428e83aa15207eb169b44e4ca0925a0",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "4G6IBd?w-g%K%O",
@@ -3821,7 +3761,6 @@
     "mimeType": "image/png",
     "originalFilename": "bank-core.png",
     "path": "images/b9v36ogc/production/51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144.png",
-    "sections": null,
     "sha1hash": "51a4c3284428e83aa15207eb169b44e4ca0925a0",
     "size": 59552,
     "uploadId": "NY9YiVGBPpfBzmtpzpl3eZRBTV8fXp4Q",
@@ -3835,7 +3774,6 @@
     "_updatedAt": "2026-04-13T06:31:18Z",
     "assetId": "53a91c563136934781e6ba86a58c2dc7fbce3a5d",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eEIgZgj[00ja9}t7juRjays:00a|ugay.5M{a{xaj[Rj0yf6^*j[zW",
@@ -3905,7 +3843,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Veraval_Bank.webp",
     "path": "images/b9v36ogc/production/53a91c563136934781e6ba86a58c2dc7fbce3a5d-68x68.webp",
-    "sections": null,
     "sha1hash": "53a91c563136934781e6ba86a58c2dc7fbce3a5d",
     "size": 4826,
     "uploadId": "NhUTyR00reR09Vjx9BnKw1EmbIEwd47K",
@@ -3919,7 +3856,6 @@
     "_updatedAt": "2026-04-13T06:29:53Z",
     "assetId": "5f32aff6b929ee48309d65be425f82866b17cadf",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "VZRy+]kCR*ofazxuWBayazaz~VoLoLoLj@ofs;ofj[j[",
@@ -3989,7 +3925,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Ratnaafin_Bank.webp",
     "path": "images/b9v36ogc/production/5f32aff6b929ee48309d65be425f82866b17cadf-68x48.webp",
-    "sections": null,
     "sha1hash": "5f32aff6b929ee48309d65be425f82866b17cadf",
     "size": 1512,
     "uploadId": "sxw8zcW7gwRLGLTDgfC5BbVfLI6STgvG",
@@ -4003,7 +3938,6 @@
     "_updatedAt": "2026-04-13T08:52:42Z",
     "assetId": "6dafea9877e6afaa24fba7ab51bbfedafe1bda3b",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MNDczTISV;yD-W_4kVs+tR-qnOxvo#aKt8",
@@ -4073,7 +4007,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-6.webp",
     "path": "images/b9v36ogc/production/6dafea9877e6afaa24fba7ab51bbfedafe1bda3b-551x246.webp",
-    "sections": null,
     "sha1hash": "6dafea9877e6afaa24fba7ab51bbfedafe1bda3b",
     "size": 28664,
     "uploadId": "ZV0fY24J4Ppz4rQzl6mFVg9jgZAPtwSe",
@@ -4087,7 +4020,6 @@
     "_updatedAt": "2026-04-13T06:33:54Z",
     "assetId": "74cb019d6fd87503f77a3d96033dc6050ef05eae",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eDKJf0of00t60:ozjZaKkCfk00ay7$R*^OWBj[j[WBj[0iay}?t7=Y",
@@ -4157,7 +4089,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Pali_Urban_Bank.webp",
     "path": "images/b9v36ogc/production/74cb019d6fd87503f77a3d96033dc6050ef05eae-68x68.webp",
-    "sections": null,
     "sha1hash": "74cb019d6fd87503f77a3d96033dc6050ef05eae",
     "size": 4318,
     "uploadId": "v3RV3WTV8hGjwJdYKWnW1KZmxNJ9NFGc",
@@ -4171,7 +4102,6 @@
     "_updatedAt": "2026-04-13T06:28:22Z",
     "assetId": "850e8700726f39d294c528dd6db66613545aab55",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ejR2}dnlx]kC%gaeWBj[j[of?]kVRjofMyt7ozkBofaexuWBRjV[V[",
@@ -4241,7 +4171,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Kadi_Bank.webp",
     "path": "images/b9v36ogc/production/850e8700726f39d294c528dd6db66613545aab55-68x68.webp",
-    "sections": null,
     "sha1hash": "850e8700726f39d294c528dd6db66613545aab55",
     "size": 2348,
     "uploadId": "89lzRnobTmB5OVW7SN7KB81cEfMIFxlr",
@@ -4255,7 +4184,6 @@
     "_updatedAt": "2026-04-13T06:31:01Z",
     "assetId": "890463407727fe12d9546294f9f464fb49ca3041",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eHL_@qkC4Tju0f%2jZNHfkjF4Te.3;ayyDE2fjxZbHof1Gj[pIfk{z",
@@ -4325,7 +4253,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Associate_Bank.webp",
     "path": "images/b9v36ogc/production/890463407727fe12d9546294f9f464fb49ca3041-68x68.webp",
-    "sections": null,
     "sha1hash": "890463407727fe12d9546294f9f464fb49ca3041",
     "size": 4816,
     "uploadId": "7TJztb23cqIOO99TtYc3cnuKIfi9P8z3",
@@ -4339,7 +4266,6 @@
     "_updatedAt": "2026-04-13T08:52:28Z",
     "assetId": "8d676bb50c186f7f5448c84bb6f58ebbd3d0a640",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MEF=w002.m4Txt^%wztka$M_kWoLR+S4D%",
@@ -4409,7 +4335,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-2.webp",
     "path": "images/b9v36ogc/production/8d676bb50c186f7f5448c84bb6f58ebbd3d0a640-551x246.webp",
-    "sections": null,
     "sha1hash": "8d676bb50c186f7f5448c84bb6f58ebbd3d0a640",
     "size": 31258,
     "uploadId": "AfEetyYyvIggUyZVDbSj5tOACXjihszG",
@@ -4423,7 +4348,6 @@
     "_updatedAt": "2026-04-13T06:27:29Z",
     "assetId": "9ff615ecb30137c17d942e04b2e65b2e77b52ba4",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eVOO0Kt7}@oz-Ut7fQayazj[}@f7xZoLIqt7j[j[j@WU-Uj@IqayEL",
@@ -4493,7 +4417,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Vijay_Bank.webp",
     "path": "images/b9v36ogc/production/9ff615ecb30137c17d942e04b2e65b2e77b52ba4-68x68.webp",
-    "sections": null,
     "sha1hash": "9ff615ecb30137c17d942e04b2e65b2e77b52ba4",
     "size": 2984,
     "uploadId": "ss9ViJeqB5MOSDu60E4Pe9ATC2h6AlU2",
@@ -4507,7 +4430,6 @@
     "_updatedAt": "2026-04-13T06:30:49Z",
     "assetId": "a1c1250162ea75496ccd953fd3372b6e2b4f0891",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eDFrbOOS00s;i?^JoIEMkCog00sD_4WB_N0OR.%gax#QKknlxUX7Di",
@@ -4577,7 +4499,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Mamasahab_Pawar_Bank.webp",
     "path": "images/b9v36ogc/production/a1c1250162ea75496ccd953fd3372b6e2b4f0891-68x68.webp",
-    "sections": null,
     "sha1hash": "a1c1250162ea75496ccd953fd3372b6e2b4f0891",
     "size": 3572,
     "uploadId": "NglQd7yPqDK0FC0qtC7K9YumH4UogPVE",
@@ -4591,7 +4512,6 @@
     "_updatedAt": "2026-04-13T06:37:12Z",
     "assetId": "a96f1dd6b0a3eed641798ccee7db1640394265da",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MHHxNuwG4TBE8w-pjsRkbIjX00OG%K,A~q",
@@ -4661,7 +4581,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Ashta_Peoples_Bank.webp",
     "path": "images/b9v36ogc/production/a96f1dd6b0a3eed641798ccee7db1640394265da-68x38.webp",
-    "sections": null,
     "sha1hash": "a96f1dd6b0a3eed641798ccee7db1640394265da",
     "size": 1978,
     "uploadId": "Ff3KJSQhJ2GySe5CcvrZQOgOPdcjNYJI",
@@ -4675,7 +4594,6 @@
     "_updatedAt": "2026-04-13T05:24:07Z",
     "assetId": "a9fb26ac11cec62de767d9d1ed183c119e4a6092",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MCGRxI02v#%N~V%cD*aj?Ga_9Zs-V[IVM|",
@@ -4745,7 +4663,6 @@
     "mimeType": "image/webp",
     "originalFilename": "banner-placeholder.webp",
     "path": "images/b9v36ogc/production/a9fb26ac11cec62de767d9d1ed183c119e4a6092-2634x1462.webp",
-    "sections": null,
     "sha1hash": "a9fb26ac11cec62de767d9d1ed183c119e4a6092",
     "size": 285272,
     "uploadId": "vcXvEdBliZoEAYJrGXqB1qFTsqQxIxzl",
@@ -4759,7 +4676,6 @@
     "_updatedAt": "2026-04-13T06:27:48Z",
     "assetId": "ac405ea559877fd57f24dacd75f1985c89453ecd",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eSQJl*t7^,t7-;#SjuXmayR+}[azpHj@E0sRaybdoLs+%LfPIoa}Vu",
@@ -4829,7 +4745,6 @@
     "mimeType": "image/png",
     "originalFilename": "Panipat_Bank.png",
     "path": "images/b9v36ogc/production/ac405ea559877fd57f24dacd75f1985c89453ecd-86x79.png",
-    "sections": null,
     "sha1hash": "ac405ea559877fd57f24dacd75f1985c89453ecd",
     "size": 10001,
     "uploadId": "ozd34Fe3viBaSPMe7tMBLTfNUWjBfHIN",
@@ -4843,7 +4758,6 @@
     "_updatedAt": "2026-04-13T06:28:07Z",
     "assetId": "c151726e9e81af05fac3006c02fad736a74be2e7",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eYRVtkxv_NM_pI?ba#M|oIV@t9V@Wmxun%buoJt7WYRPo2j]X7aeV@",
@@ -4913,7 +4827,6 @@
     "mimeType": "image/webp",
     "originalFilename": "BMC_Bank.webp",
     "path": "images/b9v36ogc/production/c151726e9e81af05fac3006c02fad736a74be2e7-68x62.webp",
-    "sections": null,
     "sha1hash": "c151726e9e81af05fac3006c02fad736a74be2e7",
     "size": 2306,
     "uploadId": "DzBUM5JjFKrDbFOMPXoaFI8JOE21sPNH",
@@ -4927,7 +4840,6 @@
     "_updatedAt": "2026-04-13T06:35:58Z",
     "assetId": "c438e0a53f4ae76ac90a9a61a40fd57cbf467161",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eBGaeR-q00w30_%MkBV[jZR%00RiLcJP^jR6f6SvWos:1XR*}ut5iQ",
@@ -4997,7 +4909,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Sangamner_Bank.webp",
     "path": "images/b9v36ogc/production/c438e0a53f4ae76ac90a9a61a40fd57cbf467161-68x74.webp",
-    "sections": null,
     "sha1hash": "c438e0a53f4ae76ac90a9a61a40fd57cbf467161",
     "size": 4032,
     "uploadId": "k1nq1oqBHcWAKGuy2D0WvdKv3CPtpK5j",
@@ -5011,7 +4922,6 @@
     "_updatedAt": "2026-04-13T06:29:17Z",
     "assetId": "c752a0a2f3ca581413371959fe40467a70d42988",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "e21=|$qCD4T]y@pGf*W.bHoLHZafy]qxLcMzaex@oeMzy[iyK}Vu%K",
@@ -5081,7 +4991,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Mahila_Sewa_Bank.webp",
     "path": "images/b9v36ogc/production/c752a0a2f3ca581413371959fe40467a70d42988-68x64.webp",
-    "sections": null,
     "sha1hash": "c752a0a2f3ca581413371959fe40467a70d42988",
     "size": 4816,
     "uploadId": "BWd6QbWiHnWseN5bZzMsUGPxKuNFMwzu",
@@ -5095,7 +5004,6 @@
     "_updatedAt": "2026-04-13T06:25:30Z",
     "assetId": "cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "epR.=Hof.At7Rjx]ayjYoLRkT3aynyoLaKt6f6agj[R*M{j@xaazX9",
@@ -5165,7 +5073,6 @@
     "mimeType": "image/png",
     "originalFilename": "Varachha_Bank.png",
     "path": "images/b9v36ogc/production/cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3-84x84.png",
-    "sections": null,
     "sha1hash": "cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3",
     "size": 9691,
     "uploadId": "rei9RFULRRHeUBiE182Za251uIqyAIsK",
@@ -5179,7 +5086,6 @@
     "_updatedAt": "2026-04-13T06:26:43Z",
     "assetId": "cd66427a6b08698161ed71074ef18bb98e536890",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "ejRopnof?^t7kWofbHflo0ay%~j[Mdaye.ozn$jZSha|xufkRQf6fk",
@@ -5249,7 +5155,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Prime_Bank.webp",
     "path": "images/b9v36ogc/production/cd66427a6b08698161ed71074ef18bb98e536890-68x68.webp",
-    "sections": null,
     "sha1hash": "cd66427a6b08698161ed71074ef18bb98e536890",
     "size": 1980,
     "uploadId": "rKW03SsDxAUsCkDbcpMJHFZ0pwR5oM3I",
@@ -5263,7 +5168,6 @@
     "_updatedAt": "2026-04-13T06:32:48Z",
     "assetId": "d414459b501d758181030ed802a7f85ea86b2364",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eIMk9Iu3N0Q.Rq_MxWafW?wy0:#7VsFyn2~X-WWAI.X3ZMOtX9#kJ.",
@@ -5333,7 +5237,6 @@
     "mimeType": "image/webp",
     "originalFilename": "SNCB_Bank.webp",
     "path": "images/b9v36ogc/production/d414459b501d758181030ed802a7f85ea86b2364-68x69.webp",
-    "sections": null,
     "sha1hash": "d414459b501d758181030ed802a7f85ea86b2364",
     "size": 3254,
     "uploadId": "ctQFEHk0nGH2V2SEWtcmQ59WYE75lVCm",
@@ -5347,7 +5250,6 @@
     "_updatedAt": "2026-04-13T06:30:15Z",
     "assetId": "e00cad6270661fe4ea1f1d68aa9699af4d00fa07",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MDA++x=d5m=c:-}=w{EgxF#n0iEgsBJmOp",
@@ -5417,7 +5319,6 @@
     "mimeType": "image/webp",
     "originalFilename": "MSBL_Bank.webp",
     "path": "images/b9v36ogc/production/e00cad6270661fe4ea1f1d68aa9699af4d00fa07-68x30.webp",
-    "sections": null,
     "sha1hash": "e00cad6270661fe4ea1f1d68aa9699af4d00fa07",
     "size": 2726,
     "uploadId": "XV2iUjhnG3JW05V8ZZEUmetigjpBg04h",
@@ -5431,7 +5332,6 @@
     "_updatedAt": "2026-04-13T06:32:23Z",
     "assetId": "e2d8b985c0245e22d49a47591ca2e0dd465e32af",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eIP%L?xuXUxtM}xGj[o}axRjRVj=~nWF?Z%Lj?IofSt79Hah~nt6IV",
@@ -5501,7 +5401,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Gandhinagar_Bank.webp",
     "path": "images/b9v36ogc/production/e2d8b985c0245e22d49a47591ca2e0dd465e32af-68x68.webp",
-    "sections": null,
     "sha1hash": "e2d8b985c0245e22d49a47591ca2e0dd465e32af",
     "size": 3344,
     "uploadId": "QcfNA8wgIKJPzFfRrurpaiZJCUK4jTMS",
@@ -5515,7 +5414,6 @@
     "_updatedAt": "2026-04-13T06:15:51Z",
     "assetId": "e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b",
     "extension": "png",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "DF185cl-fEk?l7lsk}k+e8f5",
@@ -5585,7 +5483,6 @@
     "mimeType": "image/png",
     "originalFilename": "partner-digi-x.png",
     "path": "images/b9v36ogc/production/e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68.png",
-    "sections": null,
     "sha1hash": "e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b",
     "size": 11720,
     "uploadId": "5dWBApseYrfJX5siIGpHnu7hB0Uev02I",
@@ -5599,7 +5496,6 @@
     "_updatedAt": "2026-04-13T06:33:05Z",
     "assetId": "e8af139a1b104240254dbf8a83465eb7b8a2f713",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "eDE.-Qxv00t7MaxufiofofRj0Jj=H?M_toM{j[M|RkxaH;WByGs;i~",
@@ -5669,7 +5565,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Tasgaon_Bank.webp",
     "path": "images/b9v36ogc/production/e8af139a1b104240254dbf8a83465eb7b8a2f713-68x66.webp",
-    "sections": null,
     "sha1hash": "e8af139a1b104240254dbf8a83465eb7b8a2f713",
     "size": 4584,
     "uploadId": "hwN2dNtzM0K08DvBgN2dzx1qvbKqMPDG",
@@ -5683,7 +5578,6 @@
     "_updatedAt": "2026-04-13T06:29:01Z",
     "assetId": "fd4c537a405a46faf9829aadf5c8feaeafc1848a",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "VQIphFNI5TR+9w~8R,%0R+xY0*WW=]Rl=]9_WCS4WCba",
@@ -5753,7 +5647,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Warana_Bank.webp",
     "path": "images/b9v36ogc/production/fd4c537a405a46faf9829aadf5c8feaeafc1848a-68x53.webp",
-    "sections": null,
     "sha1hash": "fd4c537a405a46faf9829aadf5c8feaeafc1848a",
     "size": 3072,
     "uploadId": "M0takcdCIlGirZ4kLudcwA3OV8MfaNKF",
@@ -5767,7 +5660,6 @@
     "_updatedAt": "2026-04-13T06:35:07Z",
     "assetId": "fec854b8c1fc543d7dc5ca88b69494878b30ea45",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "edR-e[MJyqwfyXofWBbbj[njx[x]Q.R5k=sosooLaeSzqEg3iwpHVs",
@@ -5837,7 +5729,6 @@
     "mimeType": "image/webp",
     "originalFilename": "Kukarwada_Bank.webp",
     "path": "images/b9v36ogc/production/fec854b8c1fc543d7dc5ca88b69494878b30ea45-68x68.webp",
-    "sections": null,
     "sha1hash": "fec854b8c1fc543d7dc5ca88b69494878b30ea45",
     "size": 1664,
     "uploadId": "67OtxzngkgfyJjwqAfaZfRg4alFtYuvD",
@@ -5851,7 +5742,6 @@
     "_updatedAt": "2026-04-13T08:52:35Z",
     "assetId": "fed849363b3e67c18a6d27567e87ad8b621b020a",
     "extension": "webp",
-    "image": null,
     "metadata": {
       "_type": "sanity.imageMetadata",
       "blurHash": "MV9[}lK5QRt8Te*0Shn3o#S$ivaKW=aeWB",
@@ -5921,7 +5811,6 @@
     "mimeType": "image/webp",
     "originalFilename": "homepage-product-4.webp",
     "path": "images/b9v36ogc/production/fed849363b3e67c18a6d27567e87ad8b621b020a-551x246.webp",
-    "sections": null,
     "sha1hash": "fed849363b3e67c18a6d27567e87ad8b621b020a",
     "size": 26950,
     "uploadId": "K5tLp27kePLPMDaeqcj5gyliKtxj94EJ",
