@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "2LL9JC6EMX15mEdNnsJoCc",
+    "_rev": "2LL9JC6EMX15mEdNnsJplu",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "48cQ74ab5BPcgD0vBCMQRe"
+        "rev": "2LL9JC6EMX15mEdNnsJoCc"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-04-13T08:21:34Z",
+    "_updatedAt": "2026-04-13T08:22:15Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -594,6 +594,13 @@
         ],
         "sideCard": {
           "description": "From coffee breaks to code sprints. From late-night laughs to early wins. We don’t just build tech - We build memories, together.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111-webp",
+              "_type": "reference"
+            }
+          },
           "link": "#",
           "linkLabel": "Explore Bankai",
           "title": "Life at Bankai",
@@ -2964,6 +2971,88 @@
     "size": 7294,
     "uploadId": "bPMDQ0jsjjQHx3JZAyDq3nM3gi3YI0nt",
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/421e304bd2af86fd23d22c9428aab474e3b84a8e-63x63.png"
+  },
+  {
+    "_createdAt": "2026-04-13T08:22:11Z",
+    "_id": "image-42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111-webp",
+    "_rev": "2LL9JC6EMX15mEdNnsJpV4",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T08:22:11Z",
+    "assetId": "42a2824e39df1c2b8d90ff1a17efa8352b770d52",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "M4Av@DY8Ki00R1nL00I[~W?^PC%i4.$c4;",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 2.063063063063063,
+        "height": 111,
+        "width": 229
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAPoAAAD6AG1e1JrAAACqElEQVR4nB3MWVMaBwDA8X1MY0rHOHKIgsu5uIvLLjfscokYhAWpYMHWRtCQEBMPbM1RSR/STjNJm7f2rQ/t13T035n+PsBPCGmbN0rOutXLu8SLbTIFi3pjQK83otncw0xm6JaynH4/4Gp6xruzCT/36rzcKhGLRFgNS9RaLQ4nz26fXpzfCEG1dCen6mhmG91okDIb1Lb7NNsHZA2LWDSHZWQY7jZ4Pj7m/MkRF90OR80dNCVOQJLZbLY5eDphfD69EyJaDlkvoCeLFAs1isVtskadVHYbv1RGkgw6FZPHO1U6VotCvo4R38JMbJOMrJPTVBrtr9l/8pzR6RRBSUVZU6JkVI39R4+wKjWCPgW7I8JDu0YgkKZbKzHc2aCYybPiyTDvqOJyV8iGFb4tJzg+6DM6OWN4+gNCSHUTDHooJ3QmHQvLMHAuLPHFPQdzXwbwiRq7GyaHDZOyriK6FebmDe4vbiH7U3xXijJ7tsPsp0teXF0j+GXn/6FVrXF+OMQqVfB7g9gXRR7Y/Hg9Ct3NBJPdDN2CxrpfwraQ5p6rhxis0kp6uNpT+fT2iFdv3yBI6hpSRKbT6jN7/Z6Xkwus1jdoqQ0WXBru1TjNapJxz2RQzaOGFObtSWzLLaS1Cs24g8cFO6f9IuPhAEFWkyjRFPXGPldvPvLx89+8eveJzmCMpFZxiHkCiolp1qnli8hBGZc7inNZRw3LNLWHtNbnqMWWqWRiCIGQcqfqJo3OMSeXH/jl93/49fO//Hj9B3uDCXqihsOTYiVcJqpkCIkRvF4ZnydITFyiKtmohe+T9n1FRFy6E5zOlRs9vXHbH71mOvuL6exPRifveXH5G7PrD4z2BgREmcUVjYCUIhxUCfljRP0h0qKd3KoNw/cA3Wu7XXW7bv4DqZle7CK9Xv4AAAAASUVORK5CYII=",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#333b4d",
+          "foreground": "#fff",
+          "population": 6.25,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#091c74",
+          "foreground": "#fff",
+          "population": 1.66,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#333b4d",
+          "foreground": "#fff",
+          "population": 6.25,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c1afa8",
+          "foreground": "#000",
+          "population": 6.24,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#dce0ef",
+          "foreground": "#000",
+          "population": 2.47,
+          "title": "#000"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#5768a2",
+          "foreground": "#fff",
+          "population": 0.9,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#d19a30",
+          "foreground": "#000",
+          "population": 1.22,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "0AeGCoIPqXAKt8ywpwV1WgcHeHhwgAc="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "life-at-bankai.webp",
+    "path": "images/b9v36ogc/production/42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111.webp",
+    "sha1hash": "42a2824e39df1c2b8d90ff1a17efa8352b770d52",
+    "size": 9652,
+    "uploadId": "K82Bc67sWVTKGpSp7tRBCHYrcke7jjB4",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111.webp"
   },
   {
     "_createdAt": "2026-04-13T06:26:23Z",
