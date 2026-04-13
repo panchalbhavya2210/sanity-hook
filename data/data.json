@@ -575,24 +575,6 @@
     ]
   },
   {
-    "_createdAt": "2026-04-10T09:32:03Z",
-    "_id": "295d1ef3-8939-4626-9c14-6b4aa96462b8",
-    "_rev": "efBnLmUuRXSHnCFraoo6xI",
-    "_type": "homePage",
-    "_updatedAt": "2026-04-10T09:32:48Z",
-    "sections": [
-      {
-        "_key": "70f4a5eb3d76",
-        "_type": "heroBlock",
-        "ctaLink": "https://abc.com/abc",
-        "ctaText": "Contact Us",
-        "heading": "Hello",
-        "subheading": "Hello SUbhead"
-      }
-    ],
-    "title": "Home"
-  },
-  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "0vJl3HsPHyXwhTtFLuurki",
