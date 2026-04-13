@@ -636,6 +636,491 @@
     "title": "Test"
   },
   {
+    "_createdAt": "2026-04-13T11:28:33Z",
+    "_id": "core-banking",
+    "_rev": "48cQ74ab5BPcgD0vBD7Rda",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-13T11:28:33Z",
+    "sections": [
+      {
+        "_key": "pb8o4t5xve",
+        "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "id": "hero",
+        "image": null,
+        "subtitle": "Switch to EasyBankCore® – the next-gen cloud-native, SaaS-based digital banking platform designed to supercharge your core systems, empower your teams, and accelerate growth.",
+        "title": "Break free from legacy barriers",
+        "variant": "split"
+      },
+      {
+        "_key": "v9a5k0bgfy",
+        "_type": "coreInfoSection",
+        "cta": {
+          "buttonLabel": "Explore the Platform",
+          "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform...",
+          "icon": null,
+          "isButtonVisible": true,
+          "title": "Everything at your finger tip"
+        },
+        "features": [
+          {
+            "_key": "6mp1wx76sl",
+            "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform built to transform traditional banking systems with intuitive digital capabilities.",
+            "icon": null,
+            "title": "Plug into the Cloud-Native Core"
+          },
+          {
+            "_key": "pbkc5a5ts3",
+            "description": "Experience immediate improvements in operational efficiency and productivity for your internal teams — without disruption.",
+            "icon": null,
+            "title": "Boost Internal Efficiency Instantly"
+          },
+          {
+            "_key": "07jx5tcp9p",
+            "description": "EasyBankCore® overlays your existing core and intelligently aggregates data from other systems to provide a unified digital experience.",
+            "icon": null,
+            "title": "Overlay & Aggregate Seamlessly"
+          },
+          {
+            "_key": "kb4kqkrmaz",
+            "description": "Add intelligent workflows and powerful digital tools to streamline daily operations across all banking departments.",
+            "icon": null,
+            "title": "Enable Smarter Workflows"
+          }
+        ],
+        "id": "coreInfo",
+        "images": [
+          {
+            "_key": "xdn96dkjl1",
+            "alt": "dashboard",
+            "src": null
+          },
+          {
+            "_key": "axyehsnk31",
+            "alt": "dashboard-1",
+            "src": null
+          }
+        ],
+        "logo": {
+          "alt": "bank-core",
+          "src": null
+        },
+        "titleText": {
+          "title": [
+            {
+              "_key": "1te0m4fpke",
+              "color": "text-black",
+              "text": "The "
+            },
+            {
+              "_key": "v39m52sxpv",
+              "color": "text-brand-600",
+              "text": "Intuitive "
+            },
+            {
+              "_key": "yk2a3zxm0g",
+              "color": "text-warning",
+              "text": "Digital Core"
+            }
+          ],
+          "variant": "h1"
+        }
+      },
+      {
+        "_key": "mx2h6nqr2z",
+        "_type": "bankingSuiteSection",
+        "afterData": {
+          "items": [
+            {
+              "_key": "9tt8yei1cg",
+              "description": "One platform powering every stage of customer journey.",
+              "title": "Unified lifecycle view"
+            },
+            {
+              "_key": "0n6j5smuig",
+              "description": "Connected systems enable real-time collaboration and action.",
+              "title": "Seamless data connections"
+            },
+            {
+              "_key": "x09lggiukf",
+              "description": "Delight users from day one with instant access.",
+              "title": "Instant onboarding & activation"
+            },
+            {
+              "_key": "ry0icn40d5",
+              "description": "AI-driven nudges trigger personalized expansion opportunities.",
+              "title": "Automated growth levers"
+            },
+            {
+              "_key": "75kyjezx2g",
+              "description": "AI keeps growth on.",
+              "title": "Growth becomes default"
+            }
+          ],
+          "logo": "/icons/bank-core.png",
+          "sideIcon": "/icons/acute.png",
+          "title": "After: EasyBankCore®"
+        },
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Feeling caged-in , switch from legacy tech that impedes your ambitions, to a swift, AI-powered Banking Platform that sets you free.",
+          "text": {
+            "title": [
+              {
+                "_key": "h8kfa6pdlx",
+                "color": "text-white",
+                "text": "All-in-One Banking Suite"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "beforeData": {
+          "items": [
+            {
+              "_key": "f5ewm6ega3",
+              "description": "Disparate systems, no single source of truth.",
+              "title": "Disconnected tools"
+            },
+            {
+              "_key": "fma5gpktpc",
+              "description": "Teams work in isolation, delaying decisions.",
+              "title": "Siloed data"
+            },
+            {
+              "_key": "8jigjkyjby",
+              "description": "Lengthy processes hurt first impressions and engagement.",
+              "title": "Slow onboarding"
+            },
+            {
+              "_key": "iwhbn8ueaj",
+              "description": "Inconsistent tactics with low success rates.",
+              "title": "Manual retention hacks"
+            },
+            {
+              "_key": "4iz7jtndd2",
+              "description": "Legacy systems slow progress.",
+              "title": "Stagnation becomes default"
+            }
+          ],
+          "title": "Before: Legacy Problems"
+        },
+        "id": "bankingSuite13",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "zb7vl6s9dr",
+            "description": "Targeted onboarding & segmentation",
+            "icon": null,
+            "title": "Acquire"
+          },
+          {
+            "_key": "z5elx0lw5r",
+            "description": "Fast-track first use with automation",
+            "icon": null,
+            "title": "Activate"
+          },
+          {
+            "_key": "nvmshf051l",
+            "description": "Keep customers with value-driven insights",
+            "icon": null,
+            "title": "Retain"
+          },
+          {
+            "_key": "r9kjpc4h85",
+            "description": "Cross-sell & up-sell at the right time",
+            "icon": null,
+            "title": "Expand"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Connect systems. Empower teams. Fuel unstoppable growth.",
+          "text": {
+            "title": [
+              {
+                "_key": "salbshkx65",
+                "color": "text-white",
+                "text": "Power Every Stage of the Customer Journey"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "wgwjmk4fwg",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "yeq770ds95",
+            "description": "EasyBankCore® is a modern, API-first core banking platform designed to enable financial institutions and banks to deliver innovative, customer-centric financial solutions. Built for scalability, security, flexibility, and rapid integration, EasyBankCore® provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "l5uom2bd4q",
+                  "color": "text-brand-600",
+                  "text": "Digtal "
+                },
+                {
+                  "_key": "x9v74hawa2",
+                  "color": "text-black",
+                  "text": "at Core"
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "o2ywfefztn",
+            "description": "Our API-driven solutions are open banking ready & our ecosystem of Off-the-Shelf partner integrations let you launch innovative & compelling offerings quickly.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "ajvqy65kas",
+                  "color": "",
+                  "text": "Open "
+                },
+                {
+                  "_key": "q424prwgyk",
+                  "color": "text-brand-600",
+                  "text": "Banking "
+                },
+                {
+                  "_key": "0k7yqvfxk3",
+                  "color": "",
+                  "text": "Made "
+                },
+                {
+                  "_key": "ffgb38trwd",
+                  "color": "text-warning",
+                  "text": "Easy"
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "eztcjzqgv1",
+            "description": "Connect siloed systems - from core to CRM to fintech - through plug-and-play integrations that eliminate complexity. Streamline operations with a standardized API layer and pre-built connectors that reduce time-to-market and lower risk. Future-proof your architecture while staying agile. Build faster, launch smarter, and scale without limits.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "wjoei1ad2a",
+                  "color": "",
+                  "text": "Seamleass  "
+                },
+                {
+                  "_key": "yvrlbw2i1j",
+                  "color": "text-brand-600",
+                  "text": "Integration "
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "3zkp7sl0bh",
+            "description": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "bc7x23k6yk",
+                  "color": "",
+                  "text": "Composable  "
+                },
+                {
+                  "_key": "y3ojakjwmb",
+                  "color": "text-brand-600",
+                  "text": "Platform"
+                }
+              ],
+              "variant": "h1"
+            }
+          }
+        ],
+        "hasHeader": false,
+        "id": "platformCapabilities1"
+      },
+      {
+        "_key": "ioy4ygy9px",
+        "_type": "bankingSolutionsSection",
+        "bankingSolutionCardData": [
+          {
+            "_key": "9ejw0kizfg",
+            "description": "Serve Retail, SME, and Corporate customers with personalized banking experiences — instantly and at scale.",
+            "title": "Deliver Personalized Banking Products"
+          },
+          {
+            "_key": "z158xb9zkb",
+            "description": "Our core tech is built for agility and speed — no limits, no friction, just performance.",
+            "title": "Digital @ Core with No Barriers"
+          },
+          {
+            "_key": "q1bmbae1vi",
+            "description": "Access integrated Digital Solutions, Regulatory Reports, Loan Origination & Servicing — all in one platform.",
+            "title": "End-to-End Banking, Enabled"
+          },
+          {
+            "_key": "b359965fdd",
+            "description": "Tap into a rich ecosystem of ready-to-launch fintech solutions embedded with AI capabilities.",
+            "title": "20+ Pre-Integrated Fintech Solutions"
+          }
+        ],
+        "bankingSolutionHeader": {
+          "icon": null,
+          "subTitle": "Power personalized, scalable banking experiences for Retail, SME, and Corporate users, all from a unified platform.",
+          "text": "Unified Solution for Retail, SME & Corporate Banking"
+        },
+        "id": "bankingSolutions",
+        "isTextWhite": true
+      },
+      {
+        "_key": "tjbi343ozc",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "icon": null,
+          "subTitle": "AI/ML Built-In, Not Bolted On",
+          "text": "AI/ML at the Core"
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "d8zvr6utge",
+            "description": "EasyBankCore® is built ground-up with AI and ML at its core not as an add-on, but as the foundation of smarter banking.",
+            "image": null,
+            "title": "AI/ML — Not Just Integrated, Built-In"
+          },
+          {
+            "_key": "k3s6n15o2f",
+            "description": "From Credit Risk Analysis via ML models to UPI/IMPS Transaction Monitoring and AI-based OCR for KYC intelligence powers every layer.",
+            "image": null,
+            "title": "Real Use Cases. Real Intelligence."
+          }
+        ]
+      },
+      {
+        "_key": "tg7udja4o3",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "icon": null,
+          "subTitle": "Massive Scalability with Regulatory Intelligence",
+          "text": "Unified platform for compliance."
+        },
+        "id": "articles2",
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "l81dz39zjq",
+            "description": "A comprehensive, region-specific reporting hub that simplifies the entire lifecycle — from data ingestion to STP submission.",
+            "image": null,
+            "title": "End-to-End Regulatory Reporting, Streamlined"
+          },
+          {
+            "_key": "ehif4wutuo",
+            "description": "Modular, open architecture empowers banks to meet global regulatory requirements with accuracy, speed, and scalability.",
+            "image": null,
+            "title": "Built for Compliance at Scale"
+          }
+        ]
+      },
+      {
+        "_key": "jfd5r70ua6",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "text": {
+          "title": [
+            {
+              "_key": "1gnobg8ukr",
+              "color": "",
+              "text": "Bold "
+            },
+            {
+              "_key": "9zsmg09y64",
+              "color": "text-brand-600",
+              "text": "Ideas"
+            },
+            {
+              "_key": "wap2vmqye1",
+              "color": "",
+              "text": ". "
+            },
+            {
+              "_key": "n8f6fdizmv",
+              "color": "",
+              "text": "Brave "
+            },
+            {
+              "_key": "6brytz3iez",
+              "color": "text-[#EE6832]",
+              "text": "Moves"
+            },
+            {
+              "_key": "79wrl51mhs",
+              "color": "",
+              "text": ". "
+            },
+            {
+              "_key": "ivdszs89lk",
+              "color": "",
+              "text": "Real "
+            },
+            {
+              "_key": "6svhuf9d1t",
+              "color": "text-[#7CC145]",
+              "text": "Outcomes"
+            },
+            {
+              "_key": "wi3bf4vn83",
+              "color": "",
+              "text": "."
+            }
+          ],
+          "variant": "h1"
+        }
+      }
+    ],
+    "seo": {
+      "description": "EasyBankCore® is a cloud-native core banking platform that helps banks modernize legacy systems, accelerate digital growth, and deliver secure customer experiences.",
+      "image": null,
+      "keywords": [
+        "core banking software",
+        "digital core banking",
+        "cloud banking platform",
+        "bank technology"
+      ],
+      "ogDescription": "Transform your banking operations with EasyBankCore® — a scalable, secure core banking platform built for digital-first banks.",
+      "ogTitle": "EasyBankCore® | Modern Core Banking for Banks",
+      "title": "EasyBankCore® | Modern Core Banking Software",
+      "url": "https://yourdomain.com/products/core-banking"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "core-banking"
+    },
+    "title": "Core Banking"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
