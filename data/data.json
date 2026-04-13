@@ -2066,6 +2066,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144.png"
   },
   {
+    "_createdAt": "2026-04-13T06:31:18Z",
+    "_id": "image-53a91c563136934781e6ba86a58c2dc7fbce3a5d-68x68-webp",
+    "_rev": "48cQ74ab5BPcgD0vBCmXwv",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:31:18Z",
+    "assetId": "53a91c563136934781e6ba86a58c2dc7fbce3a5d",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eEIgZgj[00ja9}t7juRjays:00a|ugay.5M{a{xaj[Rj0yf6^*j[zW",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,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",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#382e67",
+          "foreground": "#fff",
+          "population": 8.46,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#11205e",
+          "foreground": "#fff",
+          "population": 0.13,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#382e67",
+          "foreground": "#fff",
+          "population": 8.46,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#90bda5",
+          "foreground": "#000",
+          "population": 5.13,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f3a197",
+          "foreground": "#000",
+          "population": 0.71,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#50a57e",
+          "foreground": "#fff",
+          "population": 1.04,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#d81a14",
+          "foreground": "#fff",
+          "population": 0.09,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "Y2iGDQQqB5iId4F+eAd3cX34B1eHiIB1Vw=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Veraval_Bank.webp",
+    "path": "images/b9v36ogc/production/53a91c563136934781e6ba86a58c2dc7fbce3a5d-68x68.webp",
+    "sha1hash": "53a91c563136934781e6ba86a58c2dc7fbce3a5d",
+    "size": 4826,
+    "uploadId": "NhUTyR00reR09Vjx9BnKw1EmbIEwd47K",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/53a91c563136934781e6ba86a58c2dc7fbce3a5d-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:29:53Z",
     "_id": "image-5f32aff6b929ee48309d65be425f82866b17cadf-68x48-webp",
     "_rev": "0vJl3HsPHyXwhTtFLvrXnG",
