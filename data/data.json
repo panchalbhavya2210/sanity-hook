@@ -2148,6 +2148,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/2c2b502ebfcfdcf2057376ef898e448579059289-68x55.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:35:25Z",
+    "_id": "image-2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5-68x68-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrcbK",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:35:25Z",
+    "assetId": "2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eKFzyjNG0$w_0#|:j[5lbba}16sm$%Sh}q5SbIsSsm-TIobI-9jZJA",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAFHUlEQVR4nJ3Ue0xTVxgA8E4RiK9pNo2PGWbmYy5z+KIt0he3lJaWoUUvIBQKFSqvC4XbQsvrjgKl9EJLBYp0fQQIAs2MCD7mICtm0SwGY+bGXHygU0BYWSp9wJzoWZplf9U9si/5cpLzffkl53w5h0D4l8AwbBmw2wPsdnsAAOAtwv8JAMCyucv6tbOfn9wx33GM5DyTyHRa0iFvX0EYuIpvBz/YVgOALftP2FiHeMV4qyhk+kxq/HNDPO4+zR10t8Rc8xjiRhfNSedf9OerfruAxXpvtG8FAAT8I2bHsIAxfdoHd9WxBdM4a3hey5zyaKFFj5ax5NFBS149a8FriHuyYBZeWhwoz1q42bsN2GzL/xY8hwo2fovFiSbqoG/mNHSvu4kO3E004MIpYF5DBS4NFbhx+usFPde1YBUNL1yqSXx+p2f9G7EOsXjFuSIO+aaCcXZKxXC6tAzg1ka+dOI0xzMV5d5DJeX+IyVlzlF/+KUbpwJv6xGHt7fA+LSvItQ3OD9QVyhcN1QUkzZeSbs910B/5dZBSy599M8zOk7X9yqe5EoJq/hqMbVnvCJ8cq6e/MqjY750Go5fv9MoOIoKWKv8wNpT8NYhlK2YqIUm3I2RwNPMcbuMyYPPTCLeRY1wU604ZbMxk8a3S0gjU0riohePALMa5t3RMm6uAuZs8ANrRPEhQ9KY6sd10BNPIwO4T3/q+PVsYZtj8PSHvrrvWJYsWthIIfGLp58RPR4NGUypqA++RCFUCnM3+YGYKGnLeZRTel9JfzivoQFXS+yMox/VTQ537rJbseBbLXlbbsiZKbdLiddnlGG/ezThYFZNHx+VM8XyVOY7/iCCrO0tiE6+pYi4OVMXsTTfwptx9Mt0j0Y791zD87f7pn+vinp+sprkcKpIr9045cVzLevr8dqYGExID/YHMSzAksc+cKWQYvqpKvyXOR3vmaMX1U2Pdu45J+MfGEFphgeVpElnXdiSp4H4yt1Efepq5zc6TKLdGEZ486sx5PDWd+Uxj41ISEPjNewfH1slTZOXjLu6Ef57AwX0orFS4nczykOL8/XEWZeO2u+xJLBnbdjqN2J/XbxWwt9szqScuCjlNo+1SQonLraGYDAcaMjm7B8qpODjlYft0yqK2aFnH3H1nHjX78PYgeiDKMny9XBpx9sCvGuVELOuK0fRkI7yXEqftjrislm/QYDiq9LTi7e1IcmRw1XHU67XC6CvWmRbWm221bKGgTUy08AabHBspdVqDyZ8ApdvD01S84hC3VFevpGaUmIli7DOQznVPXRUZQnLKW/bxstsPBh1qpUrlJ1hyqo7IvNquhkCuZl0rNTKgBU2VlLlBdaJ6sHw0vYr7xPI8dURe483qkOTdCZmtrFCIO/KECi6TiaWdBenVXbzk6Wt+6KytKkMsUHFLTJX8SWWsrgCE8bNaZdCuSYVEznbDCF9WnZxX0lmwxCVQEuoDDuUhCvCUnXamFwDmlbWlSaQ92QkSLslgoq+owlF5lCWSJ1Ey2zGGKfalFBWSw2Uoa/hZGmlUWJDGSXbikeILQ1RiFmCaAejCSw+upGZqtwflakm8/ObQgVo88cpaPtHyYXGfekVPTszFOYN7JSK3dTE8sN0YS2ZkaEiQWlqYmx67QFupmYfU6wLj8rWk+Gilr0VzT07CTAML+dwkCAO8mfShcJgGIYDMQwLhH0J25ZzOJygg7GxK+l0X823hwX6en0rgiBBvvT1I3p90B+eMW1XJ5gH8AAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#303252",
+          "foreground": "#fff",
+          "population": 0.11,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#042c74",
+          "foreground": "#fff",
+          "population": 0.02,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f68124",
+          "foreground": "#000",
+          "population": 0.39,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#8ca4b4",
+          "foreground": "#000",
+          "population": 0.02,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#fcb474",
+          "foreground": "#000",
+          "population": 0.04,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#6681a4",
+          "foreground": "#fff",
+          "population": 0.37,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f68124",
+          "foreground": "#000",
+          "population": 0.39,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "YIqGHQQlVmd/hoN3iEd/cfQXByiIdYNJVw=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Rajkot_Commercial_Bank.webp",
+    "path": "images/b9v36ogc/production/2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5-68x68.webp",
+    "sha1hash": "2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5",
+    "size": 3418,
+    "uploadId": "z7yuIdIc7MpkT5tr3bp85MzfXBD4fanA",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/2cf91c8d8a4e9143761f2ee19eec7e3dcf95dec5-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:29:32Z",
     "_id": "image-2dfee76a540640cbaa47e4e99687f361c6aff6be-68x72-webp",
     "_rev": "48cQ74ab5BPcgD0vBCmTYk",
