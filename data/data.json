@@ -3465,6 +3465,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/4968dd3eb998832e164afbb92ac80c907779ac17-68x67.webp"
   },
   {
+    "_createdAt": "2026-04-13T08:54:33Z",
+    "_id": "image-4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31-svg",
+    "_rev": "0vJl3HsPHyXwhTtFLvvK2o",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T08:54:33Z",
+    "assetId": "4c4855cd1b3ebe22904d9819c20a6b4028cfc725",
+    "extension": "svg",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "ebHKgYrGE3XSNK{|W=J.jER+9OX5Nts:oxFZxFbbX4R+RVxpS^I[er",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.032258064516129,
+        "height": 31,
+        "width": 32
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAAsTAAALEwEAmpwYAAAE+klEQVR4nIWUfWwURRjGF4r0HwgBYr2K2nZ3ltYr7e22llgQaruzpaQGEqRBTKQEYbctVGIErnd79dREIxhNoYUmEKyUEMmRFIjlbmev7e5C+IbamIAJhPAhX8ftntfd2QJBOHOnJhgMPslk/prfvM87zzsE8ZTUqqoJo2srpt8V2Mq4wHxiCOxBU2QumwJrmwJ732xib5oCqyREVooJ5W/d/KBieqqByCL+S5daQfY9kaENsWylITK9hsj+nBDZ66bI/maKZZcNgR0xRPaoKZYdNpvYnrjAfhET2Lpkc8nUZ2CpoHuiudpTbIiMzxDZ4wmx7JYpsldMkdVMoWy3IZT5DZFZkRA89UYzA421pe8a6zwfG+uYFWZz8av/hjUQWTGhmDIF1muK7Bmzib1qimzUEJjgPcFTHxMZTzxQUmjufL04eaDwDaufnm8dJpcke+l11g9FgnWAnofVPFfqXPkLGeD15pKppsgsjwsexRTZ4YTA7oiLzOJkaznldNMz8E+0x1LIJZZCSTYCezCiolgBp2xEn8eIPo4V8KODQMuDaMHMDDS22sOYAtthiiwyhLJgcg1TYX9TmvMgDNwY0Y2ODHbZiD6JFXAVIzqJZfAIK/QTR6FTWKEfYwQsjMAJC4EW3J/nIkyhdJkheLbHBc/GO02ls+wdZI4VBlW2TG22ETjtIGBgRD9KA/6G/IERGHPScESPOgiMZS5CYH8yWlBBxNcwLYbANKYf5c4OMmf0CLnQkUEPRuAqVsBDjOgnGNH3MQK3HAR+cRSgYwX02TLoxTK1FyNw2EHgnKOAsIXAUuLeKk997EMWJHe5p/0eJjlLBr2OAm5jlLYGHIzAFUumkK1QmzEiG+8rJOcgqtyOkiV2uKB0NAzedBAlYJnqwIhcScQa3a5Y0D0pIdMejKgOWwE3sEI/cBC4bSsUshAZSIbza5MyBU73u11fR+e+FjhWXezXa2dLevWc9ihXIQ+UV9+VwfvJ/gJIpAhivI3IHCtCiw6ihzECNkb0BTtCbR+NUIsS/fl5oWj5FGmwOq9tsLpWUuEGSYe7JRWGAzocklTY97la/dneoUruYqQoNw0cZx8pLLER/b2NMlbPYkQH0rbihwonbzw0Z3KbxlX4Vc4nqZwsafByQIMJSYMPJQ0+ljQ4Jmn8Wb/GtWxQq1xEKERkpcNqIxCxZXDGipCbLHlm0aWtIDuoVk3yqtzbfg12SRr8NaDBsYDOp55ZGrwpafArSecLMsAxmZpjy1S3FQHtRhi40wFtDddl+wdqZks63B7Q+WuSDh9KOm8HNP6apMGRdFWSzl8M6LwhqfCCX+M+8g3UvESkUsS4sf78vFFELrSPkCVPwiA7PUGb1LpX/EPQ69e5i5IGLUnnL0k67POrfHvgKP9eQOXe8R3lWiUVHvKpcI93sHp+uoi/fpowyE5EySnp/Z8Z9x6r9fhVuC+gwRt+Fept6oL2NZEVi/j9W+ZW9uwrqg19O82n8rN8QzWiT+WXZqp7njLR0OB3/iFur3ewblX9gS/n5XUdX+7qHP705W3DLaA77F4fWZDv1TjWP1AzI6hWTXguMHiidlqbxlW2RedXLju4Pj+38yTv6hrZlds5MpDbeX6Lu7tvdmu47kVvFE75X1haDaGGrHRPgiH3RHeXOimn4yzv6hzudG0b3pa79dRid0/IVbe1LjsYJMY/ffBPGK22tGhDKxoAAAAASUVORK5CYII=",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#2e4e26",
+          "foreground": "#fff",
+          "population": 2.02,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#600b04",
+          "foreground": "#fff",
+          "population": 1.11,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f3b726",
+          "foreground": "#000",
+          "population": 9.88,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#88b26e",
+          "foreground": "#000",
+          "population": 0.4,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f3b726",
+          "foreground": "#000",
+          "population": 9.88,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#709454",
+          "foreground": "#fff",
+          "population": 0.4,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f2620a",
+          "foreground": "#fff",
+          "population": 0.4,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "4zuCFYoWiHZLlmIKjKpPsfmXBVmbZ5GFRw=="
+    },
+    "mimeType": "image/svg+xml",
+    "originalFilename": "favicon.svg",
+    "path": "images/b9v36ogc/production/4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31.svg",
+    "sha1hash": "4c4855cd1b3ebe22904d9819c20a6b4028cfc725",
+    "size": 2201,
+    "uploadId": "Pmf9MuLVxWeQQvx7e4bpEli3Bi3wpOXz",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31.svg"
+  },
+  {
     "_createdAt": "2026-04-13T08:52:22Z",
     "_id": "image-4dbe6d8be21a09bcf0fc69fc5c4426d1a3dbabe3-551x246-webp",
     "_rev": "48cQ74ab5BPcgD0vBCujqq",
