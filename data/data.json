@@ -1738,6 +1738,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/239b212029679493cc340653edbf3fb2b45e9624-68x68.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:34:32Z",
+    "_id": "image-28d038a1a1ab82512f32a60c5b10a3ce6b1a7055-68x34-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrc7A",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:34:32Z",
+    "assetId": "28d038a1a1ab82512f32a60c5b10a3ce6b1a7055",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "MFI3Uhs;00RiOr{zayB9kCkWHXWByrozjF",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 2,
+        "height": 34,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAB70lEQVR4nI3R708ScQDHcf6ryuNImQfHcdyd4O540Bqb8YjZ1o85dVDyoxAKafW8rTAHqaDlg9LsNjq3yh9pVJYT5ATGj9VcW40H7btPWz3zyfHZ3k9fTz4m06l1FIXuDA1rLTuP5gD7P8aBFsuhydjRtNrQsDtJ3T2s1i8ofSaj6aKTrrGsdkyfR/VMH3SKRkNyo33Jj7ogoXqOwhFlIVWbQ62KojFYFp20LknakSThkOOgyzK+R2L4OfsErVAIlSE3DqyD5BvDqPscZwx+9nho/cpVrT1zD43pJBq34jiZy+LXGw3tzCxq4TAqgQD56vWqJbEHcE/x0PrtuHayto52bhEHEyFUUyl0lgo4TCZxEAyilk6TcnBSLfl8xuBbRaHLdxLaj6IGPTOH9xd9+Hj9Go4fPcT25VFsjYyg8uA+KafuqqWxMWNQUzz0l1hMa62uQc89xe74BD7Fp1HJPMZeJILd8Unsz6TJdjCkbvj9xuArUaQ3AgHtQyKJnXgCO5EotsJRvLtxE5vRMDanplAMjJIXsldd4Xp4+RnPm1cEobjECyTv4MmySyIFp0AWbSzJuwRScAlkYZD9k7fZ1+dtPZzyUpap5y7x9byV6eao/m6OsnSzZks3Zx7oZs39/1qwMr8LvLi6LMtnTwN/AY0VJhCG6GwNAAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#5b2f29",
+          "foreground": "#fff",
+          "population": 0.35,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#700808",
+          "foreground": "#fff",
+          "population": 0.09,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ef2f3a",
+          "foreground": "#fff",
+          "population": 1.56,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#d4bcb4",
+          "foreground": "#000",
+          "population": 0.04,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#fc7ca4",
+          "foreground": "#000",
+          "population": 0.04,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#8e6462",
+          "foreground": "#fff",
+          "population": 0.17,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ef2f3a",
+          "foreground": "#fff",
+          "population": 1.56,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "osmGC4RXeJZ5hnCHfn/o+AeIeIeHiHc="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Karnavati_Bank.webp",
+    "path": "images/b9v36ogc/production/28d038a1a1ab82512f32a60c5b10a3ce6b1a7055-68x34.webp",
+    "sha1hash": "28d038a1a1ab82512f32a60c5b10a3ce6b1a7055",
+    "size": 1444,
+    "uploadId": "R25ZTs30w8WPtgFCFXPkaGYNj6wx2PCV",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/28d038a1a1ab82512f32a60c5b10a3ce6b1a7055-68x34.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:16:11Z",
     "_id": "image-2a96f11ec3215f93398096a3f15dd462464a0c18-228x82-png",
     "_rev": "2LL9JC6EMX15mEdNnsGoii",
