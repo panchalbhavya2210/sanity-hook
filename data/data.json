@@ -1386,6 +1386,88 @@
     }
   },
   {
+    "_createdAt": "2026-04-13T06:15:02Z",
+    "_id": "image-51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144-png",
+    "_rev": "48cQ74ab5BPcgD0vBCmAzX",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:15:02Z",
+    "assetId": "51a4c3284428e83aa15207eb169b44e4ca0925a0",
+    "extension": "png",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "4G6IBd?w-g%K%O",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 5,
+        "height": 144,
+        "width": 720
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAACxLAAAsSwGlPZapAAABH0lEQVR4nE3OO0tCAQDF8T9y1RSprmY+bmL59mqpeU3LV2nccmiIahHClGgIpKCGIAwKoq1FgqDNwSH9AC0V5ODWZwrFoeE3nAMHDo5kcU7vXGpopm19jbjQ00rBF71LPnGlTiPFxreyWfspl+qDSqk+rBRrg0zu6N0KSS3wnw4wASLPr10lvXfcmvfHO1ZvtCkp6pkYzV6ZfXnVk7nMhvK3arjQqoz4U+cFi1MJAhJgB5yAB/AB7nH38TU8aD60nxLqYdcT37jzr21dW8Lpe4PDv2+aXSwYzT51TPTu6I32XUGYKgCrgAzEgDKwDUTGDz8Hv7HHt341V71o21byvRmX3DFJgRtBdK+DTgZtYjKMg5ACRpaBABCa5PTkqeEPOWk3nPUPShsAAAAASUVORK5CYII=",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#333d64",
+          "foreground": "#fff",
+          "population": 0.54,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#113470",
+          "foreground": "#fff",
+          "population": 0.2,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#b7b9c0",
+          "foreground": "#000",
+          "population": 0.97,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#b7b9c0",
+          "foreground": "#000",
+          "population": 0.97,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#94c2de",
+          "foreground": "#000",
+          "population": 0.03,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#5779a8",
+          "foreground": "#fff",
+          "population": 0.18,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#456bc9",
+          "foreground": "#fff",
+          "population": 0.69,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "C+eBCYAUrvs5UCfmkAQ3So9nhneFx1g="
+    },
+    "mimeType": "image/png",
+    "originalFilename": "bank-core.png",
+    "path": "images/b9v36ogc/production/51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144.png",
+    "sha1hash": "51a4c3284428e83aa15207eb169b44e4ca0925a0",
+    "size": 59552,
+    "uploadId": "NY9YiVGBPpfBzmtpzpl3eZRBTV8fXp4Q",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144.png"
+  },
+  {
     "_createdAt": "2026-04-13T05:24:07Z",
     "_id": "image-a9fb26ac11cec62de767d9d1ed183c119e4a6092-2634x1462-webp",
     "_rev": "0vJl3HsPHyXwhTtFLvqYFr",
