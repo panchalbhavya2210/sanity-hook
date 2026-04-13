@@ -25,7 +25,24 @@ async function main() {
     
     // Fetch all documents. 
     // Excluding some internal sanity documents starts with _ if needed, but *[] gets everything.
-    const query = '*[!(_id in path("_.**"))]'; 
+    // const query = '*[!(_id in path("_.**"))]'; 
+    const query = `
+    *[!(_id in path("_.**"))]{
+      ...,
+      image{
+        ...,
+        asset->
+      },
+      sections[]{
+        ...,
+        image{
+          ...,
+          asset->
+        },
+        _type == "reference" => @->
+      }
+    }
+    `;
     const data = await client.fetch(query);
 
     const targetDir = path.join(__dirname, 'data');
