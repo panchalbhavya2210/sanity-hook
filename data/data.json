@@ -1492,6 +1492,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/2a96f11ec3215f93398096a3f15dd462464a0c18-228x82.png"
   },
   {
+    "_createdAt": "2026-04-13T06:27:09Z",
+    "_id": "image-2b78dedca2a9cd1ea9930ba91f46681d87312e3f-68x21-webp",
+    "_rev": "48cQ74ab5BPcgD0vBCmOuR",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:27:09Z",
+    "assetId": "2b78dedca2a9cd1ea9930ba91f46681d87312e3f",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "D8Hk#6o00|$P^Q}Za|WBWVo1",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 3.238095238095238,
+        "height": 21,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABxUlEQVR4nDWMPW/TQACGPSAkBM1UzIfYaBXH8Z3P9t3Zd/7Cjp06bRNKiwpZmBhYmDp1ytKJgkRFm6qthWidCslJ3BAFtemEGPhdKFQMjx7p1aNX6FBa2mVM3DbNB+/Rwv1thP7RIeThgedVvtf8Zxdx2LyIguWe49hdzss7rvFoizHxHYTiFoTirO0wJn6yrDvCuWcujgjBfU3BGZD0niqjHgBgaFn6IPSCou6v9pei9UGjvjas1ZIR58FYU1gGgH6qKPhSkdgElXkfQ+2YgidCbpvONdZaUyC/nKiVzbFaWfuhweQnI6uXQdAqInu9HzjtIoo2x3HYnNrWi98ItK8g3JjC6us/SHr7C0lvhpqcHFKqCqec49w04sxQV1KqrpwQmBzrMDwzzTj3/WTkma0Jo+0r1311HQTLhWc3BhZunuv6UoFAo0DgeY5B6yvVwz2HykLK+eNvNqkeUqR+sQzQxVDZV9XqiabBjGEycCy7z3l9djRyXS9jjOxzgroYKymEyswHpgaPmCF99I15IZfl27nv38soLaW8PJeWb8joQunIMOY/BMHTncjHuzWPfPa8xdl20/K5/+xRWjqL4d2O79/6C038lcNNPMqLAAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#512e2d",
+          "foreground": "#fff",
+          "population": 3.36,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#940a16",
+          "foreground": "#fff",
+          "population": 0.28,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#512e2d",
+          "foreground": "#fff",
+          "population": 3.36,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#752328",
+          "foreground": "#fff",
+          "population": 0,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e0999d",
+          "foreground": "#000",
+          "population": 0,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#955a65",
+          "foreground": "#fff",
+          "population": 0.56,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c53e46",
+          "foreground": "#fff",
+          "population": 0.91,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "G/qCAoITR/h3d4W3hnBaB1eIeXeAd4g="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "AMCO_Bank.webp",
+    "path": "images/b9v36ogc/production/2b78dedca2a9cd1ea9930ba91f46681d87312e3f-68x21.webp",
+    "sha1hash": "2b78dedca2a9cd1ea9930ba91f46681d87312e3f",
+    "size": 2388,
+    "uploadId": "C6FIRxHHpXRR4HgKpGgYA7k0KXVflSYj",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/2b78dedca2a9cd1ea9930ba91f46681d87312e3f-68x21.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:16:27Z",
     "_id": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
     "_rev": "48cQ74ab5BPcgD0vBCmCcL",
@@ -1572,6 +1654,88 @@
     "size": 27408,
     "uploadId": "nqzAvGp53ITNlfEhEhEMzkCeLS6vSlMv",
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90.jpg"
+  },
+  {
+    "_createdAt": "2026-04-13T06:26:56Z",
+    "_id": "image-421e304bd2af86fd23d22c9428aab474e3b84a8e-63x63-png",
+    "_rev": "0vJl3HsPHyXwhTtFLvrVmB",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:26:56Z",
+    "assetId": "421e304bd2af86fd23d22c9428aab474e3b84a8e",
+    "extension": "png",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eIR_n@xa*Jxao}r?fQkCkCoz*JkCyXkCjFyDayV@j[a|o}aeozfkae",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 63,
+        "width": 63
+      },
+      "hasAlpha": true,
+      "isOpaque": true,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAADxElEQVR4nHVV+1PaaBTlX+9a65Z92cfOup3uKFVreIgFwhsSQCD4QJiK2N/aahQlbwgU08Gzc2+kM7udZiYDk3z33HvPOfcmgMV1f4+558HTdUz7fdjVGsxcDlYmAyudgZ3N8m3lcnCqVUzOzvjs3PM4dnEFfKx7zL98wUxV4Xa6GCkKnHoDtiTBYqAcHEnCuNnEiO5GE6NWi8/OVJVjCcMHXIB9/IiR0uLsdqEIMyVCj0ShC2GY8T3YVGWhCDtfgFOpMqhTrXECiiUMwgrcex7uLi85Ix2wRBHa5pYPlEjCymThlMpwJBl2sQgrn2dQSki3XSgyKGEQVuCrpmF83IZTr8OpVGDEdqFHY7DyBYzqjYcWGxg3FYzozP4+7LIEM5mCHg7D2HsHu1TGuN0GYQUmvR6cWg12sQQz6VdkV6mlBpzaPnNoRKIwYjGYYhqOXOFEtiTDiO9B29rmShdCBeiFLct+ZYLA2cdHRyzIcPstBqvPcLW0jKsnK7j+YxXD0BtYhQJ3RL+6EIYejsAifmUZAZPILkvQt98yKCuoKNAiEajBINTHyxisPsfNyz+hLj/B5dJjDDdCnJA4N1MiV08UUQcBK51mko0dgf02PjiEXS7j5q81qCs/8+Fpr4dp/xzGbhzqo59wHfyFBSNObRJKFGGXSrBSIgJ2Jsu8EU/EI7VLSa6fBnEd/BXu4RHmkwnmd3ds+NsXL3G1vAJzN44xOUOSGYiKYkACs1Jp6EIETlmCe3ICO5PB4GkQg99+Zwq8wQBfDQPT01MMX//DvFKw2z7hGCMSYdWp/YAlpnkSDCHMlY5bBzwV+tYWtPV1VnJUq8Ftt9mP2ptNaDs7PJKsdp6EER58mfJFcWQZ5rsEzESCjbvg5nZtDeqjJdz+/Qo2PScrSTJG+3UGp2JMAqI4mi4ShaTmg+Uym9RIJjFqHcDtdGBEo7h59hzD9Q0Y8ThPhVMoYdo7w+T9e1jZHHuXn1drvm0mvTMGJJX02C4foqGffvgA97gN96QD9/iYO9A2QkwNvScTk3XMZIrFpCFgY3sPo0detHJ5bmfS7/tWOe1h9vkCs0+fmFdtc5Mrouop4fjwkCeHgAmDR+/bcmgqvEWoKtoek26XCafsRL5TLMGIxth/BDi7uIDb7fLIUeydqvrL4b/rS2Fjk99IWS0Uwu2r16wsTZK2HuL/tESm5+dc4bf1NZv56+v7Bdt5qLYCUxT9xUDzuiPAECJcIQupKD9YsP//BGiaT3ilwpuGDMx7MZGEmUiBZ79SYZ497ftPwL/6dWaogjaJZgAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#542b28",
+          "foreground": "#fff",
+          "population": 0.45,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#90081f",
+          "foreground": "#fff",
+          "population": 0.53,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ea979a",
+          "foreground": "#000",
+          "population": 4.23,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#bedcd4",
+          "foreground": "#000",
+          "population": 0.08,
+          "title": "#000"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ea979a",
+          "foreground": "#000",
+          "population": 4.23,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#b06371",
+          "foreground": "#fff",
+          "population": 1.18,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e44b60",
+          "foreground": "#fff",
+          "population": 3.12,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "tFgGDwTomId3iHiPfJh3mJeId4EIF4gA"
+    },
+    "mimeType": "image/png",
+    "originalFilename": "AMCO_Bank.png",
+    "path": "images/b9v36ogc/production/421e304bd2af86fd23d22c9428aab474e3b84a8e-63x63.png",
+    "sha1hash": "421e304bd2af86fd23d22c9428aab474e3b84a8e",
+    "size": 7294,
+    "uploadId": "bPMDQ0jsjjQHx3JZAyDq3nM3gi3YI0nt",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/421e304bd2af86fd23d22c9428aab474e3b84a8e-63x63.png"
   },
   {
     "_createdAt": "2026-04-13T06:26:23Z",
