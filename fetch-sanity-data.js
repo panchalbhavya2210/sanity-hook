@@ -31,7 +31,8 @@ async function main() {
 
     // Fetch all documents.
     // Excluding some internal sanity documents starts with _ if needed, but *[] gets everything.
-    const query = '*[!(_id in path("_.**"))]';
+    // const query = '*[!(_id in path("_.**"))]';
+    const query = '*[!(_type match "sanity.*") && !(_id in path("drafts.**"))]'
     // const query = '*[_type == "page"]';
     const data = await client.fetch(query);
     console.log(data);
