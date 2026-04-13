@@ -2476,6 +2476,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/5f32aff6b929ee48309d65be425f82866b17cadf-68x48.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:33:54Z",
+    "_id": "image-74cb019d6fd87503f77a3d96033dc6050ef05eae-68x68-webp",
+    "_rev": "48cQ74ab5BPcgD0vBCmdBW",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:33:54Z",
+    "assetId": "74cb019d6fd87503f77a3d96033dc6050ef05eae",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eDKJf0of00t60:ozjZaKkCfk00ay7$R*^OWBj[j[WBj[0iay}?t7=Y",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAFnklEQVR4nH2VaVCTVxSGv25Wnf6qaxgKLow6TEEwCgqyLwPIItAIokACIRDLUnBBkIhCWQRUSDAIZPkATSOIsiRgQFFANg0GApSQPQS11dpp60zV0dzTCbZOHTs9M/fPnTnPPec9c9+DYR/GJwQCtpy0Y9Xa3DBbh8pkb7/Gw2EhjdkRIcwkH9+ckK/tQ5xXr7G0xJZhGPYx9j/xka0ttiTaef2aE2GbXbiJWyldmc5FA3ke+IPisGuyClLrcEEQT5y1s7COYh93OGids5/9mtVEDPvMnPsBzNraemlagM3GerJjVM8xrwsTZ4JHlOdC9crywF80VaQ/DFzq77p6ylMla59uvCT4rujY7soLZPuIVD+r9TY2Np+/BzVXZoY10YjUoRNu7YrzkfML/KSXRg4ZtMxI0NYcBAOeAvN4MjzEU9ACL+mFqjpKO1Lk34wnE+Pina3X/V3pW81IHtZrOQmO0cMMz3ZledBTPTvKZGxIAQN+CJTcVCTnZaEp/DCaw9ORAafDI34SPMaT3mjrDj4aOu0tZB3YEk5yWLtqUVPzABghm1xvZruxVecjjIaa/SY9Oxp0TelI18VEiltCJO1pAalECDO9jUjTUY4MjWnoIZ8KRh71jaLqG01PtsfZ/L1bnSwtLZdh4W5WBF6CfYKsJHDUyCG/WuAmgL4xDRn6uCaVrB9Nye7D9JQcZqbkIB8fBcW9m6DtqUW6xnRk4FJBXxv3QloU2M9J2HYgwFxlQfR2R8lR9xIFK8qw0JAM8w10pBdXmZTSO2hSJoXxB1J4IBsHuXwCJicnQD4hA8XYLaTpqDBpOQlIe2Efkpf4q1tT7BkHnL60xdh0H9/hwuAmdS3l2TyfBnP8NDTaWoM6rzZD8xUhCIUC4HLrQSC4BL29PdB/ZwDu9vXCdBcHqbjJoKvZD7NVET+1ZzrVUHau9MAaMgOCpKXhbdp6ynMjToNJTjpqri6CwpP5kJOdA9nZ2ZCVlQkMxglgsZjQgDdC6xUhjF6rgzk8Ay1cSgUtTv9VkucnoO62CMYaMvcE3Sva06ZiRj7XXYyBGV4GEuOVUFFWBqUlZ+BMaRmUlpYCk1UFdXW1cPmyANpbW2HsOhfm8Ew035gKGi7t2Y1cHwHFwyIYY9J9fAcZXk2z5YHPVFV7QcWnI1kXF4nar0JbWweIOsXQ3d0Nkp4bIBaLoVMkBomoDSY7apCGlwoGXjLM1cQ+Fh11Y8ftWumO5YbbbZNku5QomeEGIzcO9HwaUnWeM8kGu9HI8DCMjoyBVCqFkdFhuNl3axE8IPoBzQpPmrQ1MUjDIqGZ8lDVtYwdefG7VmzBol2+smhIcUqYPBs+asRpr8w6apu+Q5pejkk1PoAUUxMgG78PYyODMDp0G4YlLWiypcyk5tGRvv4gqKtJf45/73sbpzrsj91hsQIjEAjLzWYgOe7JVrL2zRv5VNM8nwp6/BAydFYg/WAzmr7TChMSASgkOFJcKUDKukRk4FDAyKe+VlRHqyU57uUFe7cQPayxpeav97HZYXiJ26PGCvza1OyoJ4a62DfaylDQVIaDqjYBzXK+RbO1yUjFjl+8050LAgMr8rW6kvRwON9fcJFsHxJM/GLlOzuztbVdcjzCbsOlVGLi4CnP6zNlAQZViddLVZE7KEu8Ya7UH5SlvqAu9gJ1sQdSFbu/mCn01AzmuAl4ZLsYmivBCvuXObyzL4qP1QY22Y7Ue9SFNc5wGZo65aqbPu3+5MdCj9/MZ6bA7efpU7s19/Nc+kUZjhWs6M2hsa4EKxsMe9++/oGaXzG3X0xy3NVEc4gXpRELeo84cwZz3Vvu5nk29x3ZWdudSmQ0kO1iju/ZSAzetNjmp/8Fe28FEAmE5WYw3Xu9PSNiq1dlslcQO9UvMD+K6JnmbWMbTCSstH47gA9WwF8zWiKcD19yoAAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#3f302a",
+          "foreground": "#fff",
+          "population": 2.36,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#6f3b14",
+          "foreground": "#fff",
+          "population": 0.37,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c9ad92",
+          "foreground": "#000",
+          "population": 2.75,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c9ad92",
+          "foreground": "#000",
+          "population": 2.75,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#fccc7c",
+          "foreground": "#000",
+          "population": 0.04,
+          "title": "#000"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#a4784b",
+          "foreground": "#fff",
+          "population": 2.49,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#d47929",
+          "foreground": "#fff",
+          "population": 1.69,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "J1qGFQQ5B4l5h4B+SOiHj234B1d3iIB3WA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Pali_Urban_Bank.webp",
+    "path": "images/b9v36ogc/production/74cb019d6fd87503f77a3d96033dc6050ef05eae-68x68.webp",
+    "sha1hash": "74cb019d6fd87503f77a3d96033dc6050ef05eae",
+    "size": 4318,
+    "uploadId": "v3RV3WTV8hGjwJdYKWnW1KZmxNJ9NFGc",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/74cb019d6fd87503f77a3d96033dc6050ef05eae-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:28:22Z",
     "_id": "image-850e8700726f39d294c528dd6db66613545aab55-68x68-webp",
     "_rev": "0vJl3HsPHyXwhTtFLvrWmH",
