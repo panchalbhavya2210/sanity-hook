@@ -1046,6 +1046,339 @@
     }
   },
   {
+    "_createdAt": "2026-04-13T05:11:48Z",
+    "_id": "home-page",
+    "_rev": "2LL9JC6EMX15mEdNnsFopM",
+    "_type": "homePage",
+    "_updatedAt": "2026-04-13T05:11:48Z",
+    "banner": {
+      "buttonLabel": "Explore easyTF",
+      "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
+      "image": null,
+      "title": "easyTF"
+    },
+    "hero": {
+      "backgroundImage": null,
+      "title": "Disrupt the market, innovate at scale, and launch digital financial propositions faster with our next generation digital banking and fintech platform.",
+      "variant": "stacked"
+    },
+    "partners": {
+      "ctaButton": "",
+      "headerIcon": null,
+      "headerSubTitleText": "",
+      "partnerList": [
+        {
+          "_key": "partner1",
+          "imageSrc": "/images/homepage/Varachha_Bank.webp",
+          "title": "The Varachha Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner2",
+          "imageSrc": "/images/homepage/Kheti_Bank.webp",
+          "title": "The Gujarat State Co-Operative Agriculture and Rural Development Bank Ltd. (Kheti Bank)"
+        },
+        {
+          "_key": "partner3",
+          "imageSrc": "/images/homepage/Prime_Bank.webp",
+          "title": "Prime Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner4",
+          "imageSrc": "/images/homepage/AMCO_Bank.webp",
+          "title": "The Ahmedabad Mercantile Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner5",
+          "imageSrc": "/images/homepage/Vijay_Bank.webp",
+          "title": "The Vijay Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner6",
+          "imageSrc": "/images/homepage/Panipat_Bank.webp",
+          "title": "The Panipat Urban Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner7",
+          "imageSrc": "/images/homepage/BMC_Bank.webp",
+          "title": "Bombay Mercantile Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner8",
+          "imageSrc": "/images/homepage/Kadi_Bank.webp",
+          "title": "Shree Kadi Nagarik Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner9",
+          "imageSrc": "/images/homepage/Warana_Bank.webp",
+          "title": "Shree Warana Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner10",
+          "imageSrc": "/images/homepage/Mahila_Sewa_Bank.webp",
+          "title": "Shri Mahila Sewa Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner11",
+          "imageSrc": "/images/homepage/Sarvodaya_Bank.webp",
+          "title": "Sarvodaya Commercial Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner12",
+          "imageSrc": "/images/homepage/Kukarwada_Bank.webp",
+          "title": "The Kukarwada Nagrik Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner13",
+          "imageSrc": "/images/homepage/Rajkot_Commercial_Bank.webp",
+          "title": "The Rajkot Commercial Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner14",
+          "imageSrc": "/images/homepage/Ambajogai_Bank.webp",
+          "title": "Ambajogai Peoples Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner15",
+          "imageSrc": "/images/homepage/Sangamner_Bank.webp",
+          "title": "The Sangamner Merchants Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner16",
+          "imageSrc": "/images/homepage/Kalol_Bank.webp",
+          "title": "The Kalol Nagarik Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner17",
+          "imageSrc": "/images/homepage/Vaidyanath_Bank.webp",
+          "title": "The Vaidyanath Urban Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner18",
+          "imageSrc": "/images/homepage/Vasai_Janata_Bank.webp",
+          "title": "Vasai Janata Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner19",
+          "imageSrc": "/images/homepage/Navanagar_Bank.webp",
+          "title": "The Navanagar Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner20",
+          "imageSrc": "/images/homepage/Ashta_Peoples_Bank.webp",
+          "title": "The Ashta Peoples Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner21",
+          "imageSrc": "/images/homepage/SMBT_Bank.webp",
+          "title": "Sahakar Maharshi Bhausaheb Thorat Amrutvahini Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner22",
+          "imageSrc": "/images/homepage/Karnavati_Bank.webp",
+          "title": "The Karnavati Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner23",
+          "imageSrc": "/images/homepage/Pravara_Bank.webp",
+          "title": "Pravara Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner24",
+          "imageSrc": "/images/homepage/Pali_Urban_Bank.webp",
+          "title": "Pali Urban Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner25",
+          "imageSrc": "/images/homepage/Bhagyodaya_Bank.webp",
+          "title": "The Bhagyodaya Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner26",
+          "imageSrc": "/images/homepage/Citizens_Bank.webp",
+          "title": "Citizens Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner27",
+          "imageSrc": "/images/homepage/Tasgaon_Bank.webp",
+          "title": "The Tasgaon Urban Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner28",
+          "imageSrc": "/images/homepage/SNCB_Bank.webp",
+          "title": "Surat National Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner29",
+          "imageSrc": "/images/homepage/Gandhinagar_Bank.webp",
+          "title": "The Gandhinagar Nagarik Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner30",
+          "imageSrc": "/images/homepage/Baghat_Bank.webp",
+          "title": "The Baghat Urban Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner31",
+          "imageSrc": "/images/homepage/Veraval_Bank.webp",
+          "title": "The Veraval Mercantile Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner32",
+          "imageSrc": "/images/homepage/Associate_Bank.webp",
+          "title": "Associate Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner33",
+          "imageSrc": "/images/homepage/Mamasahab_Pawar_Bank.webp",
+          "title": "Mamasahab Pawar Satya Vijay Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner34",
+          "imageSrc": "/images/homepage/Bhuj_Bank.webp",
+          "title": "The Bhuj Mercantile Co-Operative Bank Ltd."
+        },
+        {
+          "_key": "partner35",
+          "imageSrc": "/images/homepage/MSBL_Bank.webp",
+          "title": "Shrimant Malojiraje Sahakari Bank Ltd."
+        },
+        {
+          "_key": "partner36",
+          "imageSrc": "/images/homepage/Ratnaafin_Bank.webp",
+          "title": "Ratnaafin Capital Pvt. Ltd."
+        }
+      ],
+      "titleParts": [
+        {
+          "_key": "pt1",
+          "color": "text-black",
+          "text": "Real "
+        },
+        {
+          "_key": "pt2",
+          "color": "text-warning",
+          "text": "Banks"
+        },
+        {
+          "_key": "pt3",
+          "color": "text-black",
+          "text": ". "
+        },
+        {
+          "_key": "pt4",
+          "color": "text-black",
+          "text": "Real "
+        },
+        {
+          "_key": "pt5",
+          "color": "text-yellow",
+          "text": "Journeys"
+        },
+        {
+          "_key": "pt6",
+          "color": "text-black",
+          "text": ". "
+        },
+        {
+          "_key": "pt7",
+          "color": "text-black",
+          "text": "Real "
+        },
+        {
+          "_key": "pt8",
+          "color": "text-success",
+          "text": "Results"
+        },
+        {
+          "_key": "pt9",
+          "color": "text-black",
+          "text": "."
+        }
+      ]
+    },
+    "productList": {
+      "cards": [
+        {
+          "_key": "card1",
+          "buttonTitle": "Explore Intelligent Core",
+          "description": "Build the Digital Backbone for tomorrow's banks with a Scalable, Secured, Cloud-Native, Unified all-in-one platform to accelerate & future-proof your banking business.",
+          "imageSrc": "/images/homepage/1.png",
+          "route": "/products",
+          "title": "Digital Core Banking"
+        },
+        {
+          "_key": "card1",
+          "buttonTitle": "Experience Omnichannel Layer",
+          "description": "Deliver seamless experiences across mobile, kiosk, tab, super app & internet banking—ensuring customers meet your bank anytime, anywhere, on any device.",
+          "imageSrc": "/images/homepage/2.png",
+          "route": "/products",
+          "title": "Omnichannel Banking"
+        },
+        {
+          "_key": "card2",
+          "buttonTitle": "Explore Financial Intelligence",
+          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
+          "imageSrc": "/images/homepage/3.png",
+          "route": "/products",
+          "title": "AI-Based Analytics"
+        },
+        {
+          "_key": "card3",
+          "buttonTitle": "Explore easyLOMS",
+          "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
+          "imageSrc": "/images/homepage/4.png",
+          "route": "/products",
+          "title": "Digital Lending Platform"
+        },
+        {
+          "_key": "card4",
+          "buttonTitle": "Explore Digi.X™",
+          "description": "Reapprise your digital strategies with Real-time Integrated Straight Through Processing (STP) Digital Channels enabling complete customer transactional information and the ability to offer tailored products to any customer at any time.",
+          "imageSrc": "/images/homepage/5.png",
+          "route": "/products",
+          "title": "Digi.X™"
+        },
+        {
+          "_key": "card5",
+          "buttonTitle": "Explore HR Suite",
+          "description": "Empower your workforce with intuitive self-service portals and payroll automation, designed to align employee experiences with business agility.",
+          "imageSrc": "/images/homepage/6.png",
+          "route": "/products",
+          "title": "People-First HR Tech"
+        }
+      ],
+      "headerIcon": null,
+      "headerSubTitleText": "",
+      "titleParts": [
+        {
+          "_key": "pt1",
+          "color": "text-black",
+          "text": "A "
+        },
+        {
+          "_key": "pt2",
+          "color": "text-warning",
+          "text": "Scalable"
+        },
+        {
+          "_key": "pt3",
+          "color": "text-black",
+          "text": ", "
+        },
+        {
+          "_key": "pt4",
+          "color": "text-brand-600",
+          "text": "Intelligent Digital Banking "
+        },
+        {
+          "_key": "pt5",
+          "color": "text-black",
+          "text": "Stack — For Innovators & Institutions."
+        }
+      ]
+    }
+  },
+  {
     "_createdAt": "2026-04-10T10:01:44Z",
     "_id": "image-9ca64c167fc14d93fbf7f5afe97793d4c0146c52-1333x1000-jpg",
     "_rev": "48cQ74ab5BPcgD0vBAdsfB",
