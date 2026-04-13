@@ -1095,6 +1095,357 @@
     "title": "Core Banking"
   },
   {
+    "_createdAt": "2026-04-13T12:01:30Z",
+    "_id": "digital-signing",
+    "_rev": "48cQ74ab5BPcgD0vBD9SZY",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-13T12:01:30Z",
+    "sections": [
+      {
+        "_key": "qae7zgdfck",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents within EasyBankCore® — instantly, seamlessly, and with full legal compliance.",
+        "title": "PDF Digital Signing Services"
+      },
+      {
+        "_key": "pl8iey0fx",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+          "text": {
+            "title": [
+              {
+                "_key": "mxoh9d4gso",
+                "color": "",
+                "text": "Digital "
+              },
+              {
+                "_key": "pw7z6it1fh",
+                "color": "text-[#EE6832]",
+                "text": "Signing"
+              },
+              {
+                "_key": "vh7bsfda63",
+                "color": "",
+                "text": ", the "
+              },
+              {
+                "_key": "j5kb553qex",
+                "color": "text-brand-600",
+                "text": "Smart "
+              },
+              {
+                "_key": "n715s36pbj",
+                "color": "text-brand-600",
+                "text": "Way"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "gridCols": 3,
+        "id": "articles1",
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "5bta6pei9f",
+            "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents — eliminating impersonation risks and creating a secure trust framework between parties.",
+            "image": null,
+            "isReversed": true,
+            "title": "Authentic"
+          },
+          {
+            "_key": "3ksusibntp",
+            "description": "Once a document is digitally signed, any attempt to modify it breaks the cryptographic seal and alerts all parties of potential tampering. This end-to-end integrity check protects sensitive data and ensures version control.",
+            "image": null,
+            "isReversed": true,
+            "title": "Tamper-Proof"
+          },
+          {
+            "_key": "q6hk5znuvm",
+            "description": "Recognized by Global Compliance Standards Digital signatures comply with international frameworks like the IT Act (India), eIDAS (EU), and ESIGN/UETA (US). They carry the same legal standing as handwritten signatures and are admissible in court.",
+            "image": null,
+            "isReversed": true,
+            "title": "Legally Valid"
+          }
+        ]
+      },
+      {
+        "_key": "61sptvigcy",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite3",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "itlxfs7mw3",
+            "description": "Supports IT Act (India), eIDAS (EU), and global PKI standards.",
+            "icon": null,
+            "title": "Legally Compliant"
+          },
+          {
+            "_key": "o9k1o1n1x5",
+            "description": "Based on PKI infra, encryption, and certified digital certificates.",
+            "icon": null,
+            "title": "Strong Security"
+          },
+          {
+            "_key": "87a88n4t1o",
+            "description": "Aadhaar eSign, USB Token, or Server-based signatures.",
+            "icon": null,
+            "title": "Multi-Mode Signing"
+          },
+          {
+            "_key": "whbqq3g9if",
+            "description": "Full logs of every signing event for transparency and compliance.",
+            "icon": null,
+            "title": "Audit Trail"
+          },
+          {
+            "_key": "b4r9ba5rb5",
+            "description": "Instantly detects changes post-signing.",
+            "icon": null,
+            "title": "Tamper Detection"
+          },
+          {
+            "_key": "e4d9no3hup",
+            "description": "API-ready for banking apps, enterprise platforms, and workflow tools.",
+            "icon": null,
+            "title": "Easy Integration"
+          },
+          {
+            "_key": "obdbgj07yz",
+            "description": "Keeps certificates up to date with automated renewal to ensure uninterrupted signing.",
+            "icon": null,
+            "title": "Auto-Renewal"
+          },
+          {
+            "_key": "vhghfbx3q2",
+            "description": "Applies trusted third-party timestamps to each signature, ensuring validity",
+            "icon": null,
+            "title": "Time Stamping"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "A feature-rich signing service embedded within EasyBankCore® to digitally secure your banking documents.",
+          "text": {
+            "title": [
+              {
+                "_key": "z5qh5iyoup",
+                "color": "text-white",
+                "text": "Enterprise-Grade Security with Seamless Integration"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "wzz683183u",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "ln0mpybyo1",
+            "description": "Eliminate printing, scanning, and courier delays.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "id": 1,
+            "image": null,
+            "title": "Faster Processes"
+          },
+          {
+            "_key": "rguwosz7ev",
+            "description": "Save on paper, logistics, and manual handling.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "title": "Lower Costs"
+          },
+          {
+            "_key": "eqlktxtrts",
+            "description": "Encrypt data, verify identity, and prevent fraud.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "title": "Improved Security"
+          },
+          {
+            "_key": "9dhq3r8ti1",
+            "description": "Use certified digital signatures to meet legal standards.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "title": "Better Compliance"
+          },
+          {
+            "_key": "7u9c7juyff",
+            "description": "Let users sign in seconds — securely and remotely.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "title": "Seamless Experience"
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "text": {
+            "title": [
+              {
+                "_key": "99jxi82ka5",
+                "color": "text-brand-600",
+                "text": "Faster"
+              },
+              {
+                "_key": "fz5a4o5ft0",
+                "color": "",
+                "text": ", "
+              },
+              {
+                "_key": "xyyplci65q",
+                "color": "text-[#EE6832]",
+                "text": "Safer "
+              },
+              {
+                "_key": "hvly6js3w5",
+                "color": "",
+                "text": ", "
+              },
+              {
+                "_key": "y7wdeeyw9v",
+                "color": "",
+                "text": "More Efficient "
+              },
+              {
+                "_key": "drbkesh5oi",
+                "color": "text-warning",
+                "text": "Workflows"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "g3i510h5e8",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "icon": null,
+          "subTitle": "Designed for banks, enterprises, and government bodies — our solution fits right into your ecosystem.",
+          "text": {
+            "title": [
+              {
+                "_key": "6dkv657dpv",
+                "color": "text-white",
+                "text": "Where Digital Signing Makes a Difference"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "hasPadding": true,
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "fsbqvrc4qc",
+            "description": "Digitally sign loan agreements, account opening forms, statements, and fund transfers.",
+            "image": null,
+            "title": "Banking & Finance"
+          },
+          {
+            "_key": "kxmejr98t3",
+            "description": "Sign HR documents, vendor contracts, and NDAs with ease.",
+            "image": null,
+            "title": "Enterprises"
+          },
+          {
+            "_key": "1xc9jf3ies",
+            "description": "Ensure compliance for official filings, legal documents, and approvals.",
+            "image": null,
+            "title": "Government & Legal"
+          },
+          {
+            "_key": "qu4au2jr8n",
+            "description": "Digitally sign patient consent forms, insurance claims, and medical records with full compliance and traceability.",
+            "image": null,
+            "title": "Healthcare & Insurance"
+          }
+        ]
+      },
+      {
+        "_key": "thlp49n2jz",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles3",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "text": {
+          "title": [
+            {
+              "_key": "z5dvahgkhe",
+              "color": "",
+              "text": "Ready to "
+            },
+            {
+              "_key": "tnbp0bhoeg",
+              "color": "text-[#EE6832]",
+              "text": "Transform "
+            },
+            {
+              "_key": "u4dqo3bhx3",
+              "color": "",
+              "text": "Your "
+            },
+            {
+              "_key": "599h9zznpu",
+              "color": "text-[#EE6832]",
+              "text": "Banking "
+            },
+            {
+              "_key": "g93dy6865y",
+              "color": "text-brand-600",
+              "text": "Experience"
+            },
+            {
+              "_key": "32ij70uauo",
+              "color": "",
+              "text": "?"
+            }
+          ],
+          "variant": "h1"
+        }
+      }
+    ],
+    "seo": {
+      "description": "Securely sign PDF documents and automate compliance with BankAI’s digital signing service embedded in EasyBankCore®.",
+      "image": null,
+      "keywords": [
+        "digital signing",
+        "e-signature",
+        "PDF signing",
+        "banking compliance",
+        "legal signature"
+      ],
+      "ogDescription": "Digitally sign documents with ease using BankAI’s secure, compliant digital signing service for banking workflows.",
+      "ogTitle": "Digital Signing Services | Secure eSignature for Banks",
+      "title": "Digital Signing Services | BankAI",
+      "url": "https://yourdomain.com/xcelerators/digital-signing"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "digital-signing"
+    },
+    "title": "Digital Signing"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
