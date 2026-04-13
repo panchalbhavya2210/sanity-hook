@@ -1738,6 +1738,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/a9fb26ac11cec62de767d9d1ed183c119e4a6092-2634x1462.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:25:30Z",
+    "_id": "image-cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3-84x84-png",
+    "_rev": "48cQ74ab5BPcgD0vBCmN1V",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:25:30Z",
+    "assetId": "cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3",
+    "extension": "png",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "epR.=Hof.At7Rjx]ayjYoLRkT3aynyoLaKt6f6agj[R*M{j@xaazX9",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 84,
+        "width": 84
+      },
+      "hasAlpha": true,
+      "isOpaque": true,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD8ElEQVR4nJWU/W9TVRjH+/f4q8HoL0Yk8S2YaGZIJCoQg84E+IHEiAlgJGowBF8CAQM6txEVeelYNlro1s2t7KXr29oNO1i7la1dd0u3de295957TtuPuRfCizgST/IkJ+d5ns95vuc8eTxssJrNJitlnYB/mtMnB7jSFWcuW8IypevbaHk2gtm2YiqZ5+QPQb4/FqDv+k2yGQ1dt3gKjyeATnCj0WRlRcfXk+TQAS9HDndzxRsllVxgbU13/f8LWK83WCqUCfhjnGsL8GdngH7/CNOpNKurZZSyN5TteRLYwLYMSsUFsskYudgohfgIxViI8kyEavEWRrWItA0ajcbTgc6tUgpEtUAtl0CP9mNO9GLHvdjhC1jRXsTkAPpsFLG66MY2/1XpY8C6shG6hrGYREz4sYZ/xo5+g0x9gUweQSaOY413uD4jN4moLrvy/xPolG9ZVYzSLGIyiBU6g4q3oqa3Yif2YMUOIVO7UDf3IxOdiHgfev4mlrn+mPT7wCb1ukLoJYy5GGboPPrYfpbjm1iKvkBl9GtqQ79QmniPQnILlfjniNAf6Okxt8p6Q7qMh8AmqLqNqCxipIYwB0+wPP42PUPPcDbwEsHgQUb7j3MusJ2O4HPMhN9F3DiFEelDlOfvyb7/lJ6Hn2FhrOQQCUfut2iRVzgf3ETrpS184n2Lvd53+ODiGxz1vcjtSAtW+DuMsasYxVmkMh98zn0gSGki1u5g/h1CRn7ETLzJzPjLtF1/lU+7n2dv17McvbqZ4dBWKsn3kcmfEFN/Ie7OPQ50No45ZYv1AuL2OPZYGyq+AzPxOkuRbSRHXyM6splsuIX1ye3I1D5k4jfE7ASikn/Q6I55pKyjVB3bsjGqJYz5OOaYFxX/CjW9DZlswUq0Yib2YE/uRKY/RKaOYYavoGfj6OslN1fJOg7LI4SNKSSGYVOrVqiV5hC3J5CZACp/Apndh5k+gJn+EjtzEFU4jcz1I26FqRYzVNcrbq7DcFgeYdg8NBNRq2CuFDHzGczcBGamB5H+HTFzATPjw1yMY5UXMCsaRq1yL+cRhsfQbfcGy5Ju2UoqVK2KlU5jDA5i9PdhBHwY/X6MwSAiEsXWNJSU7lMpVXdzHZjD8jgD0zmwLUe2RfluDe1OCS02jXZtEM0XRPMNoPkH0PqG0cYSlLJLaMWKG2volpvrMByWx5ltzriyLEUhv8ZIaBZ/T5Lu82G87cNcahvi8q9DXHKsfZjL50bpvhjD3zvFyPAs+cVVF+YwHNYjjV3nTm6F675p2s7e4PCBLlp3dbJ7Rzsf7exgt2M7Ovh4VyeHPuui7UyIa1enyM2XkVI96MN/ADKOnbiVevYHAAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#188046",
+          "foreground": "#fff",
+          "population": 0,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#1c904f",
+          "foreground": "#fff",
+          "population": 1.18,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f6c90c",
+          "foreground": "#000",
+          "population": 4.79,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c699ba",
+          "foreground": "#000",
+          "population": 0.94,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e1ba84",
+          "foreground": "#000",
+          "population": 3.51,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#625aac",
+          "foreground": "#fff",
+          "population": 0.06,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f6c90c",
+          "foreground": "#000",
+          "population": 4.79,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "txgKLwL4aHd6h3d5h4d3WJh5d3IHCHUE"
+    },
+    "mimeType": "image/png",
+    "originalFilename": "Varachha_Bank.png",
+    "path": "images/b9v36ogc/production/cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3-84x84.png",
+    "sha1hash": "cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3",
+    "size": 9691,
+    "uploadId": "rei9RFULRRHeUBiE182Za251uIqyAIsK",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/cd2cf62f5ec9fb7ebc1e1ae57984ee9804d857f3-84x84.png"
+  },
+  {
     "_createdAt": "2026-04-13T06:15:51Z",
     "_id": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
     "_rev": "0vJl3HsPHyXwhTtFLvrPWW",
