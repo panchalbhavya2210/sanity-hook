@@ -25,25 +25,9 @@ async function main() {
     
     // Fetch all documents. 
     // Excluding some internal sanity documents starts with _ if needed, but *[] gets everything.
-    // const query = '*[!(_id in path("_.**"))]'; 
-    const query = `
-    *[!(_id in path("_.**"))]{
-      ...,
-      image{
-        ...,
-        asset->
-      },
-      sections[]{
-        ...,
-        image{
-          ...,
-          asset->
-        },
-        _type == "reference" => @->
-      }
-    }
-    `;
+    const query = '*[!(_id in path("_.**"))]'; 
     const data = await client.fetch(query);
+    console.log(data)
 
     const targetDir = path.join(__dirname, 'data');
     if (!fs.existsSync(targetDir)){
