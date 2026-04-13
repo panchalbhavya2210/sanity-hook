@@ -577,15 +577,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "2LL9JC6EMX15mEdNnsGlDg",
+    "_rev": "2LL9JC6EMX15mEdNnsGpfe",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "0vJl3HsPHyXwhTtFLuurki"
+        "rev": "2LL9JC6EMX15mEdNnsGlDg"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-04-13T06:09:45Z",
+    "_updatedAt": "2026-04-13T06:16:31Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -616,7 +616,13 @@
             "_key": "4e402de5-2670-438e-afb2-bff53f58e417",
             "alt": "Easy Bankcore",
             "href": "/products/core-banking",
-            "icon": "/icons/bank-core.png",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144-png",
+                "_type": "reference"
+              }
+            },
             "type": "image",
             "width": 172
           },
@@ -734,7 +740,13 @@
             "_key": "429c9ed7-d503-4e37-9bc9-9e10f5971cea",
             "alt": "Digi-X",
             "href": "/xcelerators/digi-x",
-            "icon": "/icons/partner-digi-x.png",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
+                "_type": "reference"
+              }
+            },
             "type": "image",
             "width": 115
           },
@@ -742,7 +754,13 @@
             "_key": "e7aa8acd-0911-49dd-8cee-975fcea9bccc",
             "alt": "Mobipro",
             "href": "#",
-            "icon": "/icons/partner-mobipro.png",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2a96f11ec3215f93398096a3f15dd462464a0c18-228x82-png",
+                "_type": "reference"
+              }
+            },
             "type": "image",
             "width": 114
           },
@@ -750,7 +768,13 @@
             "_key": "0c57817f-2656-47b5-adda-faa4dd4eaa72",
             "alt": "EasyNetPro",
             "href": "#",
-            "icon": "/icons/partner-easy-net-pro.jpg",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
+                "_type": "reference"
+              }
+            },
             "type": "image",
             "width": 131
           },
@@ -1466,6 +1490,88 @@
     "size": 6933,
     "uploadId": "bSwYf5QdMftuEVy92Cs00Gv8cnNWvEdI",
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/2a96f11ec3215f93398096a3f15dd462464a0c18-228x82.png"
+  },
+  {
+    "_createdAt": "2026-04-13T06:16:27Z",
+    "_id": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
+    "_rev": "48cQ74ab5BPcgD0vBCmCcL",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:16:27Z",
+    "assetId": "3d3571786fab9c4375b42c22d2f91375a6f9b606",
+    "extension": "jpg",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "DEAngR~ot6t89HRqxtt7RkNG",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 2.911111111111111,
+        "height": 90,
+        "width": 262
+      },
+      "hasAlpha": false,
+      "isOpaque": true,
+      "lqip": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAgEAABBAIBBQAAAAAAAAAAAAABAAIDBBESBQYhQVFx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMGB//EABkRAAMBAQEAAAAAAAAAAAAAAAABEQISQf/aAAwDAQACEQMRAD8AgOs8EemalZlci7I7M8uvcY9FTDV4vU6yTk/ERaAsc2Nk09XwlTRtZIQ12W+ERE1AH//Z",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#44744c",
+          "foreground": "#fff",
+          "population": 0,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#081889",
+          "foreground": "#fff",
+          "population": 0.14,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#144cb4",
+          "foreground": "#fff",
+          "population": 52.16,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#bcd4c4",
+          "foreground": "#000",
+          "population": 0.01,
+          "title": "#000"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#82b1ef",
+          "foreground": "#000",
+          "population": 0.09,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#5c6ba8",
+          "foreground": "#fff",
+          "population": 0.46,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#144cb4",
+          "foreground": "#fff",
+          "population": 52.16,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "XKQFEoJ9SDOFeQeFfYXQVwg="
+    },
+    "mimeType": "image/jpeg",
+    "originalFilename": "partner-easy-net-pro.jpg",
+    "path": "images/b9v36ogc/production/3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90.jpg",
+    "sha1hash": "3d3571786fab9c4375b42c22d2f91375a6f9b606",
+    "size": 27408,
+    "uploadId": "nqzAvGp53ITNlfEhEhEMzkCeLS6vSlMv",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90.jpg"
   },
   {
     "_createdAt": "2026-04-13T06:15:02Z",
