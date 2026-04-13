@@ -610,6 +610,32 @@
     ]
   },
   {
+    "_createdAt": "2026-04-13T11:25:37Z",
+    "_id": "9172f9d6-8a9e-4620-8af2-7a018a4d9f60",
+    "_rev": "2LL9JC6EMX15mEdNnsQrNK",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-13T11:25:54Z",
+    "sections": [
+      {
+        "_key": "5c1863e3d328",
+        "_type": "heroSection",
+        "cta": {
+          "_type": "ctaButton",
+          "variant": "primary"
+        },
+        "id": "hero",
+        "subtitle": "Test",
+        "title": "Test",
+        "variant": "stacked"
+      }
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "test"
+    },
+    "title": "Test"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
