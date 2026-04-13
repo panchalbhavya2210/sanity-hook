@@ -1410,6 +1410,88 @@
     }
   },
   {
+    "_createdAt": "2026-04-13T06:33:20Z",
+    "_id": "image-141e67ced42d64f9ddb2faa16af46855cdba2e87-68x20-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrbN2",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:33:20Z",
+    "assetId": "141e67ced42d64f9ddb2faa16af46855cdba2e87",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "DB1qQKjVjEkDfOX=i]jDfkfP",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 3.4,
+        "height": 20,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABz0lEQVR4nBXIa0/aYBiA4SdlLazty0tbOgk6IBM5DIrFMiWAlGOLBYoMDFsGjbq4gJsyEmBzc5IYMhbd9psNH+4P1w1sUBbZkJpDkXLDtZPdxVKOg9yVaC9Ot0H7HoSje4nUfilM9SZO6rcx+nil0O3lHm0sZcr4EwV1EQB1EaTy8yikrU1wxtUU9eZdm0r1O3bpbYVRWtKzw1HGVv5ZA2PVAvP/kDBWE0K7teBoYUHz31cw/46h/jCCxuMQ9McBVB9OQVudQ35iAEoafTI3OoPit3Ny/3JAKyd16mBgwOFYh/KPFuh3n4nKbEyqX/qEOrmA0s0cCvM5FKdTqN7NQP99DeXlNVG6H0PuagDOZGPoSJ9ZZH72yZ65vMC7jWMmphfs8XbVlmjWqGTbpOS6wUiVMiW1u6TS+0js9U4JuWvZlN6JTfmgUSnLdOxb76m4WQdXONtkE1qHSXX6rGx2uVA6y22FJeSLZfBGuODyBPLohT+NNgIHzGa4QPsTNcaXKD33S2naG0zyvCeKvcEkWlvckcHh3X7JbIUl2icprE9+TYt+jyiKHrfbHeI4LiYIQsSNUIgVhAjDcLH1wxi/QggJPA/OdRzHYYyxi+d55xNBMGBE1L0MmAAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#2a4654",
+          "foreground": "#fff",
+          "population": 1.54,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#064579",
+          "foreground": "#fff",
+          "population": 1.1,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#405c76",
+          "foreground": "#fff",
+          "population": 1.54,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#145384",
+          "foreground": "#fff",
+          "population": 0,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#8bc2ed",
+          "foreground": "#000",
+          "population": 0,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#405c76",
+          "foreground": "#fff",
+          "population": 1.54,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#18649f",
+          "foreground": "#fff",
+          "population": 0.74,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "kYWBCYIUdXdvdoKbkLwJyXeJaYeQV0k="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Citizens_Bank.webp",
+    "path": "images/b9v36ogc/production/141e67ced42d64f9ddb2faa16af46855cdba2e87-68x20.webp",
+    "sha1hash": "141e67ced42d64f9ddb2faa16af46855cdba2e87",
+    "size": 2374,
+    "uploadId": "bv8zwDUKtYB7qIECxr2OPfJQMxy4dsKA",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/141e67ced42d64f9ddb2faa16af46855cdba2e87-68x20.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:31:49Z",
     "_id": "image-239b212029679493cc340653edbf3fb2b45e9624-68x68-webp",
     "_rev": "2LL9JC6EMX15mEdNnsGyko",
@@ -3458,6 +3540,88 @@
     "size": 11720,
     "uploadId": "5dWBApseYrfJX5siIGpHnu7hB0Uev02I",
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68.png"
+  },
+  {
+    "_createdAt": "2026-04-13T06:33:05Z",
+    "_id": "image-e8af139a1b104240254dbf8a83465eb7b8a2f713-68x66-webp",
+    "_rev": "2LL9JC6EMX15mEdNnsGzoI",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:33:05Z",
+    "assetId": "e8af139a1b104240254dbf8a83465eb7b8a2f713",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eDE.-Qxv00t7MaxufiofofRj0Jj=H?M_toM{j[M|RkxaH;WByGs;i~",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.0303030303030303,
+        "height": 66,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAFIUlEQVR4nHWU2U9UBxTGb9qm0TQmTX3oS003H5q2ahQEFCoCAirrrMzc2e5c5s56Z7lzhwEcmI1hGWBYBgRHjAguFEFRQdCCDFAU7EYaU40+VZsmJhpfNCFg9Gu0aTVt/P6AL+fknN+PIF6LREK8bbdved9ozP6aUpUIabW4ymzK6XFyWYMcV9xrMmj8Wq1aamBztnDclx/4fMQ7xJvi8xFrzOaUjUqlWEbTbCdFheJicf1NoSB4V6mq/5NUNt/NK2q4JZEH5xgTF9MZ5Gq9Pv0LjktZ+78yjvtordWauFVGSqvEospZhondL688v8LaR8Doh+Hgx6EzjEAo7YdWf3KVtfc+VFPBBZmMDun12ck8/+F7r0/2LselbKIodUgo9t4okR1etjtGEQjF4Q9eQaVnEpVVV+B0XYaZHQVfNgGXaxwU1b8ilTbcZgzmSEVF1naf7+M1LwtNzsQNpaVKTq2uXaLovpVS3Rk4XRMIN86iq3sRbdEFhJvm0dGxiK6u6wiHZ8E7x6ChhkDrBlZZa/SmzVZa7TAlfubzEW8RNJNbqFRXjhrNJ544+XHw/DjCjfM4duxHdEanwbJnQSoG4XaNovfwPAZO/ozm5jnYbBdg5y6CtX27rNJ4ppXK/GK6bP06Qq8vaJMpGu7YHOefV1RMwu+fRl3DDOq8Q/CaIhDkhpGS3AJJXjMCtjY01ZxBJDKPYCAOjhuHxXoOtC56jzFoasrLt3xCWIzqRa320CO3+zv4g9MI1sZfrAKDpBaNlAXWYhcKM/ywCZ1oKTXApfDCZh5EQ8P3KHdfQkXlFKqqhx87+YrTLJeXRJiNjgcGpnfF45lEU2QW9U0zEEp6odjnRRejR1jFwlzgQptGhzM2GRqUBpg0h9DafhWh0Azc5Vfgcg8/NZoCcaNRlUswOteyTB57xhjOorZuCo2RWQhEx1GUGUITZUGjhoVT4MBBrRbnbFK0UVpY6YPo6LqGUF0cMvI0Coq6n4kk3msMQxcSWi37ICu7eSVrzxFY2BHU1c9CLB1AfkY9gkobQkoLeKEd9Uo9+kwqhFV6WKhDaG6Zh81xAbvSY0hNa3xaLHDHLRZdLkFR8sW0bwKPtiVEIRSdQCA4A951CbS8Gx5lGbxyFpyIg6GoDB4FD39pABWO0/AH4hBLjiMhoQM7U2sfS6XGIZYrTiJoOr91d8aBO9sSWp6np/fA5hhDrOcnHO6aQ9OBo/AzNbBK/VCK2uFk+9HePIFo21VYrWPYnRHDtoRWpO3y3pPL5TU8v/lTgmHyCvMKraM7dtQ92b69E/mFfajyTeLUwK8YGvgF7U0TqHIPoS40haPHltDbt4Sq6ikIBCeQlHwQScnh5dy99r//kF6/jnA6EzeQpIjLyixbSk1tXcnIPIL8gj5Y7RfQ0nYV0a7raI1eQ2f3D2iNLoBzjqFYcBw5OUeRmta+mpF54GaJXF5t1e/8/CUpL1i26BM2SUWy0L691TdysjuWM7NikCsGYeMuvmSXL7sMV/kkuLIJUPQw9mT3YHdm20rO/urb0hKqxWTb9Yrlf2xjpHdsJWVkVX5e2Wx+YeP9Ul3/isV69vmLy5stozBbx2Cxj0BvPLWaX9T8MHe/a0GmpEJW654Unt/8yjb/WkdDrDGXbt1IkpISUmXqIFWBOKmK/KahWn7XaFr+IBWRuyVk5BapCs0pVOaYUi1Qs843+PC/xlbrcr9SqUih3cl4vB5FzOsRnaxwi3qMRqlPIRNJtdo3G/svWpzgfykcI3gAAAAASUVORK5CYII=",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#41336d",
+          "foreground": "#fff",
+          "population": 3.34,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#0c2c84",
+          "foreground": "#fff",
+          "population": 0.02,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#41336d",
+          "foreground": "#fff",
+          "population": 3.34,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c6c89a",
+          "foreground": "#000",
+          "population": 2.76,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#cce464",
+          "foreground": "#000",
+          "population": 0.04,
+          "title": "#000"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#9e525a",
+          "foreground": "#fff",
+          "population": 0.09,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#cc8424",
+          "foreground": "#fff",
+          "population": 0.07,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "ngaCBYIrB1d9iocYCAaNdYEHCVh3eHB1Vw=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Tasgaon_Bank.webp",
+    "path": "images/b9v36ogc/production/e8af139a1b104240254dbf8a83465eb7b8a2f713-68x66.webp",
+    "sha1hash": "e8af139a1b104240254dbf8a83465eb7b8a2f713",
+    "size": 4584,
+    "uploadId": "hwN2dNtzM0K08DvBgN2dzx1qvbKqMPDG",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/e8af139a1b104240254dbf8a83465eb7b8a2f713-68x66.webp"
   },
   {
     "_createdAt": "2026-04-13T06:29:01Z",
