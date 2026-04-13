@@ -1048,24 +1048,27 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "2LL9JC6EMX15mEdNnsFopM",
+    "_rev": "2LL9JC6EMX15mEdNnsFpc0",
+    "_system": {
+      "base": {
+        "id": "home-page",
+        "rev": "2LL9JC6EMX15mEdNnsFopM"
+      }
+    },
     "_type": "homePage",
-    "_updatedAt": "2026-04-13T05:11:48Z",
+    "_updatedAt": "2026-04-13T05:13:38Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
-      "image": null,
       "title": "easyTF"
     },
     "hero": {
-      "backgroundImage": null,
       "title": "Disrupt the market, innovate at scale, and launch digital financial propositions faster with our next generation digital banking and fintech platform.",
       "variant": "stacked"
     },
     "partners": {
-      "ctaButton": "",
-      "headerIcon": null,
-      "headerSubTitleText": "",
+      "ctaButton": "How We Made an Impact",
+      "headerSubTitleText": "Empowering Financial Institutions. Across Borders & Benchmarks",
       "partnerList": [
         {
           "_key": "partner1",
@@ -1307,7 +1310,7 @@
           "title": "Digital Core Banking"
         },
         {
-          "_key": "card1",
+          "_key": "card1_deduped_1",
           "buttonTitle": "Experience Omnichannel Layer",
           "description": "Deliver seamless experiences across mobile, kiosk, tab, super app & internet banking—ensuring customers meet your bank anytime, anywhere, on any device.",
           "imageSrc": "/images/homepage/2.png",
@@ -1347,8 +1350,7 @@
           "title": "People-First HR Tech"
         }
       ],
-      "headerIcon": null,
-      "headerSubTitleText": "",
+      "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights",
       "titleParts": [
         {
           "_key": "pt1",
