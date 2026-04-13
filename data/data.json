@@ -1984,6 +1984,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144.png"
   },
   {
+    "_createdAt": "2026-04-13T06:29:53Z",
+    "_id": "image-5f32aff6b929ee48309d65be425f82866b17cadf-68x48-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrXnG",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:29:53Z",
+    "assetId": "5f32aff6b929ee48309d65be425f82866b17cadf",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "VZRy+]kCR*ofazxuWBayazaz~VoLoLoLj@ofs;ofj[j[",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.4166666666666667,
+        "height": 48,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwElEQVR4nM2T227aQBRF/dX9gP5Cpf5A20BCUimVolRt1JcqwQSogVDuxgaMubl4fAEMvqzKwAMvfamo1JHWnK0z0hppdEbifCsEhPT/C4NdyGYXEhzZRRFxkvy9sDd3qY0sFGNGc75g4vkEUUTCQZruaT5UOL3rtB/HhHEqfNRtMiWdN3mFbKeGspgzFGvGYs3MCTDtDZq1om/5DJZrpu6Whbdj4W4xRXrm79GtVWjYgZBKhs+7osGr+zxvX2S+myO+debcKgafqxPuyiY5eUgmr3NVNLirz3loWHytL/ikjLkoaGQLOpfPRvixPBPSz+mam8qE118ULhp1CuaEh+aUS1nnWh5wW0jRuM53+fDYI5Pvk5M1rmSNbL5L5qlDTlbJynr4/mkgJNXaUB4K7hsmz6MFHUvQMn9RUSfUehOa+oyWZvKiDii1VYoNlVKjT7ml8aPdp9LuU+0OqHSHoaKOhWT5W+ZuwNje7N9suQpw1xscb4XrrfD9Na7nIVyHpVhi2zZCCISwEc4xOw62I0LH94S0i2L2hIcaxsl+bOL4lPhI9IccE0VRGMXRv/kp7jlIkmQJGKmwfg6SJKkC8m/s+ilrYhID9gAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#404446",
+          "foreground": "#fff",
+          "population": 2.54,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#0d4962",
+          "foreground": "#fff",
+          "population": 0.86,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#404446",
+          "foreground": "#fff",
+          "population": 2.54,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#97cccd",
+          "foreground": "#000",
+          "population": 0.21,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#8cdcfc",
+          "foreground": "#000",
+          "population": 0.03,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#6092b5",
+          "foreground": "#fff",
+          "population": 0.18,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#437b98",
+          "foreground": "#fff",
+          "population": 1.07,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "+/eJDIIPd3d4d494eIf3ZneflvZ4CIePAA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Ratnaafin_Bank.webp",
+    "path": "images/b9v36ogc/production/5f32aff6b929ee48309d65be425f82866b17cadf-68x48.webp",
+    "sha1hash": "5f32aff6b929ee48309d65be425f82866b17cadf",
+    "size": 1512,
+    "uploadId": "sxw8zcW7gwRLGLTDgfC5BbVfLI6STgvG",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/5f32aff6b929ee48309d65be425f82866b17cadf-68x48.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:28:22Z",
     "_id": "image-850e8700726f39d294c528dd6db66613545aab55-68x68-webp",
     "_rev": "0vJl3HsPHyXwhTtFLvrWmH",
