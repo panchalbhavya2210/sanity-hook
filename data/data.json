@@ -4116,6 +4116,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/fd4c537a405a46faf9829aadf5c8feaeafc1848a-68x53.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:35:07Z",
+    "_id": "image-fec854b8c1fc543d7dc5ca88b69494878b30ea45-68x68-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrcN8",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:35:07Z",
+    "assetId": "fec854b8c1fc543d7dc5ca88b69494878b30ea45",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "edR-e[MJyqwfyXofWBbbj[njx[x]Q.R5k=sosooLaeSzqEg3iwpHVs",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAEeklEQVR4nHWU+08UZxSG+cNq+kMbm0Yb27QKiNh6SbFVYiFWKUUDFVhAKlhuSsVWQUQEL4iYykUUpOIFXGutFqggLMsue5nb7szszDdPs7MbrW16kjeTfDl55pzve8/JELaFo8ZwglHslTC2P4yV/IZlHNPCDQewBagGzqqM8KdzV8KIQBQR0RBGIpksZdiKhnX/OeaFMcz2YcwzwxjtwxjX72P7QiCEC3OCEtbEM4wL4+gdNzE6hlPquo0x/hQrpKSAYjmEcWYYreAkWl4TWl4jSl4DWkUX5vQsjpFABCXMG1PumbKnGXlXA2peA+qXTWilnegDD7BW5TRwIYDe2I+67RhKVg1yVhXRTR6k/W2YE38g/BGMES9qWSfSp7VIWZVIWRVIm6uR85uJ/3QD6/kStu7ej5RhLwSINVxF/qye8KYqAhsrWfzoO3x7W1AH7qEPPkKpPE9021HkTA+yC/Mg7W5CbR3A+n0eJ24ibJECJhYCRBv6WMo5wsyGMrzrDzG5tpjpLdX4v+9BKj9HdEc9UlZVCpjtQdr1A1pTP+bjFzgxHYQNtpUCGi+DvGy8wr1PDjP0zn6uvl3IlTWF3F5/kIWddUS21yFlV6erq0L6/Bha/SUSD2cQmo7jCBz34ewUUA9KzJwd4Vp2Be1v7aV9zVf0vVfE9MZylnNrCG85QmRzNVJuLcruZrRjlzEnn+EocRwn6ScHHAchhCXcO9QTrEzNMVbbzeUv6vglvxHvwXaWK7qJlHcRKe0gXNqBXNND/NwoCe9fCCXmwkTKpS5TCFLA5E/MSIzVB7Ms9E0y3zPBYu9dfD2/4u+ZYOXCOKu9Eygjj0j8uYSj6unKUn7/R6RtY9nYixGMoSco7WP4Gq4zffg8I9+cYqiojTvFP/Nb2VkWW66iDD7EWljFMdIT9GakbSNpGINelPJuogVt+Pe08ij3KFfWfUvnu1/Tv7aYextKmd1aQ7CoDa1zlMTM8uux/A9wOeSaU9rVQHRLDdHcWnyZ1Ux9WMbQB4cYf7+EZ+sO4fv4MKGcKqSCE8TOjpCY8yOS0Fd9J30opAx7MYB2vB9pRx3RLA9SpofopkqCO+uZLznNXH4zy9keQpmVSNke5JwalMJW4l2j2PMBcHfC/wBdmAutRC1sReu9g3x+lGhRm1u9lOVByaxCyalB3XcSo3cMsRQEy3ZfOdXyywCxln6k7a+B0cxKlANtGHeeYM35MHpuo+77EXlzNUrS4EnlHkEpPoXedxexHEEk0sa2FgPEjv8LmJUGTj5FaDHECz9G502UghNuy0mgkhzFrbWoJWcwrj/EXola2LaUYftD6J03UQ+ccleTkp9UE1p1N4nHc4iEiWOaWLM+YkloyWmU5OLIb3al7DtJrGUgOdeWrZtShlA0kfDOCf3apIhfHHOlXxoTxi2vsFbCQtiWENhCGIaw5leEfssr4n0Tr3LjF8eFPjglEnN+U5iJSAa2bYiYbtgRxbBDsisRlg0hawYJywBey7INocbfyHXzo6oh4oYmbBH8G7ZYRqFbUMlFAAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#7b1d4d",
+          "foreground": "#fff",
+          "population": 0,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#96245e",
+          "foreground": "#fff",
+          "population": 0.09,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f45588",
+          "foreground": "#fff",
+          "population": 7.85,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#bcbcbc",
+          "foreground": "#000",
+          "population": 1.41,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#f45588",
+          "foreground": "#fff",
+          "population": 7.85,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#a54771",
+          "foreground": "#fff",
+          "population": 5.38,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#fc548a",
+          "foreground": "#fff",
+          "population": 5.41,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "coiKDQgP4dh4iLuE+Ax26nBoDw+Lh3S4SA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Kukarwada_Bank.webp",
+    "path": "images/b9v36ogc/production/fec854b8c1fc543d7dc5ca88b69494878b30ea45-68x68.webp",
+    "sha1hash": "fec854b8c1fc543d7dc5ca88b69494878b30ea45",
+    "size": 1664,
+    "uploadId": "67OtxzngkgfyJjwqAfaZfRg4alFtYuvD",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/fec854b8c1fc543d7dc5ca88b69494878b30ea45-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-10T11:05:55Z",
     "_id": "page-core-banking",
     "_rev": "48cQ74ab5BPcgD0vBAiN1F",
