@@ -1095,48 +1095,48 @@
     "title": "Core Banking"
   },
   {
-    "_createdAt": "2026-04-13T12:04:59Z",
+    "_createdAt": "2026-04-13T12:06:03Z",
     "_id": "digital-signing",
-    "_rev": "2LL9JC6EMX15mEdNnsS6c4",
+    "_rev": "48cQ74ab5BPcgD0vBD9yBE",
     "_type": "productPages",
-    "_updatedAt": "2026-04-13T12:04:59Z",
+    "_updatedAt": "2026-04-13T12:06:03Z",
     "sections": [
       {
-        "_key": "62neal3h2c",
+        "_key": "dm4i2i8bsp",
         "_type": "heroSection",
         "id": "hero",
         "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents within EasyBankCore® — instantly, seamlessly, and with full legal compliance.",
         "title": "PDF Digital Signing Services"
       },
       {
-        "_key": "amzj3bwvw9",
+        "_key": "e5pd4utliu",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
           "text": {
             "title": [
               {
-                "_key": "r92021d3z",
+                "_key": "873pigqggv",
                 "color": "",
                 "text": "Digital "
               },
               {
-                "_key": "sqqsqu3fll",
+                "_key": "owhum88lfk",
                 "color": "text-[#EE6832]",
                 "text": "Signing"
               },
               {
-                "_key": "6kr5wch3yy",
+                "_key": "7nagy50etn",
                 "color": "",
                 "text": ", the "
               },
               {
-                "_key": "7ku0rzcyf4",
+                "_key": "pwzr15brog",
                 "color": "text-brand-600",
                 "text": "Smart "
               },
               {
-                "_key": "ndja8snuxd",
+                "_key": "i0h6ib9nyv",
                 "color": "text-brand-600",
                 "text": "Way"
               }
@@ -1149,21 +1149,21 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "pnm7i8ez7y",
+            "_key": "yu9zrwuuse",
             "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents — eliminating impersonation risks and creating a secure trust framework between parties.",
             "image": null,
             "isReversed": true,
             "title": "Authentic"
           },
           {
-            "_key": "e122y44o4x",
+            "_key": "83z0n9d50p",
             "description": "Once a document is digitally signed, any attempt to modify it breaks the cryptographic seal and alerts all parties of potential tampering. This end-to-end integrity check protects sensitive data and ensures version control.",
             "image": null,
             "isReversed": true,
             "title": "Tamper-Proof"
           },
           {
-            "_key": "fyg0t7leca",
+            "_key": "6rhkpnapun",
             "description": "Recognized by Global Compliance Standards Digital signatures comply with international frameworks like the IT Act (India), eIDAS (EU), and ESIGN/UETA (US). They carry the same legal standing as handwritten signatures and are admissible in court.",
             "image": null,
             "isReversed": true,
@@ -1172,55 +1172,55 @@
         ]
       },
       {
-        "_key": "s8i1t59upg",
+        "_key": "q0dml97xdt",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite3",
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "rz87ozmbm9",
+            "_key": "g20ur7m4gj",
             "description": "Supports IT Act (India), eIDAS (EU), and global PKI standards.",
             "icon": null,
             "title": "Legally Compliant"
           },
           {
-            "_key": "ozfhbg0l2v",
+            "_key": "7x2jdll4ak",
             "description": "Based on PKI infra, encryption, and certified digital certificates.",
             "icon": null,
             "title": "Strong Security"
           },
           {
-            "_key": "tmgj7bo0pe",
+            "_key": "bp0dtmm7p1",
             "description": "Aadhaar eSign, USB Token, or Server-based signatures.",
             "icon": null,
             "title": "Multi-Mode Signing"
           },
           {
-            "_key": "7la6j718uz",
+            "_key": "ifbozd1i0a",
             "description": "Full logs of every signing event for transparency and compliance.",
             "icon": null,
             "title": "Audit Trail"
           },
           {
-            "_key": "pozx5qriqd",
+            "_key": "39dqxoybdp",
             "description": "Instantly detects changes post-signing.",
             "icon": null,
             "title": "Tamper Detection"
           },
           {
-            "_key": "gxwkpm4vzp",
+            "_key": "8drdtuwn6x",
             "description": "API-ready for banking apps, enterprise platforms, and workflow tools.",
             "icon": null,
             "title": "Easy Integration"
           },
           {
-            "_key": "pkxunsfmnw",
+            "_key": "0q4i7xnp2y",
             "description": "Keeps certificates up to date with automated renewal to ensure uninterrupted signing.",
             "icon": null,
             "title": "Auto-Renewal"
           },
           {
-            "_key": "otoyu24i2q",
+            "_key": "ym7hz3bybn",
             "description": "Applies trusted third-party timestamps to each signature, ensuring validity",
             "icon": null,
             "title": "Time Stamping"
@@ -1232,7 +1232,7 @@
           "text": {
             "title": [
               {
-                "_key": "jvrgsls3qu",
+                "_key": "4zkdkj6nb7",
                 "color": "text-white",
                 "text": "Enterprise-Grade Security with Seamless Integration"
               }
@@ -1242,11 +1242,11 @@
         }
       },
       {
-        "_key": "q3mq16tynz",
+        "_key": "nbv9xk3gc6",
         "_type": "platformCapabilitiesSection",
         "capabilitesDetails": [
           {
-            "_key": "oalf2su7d6",
+            "_key": "lelck2ks6c",
             "description": "Eliminate printing, scanning, and courier delays.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "id": 1,
@@ -1254,7 +1254,7 @@
             "title": "Faster Processes"
           },
           {
-            "_key": "uzps7tsnvs",
+            "_key": "55ouz0gqnw",
             "description": "Save on paper, logistics, and manual handling.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -1263,7 +1263,7 @@
             "title": "Lower Costs"
           },
           {
-            "_key": "b0z0pr7a0c",
+            "_key": "a6luo5wf3f",
             "description": "Encrypt data, verify identity, and prevent fraud.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -1272,7 +1272,7 @@
             "title": "Improved Security"
           },
           {
-            "_key": "9yf8om9ad3",
+            "_key": "q4g68x5yqu",
             "description": "Use certified digital signatures to meet legal standards.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
@@ -1281,7 +1281,7 @@
             "title": "Better Compliance"
           },
           {
-            "_key": "9jvaavdm4x",
+            "_key": "92ct6klg4r",
             "description": "Let users sign in seconds — securely and remotely.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
@@ -1299,32 +1299,32 @@
           "text": {
             "title": [
               {
-                "_key": "zoqnn94or7",
+                "_key": "0q8jesnbkb",
                 "color": "text-brand-600",
                 "text": "Faster"
               },
               {
-                "_key": "mzfhlg83ro",
+                "_key": "buhvls031f",
                 "color": "",
                 "text": ", "
               },
               {
-                "_key": "9jk6m5hyrs",
+                "_key": "xfdi5ktyga",
                 "color": "text-[#EE6832]",
                 "text": "Safer "
               },
               {
-                "_key": "5e5fcmzxfx",
+                "_key": "mn9wj2rgnp",
                 "color": "",
                 "text": ", "
               },
               {
-                "_key": "4unhjtn94k",
+                "_key": "dg7azkkc53",
                 "color": "",
                 "text": "More Efficient "
               },
               {
-                "_key": "s03bpjnchm",
+                "_key": "1jweavxl5c",
                 "color": "text-warning",
                 "text": "Workflows"
               }
@@ -1334,7 +1334,7 @@
         }
       },
       {
-        "_key": "zk0qg2bomg",
+        "_key": "m3nzqpelx3",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "icon": null,
@@ -1342,7 +1342,7 @@
           "text": {
             "title": [
               {
-                "_key": "zpuzl2b693",
+                "_key": "zjmmaebgpd",
                 "color": "text-white",
                 "text": "Where Digital Signing Makes a Difference"
               }
@@ -1356,25 +1356,25 @@
         "isTextWhite": true,
         "mediaInfoCardData": [
           {
-            "_key": "12lfo37dcq",
+            "_key": "y6rrl3wfvx",
             "description": "Digitally sign loan agreements, account opening forms, statements, and fund transfers.",
             "image": null,
             "title": "Banking & Finance"
           },
           {
-            "_key": "ianxvt11v2",
+            "_key": "wenppy3gt7",
             "description": "Sign HR documents, vendor contracts, and NDAs with ease.",
             "image": null,
             "title": "Enterprises"
           },
           {
-            "_key": "r90hmmvv7n",
+            "_key": "mhbe3xi4nr",
             "description": "Ensure compliance for official filings, legal documents, and approvals.",
             "image": null,
             "title": "Government & Legal"
           },
           {
-            "_key": "7w7aq2dlsm",
+            "_key": "ghedec90jm",
             "description": "Digitally sign patient consent forms, insurance claims, and medical records with full compliance and traceability.",
             "image": null,
             "title": "Healthcare & Insurance"
@@ -1382,7 +1382,7 @@
         ]
       },
       {
-        "_key": "rob0qlrfog",
+        "_key": "i2bud1oe5h",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles3",
@@ -1390,32 +1390,32 @@
         "text": {
           "title": [
             {
-              "_key": "91tsdhu4rp",
+              "_key": "vaiziplz6s",
               "color": "",
               "text": "Ready to "
             },
             {
-              "_key": "rgzgq6ud6l",
+              "_key": "ldu9vbkpmr",
               "color": "text-[#EE6832]",
               "text": "Transform "
             },
             {
-              "_key": "eyw2al8jki",
+              "_key": "28yosy526c",
               "color": "",
               "text": "Your "
             },
             {
-              "_key": "0cd87mds36",
+              "_key": "6z652mvk6e",
               "color": "text-[#EE6832]",
               "text": "Banking "
             },
             {
-              "_key": "ey8krcvgf9",
+              "_key": "d193splvb7",
               "color": "text-brand-600",
               "text": "Experience"
             },
             {
-              "_key": "mul9ynpxdm",
+              "_key": "36cin3zocb",
               "color": "",
               "text": "?"
             }
