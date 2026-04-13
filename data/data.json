@@ -1048,15 +1048,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "2LL9JC6EMX15mEdNnsFpc0",
+    "_rev": "0vJl3HsPHyXwhTtFLvqRSU",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "2LL9JC6EMX15mEdNnsFopM"
+        "rev": "2LL9JC6EMX15mEdNnsFpc0"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-04-13T05:13:38Z",
+    "_updatedAt": "2026-04-13T05:17:19Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -1067,7 +1067,7 @@
       "variant": "stacked"
     },
     "partners": {
-      "ctaButton": "How We Made an Impact",
+      "ctaButton": "How We Made an Impact?",
       "headerSubTitleText": "Empowering Financial Institutions. Across Borders & Benchmarks",
       "partnerList": [
         {
