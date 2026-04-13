@@ -2394,6 +2394,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/2dfee76a540640cbaa47e4e99687f361c6aff6be-68x72.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:36:41Z",
+    "_id": "image-3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86-68x68-webp",
+    "_rev": "2LL9JC6EMX15mEdNnsH2BA",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:36:41Z",
+    "assetId": "3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eNN8y,R.@YoHMc}SoKoga{kC*dxVF1jdpJ?HW;NFspjFMdWYyDaeof",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAFU0lEQVR4nHXRW0zTBxTH8X+yOZddNc65S9QNFWF43czmlmxxS5Zl3gneCxOZgkyk3BFqKVgv0A6qcq9YcZZSSsutlEsV5KKColSBAnId4jBOtvyXPezh//BdYHFxD3v45OTkd855OcLvySv5P7+pVjCZtIJJ1Up+S17NE9VqnihX8kS5gl+Vy3n8Lx8eKXykiaM+ovAkaRnP+vWoz/TwRMoaHqg/Y/zYWsZPfM6odgMjqV8znvwRE1O5YhkTiT7/UHjzMMFbepjoLQpTzYTCi0cKr+lgIvEDxo+uZFCzkd4COX35B+nNC8ZlTMFVEE3fj1sZ1KxnSP0Fowk+jMV5MhbvyWjcEmks1lMUxuM9GY9fwoMjSxlRrGJQvQ536ka69HIG6y8yUKOnr1zHYKOJPkcePcXH6DafwJV9gF7FGoaiFjMcvYihSA9pONJDFEajFzMatYiRmKX0payjUx+Fy6ylq1THfUcBffZ8eqpy6G004HbmMlSXy0idHldhArePr6fryBr6o7y4f/g9qf/wQlEYDH+fQbkHA9HedJ/ciKtEy0Cjmb6aQq6bMqnRp1NVqKPUqsVsPk6DTYO7Ukuv5QSdl1R0ZIbQk/gp/eEe0v3whaLQd2gBbrknbuU6erKD6SnV4rbnc82ix6bPIlOtJk2t4FTWEZLS5WQWKLhckcpAXQ6jzRa6SzUMpH7Dg6mnJCwVha7Qd7kTsZyOjCDcZadx23OoNWjQHVNwRC7ne1kAewN3I08KJkwRRPLpSEzlJ7hVn8XPTSYGbBrGzvoxeepj6Q/1alG4HTyP9jBv2rR76bKdob0sh7wsLYeiYtkdsA8/vx34B+4iXBlMSMx3RKv2o8uPoLpEyZAzj+G6AgYvJfL4zGbpz9S1otAe9CZtP3jTliajsySdy5Z8dBcMxGcZiNXlkaDRoU5Xk5YZQ0yCPwdCthAT54ch6yD9V3IZv27lfqmWX85ul/44+YkotAa+xbXoz2g/r8LdbOfq5SrSDIXIM3KIOKMn5XwhBttFKqvTyck6QNgP64mI2ED2mXC6Wiz8fLWI4YLDTJxaJ00mrxCFZv+5NIV/xLXcONyttXTcvkXGRSMB0fFsCw4lVq3GUmWlqbkEkzERlXIbJ4/vpqI8g+H+m4y0ljOQHcSY8kPpl8SlotAsm03D3rdxxn3FTUs27nsuiu01RKpPEhoXhyYjA4vFQpnNhMWcwTm9nHN5kVxrKuXBcDcjbQ7cuQfpT1gljUQvEoUbgW/QsOd1ag+t4vqlNIZ6XHTcvcdP1Q7OFhZyzmCgyGjEXFyEw26mtvY8jQ3F9Lpu0N1YTucFBXfV39IV6SW5D88XhVv759ESMBtniDeNP4Zyu8LAvfYmWtrbqHBUY7WWUmopoaLMRn2dg8bGerq67zDs7qS9KI22xC9xhS3BFTJfch18e+rLc7m+dw5X972DM3Q5TsUWmow6GursOCpt2MvMlBQbsZaYqLKasVrM1DkqueEopjUzjBvhy+gIeoubgW9KN/fNEYUW/9m0+M+iyX8WV2SzcQZ74dTsx34hgzLDaaznT2My5FBiyMF2Tofx7HFMmliqU2Q0RK2lOehdpm/IZkmt/q+JwuWdLzPF+ZTsDWpClmON3YBZKcOY9D0XVSEUqfZjVgZgjtmILXg11QHzqd8zB+fOV3HueJn67S9JV3a8JAp235nSs6p9X5SqfF+RynbMlSyyBVKx/2KpaM8SySzzkCyyhZJt1zyp0u8Vye774jNmSvatL/zl8J0xKVRsel78r+ema/mm58WyzVNeEG2bZk7XKeWbn848NePp7mT5pufG/wb0HxNl+2cHqgAAAABJRU5ErkJggg==",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#523c28",
+          "foreground": "#fff",
+          "population": 1.3,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#6a2804",
+          "foreground": "#fff",
+          "population": 0.11,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ef7e2c",
+          "foreground": "#000",
+          "population": 7.74,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#b8d1cb",
+          "foreground": "#000",
+          "population": 1.73,
+          "title": "#000"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e1d59a",
+          "foreground": "#000",
+          "population": 1.97,
+          "title": "#000"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#b18a70",
+          "foreground": "#fff",
+          "population": 2.42,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ef7e2c",
+          "foreground": "#000",
+          "population": 7.74,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "YmqGNQoPJiaNiZDVF/eJjp/4Dw+Ph3D4CA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Vasai_Janata_Bank.webp",
+    "path": "images/b9v36ogc/production/3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86-68x68.webp",
+    "sha1hash": "3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86",
+    "size": 3206,
+    "uploadId": "Yg3K9rDsVRZc3Kc2Az1CnjfA0OsMWqzv",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/3b5e43ea296d3ebc7ac063aa17f80e5c7f4c3e86-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:16:27Z",
     "_id": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
     "_rev": "48cQ74ab5BPcgD0vBCmCcL",
