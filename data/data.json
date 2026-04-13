@@ -610,14 +610,14 @@
     ]
   },
   {
-    "_createdAt": "2026-04-13T11:28:33Z",
+    "_createdAt": "2026-04-13T11:51:18Z",
     "_id": "core-banking",
-    "_rev": "0vJl3HsPHyXwhTtFLw1Wup",
+    "_rev": "48cQ74ab5BPcgD0vBD8jZE",
     "_type": "productPages",
-    "_updatedAt": "2026-04-13T11:51:01Z",
+    "_updatedAt": "2026-04-13T11:51:18Z",
     "sections": [
       {
-        "_key": "9wv9hmpsi5",
+        "_key": "onvdho7u25",
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
@@ -627,7 +627,7 @@
         "variant": "split"
       },
       {
-        "_key": "lt91pj8pij",
+        "_key": "30si9q8ojy",
         "_type": "coreInfoSection",
         "cta": {
           "buttonLabel": "Explore the Platform",
@@ -638,25 +638,25 @@
         },
         "features": [
           {
-            "_key": "891ceyt02q",
+            "_key": "9fqe82jroj",
             "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform built to transform traditional banking systems with intuitive digital capabilities.",
             "icon": null,
             "title": "Plug into the Cloud-Native Core"
           },
           {
-            "_key": "x9tz0rek3q",
+            "_key": "4iwo6p4mcl",
             "description": "Experience immediate improvements in operational efficiency and productivity for your internal teams — without disruption.",
             "icon": null,
             "title": "Boost Internal Efficiency Instantly"
           },
           {
-            "_key": "6jv9yxli2e",
+            "_key": "fsq0bzhj2f",
             "description": "EasyBankCore® overlays your existing core and intelligently aggregates data from other systems to provide a unified digital experience.",
             "icon": null,
             "title": "Overlay & Aggregate Seamlessly"
           },
           {
-            "_key": "11lyj2l4j5",
+            "_key": "0oggm6drcj",
             "description": "Add intelligent workflows and powerful digital tools to streamline daily operations across all banking departments.",
             "icon": null,
             "title": "Enable Smarter Workflows"
@@ -665,12 +665,12 @@
         "id": "coreInfo",
         "images": [
           {
-            "_key": "rhdcrw9xce",
+            "_key": "dbelskvz93",
             "alt": "dashboard",
             "src": null
           },
           {
-            "_key": "7dz1yw7c51",
+            "_key": "fx4v0225wm",
             "alt": "dashboard-1",
             "src": null
           }
@@ -682,17 +682,17 @@
         "titleText": {
           "title": [
             {
-              "_key": "tzmfgc3ux8",
+              "_key": "yiywcictko",
               "color": "text-black",
               "text": "The "
             },
             {
-              "_key": "d0ho62m59u",
+              "_key": "axpqx7xnir",
               "color": "text-brand-600",
               "text": "Intuitive "
             },
             {
-              "_key": "9stbh894wa",
+              "_key": "6ms1qy311j",
               "color": "text-warning",
               "text": "Digital Core"
             }
@@ -701,32 +701,32 @@
         }
       },
       {
-        "_key": "6wpmx9jkce",
+        "_key": "br6rw299qo",
         "_type": "bankingSuiteSection",
         "afterData": {
           "items": [
             {
-              "_key": "kj8d0fnkmo",
+              "_key": "1xvemmjlak",
               "description": "One platform powering every stage of customer journey.",
               "title": "Unified lifecycle view"
             },
             {
-              "_key": "5mp3tf131q",
+              "_key": "j5jruaqs8r",
               "description": "Connected systems enable real-time collaboration and action.",
               "title": "Seamless data connections"
             },
             {
-              "_key": "6nytom88ec",
+              "_key": "6ztpfvcyjn",
               "description": "Delight users from day one with instant access.",
               "title": "Instant onboarding & activation"
             },
             {
-              "_key": "zx4yer34va",
+              "_key": "2f50pezpub",
               "description": "AI-driven nudges trigger personalized expansion opportunities.",
               "title": "Automated growth levers"
             },
             {
-              "_key": "di606j07lg",
+              "_key": "ni2ru9ozcy",
               "description": "AI keeps growth on.",
               "title": "Growth becomes default"
             }
@@ -741,7 +741,7 @@
           "text": {
             "title": [
               {
-                "_key": "7d75kj7rsx",
+                "_key": "0xwn8mw83r",
                 "color": "text-white",
                 "text": "All-in-One Banking Suite"
               }
@@ -752,27 +752,27 @@
         "beforeData": {
           "items": [
             {
-              "_key": "zmmj97x4ll",
+              "_key": "5t3nxhesq1",
               "description": "Disparate systems, no single source of truth.",
               "title": "Disconnected tools"
             },
             {
-              "_key": "g9z26oga2r",
+              "_key": "qi4fn37cbz",
               "description": "Teams work in isolation, delaying decisions.",
               "title": "Siloed data"
             },
             {
-              "_key": "9x50spm7io",
+              "_key": "65cjwf35e5",
               "description": "Lengthy processes hurt first impressions and engagement.",
               "title": "Slow onboarding"
             },
             {
-              "_key": "sgtumdcso3",
+              "_key": "h7vxai822p",
               "description": "Inconsistent tactics with low success rates.",
               "title": "Manual retention hacks"
             },
             {
-              "_key": "4bcme7iva9",
+              "_key": "28dxksigay",
               "description": "Legacy systems slow progress.",
               "title": "Stagnation becomes default"
             }
@@ -783,25 +783,25 @@
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "c0zm9rqsqs",
+            "_key": "nxm2nzoxrz",
             "description": "Targeted onboarding & segmentation",
             "icon": null,
             "title": "Acquire"
           },
           {
-            "_key": "k0nzkchavb",
+            "_key": "ykwsbddx7y",
             "description": "Fast-track first use with automation",
             "icon": null,
             "title": "Activate"
           },
           {
-            "_key": "088om7s4a0",
+            "_key": "keyxosqq6w",
             "description": "Keep customers with value-driven insights",
             "icon": null,
             "title": "Retain"
           },
           {
-            "_key": "xpxfibt3a1",
+            "_key": "9zv1uknhv7",
             "description": "Cross-sell & up-sell at the right time",
             "icon": null,
             "title": "Expand"
@@ -813,7 +813,7 @@
           "text": {
             "title": [
               {
-                "_key": "t8srkxw2sw",
+                "_key": "ac6kwfb301",
                 "color": "text-white",
                 "text": "Power Every Stage of the Customer Journey"
               }
@@ -823,11 +823,11 @@
         }
       },
       {
-        "_key": "7dednccpm1",
+        "_key": "csnv55bxbp",
         "_type": "platformCapabilitiesSection",
         "capabilitesDetails": [
           {
-            "_key": "yf4ah5nnh3",
+            "_key": "hzgq25cpbl",
             "description": "EasyBankCore® is a modern, API-first core banking platform designed to enable financial institutions and banks to deliver innovative, customer-centric financial solutions. Built for scalability, security, flexibility, and rapid integration, EasyBankCore® provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -836,12 +836,12 @@
             "title": {
               "title": [
                 {
-                  "_key": "lp8vtoaciq",
+                  "_key": "qxki6il6r7",
                   "color": "text-brand-600",
                   "text": "Digtal "
                 },
                 {
-                  "_key": "gc2jz2zm96",
+                  "_key": "yn6zogwgph",
                   "color": "text-black",
                   "text": "at Core"
                 }
@@ -850,7 +850,7 @@
             }
           },
           {
-            "_key": "ombb6slq2h",
+            "_key": "j3w98d08n4",
             "description": "Our API-driven solutions are open banking ready & our ecosystem of Off-the-Shelf partner integrations let you launch innovative & compelling offerings quickly.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -859,22 +859,22 @@
             "title": {
               "title": [
                 {
-                  "_key": "01go8m17pe",
+                  "_key": "uxvxo0wcek",
                   "color": "",
                   "text": "Open "
                 },
                 {
-                  "_key": "sfk5ey6tdt",
+                  "_key": "3wqenow04q",
                   "color": "text-brand-600",
                   "text": "Banking "
                 },
                 {
-                  "_key": "wsq4xf6li4",
+                  "_key": "gqjh37tkvu",
                   "color": "",
                   "text": "Made "
                 },
                 {
-                  "_key": "gpv00vyrks",
+                  "_key": "e0z45d3hsb",
                   "color": "text-warning",
                   "text": "Easy"
                 }
@@ -883,7 +883,7 @@
             }
           },
           {
-            "_key": "1kiwrq1rqd",
+            "_key": "gf7u1vqxma",
             "description": "Connect siloed systems - from core to CRM to fintech - through plug-and-play integrations that eliminate complexity. Streamline operations with a standardized API layer and pre-built connectors that reduce time-to-market and lower risk. Future-proof your architecture while staying agile. Build faster, launch smarter, and scale without limits.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -892,12 +892,12 @@
             "title": {
               "title": [
                 {
-                  "_key": "2gmaozgtp7",
+                  "_key": "rnghijcus9",
                   "color": "",
                   "text": "Seamleass  "
                 },
                 {
-                  "_key": "mkwqochfu7",
+                  "_key": "y67rkubv3z",
                   "color": "text-brand-600",
                   "text": "Integration "
                 }
@@ -906,7 +906,7 @@
             }
           },
           {
-            "_key": "9yiswgryrf",
+            "_key": "6550g74w6a",
             "description": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
@@ -915,12 +915,12 @@
             "title": {
               "title": [
                 {
-                  "_key": "k2mgb3t40k",
+                  "_key": "q6z885q66e",
                   "color": "",
                   "text": "Composable  "
                 },
                 {
-                  "_key": "za0t4l208j",
+                  "_key": "kv081dbbz4",
                   "color": "text-brand-600",
                   "text": "Platform"
                 }
@@ -933,26 +933,26 @@
         "id": "platformCapabilities1"
       },
       {
-        "_key": "fd97pgdbwr",
+        "_key": "nbh256v7ea",
         "_type": "bankingSolutionsSection",
         "bankingSolutionCardData": [
           {
-            "_key": "309bbqiyad",
+            "_key": "lmd551h0l9",
             "description": "Serve Retail, SME, and Corporate customers with personalized banking experiences — instantly and at scale.",
             "title": "Deliver Personalized Banking Products"
           },
           {
-            "_key": "6yq0au5na3",
+            "_key": "uzp22hj78n",
             "description": "Our core tech is built for agility and speed — no limits, no friction, just performance.",
             "title": "Digital @ Core with No Barriers"
           },
           {
-            "_key": "kjg5ez44w6",
+            "_key": "x52sw3osiu",
             "description": "Access integrated Digital Solutions, Regulatory Reports, Loan Origination & Servicing — all in one platform.",
             "title": "End-to-End Banking, Enabled"
           },
           {
-            "_key": "0f7nd13rth",
+            "_key": "04nyv2p3rp",
             "description": "Tap into a rich ecosystem of ready-to-launch fintech solutions embedded with AI capabilities.",
             "title": "20+ Pre-Integrated Fintech Solutions"
           }
@@ -966,7 +966,7 @@
         "isTextWhite": true
       },
       {
-        "_key": "7sogf7nqrq",
+        "_key": "l31094zxtv",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "icon": null,
@@ -978,13 +978,13 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "x9d74kjn8o",
+            "_key": "vd0r7tydba",
             "description": "EasyBankCore® is built ground-up with AI and ML at its core not as an add-on, but as the foundation of smarter banking.",
             "image": null,
             "title": "AI/ML — Not Just Integrated, Built-In"
           },
           {
-            "_key": "dpxqks5hus",
+            "_key": "iodatipch4",
             "description": "From Credit Risk Analysis via ML models to UPI/IMPS Transaction Monitoring and AI-based OCR for KYC intelligence powers every layer.",
             "image": null,
             "title": "Real Use Cases. Real Intelligence."
@@ -992,7 +992,7 @@
         ]
       },
       {
-        "_key": "kwskqzj9vz",
+        "_key": "arbxol8wfn",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "icon": null,
@@ -1003,13 +1003,13 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "7agxqmk6mf",
+            "_key": "swsebmkq7g",
             "description": "A comprehensive, region-specific reporting hub that simplifies the entire lifecycle — from data ingestion to STP submission.",
             "image": null,
             "title": "End-to-End Regulatory Reporting, Streamlined"
           },
           {
-            "_key": "hsak13v2tz",
+            "_key": "1uhvo032sg",
             "description": "Modular, open architecture empowers banks to meet global regulatory requirements with accuracy, speed, and scalability.",
             "image": null,
             "title": "Built for Compliance at Scale"
@@ -1017,7 +1017,7 @@
         ]
       },
       {
-        "_key": "qjzvqbdp6z",
+        "_key": "vgs5xxwkz9",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
@@ -1025,47 +1025,47 @@
         "text": {
           "title": [
             {
-              "_key": "8vgcx7qqi6",
+              "_key": "47gkv6pca1",
               "color": "",
               "text": "Bold "
             },
             {
-              "_key": "ct62ow61jg",
+              "_key": "tuae80fxug",
               "color": "text-brand-600",
               "text": "Ideas"
             },
             {
-              "_key": "gt5ds28pbb",
+              "_key": "zzgx9n3b2o",
               "color": "",
               "text": ". "
             },
             {
-              "_key": "xm0nvcx6d1",
+              "_key": "j4gb2d97bb",
               "color": "",
               "text": "Brave "
             },
             {
-              "_key": "kelpzxkph9",
+              "_key": "9p7pi4vv7c",
               "color": "text-[#EE6832]",
               "text": "Moves"
             },
             {
-              "_key": "kn1dpe2iuq",
+              "_key": "rbbncpf8xv",
               "color": "",
               "text": ". "
             },
             {
-              "_key": "9medlis1oc",
+              "_key": "4kdkszc188",
               "color": "",
               "text": "Real "
             },
             {
-              "_key": "aa1u1e7xno",
+              "_key": "958p6tjk3y",
               "color": "text-[#7CC145]",
               "text": "Outcomes"
             },
             {
-              "_key": "f5lezpcvv7",
+              "_key": "0j1qbj0wg9",
               "color": "",
               "text": "."
             }
