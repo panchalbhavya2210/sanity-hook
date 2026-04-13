@@ -1105,15 +1105,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "0vJl3HsPHyXwhTtFLvreSe",
+    "_rev": "0vJl3HsPHyXwhTtFLvvKO6",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "2LL9JC6EMX15mEdNnsFxm6"
+        "rev": "0vJl3HsPHyXwhTtFLvreSe"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-04-13T06:37:15Z",
+    "_updatedAt": "2026-04-13T08:54:53Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -1131,7 +1131,14 @@
       "variant": "stacked"
     },
     "partners": {
-      "ctaButton": "How We Made an Impact?",
+      "ctaButton": "How We Made an Impact",
+      "headerIcon": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31-svg",
+          "_type": "reference"
+        }
+      },
       "headerSubTitleText": "Empowering Financial Institutions. Across Borders & Benchmarks",
       "partnerList": [
         {
@@ -1585,6 +1592,13 @@
           "_key": "card1",
           "buttonTitle": "Explore Intelligent Core",
           "description": "Build the Digital Backbone for tomorrow's banks with a Scalable, Secured, Cloud-Native, Unified all-in-one platform to accelerate & future-proof your banking business.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-6dafea9877e6afaa24fba7ab51bbfedafe1bda3b-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/1.png",
           "route": "/products",
           "title": "Digital Core Banking"
@@ -1593,6 +1607,13 @@
           "_key": "card1_deduped_1",
           "buttonTitle": "Experience Omnichannel Layer",
           "description": "Deliver seamless experiences across mobile, kiosk, tab, super app & internet banking—ensuring customers meet your bank anytime, anywhere, on any device.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-21b946e1cd4a040f2d7a590611ba7c92fab42014-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/2.png",
           "route": "/products",
           "title": "Omnichannel Banking"
@@ -1601,6 +1622,13 @@
           "_key": "card2",
           "buttonTitle": "Explore Financial Intelligence",
           "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/3.png",
           "route": "/products",
           "title": "AI-Based Analytics"
@@ -1609,6 +1637,13 @@
           "_key": "card3",
           "buttonTitle": "Explore easyLOMS",
           "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-01251360be8807ef290b604432bedecc3e1c4819-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/4.png",
           "route": "/products",
           "title": "Digital Lending Platform"
@@ -1617,6 +1652,13 @@
           "_key": "card4",
           "buttonTitle": "Explore Digi.X™",
           "description": "Reapprise your digital strategies with Real-time Integrated Straight Through Processing (STP) Digital Channels enabling complete customer transactional information and the ability to offer tailored products to any customer at any time.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-8d676bb50c186f7f5448c84bb6f58ebbd3d0a640-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/5.png",
           "route": "/products",
           "title": "Digi.X™"
@@ -1625,11 +1667,25 @@
           "_key": "card5",
           "buttonTitle": "Explore HR Suite",
           "description": "Empower your workforce with intuitive self-service portals and payroll automation, designed to align employee experiences with business agility.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-4dbe6d8be21a09bcf0fc69fc5c4426d1a3dbabe3-551x246-webp",
+              "_type": "reference"
+            }
+          },
           "imageSrc": "/images/homepage/6.png",
           "route": "/products",
           "title": "People-First HR Tech"
         }
       ],
+      "headerIcon": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31-svg",
+          "_type": "reference"
+        }
+      },
       "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights",
       "titleParts": [
         {
