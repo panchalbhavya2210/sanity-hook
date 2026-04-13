@@ -3214,6 +3214,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/e00cad6270661fe4ea1f1d68aa9699af4d00fa07-68x30.webp"
   },
   {
+    "_createdAt": "2026-04-13T06:32:23Z",
+    "_id": "image-e2d8b985c0245e22d49a47591ca2e0dd465e32af-68x68-webp",
+    "_rev": "2LL9JC6EMX15mEdNnsGzGc",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:32:23Z",
+    "assetId": "e2d8b985c0245e22d49a47591ca2e0dd465e32af",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "eIP%L?xuXUxtM}xGj[o}axRjRVj=~nWF?Z%Lj?IofSt79Hah~nt6IV",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1,
+        "height": 68,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAEpElEQVR4nIWU/XMTVRfH82c6Mji+DTLj6M+PU9BR1EKlqVQQqK1obSmlDLbFDqjggKAUaIXi0ibZvOxLsrvJJpvNTbPvu59nEmAef3nGc+c75/5w7mfuOefek+OlZRlRlNC0IzY3+8zN2Bz5j8E7bym8eUDmjYNV3jmkMzZmMPuNzcP7fexWQhhnpFlKmsYx4Oaew8D3UwoljytX25w6VSd/vMbCVxXWz+5yc07i13mZ1bka86cVTh6rMp2vs3rVQS75+EHyD2CW4Xspz54NmJ0zGT+hcXnB5NG6jLbxiM7GHfq/3qN/d4v2zUeo17Z4sFLg8ncGE+M6F+YsdncHDLwXwChKKVdCFhfaTE01uH7DwZC7BHsyiSSRlkqkqkaq14kLJcKtLbydXYxSlxsbXfInGywutilXwziKcHPNZszaeo/T0y1+vuHSsiOSICATPbK+IAsC0igi9Ab0WjZdRWFgmcS+T7MV89NGl6lTTdau9eJmM3Fzmw/3yecN5i+0UJWAOE6Jk4wwzIhCGGbgeQNsu4Wua6iKimlY7O/vE0YJlarP7LdNTuaN+MFDz81d+K7Nl1MG9/8U+H5CmmQ4ToJcCimXAizTo9m0qdWqFItFisUSslzGNE1832cwSLh3r8fkVCP+/gfHzY19UGduzkZRw1HDPS/l6VOPy8sdVlY6PH4s0PUWpZLM3l6BUqk0kq7rDAYD0jSlVguYnW3FR44abu7wIZXLKz3s9rD1KZ12wO93usyct/hmxubu3R5KrUWxKFPYK1Iuy8hyEU3T6PcFURxiWQFLl5z47UOam3vjdZXVtT5ONyEIfCyry+PtFhs/Waxetbh/v0m5XB+lWigURsChFKVGs2nRdR0Mc5+VK0584IDi5l47qPDjqhgBPc/DMltUyg12dzV2nirs7imUKwrlchlZHsLKI1UqFZRaDaPRQNMFl5a78SuvaG7u8OEay8tdWq2YMAzpdByMholhNNDrKqqmjtJT1f/5l9JUDcu0qKl95hed+K3DdTd3ZKzO6WmT3Wd9PC8gCAJ8z3/eQW/AYLA/Kv7wmfzTD9Xv9+n1+uz83WNquhGPfVR3cxcXekwcb7C2VqemWKPALMv4NxvGeJ6PprVZXzc4fkKPL15y3dyTxwH5KZOJL2R+uVlCq5ujWg47/v9sOF38IMA0O/x2q8rEhEx+qh7v7PhurtNJ2LghGD+hc/aszL0/auh6EyH6RFE0Ag9vM1zDfRRGCCFoNGw2Hxic+7rK8XGN69fd2HFiN5ckoNZjllfafPapwrmvFe7c1ikUGzRbHdyeS68vEEOJHpZps7fX4PZtnfPnFMaPqVxZcdC0MI7jF/Nw+G/LFY/FhRbHPtb5alpn6ZLC7TsqW9saT3aea3tb59YthcVFhelTOsc+UVm6aFOpBnhBEicvBqyAVIRBIqo1X6xf64qTk5o48mFZTOYVceZsQ8zMGeL8jCnOnDHF5KQmjh6tiHxeFxsbXaEogfDDVMRZ5iRQHwKll4oTJLudSA+396X5pbb0+Qlbeu99W3r1oCW9esCS3nvXkcbHu9LSkiNt/bUvtZ1ESpLnZ1N4Amz+F8EWf3JNO/p0AAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#2f3341",
+          "foreground": "#fff",
+          "population": 1.71,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#0e0a91",
+          "foreground": "#fff",
+          "population": 7.33,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#0e0a91",
+          "foreground": "#fff",
+          "population": 7.33,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ca9eac",
+          "foreground": "#000",
+          "population": 0.67,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#9899f2",
+          "foreground": "#000",
+          "population": 1.32,
+          "title": "#fff"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#565599",
+          "foreground": "#fff",
+          "population": 1.15,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#160dba",
+          "foreground": "#fff",
+          "population": 1.73,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "NQeGDQAPaGiHeYWfSAd5gvHIWlqPh3D4CA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Gandhinagar_Bank.webp",
+    "path": "images/b9v36ogc/production/e2d8b985c0245e22d49a47591ca2e0dd465e32af-68x68.webp",
+    "sha1hash": "e2d8b985c0245e22d49a47591ca2e0dd465e32af",
+    "size": 3344,
+    "uploadId": "QcfNA8wgIKJPzFfRrurpaiZJCUK4jTMS",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/e2d8b985c0245e22d49a47591ca2e0dd465e32af-68x68.webp"
+  },
+  {
     "_createdAt": "2026-04-13T06:15:51Z",
     "_id": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
     "_rev": "0vJl3HsPHyXwhTtFLvrPWW",
