@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "48cQ74ab5BPcgD0vBCMQRe",
+    "_rev": "2LL9JC6EMX15mEdNnsJoCc",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "2LL9JC6EMX15mEdNns4Gdg"
+        "rev": "48cQ74ab5BPcgD0vBCMQRe"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-04-12T14:55:06Z",
+    "_updatedAt": "2026-04-13T08:21:34Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -23,6 +23,13 @@
               {
                 "_key": "9d3524ad-70a0-4e08-8521-328b9a4408ec",
                 "href": "/products/core-banking",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144-png",
+                    "_type": "reference"
+                  }
+                },
                 "label": "It is an enterprise browser-based multi-channel banking solution that enables full range of banking services.",
                 "type": "image",
                 "width": 159
@@ -151,6 +158,13 @@
               {
                 "_key": "a2ed774e-b3df-4b21-8d96-9764e714e530",
                 "href": "/products/digi-x",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
+                    "_type": "reference"
+                  }
+                },
                 "label": "Empowering banks with next-gen digital solutions.",
                 "type": "image",
                 "width": 159
@@ -164,6 +178,13 @@
               {
                 "_key": "b8366223-313d-498d-89cc-f66a64edc1e7",
                 "href": "#",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-2a96f11ec3215f93398096a3f15dd462464a0c18-228x82-png",
+                    "_type": "reference"
+                  }
+                },
                 "label": "Modern UX meets robust banking technology.",
                 "type": "image",
                 "width": 159
@@ -177,6 +198,13 @@
               {
                 "_key": "24050246-746c-4085-93b2-8308b8656dcd",
                 "href": "#",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
+                    "_type": "reference"
+                  }
+                },
                 "label": "An enterprise-grade net banking suite",
                 "type": "image",
                 "width": 159
