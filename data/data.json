@@ -577,9 +577,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "0vJl3HsPHyXwhTtFLuurki",
+    "_rev": "2LL9JC6EMX15mEdNnsGlDg",
+    "_system": {
+      "base": {
+        "id": "footer-main",
+        "rev": "0vJl3HsPHyXwhTtFLuurki"
+      }
+    },
     "_type": "footer",
-    "_updatedAt": "2026-04-10T10:40:35Z",
+    "_updatedAt": "2026-04-13T06:09:45Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -610,9 +616,7 @@
             "_key": "4e402de5-2670-438e-afb2-bff53f58e417",
             "alt": "Easy Bankcore",
             "href": "/products/core-banking",
-            "icon": {
-              "_type": "string"
-            },
+            "icon": "/icons/bank-core.png",
             "type": "image",
             "width": 172
           },
@@ -730,9 +734,7 @@
             "_key": "429c9ed7-d503-4e37-9bc9-9e10f5971cea",
             "alt": "Digi-X",
             "href": "/xcelerators/digi-x",
-            "icon": {
-              "_type": "string"
-            },
+            "icon": "/icons/partner-digi-x.png",
             "type": "image",
             "width": 115
           },
@@ -740,9 +742,7 @@
             "_key": "e7aa8acd-0911-49dd-8cee-975fcea9bccc",
             "alt": "Mobipro",
             "href": "#",
-            "icon": {
-              "_type": "string"
-            },
+            "icon": "/icons/partner-mobipro.png",
             "type": "image",
             "width": 114
           },
@@ -750,9 +750,7 @@
             "_key": "0c57817f-2656-47b5-adda-faa4dd4eaa72",
             "alt": "EasyNetPro",
             "href": "#",
-            "icon": {
-              "_type": "string"
-            },
+            "icon": "/icons/partner-easy-net-pro.jpg",
             "type": "image",
             "width": 131
           },
