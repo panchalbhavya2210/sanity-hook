@@ -638,9 +638,15 @@
   {
     "_createdAt": "2026-04-13T11:28:33Z",
     "_id": "core-banking",
-    "_rev": "48cQ74ab5BPcgD0vBD7Rda",
+    "_rev": "2LL9JC6EMX15mEdNnsQvza",
+    "_system": {
+      "base": {
+        "id": "core-banking",
+        "rev": "48cQ74ab5BPcgD0vBD7Rda"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-13T11:28:33Z",
+    "_updatedAt": "2026-04-13T11:28:56Z",
     "sections": [
       {
         "_key": "pb8o4t5xve",
@@ -757,12 +763,9 @@
               "title": "Growth becomes default"
             }
           ],
-          "logo": "/icons/bank-core.png",
-          "sideIcon": "/icons/acute.png",
           "title": "After: EasyBankCore®"
         },
         "bankingHeader": {
-          "icon": null,
           "subTitle": "Feeling caged-in , switch from legacy tech that impedes your ambitions, to a swift, AI-powered Banking Platform that sets you free.",
           "text": {
             "title": [
@@ -834,7 +837,6 @@
           }
         ],
         "journeyHeader": {
-          "icon": null,
           "subTitle": "Connect systems. Empower teams. Fuel unstoppable growth.",
           "text": {
             "title": [
@@ -1102,7 +1104,6 @@
     ],
     "seo": {
       "description": "EasyBankCore® is a cloud-native core banking platform that helps banks modernize legacy systems, accelerate digital growth, and deliver secure customer experiences.",
-      "image": null,
       "keywords": [
         "core banking software",
         "digital core banking",
