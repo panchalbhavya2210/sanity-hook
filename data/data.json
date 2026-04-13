@@ -2558,6 +2558,88 @@
     "url": "https://cdn.sanity.io/images/b9v36ogc/production/e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68.png"
   },
   {
+    "_createdAt": "2026-04-13T06:29:01Z",
+    "_id": "image-fd4c537a405a46faf9829aadf5c8feaeafc1848a-68x53-webp",
+    "_rev": "0vJl3HsPHyXwhTtFLvrX9L",
+    "_type": "sanity.imageAsset",
+    "_updatedAt": "2026-04-13T06:29:01Z",
+    "assetId": "fd4c537a405a46faf9829aadf5c8feaeafc1848a",
+    "extension": "webp",
+    "metadata": {
+      "_type": "sanity.imageMetadata",
+      "blurHash": "VQIphFNI5TR+9w~8R,%0R+xY0*WW=]Rl=]9_WCS4WCba",
+      "dimensions": {
+        "_type": "sanity.imageDimensions",
+        "aspectRatio": 1.2830188679245282,
+        "height": 53,
+        "width": 68
+      },
+      "hasAlpha": true,
+      "isOpaque": false,
+      "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAER0lEQVR4nKVUbUxTZxi9MnVuLnPLFs1GlizbyJIFbm8LXQuUNnS1YBjEghhlDKXZShnUwYo4QLwiiONjoijQ21t62wYQCvtAwYG4lQSCgCAFylehQL9bwmiFiR9Q34X+8IfZ5o89/8/JOc9zzgNB/2MAAD7L+suvr02dC7B2ib6YbTicAz0wXnkX2Gvef2gq/uihvvBDYLi0DywQu6xD6Kvr43nvPdKLP3GNfIWsDfL9l/tSfBc06C4URX3sdtXu+3Mlfq7BE3Er3fwKQxPvZncx5xfIde/0oZX+9NyVHv5Fd09S6Vp34onVzsOhdo3Q33UnLdnVm1S13M1rXPn9IPFnR6zY1hYV6NIce8PZn0la7uGfdnbEaOwt4bYZnOFs/545ABlvJCctqCNuWJsYZoc6xLbUHDrhVDNkxuboY4stB1GrmqW1N9FXHU10l60xeMzcSC8yNscE2doSYp2/cm87GukPbCry06kqqrstmzEEjcp5lAk8pGpBjjgsigBgVwVsWlSI0SAPrZmQhp+clQbdNsvhdasKBhYl/HieQPoM17jptvZD4qWfWKP2OorHSiBAV0l1t3wXooWGMMGeYYx9RI9Te0wE6ZFV6Q9MhP+TORllQIeF58/gzAqjnGwwK+CnViUMTArEaWtidCxdj/jNqQ5xWJRkoK+hPP6jmLZY/XVYLwQA6jMqi/lYhzFK52spZi9QQQKLMvLSlJSm2lJpwKk3zXLkL5uKBKxKeMNeH+R2XKO5bXWUDb2U5NFcCFzEMsKUGfHhBd7za67GvzZYxYyeklJvGeXIul2BACtBemLAycOjGOvsJM4sXZQF6i1KkmfL+haxXUkGFgUC7laQ1wgxtTU3kRkdy+H4eQlRFPLpqo76YEzKRudxqsFGIB77lspa0vKEhNagxdjiGSntulGBrFpUMPCSKmEwI0E87QWB0+UpoVkp8VG+EARtexbSPnXmK/ewKM60JLjVVEtZcyhJwCInbUxJArX9FZwzIzWfnZ8jAidMSnjTqgoAJgUMBi5S7svENHXOcXaYKDLy5edSD20bqYn3HcM5YkMtddJCwB6zHAEjlTTzz2f2l7WXHkgYl9EaFhWIy6KEwaSEvNlWQNeVp7G/zRDw3vnHKunU8TsHMW7IOEZvWJAj7mkM8XQW0SekWdGiunMJAVqclTpbSxmdlyGbd8o/dckywurz+RHBKIru/Nd+dlbz9t6VcIQ6KU3bV0FdkWeHthR+E8NUlZXtHpAcCBrHgonhSupSa36ItkTAFgp5+/f+Z+ExTLCjD+NRND+GY81nWb3lIm5WZlK8d+FdV758q+cyl99WyLp1NZ2JZxzhBKEs1vYXfpGe+tQ3idzP435I5eblJUcyRCKRd+EaFN3ejEbDeHZU+oW0GJ7g6NG3X0i2NWq1+qWizCTfU8I4sjCRt2XpWRywU4I9JSeP++Hnc/YJBIIdz4P/BpR7Omn5kQfcAAAAAElFTkSuQmCC",
+      "palette": {
+        "_type": "sanity.imagePalette",
+        "darkMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#403e30",
+          "foreground": "#fff",
+          "population": 0.11,
+          "title": "#fff"
+        },
+        "darkVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#8c4c04",
+          "foreground": "#fff",
+          "population": 0.03,
+          "title": "#fff"
+        },
+        "dominant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e5a12b",
+          "foreground": "#000",
+          "population": 19.73,
+          "title": "#fff"
+        },
+        "lightMuted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#c2a888",
+          "foreground": "#000",
+          "population": 0.11,
+          "title": "#fff"
+        },
+        "lightVibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#ecd18d",
+          "foreground": "#000",
+          "population": 1.33,
+          "title": "#000"
+        },
+        "muted": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#a28648",
+          "foreground": "#fff",
+          "population": 0.97,
+          "title": "#fff"
+        },
+        "vibrant": {
+          "_type": "sanity.imagePaletteSwatch",
+          "background": "#e5a12b",
+          "foreground": "#000",
+          "population": 19.73,
+          "title": "#fff"
+        }
+      },
+      "thumbHash": "InyCDIAna1p/lWhr59IIWnhQZKWnB6h1BA=="
+    },
+    "mimeType": "image/webp",
+    "originalFilename": "Warana_Bank.webp",
+    "path": "images/b9v36ogc/production/fd4c537a405a46faf9829aadf5c8feaeafc1848a-68x53.webp",
+    "sha1hash": "fd4c537a405a46faf9829aadf5c8feaeafc1848a",
+    "size": 3072,
+    "uploadId": "M0takcdCIlGirZ4kLudcwA3OV8MfaNKF",
+    "url": "https://cdn.sanity.io/images/b9v36ogc/production/fd4c537a405a46faf9829aadf5c8feaeafc1848a-68x53.webp"
+  },
+  {
     "_createdAt": "2026-04-10T11:05:55Z",
     "_id": "page-core-banking",
     "_rev": "48cQ74ab5BPcgD0vBAiN1F",
