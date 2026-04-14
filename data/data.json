@@ -3047,9 +3047,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "iezjcqj9vs7hR9drrnXdTg",
+    "_rev": "iezjcqj9vs7hR9drrnXqXV",
+    "_system": {
+      "base": {
+        "id": "omnichannel-banking",
+        "rev": "iezjcqj9vs7hR9drrnXdTg"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T07:37:52Z",
+    "_updatedAt": "2026-04-14T07:44:57Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -3065,6 +3071,11 @@
       {
         "_key": "8n4yan3nqm",
         "_type": "coreInfoSection",
+        "cta": {
+          "description": "Clunky interfaces reduce usage and trust.",
+          "isButtonVisible": false,
+          "title": "Customer Adoption"
+        },
         "features": [
           {
             "_key": "rdg6aywrb7",
@@ -3091,6 +3102,7 @@
             "title": "Data Privacy"
           }
         ],
+        "headerSubtitle": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
         "id": "bankingChallenges",
         "isTextBlack": true,
         "titleParts": [
