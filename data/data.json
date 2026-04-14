@@ -3636,20 +3636,14 @@
     "title": "Omnichannel Banking"
   },
   {
-    "_createdAt": "2026-04-14T08:13:08Z",
+    "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "GWOVDfiedfaJZayS3VxEd5",
-    "_system": {
-      "base": {
-        "id": "tab-banking-solutions-mobipro",
-        "rev": "GWOVDfiedfaJZayS3Vvnb5"
-      }
-    },
+    "_rev": "bKHpsvURqF4u6lEZfN6rFd",
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T08:29:02Z",
+    "_updatedAt": "2026-04-14T08:39:19Z",
     "sections": [
       {
-        "_key": "scaog6tx08",
+        "_key": "jgpg1o2xpf",
         "_type": "heroSection",
         "cta": {
           "label": "Start Digital Onboarding"
@@ -3659,29 +3653,29 @@
         "title": "Deliver Banking Without Boundaries"
       },
       {
-        "_key": "ripzsnp8ix",
+        "_key": "kpz71k8g7a",
         "_type": "coreInfoSection",
         "features": [
           {
-            "_key": "iacvj00hky",
+            "_key": "jhki3lekx2",
             "description": "Eliminate forms and manual documentation with fully digital onboarding.",
             "icon": null,
             "title": "Paperless Banking"
           },
           {
-            "_key": "ocgch3vmwf",
+            "_key": "afkbqia7kn",
             "description": "Open and activate accounts within minutes.",
             "icon": null,
             "title": "Instant Customer Activation"
           },
           {
-            "_key": "3y6ansswri",
+            "_key": "b07ngt0kv7",
             "description": "Extend banking services to rural and semi-urban locations.",
             "icon": null,
             "title": "Reach Remote Communities"
           },
           {
-            "_key": "z63w5xss5u",
+            "_key": "zw3ri2y6q2",
             "description": "Field agents deliver banking services using secure tablets.",
             "icon": null,
             "title": "Mobility-First Platform"
@@ -3691,38 +3685,38 @@
         "isTextBlack": true,
         "titleParts": [
           {
-            "_key": "tg3zcl0fdi",
+            "_key": "yr7rt832wd",
             "color": "text-black",
             "text": "Banking  "
           },
           {
-            "_key": "093dwuv6fq",
+            "_key": "4bi36hveod",
             "color": "text-black",
             "text": "That "
           },
           {
-            "_key": "vz3o1e93la",
+            "_key": "skb9jhdv8u",
             "color": "text-brand-600",
             "text": "Travels "
           },
           {
-            "_key": "y3oyd74xmo",
+            "_key": "dlyb4big6i",
             "color": "text-black",
             "text": "to the"
           },
           {
-            "_key": "i3yg3i264w",
+            "_key": "2ctqxt9dfz",
             "color": "text-warning",
             "text": "Mobile Banking?"
           }
         ]
       },
       {
-        "_key": "ncysnisdp5",
+        "_key": "uz2rtciart",
         "_type": "platformCapabilitiesSection",
         "capabilitesDetails": [
           {
-            "_key": "g1qp1oozur",
+            "_key": "x5zykhwoor",
             "description": "Guided workflows ensure error-free onboarding and faster approvals.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "features": [
@@ -3737,19 +3731,19 @@
             "image": null,
             "titleParts": [
               {
-                "_key": "o7634nxgzy",
+                "_key": "nfu57wfs7k",
                 "color": "",
                 "text": "Digital Account "
               },
               {
-                "_key": "dszcv33m5y",
+                "_key": "pf2pw544qf",
                 "color": " text-brand-600",
                 "text": "Opening"
               }
             ]
           },
           {
-            "_key": "656hqyz60q",
+            "_key": "rwvzj7ipgi",
             "description": "Stay compliant while accelerating onboarding.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "features": [
@@ -3762,24 +3756,24 @@
             "image": null,
             "titleParts": [
               {
-                "_key": "46kdpl2jqu",
+                "_key": "trardjuifc",
                 "color": "",
                 "text": "Secure "
               },
               {
-                "_key": "qs2gk3k32m",
+                "_key": "adlqvl7p2f",
                 "color": "text-brand-600",
                 "text": "eKYC "
               },
               {
-                "_key": "ygz0tztt3z",
+                "_key": "ipd4atal9m",
                 "color": "",
                 "text": "Verification"
               }
             ]
           },
           {
-            "_key": "pkmqhxfr4y",
+            "_key": "uf5a76986t",
             "description": "Zero paperwork with complete audit trails.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "features": [
@@ -3792,19 +3786,19 @@
             "image": null,
             "titleParts": [
               {
-                "_key": "x6sa33yju7",
+                "_key": "divp5udth1",
                 "color": "",
                 "text": "Paperless  "
               },
               {
-                "_key": "dwn4cl7zjq",
+                "_key": "r8xfvore01",
                 "color": "text-[#EE6832]",
                 "text": " Documentation"
               }
             ]
           },
           {
-            "_key": "2k0qf290pm",
+            "_key": "h29wdtpjvm",
             "description": "Perfect for rural customers, senior citizens, and professionals.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "features": [
@@ -3817,12 +3811,12 @@
             "image": null,
             "titleParts": [
               {
-                "_key": "7iwwmvx6u3",
+                "_key": "9o9l8vi9vm",
                 "color": "",
                 "text": "Doorstep Banking "
               },
               {
-                "_key": "9av9httrqj",
+                "_key": "fg4jrkck3s",
                 "color": "text-brand-600",
                 "text": "Services"
               }
@@ -3838,7 +3832,7 @@
           "text": {
             "title": [
               {
-                "_key": "fitr0x9vnt",
+                "_key": "dppqrg06iw",
                 "color": "",
                 "text": "Complete Digitization in One App"
               }
@@ -3848,7 +3842,7 @@
         }
       },
       {
-        "_key": "vkpetogys0",
+        "_key": "z8gi4o3rox",
         "_type": "bankingSuiteSection",
         "bankingHeader": {
           "icon": null,
@@ -3856,7 +3850,7 @@
           "text": {
             "title": [
               {
-                "_key": "gtwru7k0ra",
+                "_key": "2c06j4je8n",
                 "color": "text-white",
                 "text": "All-in-One Banking Suite"
               }
@@ -3870,25 +3864,25 @@
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "l1kvv3ks4k",
+            "_key": "jxh5602ptl",
             "description": "Continuous data sync with Core Banking Systems.",
             "icon": null,
             "title": "Real-Time Synchronization"
           },
           {
-            "_key": "mkf7onss7d",
+            "_key": "u45si6lsb3",
             "description": "Agents can work even in low-network areas with queued sync.",
             "icon": null,
             "title": "Offline Data Capture"
           },
           {
-            "_key": "gag630yf2h",
+            "_key": "h0723bb3wq",
             "description": "Seamless integration with CBS and banking platforms.",
             "icon": null,
             "title": "Secure API Integration"
           },
           {
-            "_key": "snwh6gzyps",
+            "_key": "g4ygkndk0r",
             "description": "Transactions and onboarding validated in real time.",
             "icon": null,
             "title": "Instant Validation"
@@ -3900,7 +3894,7 @@
           "text": {
             "title": [
               {
-                "_key": "jyu6bswr6f",
+                "_key": "krykb62n18",
                 "text": "Built for Real-World Field Conditions"
               }
             ],
@@ -3909,7 +3903,7 @@
         }
       },
       {
-        "_key": "ees4ouy0qb",
+        "_key": "i1fz72itqz",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
@@ -3917,22 +3911,22 @@
           "text": {
             "title": [
               {
-                "_key": "2frwy64snk",
+                "_key": "rnmge3i2iz",
                 "color": "",
                 "text": "Simple for "
               },
               {
-                "_key": "egklgb4os6",
+                "_key": "7duczyupew",
                 "color": "text-[#EE6832]",
                 "text": "Agents. "
               },
               {
-                "_key": "jiv900511f",
+                "_key": "3gu3ghj774",
                 "color": "",
                 "text": "Powerful for "
               },
               {
-                "_key": "q2jr64emex",
+                "_key": "o3cibyml1x",
                 "color": "text-brand-600",
                 "text": "Banks."
               }
@@ -3946,79 +3940,87 @@
         "isTextBlack": true,
         "quickActionCard": [
           {
-            "_key": "2h9oba13v0",
+            "_key": "zifdkpnmz7",
             "description": "Step-by-step screens simplify onboarding.",
             "title": "Guided Workflows"
           },
           {
-            "_key": "nlcr4xirqm",
+            "_key": "gjgu1e6po9",
             "description": "Secure permissions based on agent roles.",
             "title": "Role-Based Access"
           },
           {
-            "_key": "2gyu6ej2oe",
+            "_key": "s79uwlz6sj",
             "description": "Supports multiple languages for diverse regions.",
             "title": "Multilingual Interface"
           },
           {
-            "_key": "nzk6wwgoka",
+            "_key": "58b9zc9kbn",
             "description": "Intuitive UI ensures quick adoption.",
             "title": "Minimal Training Required"
           }
         ]
       },
       {
-        "_key": "2pqvxbp1x4",
+        "_key": "ykoinutmll",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "articleHeader": {
-            "text": {
-              "title": [
-                {
-                  "_key": "23599aa28d1b",
-                  "_type": "titlePart",
-                  "color": "text-white",
-                  "text": "Real-Time Visibility into Field Operations"
-                }
-              ],
-              "variant": "h1"
-            }
+          "description": "",
+          "icon": null,
+          "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "vo2xr9oc56",
+                "color": "",
+                "text": "Real-Time Visibility into Field Operations"
+              }
+            ],
+            "variant": "h1"
           },
-          "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard."
+          "titleTextClassName": ""
         },
         "hasPadding": true,
         "id": "articles1",
         "isBgBlue": true,
-        "isTextWhite": true,
         "mediaInfoCardData": [
           {
-            "_key": "u8kxmrh0fw",
+            "_key": "b3n4n0c5wu",
             "description": "Monitor performance across field teams.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Agent Productivity Tracking"
           },
           {
-            "_key": "3ects81zjf",
+            "_key": "edqncpk9pg",
             "description": "Review and approve submitted documents instantly.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Document Validation"
           },
           {
-            "_key": "261pmudfhf",
+            "_key": "vupfxjl10i",
             "description": "Receive alerts for approvals and actions.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Workflow Notifications"
           },
           {
-            "_key": "5jk04ter0z",
+            "_key": "pauyh0wzhq",
             "description": "Gain insights from real-time MIS dashboards.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Data-Driven Decisions"
           }
         ]
       },
       {
-        "_key": "sj9hkuw348",
+        "_key": "t9h8ln16ff",
         "_type": "sectionHeaderSection",
         "id": "sectionheader1",
         "isBgBlue": true,
@@ -4027,7 +4029,7 @@
         "text": "Deliver More Value with Less Effort"
       },
       {
-        "_key": "xcwigj6sqz",
+        "_key": "q39ljgj3l1",
         "_type": "quickActionCardParentSection",
         "bgColor": "brand",
         "hasCardBackground": false,
@@ -4035,19 +4037,19 @@
         "isChild": true,
         "quickActionCard": [
           {
-            "_key": "u5o9df1n9x",
+            "_key": "83q53f6cmu",
             "description": "Onboard customers in minutes instead of days.",
             "icon": null,
             "title": "Faster Turnaround Time"
           },
           {
-            "_key": "jxo9k3ac05",
+            "_key": "pjuh8kf97o",
             "description": "Reduce paperwork, branches, and manual effort.",
             "icon": null,
             "title": "Lower Operational Cost"
           },
           {
-            "_key": "79rn44p1xd",
+            "_key": "zh7ymz72id",
             "description": "Deliver digital banking services anywhere.",
             "icon": null,
             "title": "Better Customer Experience"
@@ -4055,36 +4057,75 @@
         ]
       },
       {
-        "_key": "kq2wlnhw6i",
+        "_key": "l4jnjxhwa5",
         "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
         "hasPadding": false,
         "id": "articles2",
         "isBgBlue": true,
         "mediaInfoCardData": [
           {
-            "_key": "kwghchkcok",
+            "_key": "4zyikipknm",
             "description": "Encrypted records and strong identity checks.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Enhanced Security"
           },
           {
-            "_key": "68jow6amej",
+            "_key": "xjxfwvuqij",
             "description": "Automated data capture eliminates human errors.",
+            "descriptionClassName": "",
             "image": null,
+            "imageAlt": "",
             "title": "Higher Accuracy"
           }
         ]
       },
       {
-        "_key": "lilj41n62n",
+        "_key": "jjkiw9jlus",
         "_type": "sectionHeaderSection",
         "id": "sectionheader2",
         "isBgBlue": false,
         "isTitleOnly": true,
-        "text": "-"
+        "text": {
+          "title": [
+            {
+              "_key": "zbn8ucgp6f",
+              "color": "text-black",
+              "text": "A "
+            },
+            {
+              "_key": "wjbrcn7y91",
+              "color": "text-[#EE6832]",
+              "text": "Strategic Advantage "
+            },
+            {
+              "_key": "3d66bu8at3",
+              "color": "text-black",
+              "text": "for "
+            },
+            {
+              "_key": "so30vfbgk2",
+              "color": "text-brand-600",
+              "text": "Digital Banking"
+            }
+          ],
+          "variant": "h1"
+        }
       },
       {
-        "_key": "58hfjsmhvt",
+        "_key": "bbtmjs1s7o",
         "_type": "quickActionCardParentSection",
         "bgColor": "white",
         "hasCardBackground": true,
@@ -4092,19 +4133,19 @@
         "isChild": false,
         "quickActionCard": [
           {
-            "_key": "bdiba1xmpx",
+            "_key": "ljuourp522",
             "description": "Onboard customers in minutes instead of days.",
             "icon": null,
             "title": "Faster Turnaround Time"
           },
           {
-            "_key": "6bc03img3z",
+            "_key": "l7l9gsegmi",
             "description": "Reduce paperwork, branches, and manual effort.",
             "icon": null,
             "title": "Lower Operational Cost"
           },
           {
-            "_key": "5e57no7621",
+            "_key": "utdad1t2hg",
             "description": "Deliver digital banking services anywhere.",
             "icon": null,
             "title": "Better Customer Experience"
@@ -4112,39 +4153,39 @@
         ]
       },
       {
-        "_key": "v323hu6wpw",
+        "_key": "pq0vd6tz4l",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
         "titleParts": [
           {
-            "_key": "4vlzpzizbo",
+            "_key": "spyvu5r7uv",
             "color": "",
             "text": "Ready to "
           },
           {
-            "_key": "2c87qixlvv",
+            "_key": "3dc4vce9n5",
             "color": "text-[#EE6832]",
             "text": "Transform "
           },
           {
-            "_key": "3ql6rhl3jr",
+            "_key": "gv6hgt5xsd",
             "color": "",
             "text": "Your "
           },
           {
-            "_key": "a5tckoidav",
+            "_key": "x3baop3fb5",
             "color": "text-[#EE6832]",
             "text": "Banking "
           },
           {
-            "_key": "b3g0auxrh4",
+            "_key": "7t5xiq93sb",
             "color": "text-brand-600",
             "text": "Experience"
           },
           {
-            "_key": "8nxy804q6p",
+            "_key": "cte3j9y4f5",
             "color": "",
             "text": "?"
           }
@@ -4153,6 +4194,7 @@
     ],
     "seo": {
       "description": "MobiProPlus delivers seamless tab banking and mobile field services, enabling banks to serve customers anywhere with secure digital onboarding and transactions.",
+      "image": null,
       "keywords": [
         "tab banking",
         "mobile field banking",
