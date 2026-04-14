@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "GWOVDfiedfaJZayS3Vm5q7",
+    "_rev": "GWOVDfiedfaJZayS3Vpa6N",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "bKHpsvURqF4u6lEZfMzkXs"
+        "rev": "GWOVDfiedfaJZayS3Vm5q7"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T07:07:12Z",
+    "_updatedAt": "2026-04-14T07:29:52Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -630,7 +630,7 @@
         "image": null,
         "subtitle": "Switch to EasyBankCore® – the next-gen cloud-native, SaaS-based digital banking platform designed to supercharge your core systems, empower your teams, and accelerate growth.",
         "title": "Break free from legacy barriers",
-        "variant": "split"
+        "variant": "stacked"
       },
       {
         "_key": "23z3iasofz",
