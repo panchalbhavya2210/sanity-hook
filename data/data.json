@@ -1109,15 +1109,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "iezjcqj9vs7hR9drrnbG8R",
+    "_rev": "GWOVDfiedfaJZayS3WD2ux",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "GWOVDfiedfaJZayS3W2d0F"
+        "rev": "iezjcqj9vs7hR9drrnbG8R"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T09:59:35Z",
+    "_updatedAt": "2026-04-14T10:34:15Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -1580,7 +1580,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "/services/core-modernization"
+      "current": "services/core-modernization"
     },
     "title": "Core Modernization"
   },
