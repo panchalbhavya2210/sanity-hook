@@ -610,6 +610,836 @@
     ]
   },
   {
+    "_createdAt": "2026-04-14T05:13:07Z",
+    "_id": "digi-x",
+    "_rev": "GWOVDfiedfaJZayS3VcAVn",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-14T05:13:07Z",
+    "sections": [
+      {
+        "_key": "74bxj3azzl",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Experience a unified, always-on, API-first digital banking suite that transforms how your customers bank across all channels, securely and instantly.",
+        "title": "Harness the power of Digital Integrations Embrace Digi.X TM"
+      },
+      {
+        "_key": "olda8wgr4e",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "des3quoquu",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Mobile",
+              "Internet",
+              "Tab",
+              "WhatsApp",
+              "Self-Service Kiosks",
+              "IVR"
+            ],
+            "title": "Omni-Channel Access"
+          },
+          {
+            "_key": "57kdvw32s9",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "UPI",
+              "IMPS",
+              "NEFT",
+              "RTGS",
+              "NACH",
+              "Cards",
+              "Cheque Truncation"
+            ],
+            "title": "Integrated with Payment Systems"
+          },
+          {
+            "_key": "lovytkmg1u",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Built on AI ",
+              "Blockchain",
+              "Biometric Security",
+              "Cloud Native",
+              "API-first"
+            ],
+            "title": "Tech Stack of the Future"
+          },
+          {
+            "_key": "bdxq04j7j3",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Rapid Deployment",
+              "Low Risk",
+              "Modular Architecture",
+              "High ROI",
+              "Quick Integrations"
+            ],
+            "title": "Speed Up Go-to-Market Strategy"
+          }
+        ],
+        "headerSubtitle": "DiGi.X  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
+        "id": "coreInfo",
+        "logo": {
+          "alt": "bank-core",
+          "src": null
+        },
+        "titleText": {
+          "title": [
+            {
+              "_key": "egu82ha28z",
+              "color": "text-warning",
+              "text": "Reappraise "
+            },
+            {
+              "_key": "9qfcubemps",
+              "color": "text-black",
+              "text": "Your "
+            },
+            {
+              "_key": "ycijtgd8ue",
+              "color": "text-brand-600",
+              "text": "Digital "
+            },
+            {
+              "_key": "wt1x1qbywm",
+              "color": "text-black",
+              "text": "Core"
+            }
+          ],
+          "variant": "h1"
+        }
+      },
+      {
+        "_key": "php0k6od8u",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "012hjvzi0i",
+            "description": "Your bank anywhere, anytime, no branch limitations.",
+            "icon": null,
+            "title": "Your Bank Anytime, Anywhere"
+          },
+          {
+            "_key": "c9iidrnl46",
+            "description": "Save time, paper, and overhead costs.",
+            "icon": null,
+            "title": "Cost-Effectiveness"
+          },
+          {
+            "_key": "d3ig143htn",
+            "description": "Empower rural and unbanked communities.",
+            "icon": null,
+            "title": "Financial Inclusion"
+          },
+          {
+            "_key": "cteligrjcg",
+            "description": "Smarter service, secure transactions, easyonboarding.",
+            "icon": null,
+            "title": "AI + Blockchain"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. DiGi.X redefines banking at every level.",
+          "text": {
+            "title": [
+              {
+                "_key": "cxzsa78h8m",
+                "color": "text-white",
+                "text": "More Than Convenience. It’s Transformation."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "2msf2g927f",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions.",
+          "text": "Business Payoffs That Drive Growth"
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent",
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "dzskbis4n1",
+            "description": "Extensive API library ensures seamless integration into existing system landscape.",
+            "title": "Ease of Integration"
+          },
+          {
+            "_key": "gqtdoh3i4g",
+            "description": "Wide range of user-defined configuration options for unique requirements. Easily add new functions, payment schemes, clearing access, etc.",
+            "title": "Flexibility"
+          },
+          {
+            "_key": "8rmu7dyg8n",
+            "description": "Flexible allocation of resources to match changing payments traffic volumes.",
+            "title": "Scalability"
+          },
+          {
+            "_key": "l63d5cfyce",
+            "description": "Maximum STP rates and highly automated exception handling.",
+            "title": "Straight Through Processing"
+          },
+          {
+            "_key": "ruzks6qzyc",
+            "description": "Ensures entire range of payments functions for smooth processing of payments.",
+            "title": "End-to-End Processing"
+          },
+          {
+            "_key": "cvw7aobkrz",
+            "description": "Highly configurable to adapt to changing regulatory and message format configurations. Achieve standard bank-grade NFRs, adherence to cloud, cybersecurity standards, and regulatory compliance.",
+            "title": "Regulatory & Security"
+          }
+        ]
+      },
+      {
+        "_key": "hi3l2qrqab",
+        "_type": "imageSectionSingle",
+        "id": "imageSection",
+        "imageAlt": "digi-x-image",
+        "imageHeight": 778,
+        "imageSource": null,
+        "imageWidth": 767,
+        "isBgBlue": false
+      },
+      {
+        "_key": "wmydavills",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite2",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "9b46s3no35",
+            "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
+            "icon": null
+          },
+          {
+            "_key": "h7zxszp8td",
+            "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
+            "icon": null
+          },
+          {
+            "_key": "yi355k8o30",
+            "description": "Built for Cloud with Cybersecurity @ Core",
+            "icon": null
+          },
+          {
+            "_key": "jsu2dhblau",
+            "description": "DevOps ensures easy maintenance & upgrades",
+            "icon": null
+          },
+          {
+            "_key": "anueikdsja",
+            "description": "Elevate Cross & Upsellin",
+            "icon": null
+          },
+          {
+            "_key": "lehe40dea3",
+            "description": "Easy Account Aggregator & Fintech Integration",
+            "icon": null
+          },
+          {
+            "_key": "p9poffzj63",
+            "description": "API-First enables easy integrations with CBS & Central Payment Systems",
+            "icon": null
+          },
+          {
+            "_key": "gcttkya3k1",
+            "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
+            "icon": null
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Empower your bank to thrive in a digital-first world with seamless integration, regulatory compliance, and future-ready infrastructure.",
+          "text": {
+            "title": [
+              {
+                "_key": "l3zfa8uisz",
+                "color": "text-white",
+                "text": "Partner with Bankai to Lead Digital Banking"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "7vg8dn2wzq",
+        "_type": "bankingPlatformChannel",
+        "data": {
+          "backOffice": [
+            {
+              "_key": "4rv8orkg1p",
+              "icon": null,
+              "label": "Core Banking"
+            },
+            {
+              "_key": "c7jhn40c41",
+              "icon": null,
+              "label": "Payments"
+            }
+          ],
+          "channels": [
+            {
+              "_key": "nx06zxzymx",
+              "icon": null,
+              "label": "Mobile"
+            },
+            {
+              "_key": "rft2enhbfi",
+              "icon": null,
+              "label": "Internet"
+            },
+            {
+              "_key": "d4pw108zrl",
+              "icon": null,
+              "label": "Call Center"
+            },
+            {
+              "_key": "jqjc85nz2y",
+              "icon": null,
+              "label": "Branch"
+            },
+            {
+              "_key": "3ddvl5wb6s",
+              "icon": null,
+              "label": "Agent"
+            },
+            {
+              "_key": "ypp303lbbx",
+              "icon": null,
+              "label": "ATM"
+            },
+            {
+              "_key": "1d9nsr3pcb",
+              "icon": null,
+              "label": "API"
+            },
+            {
+              "_key": "ky0v9g7htg",
+              "icon": null,
+              "label": "Kiosk"
+            }
+          ],
+          "footer": "Open Banking Marketplace",
+          "frontOffice": [
+            {
+              "_key": "2bvb3sr2w7",
+              "icon": null,
+              "label": "Marketing"
+            },
+            {
+              "_key": "rqugoxuz1i",
+              "icon": null,
+              "label": "Sales"
+            },
+            {
+              "_key": "pithc7mqfh",
+              "icon": null,
+              "label": "Services"
+            }
+          ],
+          "sideBlocks": {
+            "left": "Risk and Compliance",
+            "right": "Analytics"
+          }
+        },
+        "id": "bankingPlatformChannel"
+      },
+      {
+        "_key": "j2pgkew86x",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "9npkvem7et",
+            "description": "Any platform, any time, any device",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "swjiiw3q20",
+                  "color": "",
+                  "text": "Omni-device "
+                },
+                {
+                  "_key": "lhhlwoz8xa",
+                  "color": "text-[#EE6832]",
+                  "text": "Banking "
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "1jvvmtldq5",
+            "description": "Real-time data to drive decisions",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "ae31iyoim2",
+                  "color": "",
+                  "text": "Actionable "
+                },
+                {
+                  "_key": "z675fjj0gw",
+                  "color": "text-brand-600",
+                  "text": "Insights"
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "v5h46vpz64",
+            "description": "Integrate with fintechs, CBS & payment systems",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "3et2hrjf79",
+                  "color": "",
+                  "text": "Open "
+                },
+                {
+                  "_key": "qmlv5qv2hr",
+                  "color": "text-brand-600",
+                  "text": "Banking "
+                },
+                {
+                  "_key": "z13f1t0wu1",
+                  "color": "",
+                  "text": "API "
+                },
+                {
+                  "_key": "cqtdadj8nw",
+                  "color": "text-[#EE6832]",
+                  "text": "Ecosystem"
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          {
+            "_key": "rqb29292me",
+            "description": "Stay ahead of competition without delays",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "title": {
+              "title": [
+                {
+                  "_key": "4ml38fn4oe",
+                  "color": "",
+                  "text": "Launch "
+                },
+                {
+                  "_key": "jl8ccl39ys",
+                  "color": "text-brand-600",
+                  "text": "Ready "
+                },
+                {
+                  "_key": "p3tbjtz2pv",
+                  "color": "",
+                  "text": "Products"
+                }
+              ],
+              "variant": "h1"
+            }
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "text": "Built to Empower Banks Digitally"
+        }
+      },
+      {
+        "_key": "9n2q02tl01",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "DiGi.X is powered by AI and Machine Learning for contextual engagement and predictive automation.",
+          "text": {
+            "title": [
+              {
+                "_key": "417ua7di19",
+                "color": "text-[#F5BA25]",
+                "text": "Smarter "
+              },
+              {
+                "_key": "advxu7cvsq",
+                "color": "text-brand-600",
+                "text": "Banking "
+              },
+              {
+                "_key": "dndswrefjr",
+                "color": "",
+                "text": "Starts "
+              },
+              {
+                "_key": "juc3ht9hxh",
+                "color": "",
+                "text": "with Smarter "
+              },
+              {
+                "_key": "i7d3ndvvz4",
+                "color": "text-[#EE6832]",
+                "text": "Systems"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "u1xw2osh57",
+            "description": "Instant query resolution with contextual understanding",
+            "title": "AI-Powered Chatbots"
+          },
+          {
+            "_key": "m24icnxpxe",
+            "description": "Personalize experiences based on user patterns",
+            "title": "Behavior Analytics"
+          },
+          {
+            "_key": "lof54lxhgy",
+            "description": "Fast and secure logins across platforms",
+            "title": "Biometric Authentication"
+          },
+          {
+            "_key": "idbvdypw5e",
+            "description": "Proactive alerts and ML-based fraud analytics",
+            "title": "Fraud Detection & Automation"
+          }
+        ]
+      },
+      {
+        "_key": "9yuc8bra58",
+        "_type": "sectionHeaderSection",
+        "className": "pt-[50px]",
+        "icon": null,
+        "id": "sectionHeader",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "subTitleText": "From EFT, Payment Switches interfaces to API integrations, deploy scalable, secure, and customer-friendly digital banking services with ease.",
+        "text": "Comprehensive Suite of Digital Banking Integrations"
+      },
+      {
+        "_key": "1lp60gd2lz",
+        "_type": "bankingFeatures",
+        "data": [
+          {
+            "_key": "j23vbqdeu6",
+            "items": [
+              {
+                "_key": "jiqcicsrph",
+                "cols": 3,
+                "title": "Re-KYC (Web Portal)"
+              },
+              {
+                "_key": "qjabuvz5af",
+                "cols": 3,
+                "title": "Positive Pay System (PPS)"
+              },
+              {
+                "_key": "fyqek6c7uh",
+                "cols": 3,
+                "title": "NACH Mandate Cancellation"
+              },
+              {
+                "_key": "x4g7gvas3j",
+                "cols": 3,
+                "title": "Mobile MIS"
+              }
+            ]
+          },
+          {
+            "_key": "r33d55ovku",
+            "items": [
+              {
+                "_key": "k1dr8p6on6",
+                "cols": 3,
+                "title": "Daksh-Portal Reports - Regtech"
+              },
+              {
+                "_key": "uy0lk1qo1y",
+                "cols": 3,
+                "title": "ASBA Management"
+              },
+              {
+                "_key": "xomu398bs",
+                "cols": 3,
+                "title": "Digitally Signed PDF Report"
+              },
+              {
+                "_key": "7de3c3zylr",
+                "cols": 3,
+                "title": "UPI Lite"
+              }
+            ]
+          },
+          {
+            "_key": "hnr9hk6hwt",
+            "items": [
+              {
+                "_key": "s4bwe49bku",
+                "cols": 3,
+                "title": "Bank Guarantee & Letter of Credit (L/C) integration SFMS"
+              },
+              {
+                "_key": "t11zcdf25m",
+                "cols": 3,
+                "title": "UPI/IMPS/BBPS Switch Interface"
+              },
+              {
+                "_key": "3v1q2cae5z",
+                "cols": 3,
+                "title": "Bharat Connect (BBPS) – Bill Payment Integration"
+              },
+              {
+                "_key": "jr45bs0x5r",
+                "cols": 3,
+                "title": "NDS-OM Integration for investment & T-Bill, TREPS"
+              }
+            ]
+          },
+          {
+            "_key": "eloesxg6cp",
+            "items": [
+              {
+                "_key": "8niyq6j5qp",
+                "cols": 3,
+                "description": "Passbook Printing, Cheque Deposit, Cash Deposit",
+                "title": "Self Service KIOSK"
+              },
+              {
+                "_key": "jrxp7thmwp",
+                "cols": 3,
+                "description": "OTP / TOTP / Bio Metric Device",
+                "title": "2FA Authentication"
+              },
+              {
+                "_key": "07gmn7z7lk",
+                "cols": 3,
+                "description": "Complaint Management",
+                "title": "Online Dispute Resolution"
+              },
+              {
+                "_key": "dm09n5by0a",
+                "cols": 3,
+                "description": "ATM, POS, E-Comm, IMPS, UPI",
+                "title": "Digital Payment Reconciliation"
+              }
+            ]
+          },
+          {
+            "_key": "ok0makxlkk",
+            "items": [
+              {
+                "_key": "u0bkatmfji",
+                "cols": 3,
+                "points": [
+                  "Miscall Services",
+                  "Long Code / IVR Services",
+                  "SMS Banking - Push & Pull Services",
+                  "EasyBot (ChatBot)",
+                  "Cyber Security Sathi (1930)",
+                  "NCRP – I4C API integration",
+                  "Email Consent"
+                ],
+                "title": "Value Added Services (VAS)"
+              },
+              {
+                "_key": "pblo4b1gky",
+                "cols": 3,
+                "points": [
+                  "RTGS / NEFT",
+                  "Direct & Sub Member/Sponsor Bank",
+                  "CHI",
+                  "Continuous Clearing",
+                  "NACH"
+                ],
+                "title": "Central Payment Systems"
+              },
+              {
+                "_key": "gxofejnzid",
+                "cols": 3,
+                "points": [
+                  "E-Mandate Inward Destination Bank",
+                  "E-Mandate Outward Source Bank",
+                  "BBPS",
+                  "Loan Repayment",
+                  "FASTag",
+                  "Video KYC",
+                  "WhatsApp Banking",
+                  "QR Code Collection"
+                ],
+                "title": "API Integration"
+              },
+              {
+                "_key": "cckurxgjtn",
+                "cols": 3,
+                "points": [
+                  "BASE (Aadhaar Seeding)",
+                  "PAN Verification",
+                  "LOS",
+                  "Income Tax Validation",
+                  "BANL"
+                ],
+                "title": "API Integration 2"
+              }
+            ]
+          },
+          {
+            "_key": "204m4qg51y",
+            "items": [
+              {
+                "_key": "ohitm5f00d",
+                "cols": 4,
+                "points": [
+                  "Net Banking",
+                  "Aadhaar",
+                  "Simplified"
+                ],
+                "title": "API Mandate (Destination Bank)"
+              },
+              {
+                "_key": "66ps6my1pt",
+                "cols": 4,
+                "points": [
+                  "IMPS",
+                  "NFS",
+                  "UPI"
+                ],
+                "title": "Unified Dispute & Issue Resolution"
+              },
+              {
+                "_key": "cpg08fswnz",
+                "cols": 4,
+                "points": [
+                  "Transaction Alerts",
+                  "E-Statement",
+                  "Schedule Notifications"
+                ],
+                "title": "Email Service"
+              }
+            ]
+          },
+          {
+            "_key": "ooukow6hdg",
+            "items": [
+              {
+                "_key": "h5tjq09pm0",
+                "cols": 6,
+                "title": "ATM, POS, E-Comm Switch Interface"
+              },
+              {
+                "_key": "yy18m4hiz7",
+                "cols": 6,
+                "title": "Payment Gateway API Integration"
+              }
+            ]
+          }
+        ],
+        "id": "bankingFeatures"
+      },
+      {
+        "_key": "g0ffzkab2y",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "text": {
+          "title": [
+            {
+              "_key": "2ixinoo76g",
+              "color": "",
+              "text": "Ready to "
+            },
+            {
+              "_key": "ho57y9nlhv",
+              "color": "text-[#EE6832]",
+              "text": "Transform "
+            },
+            {
+              "_key": "ox3bof4d2",
+              "color": "",
+              "text": "Your "
+            },
+            {
+              "_key": "kgghz43ohu",
+              "color": "text-[#EE6832]",
+              "text": "Banking "
+            },
+            {
+              "_key": "fzqv1qybhe",
+              "color": "text-brand-600",
+              "text": "Experience"
+            },
+            {
+              "_key": "0yln5nvppa",
+              "color": "",
+              "text": "?"
+            }
+          ],
+          "variant": "h1"
+        }
+      }
+    ],
+    "seo": {
+      "description": "Digi.X™ is an API-first digital banking stack that helps banks deliver omnichannel experiences, payments integration, and AI-driven customer journeys.",
+      "image": null,
+      "keywords": [
+        "digital banking stack",
+        "omnichannel banking",
+        "API-first banking",
+        "fintech integration",
+        "payments platform"
+      ],
+      "ogDescription": "Build, deliver, and analyze digital banking experiences with Digi.X™ — a unified stack for modern financial institutions.",
+      "ogTitle": "Digi.X™ | Digital Banking Stack for Modern Banks",
+      "title": "Digi.X™ Digital Banking Stack | BankAI",
+      "url": "https://yourdomain.com/xcelerators/digi-x"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "digi-x"
+    },
+    "title": "Digi X"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
