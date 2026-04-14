@@ -3047,15 +3047,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "iezjcqj9vs7hR9drrnY1Ia",
+    "_rev": "bKHpsvURqF4u6lEZfN5G42",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "bKHpsvURqF4u6lEZfN4whR"
+        "rev": "iezjcqj9vs7hR9drrnY1Ia"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T07:53:40Z",
+    "_updatedAt": "2026-04-14T07:57:28Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -3464,7 +3464,8 @@
         "_key": "tqfk4aw6t0",
         "_type": "quickActionCardParentSection",
         "bgColor": "bg-brand-600",
-        "id": "quickActionCardParent6",
+        "hasCardBackground": true,
+        "id": "quickActionCardParent",
         "isChild": true,
         "quickActionCard": [
           {
