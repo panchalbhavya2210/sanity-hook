@@ -610,25 +610,25 @@
     ]
   },
   {
-    "_createdAt": "2026-04-14T05:16:32Z",
+    "_createdAt": "2026-04-14T05:24:02Z",
     "_id": "digi-x",
-    "_rev": "iezjcqj9vs7hR9drrnUcYw",
+    "_rev": "iezjcqj9vs7hR9drrnUcp7",
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T05:23:38Z",
+    "_updatedAt": "2026-04-14T05:24:02Z",
     "sections": [
       {
-        "_key": "p6kobd6mpe",
+        "_key": "afdkvcwxlt",
         "_type": "heroSection",
         "id": "hero",
         "subtitle": "Experience a unified, always-on, API-first digital banking suite that transforms how your customers bank across all channels, securely and instantly.",
         "title": "Harness the power of Digital Integrations Embrace Digi.X TM"
       },
       {
-        "_key": "asl3l26cis",
+        "_key": "nstwyzy3h8",
         "_type": "coreInfoSection",
         "features": [
           {
-            "_key": "khxup3iw97",
+            "_key": "rh92o5ftgp",
             "hasList": true,
             "icon": null,
             "listData": [
@@ -642,7 +642,7 @@
             "title": "Omni-Channel Access"
           },
           {
-            "_key": "3odqcq6wbg",
+            "_key": "u7pfk5u62n",
             "hasList": true,
             "icon": null,
             "listData": [
@@ -657,7 +657,7 @@
             "title": "Integrated with Payment Systems"
           },
           {
-            "_key": "7gnvgmfs22",
+            "_key": "8ggd28qfgg",
             "hasList": true,
             "icon": null,
             "listData": [
@@ -670,7 +670,7 @@
             "title": "Tech Stack of the Future"
           },
           {
-            "_key": "lrd5t56x9y",
+            "_key": "0c62ywekma",
             "hasList": true,
             "icon": null,
             "listData": [
@@ -692,22 +692,22 @@
         "text": {
           "title": [
             {
-              "_key": "4x1sg0i1b2",
+              "_key": "zb16nc7el3",
               "color": "text-warning",
               "text": "Reappraise "
             },
             {
-              "_key": "ao7i6fpjpp",
+              "_key": "4k7q5fcesu",
               "color": "text-black",
               "text": "Your "
             },
             {
-              "_key": "0j8r7mi5vz",
+              "_key": "oz0xtcvu7y",
               "color": "text-brand-600",
               "text": "Digital "
             },
             {
-              "_key": "pplgrpcr4t",
+              "_key": "6wob0rjph4",
               "color": "text-black",
               "text": "Core"
             }
@@ -716,31 +716,31 @@
         }
       },
       {
-        "_key": "wzy6g19fsn",
+        "_key": "x10zib6y56",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite1",
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "5bu0nkhnso",
+            "_key": "5asc6zn5bi",
             "description": "Your bank anywhere, anytime, no branch limitations.",
             "icon": null,
             "title": "Your Bank Anytime, Anywhere"
           },
           {
-            "_key": "rsefgddq38",
+            "_key": "nervmnrzck",
             "description": "Save time, paper, and overhead costs.",
             "icon": null,
             "title": "Cost-Effectiveness"
           },
           {
-            "_key": "8admioo5pe",
+            "_key": "m9gaxgp8cl",
             "description": "Empower rural and unbanked communities.",
             "icon": null,
             "title": "Financial Inclusion"
           },
           {
-            "_key": "8r7mwlfrdp",
+            "_key": "5zfhiji20e",
             "description": "Smarter service, secure transactions, easyonboarding.",
             "icon": null,
             "title": "AI + Blockchain"
@@ -752,7 +752,7 @@
           "text": {
             "title": [
               {
-                "_key": "brlfhhlafh",
+                "_key": "4gixziwp0x",
                 "color": "text-white",
                 "text": "More Than Convenience. It’s Transformation."
               }
@@ -762,37 +762,37 @@
         }
       },
       {
-        "_key": "3kxjtt1p44",
+        "_key": "78u407wl9h",
         "_type": "quickActionCardParentSection",
         "bgColor": "white",
         "cards": [
           {
-            "_key": "xekuhli43c",
+            "_key": "sfkds80ei7",
             "description": "Extensive API library ensures seamless integration into existing system landscape.",
             "title": "Ease of Integration"
           },
           {
-            "_key": "00aq8on7v1",
+            "_key": "mz4uck2k3e",
             "description": "Wide range of user-defined configuration options for unique requirements. Easily add new functions, payment schemes, clearing access, etc.",
             "title": "Flexibility"
           },
           {
-            "_key": "hngkzeflcs",
+            "_key": "yqpbb8bkpq",
             "description": "Flexible allocation of resources to match changing payments traffic volumes.",
             "title": "Scalability"
           },
           {
-            "_key": "bx3anb89wb",
+            "_key": "4up8npfc86",
             "description": "Maximum STP rates and highly automated exception handling.",
             "title": "Straight Through Processing"
           },
           {
-            "_key": "hovo0eds0d",
+            "_key": "vqfb5mfrwx",
             "description": "Ensures entire range of payments functions for smooth processing of payments.",
             "title": "End-to-End Processing"
           },
           {
-            "_key": "ppaafw2lhn",
+            "_key": "h3cclyvj1m",
             "description": "Highly configurable to adapt to changing regulatory and message format configurations. Achieve standard bank-grade NFRs, adherence to cloud, cybersecurity standards, and regulatory compliance.",
             "title": "Regulatory & Security"
           }
@@ -806,7 +806,7 @@
         "isTextBlack": true
       },
       {
-        "_key": "yphfocwgod",
+        "_key": "okga09s86c",
         "_type": "imageSectionSingle",
         "id": "imageSection",
         "imageAlt": "digi-x-image",
@@ -816,48 +816,48 @@
         "isBgBlue": false
       },
       {
-        "_key": "5kmob1xk13",
+        "_key": "uypc2wf8er",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite2",
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "6gaoen05oh",
+            "_key": "3ik5scmk6a",
             "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
             "icon": null
           },
           {
-            "_key": "95pk4yx5fr",
+            "_key": "vtnv6wxois",
             "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
             "icon": null
           },
           {
-            "_key": "lqzjpgvefu",
+            "_key": "mb9bfa1t19",
             "description": "Built for Cloud with Cybersecurity @ Core",
             "icon": null
           },
           {
-            "_key": "93ws1cjne9",
+            "_key": "91i9un0wwh",
             "description": "DevOps ensures easy maintenance & upgrades",
             "icon": null
           },
           {
-            "_key": "gk5vkdiwy7",
+            "_key": "yzoaj5t6j2",
             "description": "Elevate Cross & Upsellin",
             "icon": null
           },
           {
-            "_key": "0oi79c8wea",
+            "_key": "suphefcw4g",
             "description": "Easy Account Aggregator & Fintech Integration",
             "icon": null
           },
           {
-            "_key": "gi532r5ecn",
+            "_key": "lraghteh13",
             "description": "API-First enables easy integrations with CBS & Central Payment Systems",
             "icon": null
           },
           {
-            "_key": "eh6gn30y7j",
+            "_key": "5nbhhw5n7j",
             "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
             "icon": null
           }
@@ -868,7 +868,7 @@
           "text": {
             "title": [
               {
-                "_key": "ll4ffny98h",
+                "_key": "9ekwhk55ja",
                 "color": "text-white",
                 "text": "Partner with Bankai to Lead Digital Banking"
               }
@@ -878,59 +878,59 @@
         }
       },
       {
-        "_key": "iylzvu81ct",
+        "_key": "3s3q22wecz",
         "_type": "bankingPlatformChannel",
         "data": {
           "backOffice": [
             {
-              "_key": "dks9782ol6",
+              "_key": "0nxiwwbqp9",
               "icon": null,
               "label": "Core Banking"
             },
             {
-              "_key": "ka31a6pic5",
+              "_key": "kc1zg5na6t",
               "icon": null,
               "label": "Payments"
             }
           ],
           "channels": [
             {
-              "_key": "i6s72ckgmp",
+              "_key": "6cm6qt20w1",
               "icon": null,
               "label": "Mobile"
             },
             {
-              "_key": "vhu825rnet",
+              "_key": "lcr06mpr08",
               "icon": null,
               "label": "Internet"
             },
             {
-              "_key": "cqbjqrwxxs",
+              "_key": "sr769tjiwt",
               "icon": null,
               "label": "Call Center"
             },
             {
-              "_key": "rfbogdy16d",
+              "_key": "jzq27h7tp0",
               "icon": null,
               "label": "Branch"
             },
             {
-              "_key": "eztm2ax4vd",
+              "_key": "axz0oyhy7g",
               "icon": null,
               "label": "Agent"
             },
             {
-              "_key": "p815x1dxrb",
+              "_key": "ke2424udi7",
               "icon": null,
               "label": "ATM"
             },
             {
-              "_key": "v589xqhhhj",
+              "_key": "4gsizjci2k",
               "icon": null,
               "label": "API"
             },
             {
-              "_key": "av9or8v3pd",
+              "_key": "r9f48bdtd1",
               "icon": null,
               "label": "Kiosk"
             }
@@ -938,17 +938,17 @@
           "footer": "Open Banking Marketplace",
           "frontOffice": [
             {
-              "_key": "ornndvda0e",
+              "_key": "fr6z0osdbd",
               "icon": null,
               "label": "Marketing"
             },
             {
-              "_key": "ajrinkrlsy",
+              "_key": "tdacxylto8",
               "icon": null,
               "label": "Sales"
             },
             {
-              "_key": "jy64gnjfrh",
+              "_key": "hrxh6ec8ed",
               "icon": null,
               "label": "Services"
             }
@@ -961,11 +961,11 @@
         "id": "bankingPlatformChannel"
       },
       {
-        "_key": "fsmoso2qad",
+        "_key": "hs5obly747",
         "_type": "platformCapabilitiesSection",
         "capabilities": [
           {
-            "_key": "7pw688nlwm",
+            "_key": "apmvxne9ve",
             "description": "Any platform, any time, any device",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -974,12 +974,12 @@
             "title": {
               "title": [
                 {
-                  "_key": "e9tqrj1cdu",
+                  "_key": "jw48rwurc6",
                   "color": "",
                   "text": "Omni-device "
                 },
                 {
-                  "_key": "ayjdfz4qwv",
+                  "_key": "y36vhzg3wq",
                   "color": "text-[#EE6832]",
                   "text": "Banking "
                 }
@@ -988,7 +988,7 @@
             }
           },
           {
-            "_key": "xfxoo632mw",
+            "_key": "20cjwtcrxz",
             "description": "Real-time data to drive decisions",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -997,12 +997,12 @@
             "title": {
               "title": [
                 {
-                  "_key": "ou92igarwh",
+                  "_key": "urqnhscx75",
                   "color": "",
                   "text": "Actionable "
                 },
                 {
-                  "_key": "eauqcr6v1q",
+                  "_key": "47haxk5seb",
                   "color": "text-brand-600",
                   "text": "Insights"
                 }
@@ -1011,7 +1011,7 @@
             }
           },
           {
-            "_key": "y0jzwjr9g1",
+            "_key": "v2h288cqut",
             "description": "Integrate with fintechs, CBS & payment systems",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
@@ -1020,22 +1020,22 @@
             "title": {
               "title": [
                 {
-                  "_key": "5d8nln4wss",
+                  "_key": "y0ldeejo98",
                   "color": "",
                   "text": "Open "
                 },
                 {
-                  "_key": "lwc2e7flge",
+                  "_key": "4lt859s1vy",
                   "color": "text-brand-600",
                   "text": "Banking "
                 },
                 {
-                  "_key": "bqcmy66zf",
+                  "_key": "wgw7um8jxt",
                   "color": "",
                   "text": "API "
                 },
                 {
-                  "_key": "1qegrnel2z",
+                  "_key": "n35tt55e5l",
                   "color": "text-[#EE6832]",
                   "text": "Ecosystem"
                 }
@@ -1044,7 +1044,7 @@
             }
           },
           {
-            "_key": "oycxp9g71m",
+            "_key": "t7a8klyiyh",
             "description": "Stay ahead of competition without delays",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
@@ -1053,17 +1053,17 @@
             "title": {
               "title": [
                 {
-                  "_key": "siqvo1qjvn",
+                  "_key": "6kt87zkgw4",
                   "color": "",
                   "text": "Launch "
                 },
                 {
-                  "_key": "umbauzb5ru",
+                  "_key": "yh01m1hltk",
                   "color": "text-brand-600",
                   "text": "Ready "
                 },
                 {
-                  "_key": "t94z5kjbv2",
+                  "_key": "cyrkshj0ni",
                   "color": "",
                   "text": "Products"
                 }
@@ -1082,27 +1082,27 @@
         "isTextBlack": true
       },
       {
-        "_key": "w4qoh7y2ro",
+        "_key": "au5ur888vj",
         "_type": "quickActionCardParentSection",
         "bgColor": "white",
         "cards": [
           {
-            "_key": "y5ygwlypmd",
+            "_key": "dmm29ndlpr",
             "description": "Instant query resolution with contextual understanding",
             "title": "AI-Powered Chatbots"
           },
           {
-            "_key": "w4ybsu4g8f",
+            "_key": "46ywbxj5jt",
             "description": "Personalize experiences based on user patterns",
             "title": "Behavior Analytics"
           },
           {
-            "_key": "h0jogo9z4b",
+            "_key": "9j5y9hq8z9",
             "description": "Fast and secure logins across platforms",
             "title": "Biometric Authentication"
           },
           {
-            "_key": "paruc9b2a5",
+            "_key": "7un2fczpwq",
             "description": "Proactive alerts and ML-based fraud analytics",
             "title": "Fraud Detection & Automation"
           }
@@ -1113,27 +1113,27 @@
           "text": {
             "title": [
               {
-                "_key": "kfbq9ij1dl",
+                "_key": "zeogq4inzv",
                 "color": "text-[#F5BA25]",
                 "text": "Smarter "
               },
               {
-                "_key": "g8ww7ud2v3",
+                "_key": "d6xa8ten2p",
                 "color": "text-brand-600",
                 "text": "Banking "
               },
               {
-                "_key": "auc4ax87k4",
+                "_key": "4tizyc25rq",
                 "color": "",
                 "text": "Starts "
               },
               {
-                "_key": "xpi268jmrr",
+                "_key": "zbloua3896",
                 "color": "",
                 "text": "with Smarter "
               },
               {
-                "_key": "5pencutcv8",
+                "_key": "8dpr040asw",
                 "color": "text-[#EE6832]",
                 "text": "Systems"
               }
@@ -1145,7 +1145,7 @@
         "isTextBlack": true
       },
       {
-        "_key": "9w8gxlbfqs",
+        "_key": "6e60pkrhrk",
         "_type": "sectionHeaderSection",
         "className": "pt-[50px]",
         "icon": null,
@@ -1156,107 +1156,107 @@
         "text": "Comprehensive Suite of Digital Banking Integrations"
       },
       {
-        "_key": "p4kuit92h6",
+        "_key": "mzoipgjjr6",
         "_type": "bankingFeatures",
         "data": [
           {
-            "_key": "hpl07wlivt",
+            "_key": "zvscr5bqya",
             "items": [
               {
-                "_key": "shlb7vhfc9",
+                "_key": "9qmeqs1q2x",
                 "cols": 3,
                 "title": "Re-KYC (Web Portal)"
               },
               {
-                "_key": "w237uodtlv",
+                "_key": "sy4vncrdns",
                 "cols": 3,
                 "title": "Positive Pay System (PPS)"
               },
               {
-                "_key": "fkqmpdwaki",
+                "_key": "tv6ypom6qp",
                 "cols": 3,
                 "title": "NACH Mandate Cancellation"
               },
               {
-                "_key": "5t01fj18qx",
+                "_key": "nbuz70twps",
                 "cols": 3,
                 "title": "Mobile MIS"
               }
             ]
           },
           {
-            "_key": "3icaxx8fz8",
+            "_key": "z8ezexnap4",
             "items": [
               {
-                "_key": "su2si9qper",
+                "_key": "j7el7lif6z",
                 "cols": 3,
                 "title": "Daksh-Portal Reports - Regtech"
               },
               {
-                "_key": "0cumbn6rjp",
+                "_key": "vzrd9yabpa",
                 "cols": 3,
                 "title": "ASBA Management"
               },
               {
-                "_key": "jkd08l5amv",
+                "_key": "l06iqa74le",
                 "cols": 3,
                 "title": "Digitally Signed PDF Report"
               },
               {
-                "_key": "r4u6xhhhba",
+                "_key": "rgronj301d",
                 "cols": 3,
                 "title": "UPI Lite"
               }
             ]
           },
           {
-            "_key": "xeihhie5f3",
+            "_key": "2cw0o4llfo",
             "items": [
               {
-                "_key": "itia7epwy6",
+                "_key": "mi8buwf59b",
                 "cols": 3,
                 "title": "Bank Guarantee & Letter of Credit (L/C) integration SFMS"
               },
               {
-                "_key": "t8xgd0cih2",
+                "_key": "9ipskt90hm",
                 "cols": 3,
                 "title": "UPI/IMPS/BBPS Switch Interface"
               },
               {
-                "_key": "el4qfo2lyf",
+                "_key": "19kkzvzuok",
                 "cols": 3,
                 "title": "Bharat Connect (BBPS) – Bill Payment Integration"
               },
               {
-                "_key": "8bs7imhwku",
+                "_key": "yir0pots5z",
                 "cols": 3,
                 "title": "NDS-OM Integration for investment & T-Bill, TREPS"
               }
             ]
           },
           {
-            "_key": "m6gz4ewaj5",
+            "_key": "3bgu7184jz",
             "items": [
               {
-                "_key": "rcml2nwnkf",
+                "_key": "zgb0ms4mu4",
                 "cols": 3,
                 "description": "Passbook Printing, Cheque Deposit, Cash Deposit",
                 "title": "Self Service KIOSK"
               },
               {
-                "_key": "dih8ynt3w9",
+                "_key": "eeqys0z46v",
                 "cols": 3,
                 "description": "OTP / TOTP / Bio Metric Device",
                 "title": "2FA Authentication"
               },
               {
-                "_key": "x27dm3glt6",
+                "_key": "jfu6l41o0o",
                 "cols": 3,
                 "description": "Complaint Management",
                 "title": "Online Dispute Resolution"
               },
               {
-                "_key": "nor64g1693",
+                "_key": "adybqx7cas",
                 "cols": 3,
                 "description": "ATM, POS, E-Comm, IMPS, UPI",
                 "title": "Digital Payment Reconciliation"
@@ -1264,10 +1264,10 @@
             ]
           },
           {
-            "_key": "ilrfw73iyk",
+            "_key": "3tyb0xcgpb",
             "items": [
               {
-                "_key": "e7h93ugnil",
+                "_key": "3z2gdmfkz7",
                 "cols": 3,
                 "points": [
                   "Miscall Services",
@@ -1281,7 +1281,7 @@
                 "title": "Value Added Services (VAS)"
               },
               {
-                "_key": "plsrhbm883",
+                "_key": "2vsojp1vsf",
                 "cols": 3,
                 "points": [
                   "RTGS / NEFT",
@@ -1293,7 +1293,7 @@
                 "title": "Central Payment Systems"
               },
               {
-                "_key": "s1gnz5qmsk",
+                "_key": "xc96trha0p",
                 "cols": 3,
                 "points": [
                   "E-Mandate Inward Destination Bank",
@@ -1308,7 +1308,7 @@
                 "title": "API Integration"
               },
               {
-                "_key": "5ow15uyy0s",
+                "_key": "3akgwgq577",
                 "cols": 3,
                 "points": [
                   "BASE (Aadhaar Seeding)",
@@ -1322,10 +1322,10 @@
             ]
           },
           {
-            "_key": "kw4k2az3yw",
+            "_key": "v1lvcks7zq",
             "items": [
               {
-                "_key": "c62yybt0oy",
+                "_key": "nk9q9wes9p",
                 "cols": 4,
                 "points": [
                   "Net Banking",
@@ -1335,7 +1335,7 @@
                 "title": "API Mandate (Destination Bank)"
               },
               {
-                "_key": "u4fac69290",
+                "_key": "feh3usu9d1",
                 "cols": 4,
                 "points": [
                   "IMPS",
@@ -1345,7 +1345,7 @@
                 "title": "Unified Dispute & Issue Resolution"
               },
               {
-                "_key": "1bot0kwn4m",
+                "_key": "8kr8wtgwn5",
                 "cols": 4,
                 "points": [
                   "Transaction Alerts",
@@ -1357,15 +1357,15 @@
             ]
           },
           {
-            "_key": "zsk2lucdnq",
+            "_key": "2ewmaqbo36",
             "items": [
               {
-                "_key": "i5n89vo7zg",
+                "_key": "qzuzvdoafm",
                 "cols": 6,
                 "title": "ATM, POS, E-Comm Switch Interface"
               },
               {
-                "_key": "2jr2isyicj",
+                "_key": "zpv5wrvof7",
                 "cols": 6,
                 "title": "Payment Gateway API Integration"
               }
@@ -1375,7 +1375,7 @@
         "id": "bankingFeatures"
       },
       {
-        "_key": "rqg7hohg5t",
+        "_key": "26c6c1osm9",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
@@ -1384,32 +1384,32 @@
         "text": {
           "title": [
             {
-              "_key": "lqizlz2k21",
+              "_key": "f5oytq6f8j",
               "color": "",
               "text": "Ready to "
             },
             {
-              "_key": "4vrvcbnxl9",
+              "_key": "5th163c86c",
               "color": "text-[#EE6832]",
               "text": "Transform "
             },
             {
-              "_key": "7utrj0unii",
+              "_key": "vrneu0jewv",
               "color": "",
               "text": "Your "
             },
             {
-              "_key": "wnsf2yz39h",
+              "_key": "z42cyitac9",
               "color": "text-[#EE6832]",
               "text": "Banking "
             },
             {
-              "_key": "6ij8tbxt9u",
+              "_key": "ickzpoqovx",
               "color": "text-brand-600",
               "text": "Experience"
             },
             {
-              "_key": "s73zmlikl9",
+              "_key": "oek7l2vvsn",
               "color": "",
               "text": "?"
             }
