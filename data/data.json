@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "bKHpsvURqF4u6lEZfMzkXs",
+    "_rev": "GWOVDfiedfaJZayS3Vm5q7",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "GWOVDfiedfaJZayS3VeA0Z"
+        "rev": "bKHpsvURqF4u6lEZfMzkXs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T05:50:52Z",
+    "_updatedAt": "2026-04-14T07:07:12Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -635,6 +635,12 @@
       {
         "_key": "23z3iasofz",
         "_type": "coreInfoSection",
+        "cta": {
+          "buttonLabel": "Explore the Platform",
+          "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform...",
+          "isButtonVisible": true,
+          "title": "Everything at your finger tip"
+        },
         "features": [
           {
             "_key": "nyaen3ph3i",
@@ -662,10 +668,40 @@
           }
         ],
         "id": "coreInfo",
+        "images": [
+          {
+            "_key": "fdc7e50a643a",
+            "alt": "Dashboard",
+            "src": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4b231e714581cc8a79fcd6f45012f16d9b7a85c6-1911x890-png",
+                "_type": "reference"
+              }
+            }
+          },
+          {
+            "_key": "a7d523669580",
+            "alt": "Dashboard",
+            "src": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5af4a188be8c186c9d62226336bfe67cdda0eb94-1911x890-png",
+                "_type": "reference"
+              }
+            }
+          }
+        ],
         "isTextBlack": true,
         "logo": {
           "alt": "bank-core",
-          "src": null
+          "src": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-51a4c3284428e83aa15207eb169b44e4ca0925a0-720x144-png",
+              "_type": "reference"
+            }
+          }
         },
         "titleParts": [
           {
