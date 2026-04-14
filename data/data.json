@@ -3047,15 +3047,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "iezjcqj9vs7hR9drrnXqXV",
+    "_rev": "bKHpsvURqF4u6lEZfN4whR",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "iezjcqj9vs7hR9drrnXdTg"
+        "rev": "iezjcqj9vs7hR9drrnXqXV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T07:44:57Z",
+    "_updatedAt": "2026-04-14T07:48:02Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -3102,9 +3102,9 @@
             "title": "Data Privacy"
           }
         ],
-        "headerSubtitle": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
-        "id": "bankingChallenges",
+        "id": "coreInfoSection",
         "isTextBlack": true,
+        "subTitleText": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
         "titleParts": [
           {
             "_key": "j6c8tbi6ou",
