@@ -3638,15 +3638,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "iezjcqj9vs7hR9drrnZ5Vq",
+    "_rev": "GWOVDfiedfaJZayS3VzjrT",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "bKHpsvURqF4u6lEZfN6rFd"
+        "rev": "iezjcqj9vs7hR9drrnZ5Vq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T08:40:21Z",
+    "_updatedAt": "2026-04-14T08:55:16Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -3654,7 +3654,7 @@
         "cta": {
           "label": "Start Digital Onboarding"
         },
-        "id": "hero",
+        "id": "Hero",
         "subtitle": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
         "title": "Deliver Banking Without Boundaries"
       },
@@ -3687,7 +3687,8 @@
             "title": "Mobility-First Platform"
           }
         ],
-        "id": "bankingChallenges",
+        "headerSubtitle": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
+        "id": "Banking That Travels to the Mobile Banking?",
         "isTextBlack": true,
         "titleParts": [
           {
@@ -3830,7 +3831,7 @@
           }
         ],
         "hasHeader": true,
-        "id": "platformCapabilities1",
+        "id": "Complete Digitization in One App",
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
@@ -3865,7 +3866,7 @@
           }
         },
         "bgColor": "",
-        "id": "bankingSuite9",
+        "id": "Built for Real-World Field Conditions",
         "isChild": true,
         "isTextWhite": true,
         "journeyCards": [
@@ -3941,7 +3942,7 @@
           }
         },
         "bgColor": "white",
-        "id": "quickActionCardParent2",
+        "id": "Simple for Agents. Powerful for Banks.",
         "isChild": false,
         "isTextBlack": true,
         "quickActionCard": [
@@ -3987,7 +3988,7 @@
           "titleTextClassName": ""
         },
         "hasPadding": true,
-        "id": "articles1",
+        "id": "Real-Time Visibility into Field Operations",
         "isBgBlue": true,
         "isTextWhite": true,
         "mediaInfoCardData": [
@@ -4028,7 +4029,7 @@
       {
         "_key": "t9h8ln16ff",
         "_type": "sectionHeaderSection",
-        "id": "sectionheader1",
+        "id": "Deliver More Value with Less Effort",
         "isBgBlue": true,
         "isTextWhite": true,
         "isTitleOnly": true,
@@ -4039,7 +4040,7 @@
         "_type": "quickActionCardParentSection",
         "bgColor": "brand",
         "hasCardBackground": false,
-        "id": "quickActionCardParent3",
+        "id": "Faster Turnaround Time",
         "isChild": true,
         "quickActionCard": [
           {
@@ -4067,7 +4068,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "",
           "subTitleClassName": "",
           "text": {
@@ -4099,18 +4099,39 @@
         ]
       },
       {
-        "_key": "jjkiw9jlus",
-        "_type": "sectionHeaderSection",
-        "id": "sectionheader2",
-        "isBgBlue": false,
-        "isTitleOnly": true
-      },
-      {
         "_key": "bbtmjs1s7o",
         "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "titleParts": [
+            {
+              "_key": "ebcad6facf7f",
+              "_type": "titlePart",
+              "color": "text-black",
+              "text": "A "
+            },
+            {
+              "_key": "03230ce3fc9f",
+              "_type": "titlePart",
+              "color": "text-warning",
+              "text": "Strategic Advantage "
+            },
+            {
+              "_key": "7f0b2c44734f",
+              "_type": "titlePart",
+              "color": "text-black",
+              "text": "for "
+            },
+            {
+              "_key": "73745bd0f686",
+              "_type": "titlePart",
+              "color": "text-brand-600",
+              "text": "Digital Banking"
+            }
+          ]
+        },
         "bgColor": "white",
         "hasCardBackground": true,
-        "id": "quickActionCardParent4",
+        "id": "A strategic advantage for digital banking",
         "isChild": false,
         "quickActionCard": [
           {
@@ -4137,7 +4158,7 @@
         "_key": "pq0vd6tz4l",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
-        "id": "articles",
+        "id": "Contact CTA",
         "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
         "titleParts": [
           {
