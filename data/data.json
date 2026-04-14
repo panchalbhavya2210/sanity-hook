@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "GWOVDfiedfaJZayS3VeA0Z",
+    "_rev": "bKHpsvURqF4u6lEZfMzkXs",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "iezjcqj9vs7hR9drrnUmJD"
+        "rev": "GWOVDfiedfaJZayS3VeA0Z"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T05:47:01Z",
+    "_updatedAt": "2026-04-14T05:50:52Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -1053,7 +1053,6 @@
     ],
     "seo": {
       "description": "EasyBankCore® is a cloud-native core banking platform that helps banks modernize legacy systems, accelerate digital growth, and deliver secure customer experiences.",
-      "image": null,
       "keywords": [
         "core banking software",
         "digital core banking",
@@ -1074,9 +1073,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bKHpsvURqF4u6lEZfMzOV7",
+    "_rev": "iezjcqj9vs7hR9drrnUuhk",
+    "_system": {
+      "base": {
+        "id": "digi-x",
+        "rev": "bKHpsvURqF4u6lEZfMzOV7"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T05:31:55Z",
+    "_updatedAt": "2026-04-14T05:50:45Z",
     "sections": [
       {
         "_key": "97l9irpif8",
@@ -1207,7 +1212,6 @@
           }
         ],
         "journeyHeader": {
-          "icon": null,
           "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. DiGi.X redefines banking at every level.",
           "text": {
             "title": [
@@ -1226,8 +1230,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions.",
-          "text": "Business Payoffs That Drive Growth"
+          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions."
         },
         "bgColor": "white",
         "id": "quickActionCardParent",
@@ -1272,8 +1275,7 @@
         "imageAlt": "digi-x-image",
         "imageHeight": 778,
         "imageSource": null,
-        "imageWidth": 767,
-        "isBgBlue": false
+        "imageWidth": 767
       },
       {
         "_key": "jqm2pvgpg2",
@@ -1284,46 +1286,52 @@
           {
             "_key": "3t4s6970hj",
             "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
-            "icon": null
+            "title": "Retain Existing & On Board New Customers with Digital Banking Experience"
           },
           {
             "_key": "y0w00d412p",
             "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
-            "icon": null
+            "icon": null,
+            "title": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy"
           },
           {
             "_key": "lz7n12yy6a",
             "description": "Built for Cloud with Cybersecurity @ Core",
-            "icon": null
+            "icon": null,
+            "title": "Built for Cloud with Cybersecurity @ Core"
           },
           {
             "_key": "uyp8q8vzhm",
             "description": "DevOps ensures easy maintenance & upgrades",
-            "icon": null
+            "icon": null,
+            "title": "DevOps ensures easy maintenance & upgrades"
           },
           {
             "_key": "c80rlxm4iy",
             "description": "Elevate Cross & Upsellin",
-            "icon": null
+            "icon": null,
+            "title": "Elevate Cross & Upsellin"
           },
           {
             "_key": "minjzn1v20",
             "description": "Easy Account Aggregator & Fintech Integration",
-            "icon": null
+            "icon": null,
+            "title": "Easy Account Aggregator & Fintech Integration"
           },
           {
             "_key": "b180diz3vt",
             "description": "API-First enables easy integrations with CBS & Central Payment Systems",
-            "icon": null
+            "icon": null,
+            "title": "API-First enables easy integrations with CBS & Central Payment Systems"
           },
           {
             "_key": "8en75fghmg",
             "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
-            "icon": null
+            "icon": null,
+            "title": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market"
           }
         ],
         "journeyHeader": {
-          "icon": null,
           "subTitle": "Empower your bank to thrive in a digital-first world with seamless integration, regulatory compliance, and future-ready infrastructure.",
           "text": {
             "title": [
@@ -1536,9 +1544,7 @@
         "id": "platformCapabilities",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
-          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
-          "text": "Built to Empower Banks Digitally"
+          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter."
         }
       },
       {
@@ -1877,7 +1883,6 @@
     ],
     "seo": {
       "description": "Digi.X™ is an API-first digital banking stack that helps banks deliver omnichannel experiences, payments integration, and AI-driven customer journeys.",
-      "image": null,
       "keywords": [
         "digital banking stack",
         "omnichannel banking",
