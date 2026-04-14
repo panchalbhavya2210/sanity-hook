@@ -1107,6 +1107,480 @@
     "title": "Core Banking"
   },
   {
+    "_createdAt": "2026-04-14T09:16:36Z",
+    "_id": "core-modernization",
+    "_rev": "GWOVDfiedfaJZayS3W2d0F",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-14T09:16:36Z",
+    "sections": [
+      {
+        "_key": "ug7jafaopz",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "Transform your legacy banking systems into secure, scalable, API-first digital cores seamlessly and at your pace. Unlock agility, innovation, and intelligence without compromising continuity.",
+        "title": "Modernize Your Core Without Disruption"
+      },
+      {
+        "_key": "c2z8z4s336",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "u41dxkfsve",
+            "description": "Assemble or reconfigure core functions like building blocks.",
+            "icon": null,
+            "title": "Composable & Modular"
+          },
+          {
+            "_key": "r647f6kkl7",
+            "description": "Progressive transition without ripping out existing systems.",
+            "icon": null,
+            "title": "Zero Disruption Approach"
+          },
+          {
+            "_key": "nrf2c7vif1",
+            "description": "Seamless integration with digital services and ecosystems like Account Aggregators.",
+            "icon": null,
+            "title": "API-First Enablement"
+          },
+          {
+            "_key": "7zurff8qoa",
+            "description": "Designed to evolve with your business",
+            "icon": null,
+            "title": "Future-Ready Architecture"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "ic08xfo2bn",
+            "color": "text-brand-600",
+            "text": "Modernize "
+          },
+          {
+            "_key": "lcv1mm2im2",
+            "color": "text-black",
+            "text": "Your "
+          },
+          {
+            "_key": "sj6pn47glb",
+            "color": "text-warning",
+            "text": "Banking "
+          },
+          {
+            "_key": "gly52l20dl",
+            "color": "text-black",
+            "text": "Core Without "
+          },
+          {
+            "_key": "frz9e3nsn2",
+            "color": "text-yellow",
+            "text": "Disruption"
+          }
+        ]
+      },
+      {
+        "_key": "652nszjaut",
+        "_type": "imageSectionSingle",
+        "id": "imageShow1",
+        "imageAlt": "",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": true
+      },
+      {
+        "_key": "ho1fpw3x1f",
+        "_type": "bankingSuiteSection",
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Accelerate digital rollouts and meet market demands in real time.",
+          "text": {
+            "title": [
+              {
+                "_key": "pod9qdo249",
+                "color": "text-white",
+                "text": "Rapid Deployment. Faster ROI."
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "8fv4uy8c4r",
+            "description": "Roll out new features and services rapidly.",
+            "icon": null,
+            "title": "Faster Time-to-Market"
+          },
+          {
+            "_key": "jcwur6vwnx",
+            "description": "Built-in compliance for evolving regulations (DPDP, GDPR, etc.).",
+            "icon": null,
+            "title": "Regulatory Ready"
+          },
+          {
+            "_key": "1h5mg6y5j4",
+            "description": "Monitor performance, predict behavior, and personalize journeys.",
+            "icon": null,
+            "title": "AI-Powered Insights"
+          },
+          {
+            "_key": "gkasmcggsq",
+            "description": "Lower operational overhead with modern, streamlined architecture.",
+            "icon": null,
+            "title": "Increased Efficiency"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "One Platform. All Solutions. A modular, future-ready platform that powers security, compliance, and customer delight—all in one app.",
+          "text": {
+            "title": [
+              {
+                "_key": "zv03klhw9f",
+                "color": "text-white",
+                "text": "How Bankai Solves These Challenges"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "6cqnz7iz9y",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Modernization is more than tech, it’s cultural transformation.",
+          "text": {
+            "title": [
+              {
+                "_key": "oveol59jc8",
+                "color": "text-black",
+                "text": "Built for the "
+              },
+              {
+                "_key": "fco069j2qi",
+                "color": "text-brand-600",
+                "text": "Cloud"
+              },
+              {
+                "_key": "i7xwoinent",
+                "color": "text-black",
+                "text": "."
+              },
+              {
+                "_key": "b6sdw7qn7i",
+                "color": "text-black",
+                "text": "Designed for "
+              },
+              {
+                "_key": "x2h7zgnvj",
+                "color": "text-warning",
+                "text": "Scale"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent5",
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "efcn3o70kf",
+            "description": "Data replication across geographies for resilience.",
+            "icon": null,
+            "title": "Change Management Built-In"
+          },
+          {
+            "_key": "8geqwi7xl6",
+            "description": "Built-in cloud-native protection and compliance.",
+            "icon": null,
+            "title": "Fortified Cloud Security"
+          },
+          {
+            "_key": "1fe0zax51k",
+            "description": "Auto-scaling resources to optimize cost and performance.",
+            "icon": null,
+            "title": "Elastic Scalability"
+          }
+        ]
+      },
+      {
+        "_key": "l7ps1ymdb8",
+        "_type": "bankingSuiteSection",
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Accelerate digital rollouts and meet market demands in real time.",
+          "text": {
+            "title": [
+              {
+                "_key": "cfapxdu2if",
+                "color": "text-white",
+                "text": "Smarter Core, Smarter Bank"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "id": "bankingSuite11",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "3p2k8ipxim",
+            "description": "Real-time operational data visibility.",
+            "icon": null,
+            "title": "Performance Monitoring"
+          },
+          {
+            "_key": "2ritfy5fsc",
+            "description": "Anticipate customer needs and preferences.",
+            "icon": null,
+            "title": "Predictive Behaviour Analytics"
+          },
+          {
+            "_key": "23msylksbm",
+            "description": "AI-based recommendation and experience delivery.",
+            "icon": null,
+            "title": "Hyper Personalization"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Unlock actionable insights, without disrupting your infrastructure.",
+          "text": {
+            "title": [
+              {
+                "_key": "vdxfdqmbgx",
+                "color": "text-white",
+                "text": "How Bankai Solves These Challenges"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "uxas3atcie",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "n7oau6uilb",
+            "description": "Take full ownership of your infrastructure with maximum security, governance, and compliance — ideal for banks with strict data policies.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "hasList": false,
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "9biolwbruc",
+                "color": "",
+                "text": "On-Premise "
+              },
+              {
+                "_key": "ie5cy69akl",
+                "color": " text-brand-600",
+                "text": "Control"
+              }
+            ]
+          },
+          {
+            "_key": "2za99xtyv7",
+            "description": "Combine the power of legacy and modern systems by blending private infrastructure with cloud agility for seamless transition and scalability.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "jeunmevnee",
+                "color": "",
+                "text": "Hybrid "
+              },
+              {
+                "_key": "eh1044jrwh",
+                "color": "text-brand-600",
+                "text": "Cloud "
+              },
+              {
+                "_key": "hhavky2pmp",
+                "color": "",
+                "text": "Advantage"
+              }
+            ]
+          },
+          {
+            "_key": "mm8pm3l8fg",
+            "description": "Distribute workloads across multiple cloud providers to enhance uptime, optimize cost, and eliminate single-point failure risks.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "5dx5okrz76",
+                "color": "",
+                "text": "Multi-Cloud  "
+              },
+              {
+                "_key": "cm25r8sjfp",
+                "color": "text-[#EE6832]",
+                "text": "Resilience"
+              }
+            ]
+          },
+          {
+            "_key": "geggn0d6q9",
+            "description": "Instantly scale resources up or down based on demand. Reduce operational load while delivering consistent performance at any scale.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "ecm2zedq04",
+                "color": "",
+                "text": "Elastic "
+              },
+              {
+                "_key": "wqmlygwrny",
+                "color": "text-brand-600",
+                "text": "Scaling"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Choose the infrastructure that works for your bank with no compromise on security, speed, or scalability.",
+          "text": {
+            "title": [
+              {
+                "_key": "ykmwoye70q",
+                "color": "",
+                "text": "Deploy Your Way"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "3cbfy0ljcq",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Modernization is more than tech, it’s cultural transformation.",
+          "text": {
+            "title": [
+              {
+                "_key": "9yjsf08yiq",
+                "color": "text-white",
+                "text": "Empower Teams Alongside Technology"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand",
+        "hasCardBackground": true,
+        "id": "quickActionCardParent4",
+        "isChild": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "73vr13sg8n",
+            "description": "Onboard customers in minutes instead of days.",
+            "icon": null,
+            "title": "Faster Turnaround Time"
+          },
+          {
+            "_key": "9z4663nquq",
+            "description": "Reduce paperwork, branches, and manual effort.",
+            "icon": null,
+            "title": "Lower Operational Cost"
+          },
+          {
+            "_key": "1qw889h2ul",
+            "description": "Deliver digital banking services anywhere.",
+            "icon": null,
+            "title": "Better Customer Experience"
+          }
+        ]
+      },
+      {
+        "_key": "iozkmxdnek",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "ul4jhys5i5",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "2l3hgcoj57",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "iua64j1ty4",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "kt7h53go4u",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "oed9vseqz5",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "dt62eb2nbx",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "core-modernization"
+    },
+    "title": "Core Modernization"
+  },
+  {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
     "_rev": "iezjcqj9vs7hR9drrnUuhk",
