@@ -3638,9 +3638,15 @@
   {
     "_createdAt": "2026-04-14T08:13:08Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "GWOVDfiedfaJZayS3Vvnb5",
+    "_rev": "GWOVDfiedfaJZayS3VxEd5",
+    "_system": {
+      "base": {
+        "id": "tab-banking-solutions-mobipro",
+        "rev": "GWOVDfiedfaJZayS3Vvnb5"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T08:13:08Z",
+    "_updatedAt": "2026-04-14T08:29:02Z",
     "sections": [
       {
         "_key": "scaog6tx08",
@@ -3965,13 +3971,25 @@
         "_key": "2pqvxbp1x4",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "icon": null,
-          "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard.",
-          "text": "Real-Time Visibility into Field Operations"
+          "articleHeader": {
+            "text": {
+              "title": [
+                {
+                  "_key": "23599aa28d1b",
+                  "_type": "titlePart",
+                  "color": "text-white",
+                  "text": "Real-Time Visibility into Field Operations"
+                }
+              ],
+              "variant": "h1"
+            }
+          },
+          "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard."
         },
         "hasPadding": true,
         "id": "articles1",
         "isBgBlue": true,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "u8kxmrh0fw",
@@ -4063,31 +4081,7 @@
         "id": "sectionheader2",
         "isBgBlue": false,
         "isTitleOnly": true,
-        "text": {
-          "title": [
-            {
-              "_key": "oukffda78n",
-              "color": "text-black",
-              "text": "A "
-            },
-            {
-              "_key": "3uykrlm7fw",
-              "color": "text-[#EE6832]",
-              "text": "Strategic Advantage "
-            },
-            {
-              "_key": "9uf0g3j0dk",
-              "color": "text-black",
-              "text": "for "
-            },
-            {
-              "_key": "kki2z3qwqi",
-              "color": "text-brand-600",
-              "text": "Digital Banking"
-            }
-          ],
-          "variant": "h1"
-        }
+        "text": "-"
       },
       {
         "_key": "58hfjsmhvt",
@@ -4159,7 +4153,6 @@
     ],
     "seo": {
       "description": "MobiProPlus delivers seamless tab banking and mobile field services, enabling banks to serve customers anywhere with secure digital onboarding and transactions.",
-      "image": null,
       "keywords": [
         "tab banking",
         "mobile field banking",
