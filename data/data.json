@@ -3043,5 +3043,584 @@
         }
       ]
     }
+  },
+  {
+    "_createdAt": "2026-04-14T07:37:52Z",
+    "_id": "omnichannel-banking",
+    "_rev": "iezjcqj9vs7hR9drrnXdTg",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-14T07:37:52Z",
+    "sections": [
+      {
+        "_key": "wdfs412arr",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Start Digital Onboarding",
+          "variant": "outline"
+        },
+        "id": "hero",
+        "subtitle": "Bankai’s mobile banking platform delivers seamless, secure, and fully branded digital experiences—built for your customers, optimized for your growth.",
+        "title": "Your Bank. Your Brand. Your Digital Channel."
+      },
+      {
+        "_key": "8n4yan3nqm",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "rdg6aywrb7",
+            "description": "Legacy CBS systems make mobile innovation slow and costly.",
+            "icon": null,
+            "title": "Technology Integration"
+          },
+          {
+            "_key": "gwfkvrvrq8",
+            "description": "Constant regulatory shifts demand adaptable solutions.",
+            "icon": null,
+            "title": "Regulatory Compliance"
+          },
+          {
+            "_key": "9ga57083dp",
+            "description": "Rising fraud and threats require airtight protection.",
+            "icon": null,
+            "title": "Cybersecurity Risks"
+          },
+          {
+            "_key": "0c3ibt9cpo",
+            "description": "Staying compliant with privacy laws adds complexity.",
+            "icon": null,
+            "title": "Data Privacy"
+          }
+        ],
+        "id": "bankingChallenges",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "j6c8tbi6ou",
+            "color": "text-black",
+            "text": "What’s Holding "
+          },
+          {
+            "_key": "iyzhpz3fko",
+            "color": "text-brand-600",
+            "text": "Banks "
+          },
+          {
+            "_key": "uqqsq46itb",
+            "color": "text-black",
+            "text": "Back in "
+          },
+          {
+            "_key": "4s78lyl6d6",
+            "color": "text-warning",
+            "text": "Mobile Banking?"
+          }
+        ]
+      },
+      {
+        "_key": "xz134ijjjc",
+        "_type": "imageSection",
+        "fullImageAlt": "picsum",
+        "fullImageSource": null,
+        "hasFullImage": false,
+        "id": "imageSection4",
+        "imageSource": [
+          {
+            "_key": "7nn7iwf7h7",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "5myjhyrddv",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ],
+        "isBgBlue": true
+      },
+      {
+        "_key": "aca87f4kcx",
+        "_type": "bankingSuiteSection",
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Feeling caged-in...",
+          "text": {
+            "title": [
+              {
+                "_key": "4855y51tdb",
+                "color": "text-white",
+                "text": "All-in-One Banking Suite"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "id": "bankingSuite8",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "c3riekwomg",
+            "description": "Aligns with global banking compliance and authentication standards.",
+            "icon": null,
+            "title": "Regulatory Readiness"
+          },
+          {
+            "_key": "hkldjg6j1h",
+            "description": "Includes E2E encryption, device binding, GEO tagging, OTP, and fraud detection.",
+            "icon": null,
+            "title": "Robust Security"
+          },
+          {
+            "_key": "bagnu10dmc",
+            "description": "Smooth UI/UX with chatbot integration.",
+            "icon": null,
+            "title": "Customer-Centric "
+          },
+          {
+            "_key": "87pmv9p5w8",
+            "description": "Launch ASBA, Positive Pay, Loans, and more without rework.",
+            "icon": null,
+            "title": "Modular Expansion"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "One Platform. All Solutions. A modular, future-ready platform that powers security, compliance, and customer delight—all in one app.",
+          "text": {
+            "title": [
+              {
+                "_key": "ed36y8aqn8",
+                "color": "text-white",
+                "text": "How Bankai Solves These Challenges"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "jhlukmcfkg",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "oz7719fse4",
+            "features": [
+              "View balances and transaction history",
+              "Download statements"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "e50tgyslcp",
+                "color": "",
+                "text": "Account "
+              },
+              {
+                "_key": "eolfx10wmm",
+                "color": "",
+                "text": "Management"
+              }
+            ]
+          },
+          {
+            "_key": "i0lmiokyh1",
+            "features": [
+              "IMPS, NEFT, RTGS",
+              "Within bank, own account, interbank transfers"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "xcdv203ksu",
+                "color": "",
+                "text": "Fund "
+              },
+              {
+                "_key": "xnlexoq39z",
+                "color": "",
+                "text": "Transfers"
+              }
+            ]
+          },
+          {
+            "_key": "2rxdajfla1",
+            "features": [
+              "Manage ATM/Debit cards (ON/OFF, block, PIN)",
+              "Request cheque book, stop payments, Positive Pay"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dvyvk557b2",
+                "color": "",
+                "text": "Cards & "
+              },
+              {
+                "_key": "sbxg692cxe",
+                "color": "",
+                "text": "Cheque"
+              }
+            ]
+          },
+          {
+            "_key": "9cq7d938ah",
+            "features": [
+              "Pay bills, mobile & DTH recharge",
+              "Schedule recurring payments"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "cabv46wrvj",
+                "color": "",
+                "text": "Payments & "
+              },
+              {
+                "_key": "sa3aq24smh",
+                "color": "",
+                "text": "Recharge"
+              }
+            ]
+          },
+          {
+            "_key": "bp7jhu4na4",
+            "features": [
+              "FD opening/renewal, loan view & repayment",
+              "ASBA IPO"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dg1slldw0y",
+                "color": "",
+                "text": "Investments & "
+              },
+              {
+                "_key": "nepz9ms94y",
+                "color": "",
+                "text": "Loans"
+              }
+            ]
+          },
+          {
+            "_key": "k2p8im8o0e",
+            "features": [
+              "Push, SMS, Email alerts",
+              "Security & promotional updates"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 6,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "xcbpkj0khy",
+                "color": "",
+                "text": "Notifications "
+              },
+              {
+                "_key": "vggimi4en2",
+                "color": "",
+                "text": " & Alerts"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities2",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Give your customers everything they expect — and more — all from a single app.",
+          "text": {
+            "title": [
+              {
+                "_key": "0tlhtla0sa",
+                "color": "",
+                "text": "Complete Mobile Banking in Your Customer’s Pocket"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "f0oo9ewh5v",
+        "_type": "bankingSolutionsSection",
+        "articles": {
+          "mediaInfoCardData": [
+            {
+              "_key": "tu8gkbkh9q",
+              "description": "Fully aligned with global and local regulations.",
+              "descriptionClassName": "text-black",
+              "image": null,
+              "title": "GDPR & RBI Guidelines"
+            },
+            {
+              "_key": "4elh6tog1t",
+              "description": "Transparent and traceable operations.",
+              "image": null,
+              "title": "Audit Trail & Dispute Logs"
+            }
+          ]
+        },
+        "bankingSolutionCardData": [
+          {
+            "_key": "4ji8lmad5d",
+            "description": "Login with OTP, PIN, or biometrics.",
+            "title": "Multi-Factor Authentication"
+          },
+          {
+            "_key": "tmmgt823bw",
+            "description": "Data secured in transit and at rest.",
+            "title": "End-to-End Encryption"
+          },
+          {
+            "_key": "bmnfogcbc5",
+            "description": "Real-time alerts on suspicious activity.",
+            "title": "Adaptive Fraud Detection"
+          },
+          {
+            "_key": "3j0gkstotr",
+            "description": "Prevents unauthorized logins.",
+            "title": "Device Binding & Geo Verification"
+          }
+        ],
+        "bankingSolutionHeader": {
+          "icon": null,
+          "subTitle": "From login to transactions, security is embedded across the architecture.",
+          "text": "Built to Be Secure. Compliant by Design."
+        },
+        "id": "bankingSolutions",
+        "isTextWhite": true
+      },
+      {
+        "_key": "kv2oqsqkx7",
+        "_type": "imageSection",
+        "fullImageAlt": "picusm",
+        "fullImageSource": null,
+        "hasFullImage": true,
+        "id": "imageSection2",
+        "imageSource": [
+          {
+            "_key": "mjrjchj5px",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "c7xiky3icz",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ]
+      },
+      {
+        "_key": "ejjy6wbb5k",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "icon": null,
+          "subTitle": "Deliver exceptional digital experiences and grow your customer base with confidence. Benefits of Bankai Mobile Banking Platform",
+          "text": "Why Leading Banks Choose Bankai"
+        },
+        "hasPadding": true,
+        "id": "articles3",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "q5erzdnytk",
+            "description": "Use in-app and offline messaging to build loyalty and engagement.",
+            "image": null,
+            "title": "Stronger Customer Relationships"
+          },
+          {
+            "_key": "muajoiyg6d",
+            "description": "Digital onboarding with reduced drop-offs and faster conversions.",
+            "image": null,
+            "title": "Rapid Onboarding"
+          }
+        ]
+      },
+      {
+        "_key": "tqfk4aw6t0",
+        "_type": "quickActionCardParentSection",
+        "bgColor": "bg-brand-600",
+        "id": "quickActionCardParent6",
+        "isChild": true,
+        "quickActionCard": [
+          {
+            "_key": "zz6dfy4t6a",
+            "description": "Recommend personalized products through behavior-driven campaigns.",
+            "icon": null,
+            "title": "Cross-Selling Made Easy"
+          },
+          {
+            "_key": "ksa9zytrsy",
+            "description": "One interface for accounts, loans, investments, and service requests.",
+            "icon": null,
+            "title": "Seamless Digital Journey"
+          },
+          {
+            "_key": "fz6ol6d051",
+            "description": "Scale effortlessly with continuous updates via SaaS.",
+            "icon": null,
+            "title": "Future-Proof Flexibility"
+          }
+        ]
+      },
+      {
+        "_key": "wq4w7g3b3k",
+        "_type": "imageSection",
+        "fullImageAlt": "picusm",
+        "fullImageSource": null,
+        "hasFullImage": false,
+        "id": "imageSection3",
+        "imageSource": [
+          {
+            "_key": "zplh9mm1p4",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "rd601q02rz",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ],
+        "isBgBlue": true
+      },
+      {
+        "_key": "ymdn2gavrc",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "zonbzicg7l",
+            "description": "Skip the queue. Bank anytime, anywhere.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "212wup6bmw",
+                "color": "",
+                "text": "24/7 Accessibility"
+              }
+            ]
+          },
+          {
+            "_key": "mtqoauqvrp",
+            "description": "Multi-layered security and OTP validations protect every transaction.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "achqg796xa",
+                "color": "",
+                "text": "Secure Transactions"
+              }
+            ]
+          },
+          {
+            "_key": "sumsiibq84",
+            "description": "Connect siloed systems - from core to CRM to fintech - through plug-and-play integrations that eliminate complexity. Streamline operations with a standardized API layer and pre-built connectors that reduce time-to-market and lower risk. Future-proof your architecture while staying agile. Build faster, launch smarter, and scale without limits.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "gkysm9lxoi",
+                "color": "",
+                "text": "Instant Account Opening"
+              }
+            ]
+          },
+          {
+            "_key": "6hrrk78ksa",
+            "description": "AI-driven budgeting and alerts for smarter money habits.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "8p05f2idyi",
+                "color": "",
+                "text": "Spending Analysis"
+              }
+            ]
+          },
+          {
+            "_key": "if7438cpfx",
+            "description": "Recharge, pay, and track all from one place.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "3gm0uv4bak",
+                "color": "",
+                "text": "All Bills, One App  "
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities3",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "The Importance of Mobile Banking. Mobile banking isn’t just convenient — it’s essential for modern financial life.",
+          "text": {
+            "title": [
+              {
+                "_key": "xgrvn7nbg7",
+                "color": "",
+                "text": "Smart Banking in Your Customer’s Pocket"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "qs0mqvy4ba",
+        "_type": "contactCtaSection",
+        "id": "contactCta",
+        "titleParts": []
+      }
+    ],
+    "seo": {
+      "description": "Deliver seamless digital banking across mobile, kiosk, internet, and super app channels with BankAI’s omnichannel banking platform.",
+      "image": null,
+      "keywords": [
+        "omnichannel banking",
+        "mobile banking",
+        "digital channels",
+        "customer experience",
+        "banking platform"
+      ],
+      "ogDescription": "Create unified banking journeys across devices and channels with BankAI’s omnichannel digital banking solution.",
+      "ogTitle": "Omnichannel Banking | Seamless Digital Channels",
+      "title": "Omnichannel Banking Platform | BankAI",
+      "url": "https://yourdomain.com/products/omnichannel-banking"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "omnichannel-banking"
+    },
+    "title": "Omnichannel Banking"
   }
 ]
