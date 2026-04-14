@@ -3519,6 +3519,502 @@
     }
   },
   {
+    "_createdAt": "2026-04-14T12:04:39Z",
+    "_id": "managed-cloud-services",
+    "_rev": "bKHpsvURqF4u6lEZfNHQnz",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-14T12:04:39Z",
+    "sections": [
+      {
+        "_key": "i4gz7iepet",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Leverage Bankai’s proven OCI migration and managed services to modernize your infrastructure, minimize risk, and unlock the full potential of Oracle Cloud—securely, efficiently, and at scale.",
+        "title": "Accelerate Oracle Cloud Migration with Confidence"
+      },
+      {
+        "_key": "mge7t2lkct",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "fcmp5fukza",
+            "description": "Scale compute resources on demand and adapt to changing business needs with ease.",
+            "hasList": false,
+            "icon": null,
+            "title": "Enhanced Agility & Flexibility"
+          },
+          {
+            "_key": "k7a1wr7lly",
+            "description": "Accelerate cloud transformation while minimizing disruption to your operations.",
+            "hasList": false,
+            "icon": null,
+            "title": "Speed of Migration"
+          },
+          {
+            "_key": "lyhckh6d6w",
+            "description": "Eliminate physical hardware, reduce IT overhead, and benefit from pay-as-you-go.",
+            "hasList": false,
+            "icon": null,
+            "title": "Reduced Risk & Cost Savings"
+          },
+          {
+            "_key": "s18qsznq8v",
+            "description": "Move apps to the cloud with minimal changes and zero disruption.",
+            "hasList": false,
+            "icon": null,
+            "title": "Lift n Shift Cloud approach"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "6rfg9kl3x1",
+            "color": "text-brand-600",
+            "text": "Cloud "
+          },
+          {
+            "_key": "97gfhkdf4n",
+            "color": "text-[#EE6832]",
+            "text": "Migration "
+          },
+          {
+            "_key": "ettapjpqsy",
+            "color": "",
+            "text": ": "
+          },
+          {
+            "_key": "rdlxh59867",
+            "text": "The Foundationfor Digital Agility "
+          }
+        ]
+      },
+      {
+        "_key": "ag29x0b9j3",
+        "_type": "imageSectionSingle",
+        "id": "imageShow2",
+        "imageAlt": "",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": true
+      },
+      {
+        "_key": "dezf4jj96e",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Bankai’s Lift & Shift Migration Approach. From assessment to optimization, our Lift & Shift framework ensures smooth, secure cloud migration for Oracle Databases.",
+          "text": {
+            "title": [
+              {
+                "_key": "znuv2ypg0n",
+                "color": "text-white",
+                "text": "Seamless Transition to OCI with Proven Methodologies"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand",
+        "hasCardBackground": true,
+        "id": "quickActionCardParent4",
+        "isChild": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "1tosd53d84",
+            "description": "Evaluate current workloads, TCO, dependencies, and cloud-readiness.",
+            "icon": null,
+            "title": "Assessment"
+          },
+          {
+            "_key": "uluefg8nrr",
+            "description": "Define timeline, roles, migration tools, risk plans, and stakeholder communication.",
+            "icon": null,
+            "title": "Planning"
+          },
+          {
+            "_key": "2qv3v8oono",
+            "description": "Copy your on-prem environment to the cloud for pre-migration validation.",
+            "icon": null,
+            "title": "Replication"
+          },
+          {
+            "_key": "z63hxehdf9",
+            "description": "Transfer applications and data with minimal business disruption.",
+            "icon": null,
+            "title": "Lift & Shift"
+          },
+          {
+            "_key": "a4tuenm0xn",
+            "description": "Conduct UAT, performance, security, and integration testing.",
+            "icon": null,
+            "title": "Testing"
+          },
+          {
+            "_key": "qemskpbyjs",
+            "description": "Tune applications for cloud scalability, performance, and reliability.",
+            "icon": null,
+            "title": "Optimization"
+          }
+        ]
+      },
+      {
+        "_key": "k4rdyyvpz1",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "zqfv53faly",
+            "description": "Rapid deployment with minimal disruption, allowing your organization to access cloud benefits and innovations faster.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "hasList": false,
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "k1gh235dsv",
+                "color": "",
+                "text": "Enhanced  "
+              },
+              {
+                "_key": "ft70qg6yuu",
+                "color": " text-warning",
+                "text": "Agility "
+              },
+              {
+                "_key": "8zjvp2dxfa",
+                "color": " ",
+                "text": "& "
+              },
+              {
+                "_key": "ebep0pp1en",
+                "color": " text-brand-600",
+                "text": "Flexibility"
+              }
+            ]
+          },
+          {
+            "_key": "o8c297k0sg",
+            "description": "Rapid deployment with minimal disruption, allowing your organization to access cloud benefits and innovations faster.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "hqqbj0hkj6",
+                "color": "",
+                "text": "Speed of Migration "
+              }
+            ]
+          },
+          {
+            "_key": "v72nqojv0h",
+            "description": "Reduce hardware and operational expenses with the cloud’s pay-as-you-go model. Cut costs without compromising performance.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "1yv7aiefke",
+                "color": "",
+                "text": "Cost Savings"
+              }
+            ]
+          },
+          {
+            "_key": "wdufo1o1ws",
+            "description": "Unlock scalability, high availability, and access to a wide range of cloud-native tools and services right from the start.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "vrdg6b1lgf",
+                "color": "",
+                "text": "Immediate Cloud Benefits "
+              }
+            ]
+          },
+          {
+            "_key": "ej38orqete",
+            "description": "Avoid downtime and failures. Migrate applications without significant changes, ensuring continuity and stable service levels.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "4gpo2tmbnc",
+                "color": "",
+                "text": "Reduced Risk"
+              }
+            ]
+          },
+          {
+            "_key": "0q7elx61oz",
+            "description": "Stay compliant with data privacy laws, enable secure storage, and protect critical environments with built-in governance and access controls.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "eamm5nf45k",
+                "color": "",
+                "text": "Mitigated Security Risks"
+              }
+            ]
+          },
+          {
+            "_key": "tdjrdzvvpc",
+            "description": "Robust DR solutions ensure application resilience with SLA-based RPO and RTO — minimizing impact during outages.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "ao74jfbs13",
+                "color": "",
+                "text": "Enhanced Disaster Recovery"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Reap the immediate and long-term benefits of seamless Oracle Cloud migration with our proven Lift & Shift approach purpose-built for speed, security, and scale.",
+          "text": {
+            "title": [
+              {
+                "_key": "vzwrofqhq5",
+                "color": "",
+                "text": "Why Lift & Shift with Bankai?"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "pnyfvp7xln",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "3p1hcezt8f",
+            "description": "Extensive delivery experience with a certified expert team.",
+            "icon": null,
+            "title": "70+ Successful Migrations"
+          },
+          {
+            "_key": "3zy6qalbx3",
+            "description": "Standardized frameworks for architecture, planning, and delivery.",
+            "icon": null,
+            "title": "Unified Methodology"
+          },
+          {
+            "_key": "4ts3nchq0n",
+            "description": "Onsite, offsite, offshore, and hybrid support options.s",
+            "icon": null,
+            "title": "Flexible Engagement Models"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Expertise that enterprises and banks trust to lead complex Oracle Cloud transformations.",
+          "text": {
+            "title": [
+              {
+                "_key": "l0lhl8b48t",
+                "color": "text-white",
+                "text": "Why Choose Bankai for OCI Cloud"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "urtu4c4re7",
+        "_type": "sectionHeaderSection",
+        "className": "py-10! px-6",
+        "icon": null,
+        "id": "sectionheader2",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "subTitleText": "Our 21-point managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
+        "text": {
+          "title": [
+            {
+              "_key": "jrl2yp9rnu",
+              "color": "text-black",
+              "text": "End-to-End Managed Services @ OCI "
+            }
+          ],
+          "variant": "h1"
+        }
+      },
+      {
+        "_key": "dodbo8s7w6",
+        "_type": "textCardSection",
+        "data": [
+          {
+            "_key": "4nnmrequh7",
+            "title": "EasyBankCore® Browser-based CBS Software Deployment at Oracle Cloud Infrastructure (OCI) - Primary & Disaster Recovery Data Centre for Head office and Branches. EasyBankCore® CBS Patch management & versioning synchronization on-going basis."
+          },
+          {
+            "_key": "ph8ger8q4z",
+            "title": "Implementing Hosted Infrastructure on VPS at Primary & Disaster Recovery Data Centre with logical security including IaaS & PaaS."
+          },
+          {
+            "_key": "3yk5ouk27d",
+            "title": "Primary, UAT, Disaster Recovery Data Centre: OS, Database, Application/Web Server Installation, Patching, Versioning @ OCI."
+          },
+          {
+            "_key": "rvi3qhap9g",
+            "title": "Managing / Monitoring Replication Link between Oracle Cloud Infrastructure (OCI) – Primary & Disaster Recovery Data Centre."
+          },
+          {
+            "_key": "jwntfl4tgl",
+            "title": "Failover Management: Unplanned Outage of Primary Data Centre."
+          },
+          {
+            "_key": "pgdz3y26kl",
+            "title": "LIVE DR Operations (Planned – whenever Bank gets connected with Disaster Recovery Data Centre, All Digital Channels will be (ENABLED) available to bank & Bank's Primary/Secondary Connectivity will be used to connect to DRS for Core Banking Operations.)"
+          },
+          {
+            "_key": "bmxk1qajht",
+            "title": "Data Replication with Recovery Point Objective (RPO) & Recovery Time Objective SLAs."
+          },
+          {
+            "_key": "kj7blu59ov",
+            "title": "Secured Block Chain Table Implementation for Audit Trail Log Tables"
+          },
+          {
+            "_key": "8gqkubjyb6",
+            "title": "Pro-Active Email Alerts & Server Resource Utilization Logs to Organization’s IT team."
+          }
+        ],
+        "id": "textSection",
+        "lable": "View all 21 points"
+      },
+      {
+        "_key": "1wsdcc4cvy",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "8f6jfbbg87",
+            "title": "Oracle DB migration to same/higher version"
+          },
+          {
+            "_key": "anslr249ij",
+            "title": "Managed version control & patching"
+          },
+          {
+            "_key": "9cngtv2sux",
+            "title": "PAM/IAM management across data centers"
+          },
+          {
+            "_key": "gls9hyy31y",
+            "title": "Support for T2T (Train-to-Transform) staff enablement"
+          },
+          {
+            "_key": "n6ahtjj697",
+            "title": "Continuous security & compliance monitoring"
+          },
+          {
+            "_key": "d8c96uo39q",
+            "title": "SLA-backed RPO/RTO performance"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Key Takeaways. Bankai enables financial institutions to modernize securely, efficiently, and with minimal downtime.",
+          "text": {
+            "title": [
+              {
+                "_key": "446m1yl4qm",
+                "color": "text-white",
+                "text": "OCI Migration Outcomes You Can Count On"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "variant": "titleOnly"
+      },
+      {
+        "_key": "5ttuzzdrb4",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "owpf48pt54",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "lflqpcmgug",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "f5j62lnvt6",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "3ineieq86h",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "q2hss6umu5",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "zosi38b5vb",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Migrate to Oracle Cloud and run your banking platform securely with BankAI’s managed cloud services for high availability and reduced operational risk.",
+      "image": null,
+      "keywords": [
+        "managed cloud services",
+        "oracle cloud migration",
+        "banking cloud operations",
+        "cloud managed services"
+      ],
+      "ogDescription": "Shift banking workloads to Oracle Cloud with confidence using BankAI’s managed cloud services, migration support, and ongoing operations.",
+      "ogTitle": "Managed Cloud Banking Services | Oracle Cloud Migration",
+      "title": "Managed Cloud Services for Banking | BankAI",
+      "url": "https://yourdomain.com/products/managed-cloud-services"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "managed-cloud-services"
+    },
+    "title": "Managed Cloud Services"
+  },
+  {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
     "_rev": "bKHpsvURqF4u6lEZfN5G42",
