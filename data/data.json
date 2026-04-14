@@ -3638,9 +3638,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "bKHpsvURqF4u6lEZfN6rFd",
+    "_rev": "iezjcqj9vs7hR9drrnZ5Vq",
+    "_system": {
+      "base": {
+        "id": "tab-banking-solutions-mobipro",
+        "rev": "bKHpsvURqF4u6lEZfN6rFd"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T08:39:19Z",
+    "_updatedAt": "2026-04-14T08:40:21Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -3966,7 +3972,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard.",
           "subTitleClassName": "",
           "text": {
@@ -3984,6 +3989,7 @@
         "hasPadding": true,
         "id": "articles1",
         "isBgBlue": true,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "b3n4n0c5wu",
@@ -4097,32 +4103,7 @@
         "_type": "sectionHeaderSection",
         "id": "sectionheader2",
         "isBgBlue": false,
-        "isTitleOnly": true,
-        "text": {
-          "title": [
-            {
-              "_key": "zbn8ucgp6f",
-              "color": "text-black",
-              "text": "A "
-            },
-            {
-              "_key": "wjbrcn7y91",
-              "color": "text-[#EE6832]",
-              "text": "Strategic Advantage "
-            },
-            {
-              "_key": "3d66bu8at3",
-              "color": "text-black",
-              "text": "for "
-            },
-            {
-              "_key": "so30vfbgk2",
-              "color": "text-brand-600",
-              "text": "Digital Banking"
-            }
-          ],
-          "variant": "h1"
-        }
+        "isTitleOnly": true
       },
       {
         "_key": "bbtmjs1s7o",
