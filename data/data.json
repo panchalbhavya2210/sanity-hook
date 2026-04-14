@@ -3638,15 +3638,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "GWOVDfiedfaJZayS3VzjrT",
+    "_rev": "bKHpsvURqF4u6lEZfN89B9",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "iezjcqj9vs7hR9drrnZ5Vq"
+        "rev": "GWOVDfiedfaJZayS3VzjrT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T08:55:16Z",
+    "_updatedAt": "2026-04-14T09:04:48Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -3687,9 +3687,9 @@
             "title": "Mobility-First Platform"
           }
         ],
-        "headerSubtitle": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
         "id": "Banking That Travels to the Mobile Banking?",
         "isTextBlack": true,
+        "subTitleText": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
         "titleParts": [
           {
             "_key": "yr7rt832wd",
@@ -4099,6 +4099,41 @@
         ]
       },
       {
+        "_key": "d8b64fb8275c",
+        "_type": "sectionHeaderSection",
+        "id": "A strategic advantage for digital banking",
+        "isBgBlue": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "isTitleOnly": true,
+        "titleParts": [
+          {
+            "_key": "7229d30c92ab",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "A "
+          },
+          {
+            "_key": "1655e400f7a3",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Strategic Advantage "
+          },
+          {
+            "_key": "177a12d9de05",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "for "
+          },
+          {
+            "_key": "1cc6fc0f74b7",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Digital Banking"
+          }
+        ]
+      },
+      {
         "_key": "bbtmjs1s7o",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
@@ -4131,7 +4166,7 @@
         },
         "bgColor": "white",
         "hasCardBackground": true,
-        "id": "A strategic advantage for digital banking",
+        "id": "Faster Turnaround",
         "isChild": false,
         "quickActionCard": [
           {
