@@ -1583,9 +1583,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bKHpsvURqF4u6lEZfN9Sjf",
+    "_rev": "GWOVDfiedfaJZayS3W6YcZ",
+    "_system": {
+      "base": {
+        "id": "digi-x",
+        "rev": "bKHpsvURqF4u6lEZfN9Sjf"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T09:31:09Z",
+    "_updatedAt": "2026-04-14T09:48:05Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -2383,7 +2389,6 @@
     ],
     "seo": {
       "description": "Digi.X™ is an API-first digital banking stack that helps banks deliver omnichannel experiences, payments integration, and AI-driven customer journeys.",
-      "image": null,
       "keywords": [
         "digital banking stack",
         "omnichannel banking",
