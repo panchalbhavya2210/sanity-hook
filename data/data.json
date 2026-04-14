@@ -3634,5 +3634,548 @@
       "current": "omnichannel-banking"
     },
     "title": "Omnichannel Banking"
+  },
+  {
+    "_createdAt": "2026-04-14T08:13:08Z",
+    "_id": "tab-banking-solutions-mobipro",
+    "_rev": "GWOVDfiedfaJZayS3Vvnb5",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-14T08:13:08Z",
+    "sections": [
+      {
+        "_key": "scaog6tx08",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Start Digital Onboarding"
+        },
+        "id": "hero",
+        "subtitle": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
+        "title": "Deliver Banking Without Boundaries"
+      },
+      {
+        "_key": "ripzsnp8ix",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "iacvj00hky",
+            "description": "Eliminate forms and manual documentation with fully digital onboarding.",
+            "icon": null,
+            "title": "Paperless Banking"
+          },
+          {
+            "_key": "ocgch3vmwf",
+            "description": "Open and activate accounts within minutes.",
+            "icon": null,
+            "title": "Instant Customer Activation"
+          },
+          {
+            "_key": "3y6ansswri",
+            "description": "Extend banking services to rural and semi-urban locations.",
+            "icon": null,
+            "title": "Reach Remote Communities"
+          },
+          {
+            "_key": "z63w5xss5u",
+            "description": "Field agents deliver banking services using secure tablets.",
+            "icon": null,
+            "title": "Mobility-First Platform"
+          }
+        ],
+        "id": "bankingChallenges",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "tg3zcl0fdi",
+            "color": "text-black",
+            "text": "Banking  "
+          },
+          {
+            "_key": "093dwuv6fq",
+            "color": "text-black",
+            "text": "That "
+          },
+          {
+            "_key": "vz3o1e93la",
+            "color": "text-brand-600",
+            "text": "Travels "
+          },
+          {
+            "_key": "y3oyd74xmo",
+            "color": "text-black",
+            "text": "to the"
+          },
+          {
+            "_key": "i3yg3i264w",
+            "color": "text-warning",
+            "text": "Mobile Banking?"
+          }
+        ]
+      },
+      {
+        "_key": "ncysnisdp5",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "g1qp1oozur",
+            "description": "Guided workflows ensure error-free onboarding and faster approvals.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "features": [
+              "Savings accounts",
+              "Current accounts",
+              "Recurring deposits",
+              "Term deposits"
+            ],
+            "hasList": true,
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "o7634nxgzy",
+                "color": "",
+                "text": "Digital Account "
+              },
+              {
+                "_key": "dszcv33m5y",
+                "color": " text-brand-600",
+                "text": "Opening"
+              }
+            ]
+          },
+          {
+            "_key": "656hqyz60q",
+            "description": "Stay compliant while accelerating onboarding.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "features": [
+              "Aadhaar OTP verification",
+              "Automated fraud checks",
+              "Instant identity validation"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "46kdpl2jqu",
+                "color": "",
+                "text": "Secure "
+              },
+              {
+                "_key": "qs2gk3k32m",
+                "color": "text-brand-600",
+                "text": "eKYC "
+              },
+              {
+                "_key": "ygz0tztt3z",
+                "color": "",
+                "text": "Verification"
+              }
+            ]
+          },
+          {
+            "_key": "pkmqhxfr4y",
+            "description": "Zero paperwork with complete audit trails.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "features": [
+              "Capture documents directly using tablet camera",
+              "Auto-crop and glare removal",
+              "Encrypted digital storage"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "x6sa33yju7",
+                "color": "",
+                "text": "Paperless  "
+              },
+              {
+                "_key": "dwn4cl7zjq",
+                "color": "text-[#EE6832]",
+                "text": " Documentation"
+              }
+            ]
+          },
+          {
+            "_key": "2k0qf290pm",
+            "description": "Perfect for rural customers, senior citizens, and professionals.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "features": [
+              "Deposit and withdraw funds",
+              "Request cheque books or debit cards",
+              "Fetch mini or detailed statements"
+            ],
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "7iwwmvx6u3",
+                "color": "",
+                "text": "Doorstep Banking "
+              },
+              {
+                "_key": "9av9httrqj",
+                "color": "text-brand-600",
+                "text": "Services"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "A single tablet application that empowers field teams to onboard customers, capture documents, and initiate banking services seamlessly.",
+          "text": {
+            "title": [
+              {
+                "_key": "fitr0x9vnt",
+                "color": "",
+                "text": "Complete Digitization in One App"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "vkpetogys0",
+        "_type": "bankingSuiteSection",
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Feeling caged-in...",
+          "text": {
+            "title": [
+              {
+                "_key": "gtwru7k0ra",
+                "color": "text-white",
+                "text": "All-in-One Banking Suite"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "",
+        "id": "bankingSuite9",
+        "isChild": true,
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "l1kvv3ks4k",
+            "description": "Continuous data sync with Core Banking Systems.",
+            "icon": null,
+            "title": "Real-Time Synchronization"
+          },
+          {
+            "_key": "mkf7onss7d",
+            "description": "Agents can work even in low-network areas with queued sync.",
+            "icon": null,
+            "title": "Offline Data Capture"
+          },
+          {
+            "_key": "gag630yf2h",
+            "description": "Seamless integration with CBS and banking platforms.",
+            "icon": null,
+            "title": "Secure API Integration"
+          },
+          {
+            "_key": "snwh6gzyps",
+            "description": "Transactions and onboarding validated in real time.",
+            "icon": null,
+            "title": "Instant Validation"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Field agents operate in diverse environments. MobiProPlus ensures seamless service regardless of network conditions.",
+          "text": {
+            "title": [
+              {
+                "_key": "jyu6bswr6f",
+                "text": "Built for Real-World Field Conditions"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "ees4ouy0qb",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Designed with usability in mind so even new field agents can onboard customers efficiently",
+          "text": {
+            "title": [
+              {
+                "_key": "2frwy64snk",
+                "color": "",
+                "text": "Simple for "
+              },
+              {
+                "_key": "egklgb4os6",
+                "color": "text-[#EE6832]",
+                "text": "Agents. "
+              },
+              {
+                "_key": "jiv900511f",
+                "color": "",
+                "text": "Powerful for "
+              },
+              {
+                "_key": "q2jr64emex",
+                "color": "text-brand-600",
+                "text": "Banks."
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "2h9oba13v0",
+            "description": "Step-by-step screens simplify onboarding.",
+            "title": "Guided Workflows"
+          },
+          {
+            "_key": "nlcr4xirqm",
+            "description": "Secure permissions based on agent roles.",
+            "title": "Role-Based Access"
+          },
+          {
+            "_key": "2gyu6ej2oe",
+            "description": "Supports multiple languages for diverse regions.",
+            "title": "Multilingual Interface"
+          },
+          {
+            "_key": "nzk6wwgoka",
+            "description": "Intuitive UI ensures quick adoption.",
+            "title": "Minimal Training Required"
+          }
+        ]
+      },
+      {
+        "_key": "2pqvxbp1x4",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "icon": null,
+          "subTitle": "Track onboarding progress, monitor productivity, and ensure compliance from a centralized dashboard.",
+          "text": "Real-Time Visibility into Field Operations"
+        },
+        "hasPadding": true,
+        "id": "articles1",
+        "isBgBlue": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "u8kxmrh0fw",
+            "description": "Monitor performance across field teams.",
+            "image": null,
+            "title": "Agent Productivity Tracking"
+          },
+          {
+            "_key": "3ects81zjf",
+            "description": "Review and approve submitted documents instantly.",
+            "image": null,
+            "title": "Document Validation"
+          },
+          {
+            "_key": "261pmudfhf",
+            "description": "Receive alerts for approvals and actions.",
+            "image": null,
+            "title": "Workflow Notifications"
+          },
+          {
+            "_key": "5jk04ter0z",
+            "description": "Gain insights from real-time MIS dashboards.",
+            "image": null,
+            "title": "Data-Driven Decisions"
+          }
+        ]
+      },
+      {
+        "_key": "sj9hkuw348",
+        "_type": "sectionHeaderSection",
+        "id": "sectionheader1",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "isTitleOnly": true,
+        "text": "Deliver More Value with Less Effort"
+      },
+      {
+        "_key": "xcwigj6sqz",
+        "_type": "quickActionCardParentSection",
+        "bgColor": "brand",
+        "hasCardBackground": false,
+        "id": "quickActionCardParent3",
+        "isChild": true,
+        "quickActionCard": [
+          {
+            "_key": "u5o9df1n9x",
+            "description": "Onboard customers in minutes instead of days.",
+            "icon": null,
+            "title": "Faster Turnaround Time"
+          },
+          {
+            "_key": "jxo9k3ac05",
+            "description": "Reduce paperwork, branches, and manual effort.",
+            "icon": null,
+            "title": "Lower Operational Cost"
+          },
+          {
+            "_key": "79rn44p1xd",
+            "description": "Deliver digital banking services anywhere.",
+            "icon": null,
+            "title": "Better Customer Experience"
+          }
+        ]
+      },
+      {
+        "_key": "kq2wlnhw6i",
+        "_type": "articlesSection",
+        "hasPadding": false,
+        "id": "articles2",
+        "isBgBlue": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "kwghchkcok",
+            "description": "Encrypted records and strong identity checks.",
+            "image": null,
+            "title": "Enhanced Security"
+          },
+          {
+            "_key": "68jow6amej",
+            "description": "Automated data capture eliminates human errors.",
+            "image": null,
+            "title": "Higher Accuracy"
+          }
+        ]
+      },
+      {
+        "_key": "lilj41n62n",
+        "_type": "sectionHeaderSection",
+        "id": "sectionheader2",
+        "isBgBlue": false,
+        "isTitleOnly": true,
+        "text": {
+          "title": [
+            {
+              "_key": "oukffda78n",
+              "color": "text-black",
+              "text": "A "
+            },
+            {
+              "_key": "3uykrlm7fw",
+              "color": "text-[#EE6832]",
+              "text": "Strategic Advantage "
+            },
+            {
+              "_key": "9uf0g3j0dk",
+              "color": "text-black",
+              "text": "for "
+            },
+            {
+              "_key": "kki2z3qwqi",
+              "color": "text-brand-600",
+              "text": "Digital Banking"
+            }
+          ],
+          "variant": "h1"
+        }
+      },
+      {
+        "_key": "58hfjsmhvt",
+        "_type": "quickActionCardParentSection",
+        "bgColor": "white",
+        "hasCardBackground": true,
+        "id": "quickActionCardParent4",
+        "isChild": false,
+        "quickActionCard": [
+          {
+            "_key": "bdiba1xmpx",
+            "description": "Onboard customers in minutes instead of days.",
+            "icon": null,
+            "title": "Faster Turnaround Time"
+          },
+          {
+            "_key": "6bc03img3z",
+            "description": "Reduce paperwork, branches, and manual effort.",
+            "icon": null,
+            "title": "Lower Operational Cost"
+          },
+          {
+            "_key": "5e57no7621",
+            "description": "Deliver digital banking services anywhere.",
+            "icon": null,
+            "title": "Better Customer Experience"
+          }
+        ]
+      },
+      {
+        "_key": "v323hu6wpw",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "4vlzpzizbo",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "2c87qixlvv",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "3ql6rhl3jr",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "a5tckoidav",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "b3g0auxrh4",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "8nxy804q6p",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "MobiProPlus delivers seamless tab banking and mobile field services, enabling banks to serve customers anywhere with secure digital onboarding and transactions.",
+      "image": null,
+      "keywords": [
+        "tab banking",
+        "mobile field banking",
+        "kiosk banking",
+        "rural banking",
+        "digital onboarding"
+      ],
+      "ogDescription": "Bring banking to the field with MobiProPlus — secure tab banking, remote onboarding, and frictionless customer service.",
+      "ogTitle": "MobiProPlus | Tab & Mobile Field Banking Solutions",
+      "title": "MobiProPlus Tab Banking | Digital Outreach for Field Sales",
+      "url": "https://yourdomain.com/products/tab-banking-solutions-mobipro"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "tab-banking-solutions-mobipro"
+    },
+    "title": "Tab Banking Solutions Mobipro"
   }
 ]
