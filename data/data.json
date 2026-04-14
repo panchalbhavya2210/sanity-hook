@@ -1583,15 +1583,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "GWOVDfiedfaJZayS3W6YcZ",
+    "_rev": "bKHpsvURqF4u6lEZfNASsK",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "bKHpsvURqF4u6lEZfN9Sjf"
+        "rev": "GWOVDfiedfaJZayS3W6YcZ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T09:48:05Z",
+    "_updatedAt": "2026-04-14T09:51:47Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -2403,7 +2403,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "digi-x"
+      "current": "xcelerators/digi-x"
     },
     "title": "Digi X"
   },
