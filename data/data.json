@@ -612,38 +612,38 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "iezjcqj9vs7hR9drrob8vm",
+    "_rev": "GWOVDfiedfaJZayS3aq2sN",
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-04-15T06:14:54Z",
+    "_updatedAt": "2026-04-15T06:16:52Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
     },
     "studies": [
       {
-        "_key": "07f6e8jiev",
+        "_key": "tvnt9yhyz4",
         "deployment": "Hosted on Cloud | Primary DC & DR",
         "features": [
           {
-            "_key": "wfh35myt0x",
+            "_key": "gsilgbb8np",
             "description": "Branches",
             "icon": "/gifs/network.gif",
             "title": "15"
           },
           {
-            "_key": "8xzr1a1k7y",
+            "_key": "6dmwdkak4z",
             "description": "Back Office Platform Users",
             "icon": "/gifs/team.gif",
             "title": "250"
           },
           {
-            "_key": "p2fk709d04",
+            "_key": "15f3lw51us",
             "description": "Banking Customers",
             "icon": "/gifs/customers.gif",
             "title": "1100K"
           },
           {
-            "_key": "c3xyehc1b0",
+            "_key": "xfzknrwznu",
             "description": "Transaction Count Per Day",
             "icon": "/gifs/transactions.gif",
             "title": "30K"
@@ -654,63 +654,63 @@
         "since": "Nov-2012",
         "takeaways": [
           {
-            "_key": "bjrzhv25jv",
+            "_key": "h5k17zdx9l",
             "columns": 4,
             "items": [
               {
-                "_key": "kmzlrkvlve",
+                "_key": "dzozuvct2p",
                 "label": "Core Banking Solution"
               },
               {
-                "_key": "yd2ehvt9sl",
+                "_key": "sk3uz6k430",
                 "label": "Mobile Banking"
               },
               {
-                "_key": "vrv1pzpooe",
+                "_key": "yk6fq359eo",
                 "label": "Tab Banking"
               },
               {
-                "_key": "jziognn2a7",
+                "_key": "l9221dqgt4",
                 "label": "SMS/Email Notification"
               }
             ]
           },
           {
-            "_key": "t5jy36kkd8",
+            "_key": "ztjd2qw0bv",
             "columns": 4,
             "items": [
               {
-                "_key": "ebblou5467",
+                "_key": "08mphwbwi9",
                 "label": "E-Statement"
               },
               {
-                "_key": "bi97ixg8sc",
+                "_key": "viiqs9tzgf",
                 "label": "RTGS/NEFT"
               },
               {
-                "_key": "a8maio8c01",
+                "_key": "iu9zxpbdq6",
                 "label": "NFS/IMPS/UPI"
               },
               {
-                "_key": "i4r3v8qc46",
+                "_key": "m9vxc52xql",
                 "label": "NACH"
               }
             ]
           },
           {
-            "_key": "2d50f46g02",
+            "_key": "ol6t8x7wab",
             "columns": 3,
             "items": [
               {
-                "_key": "i9pwf5rat9",
+                "_key": "upbp9o169p",
                 "label": "CTS"
               },
               {
-                "_key": "hp7u82sfvl",
+                "_key": "wtuqo80jqv",
                 "label": "Miscall"
               },
               {
-                "_key": "wgrd13w40e",
+                "_key": "x0ian9rq77",
                 "label": "E-Mandate"
               }
             ]
@@ -722,6 +722,427 @@
           "text": "Bankai demonstrated keen interest in solving our business problems and helped in migrating from legacy CBS to EasyBankCore®. We are proud to have Bankai as our CBS & Cloud Managed Service partner."
         },
         "theme": "blue"
+      },
+      {
+        "_key": "rpuhjb22bi",
+        "deployment": "Hosted on Cloud | Primary DC & DR",
+        "features": [
+          {
+            "_key": "i4u8et4fjs",
+            "description": "Branches",
+            "icon": "/gifs/network.gif",
+            "title": "199"
+          },
+          {
+            "_key": "4livmpo2ke",
+            "description": "Back Office Platform Users",
+            "icon": "/gifs/team.gif",
+            "title": "700"
+          },
+          {
+            "_key": "8rhgvkwzum",
+            "description": "Banking Customers",
+            "icon": "/gifs/customers.gif",
+            "title": "750K"
+          },
+          {
+            "_key": "q6mbdsekj6",
+            "description": "Transaction Count Per Day",
+            "icon": "/gifs/transactions.gif",
+            "title": "7K"
+          }
+        ],
+        "logo": "/images/case-study/gsc-ard-bank.webp",
+        "name": "The Gujarat State Co-Operative Agriculture and Rural Development Bank Ltd. (Kheti Bank)",
+        "since": "2022",
+        "takeaways": [
+          {
+            "_key": "p5go6mb54n",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "6lhrdp2t4t",
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "sgk3w6c9o9",
+                "label": "Tab Banking"
+              },
+              {
+                "_key": "u6l3j6mfvy",
+                "label": "SMS/Email Notification"
+              },
+              {
+                "_key": "y9p4bgb18t",
+                "label": "E-Statement"
+              }
+            ]
+          },
+          {
+            "_key": "kqqx326yvy",
+            "columns": 1,
+            "items": [
+              {
+                "_key": "5u2lbpu62d",
+                "label": "RTGS/NEFT"
+              }
+            ]
+          }
+        ],
+        "testimonial": {
+          "author": "B.M. Raichada",
+          "role": "Deputy General Manager ",
+          "text": "Appreciate team Bankai’s support in digitizing our agricultural loan processes & implementing EasyBankCore® - CBS for our organization. I strongly recommend Bankai’s CBS & Managed Services to organizations who are looking for next-gen digital Core Banking Solution.   "
+        },
+        "theme": "light"
+      },
+      {
+        "_key": "wtrvaqcudv",
+        "deployment": "Hosted on Cloud | Primary DC & DR",
+        "features": [
+          {
+            "_key": "cezspblcw1",
+            "description": "Branches",
+            "icon": "/gifs/network.gif",
+            "title": "56"
+          },
+          {
+            "_key": "ubjnto95hg",
+            "description": "Back Office Platform Users",
+            "icon": "/gifs/team.gif",
+            "title": "800"
+          },
+          {
+            "_key": "o94pphsm9h",
+            "description": "Banking Customers",
+            "icon": "/gifs/customers.gif",
+            "title": "900K"
+          },
+          {
+            "_key": "3vmwsagh6u",
+            "description": "Transaction Count Per Day",
+            "icon": "/gifs/transactions.gif",
+            "title": "135K"
+          }
+        ],
+        "logo": "/images/case-study/bombay-mercantile-co-op.webp",
+        "name": "Bombay Mercantile Co-Operative Bank Ltd.",
+        "since": "2017",
+        "takeaways": [
+          {
+            "_key": "vuz4mtias5",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "8zzhj8vewj",
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "rllyt315it",
+                "label": "Trade Finance"
+              },
+              {
+                "_key": "90wk2grzwe",
+                "label": "Treasury"
+              },
+              {
+                "_key": "z7aqqt4ujw",
+                "label": "EDPMS, IDPMS"
+              }
+            ]
+          },
+          {
+            "_key": "dt1dpchz45",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "mrc9wd3bdc",
+                "label": "SWIFT Integration"
+              },
+              {
+                "_key": "fpcobqc034",
+                "label": "SMS/Email Notification"
+              },
+              {
+                "_key": "47piq0a0z4",
+                "label": "E-Statement"
+              },
+              {
+                "_key": "ukbs42on5m",
+                "label": "RTGS/NEFT"
+              }
+            ]
+          },
+          {
+            "_key": "s5lbltzoke",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "gqsflf75eh",
+                "label": "NFS/IMPS/UPI"
+              },
+              {
+                "_key": "p91se6725y",
+                "label": "NACH"
+              },
+              {
+                "_key": "9s1l3db8gq",
+                "label": "Miscall"
+              },
+              {
+                "_key": "gbrvguf9ne",
+                "label": "E-Mandate"
+              }
+            ]
+          }
+        ],
+        "testimonial": {
+          "author": "A.K. Sinha",
+          "role": "COO",
+          "text": "BMC Bank has embraced digital banking as a cornerstone of its innovation strategy. We are happy to partner with Bankai for our Digital Core Banking transformation. We have leveraged EasyBankCore® modules for Retail, Corporate and Regulatory Compliance."
+        },
+        "theme": "light"
+      },
+      {
+        "_key": "d5vtz2wf60",
+        "deployment": "Hosted on Oracle Cloud | Primary DC & DR",
+        "features": [
+          {
+            "_key": "3cpyws43la",
+            "description": "Branches",
+            "icon": "",
+            "title": "36"
+          },
+          {
+            "_key": "558sgoedzx",
+            "description": "Back Office Platform Users",
+            "icon": "",
+            "title": "350"
+          },
+          {
+            "_key": "u72qe0ne93",
+            "description": "Banking Customers",
+            "icon": "",
+            "title": "200K"
+          },
+          {
+            "_key": "rwqfw17rqr",
+            "description": "Transaction Count Per Day",
+            "icon": "",
+            "title": "80K"
+          }
+        ],
+        "logo": "/images/case-study/ahmedabad-mercantile.webp",
+        "name": "The Ahmedabad Mercantile Co-Operative Bank Ltd.",
+        "since": "Nov-2010",
+        "takeaways": [
+          {
+            "_key": "8v26m83rs0",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "x09jjazm25",
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "k15h003z6x",
+                "label": "Mobile Banking"
+              },
+              {
+                "_key": "r2kch7fgca",
+                "label": "Internet Banking"
+              },
+              {
+                "_key": "gk06n6j87p",
+                "label": "SMS/Email Notification"
+              }
+            ]
+          },
+          {
+            "_key": "q5mq7ymyx5",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "yut71bu98w",
+                "label": "E-Statement"
+              },
+              {
+                "_key": "1wi1dorxsk",
+                "label": "RTGS/NEFT"
+              },
+              {
+                "_key": "vnxdiuxr8l",
+                "label": "NFS/IMPS/UPI"
+              },
+              {
+                "_key": "iud5mmu7xa",
+                "label": "NACH"
+              }
+            ]
+          },
+          {
+            "_key": "3ybp4uohds",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "f5yhfj2jqw",
+                "label": "CTS"
+              },
+              {
+                "_key": "ovcqpwwh38",
+                "label": "Bill Payment Integration"
+              },
+              {
+                "_key": "ianz2650dv",
+                "label": "Miscall/IVR/Long Code"
+              },
+              {
+                "_key": "al0znj5iix",
+                "label": "Whatsapp Banking"
+              }
+            ]
+          },
+          {
+            "_key": "lc1b4ulz8y",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "h9rgz88wvw",
+                "colSpan": 4,
+                "label": "E-Mandate"
+              }
+            ]
+          }
+        ],
+        "testimonial": {
+          "author": "Mr. Avani Kumar Jain",
+          "role": "CEO",
+          "text": "We are operational on EasyBankCore® since Nov-2010. You've come a long way since you started the organization. Appreciate your focus and determination in going the extra mile and managing all of the complexities of hosting CBS & digital banking services on Cloud."
+        },
+        "theme": "blue"
+      },
+      {
+        "_key": "fupeqnck8x",
+        "deployment": "Primary DC: On Premises <br/> DR: Oracle Cloud",
+        "features": [
+          {
+            "_key": "p18vis6iuz",
+            "description": "Branches",
+            "icon": "/gifs/dummy.gif",
+            "title": "29"
+          },
+          {
+            "_key": "0irse1qssx",
+            "description": "Back Office Platform Users",
+            "icon": "/gifs/priority.gif",
+            "title": "400"
+          },
+          {
+            "_key": "i7q5xk26m0",
+            "description": "Banking Customers",
+            "icon": "/gifs/process.gif",
+            "title": "650K+"
+          },
+          {
+            "_key": "abphhtg0cv",
+            "description": "Transaction Count Per Day",
+            "icon": "/gifs/implementaion-smart.gif",
+            "title": "350K"
+          }
+        ],
+        "logo": "/images/case-study/varachha-co-op-bank.webp",
+        "name": "The Varachha Co-Operative Bank Ltd.",
+        "since": "Oct-2018",
+        "takeaways": [
+          {
+            "_key": "drto3boejl",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "eiqc5jlwjb",
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "qr3hxi4r1r",
+                "label": "Mobile Banking"
+              },
+              {
+                "_key": "mnmepnh5c8",
+                "label": "Internet Banking"
+              },
+              {
+                "_key": "4f9b6yapa5",
+                "label": "SMS/Email Notification"
+              }
+            ]
+          },
+          {
+            "_key": "w56wdcs1wk",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "h7czmzoyoo",
+                "label": "E-Statement"
+              },
+              {
+                "_key": "8852em81sn",
+                "label": "RTGS/NEFT"
+              },
+              {
+                "_key": "zw69k1ktv4",
+                "label": "NFS/IMPS/UPI"
+              },
+              {
+                "_key": "qyupmaks54",
+                "label": "CTS"
+              }
+            ]
+          },
+          {
+            "_key": "1f7dpffarz",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "soiqrha72e",
+                "label": "E-Bill Payment Integration"
+              },
+              {
+                "_key": "maml3ipdth",
+                "label": "Miscall/IVR/Long Code"
+              },
+              {
+                "_key": "p9jivty7kk",
+                "label": "Whatsapp Banking"
+              },
+              {
+                "_key": "spq5lpuyaw",
+                "label": "E-Mandate"
+              }
+            ]
+          },
+          {
+            "_key": "1bcq3zh6o5",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "j98mzlv78t",
+                "colSpan": 2,
+                "label": "MIS Application"
+              },
+              {
+                "_key": "03w26rrsz7",
+                "colSpan": 2,
+                "label": "Chatbot"
+              }
+            ]
+          }
+        ],
+        "testimonial": {
+          "author": "Mr. Avani Kumar Jain",
+          "role": "CEO",
+          "text": "Bankai went above and beyond to solve Digital Core Banking Solution migration in a timely manner. Kudos to your team for the hard work & commitment , and I really appreciate it. Thank you team Bankai  for helping us move forward in offering innovative digital banking services to our customers."
+        },
+        "theme": "light"
       }
     ],
     "title": "Case Studies"
