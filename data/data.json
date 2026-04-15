@@ -612,86 +612,116 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "bKHpsvURqF4u6lEZfOroby",
+    "_rev": "iezjcqj9vs7hR9drrob5L6",
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-04-15T05:58:36Z",
+    "_updatedAt": "2026-04-15T06:10:42Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
     },
     "studies": [
       {
-        "_key": "besvaq9arq",
+        "_key": "0lwqavqtof",
         "deployment": "Hosted on Cloud | Primary DC & DR",
         "features": [
           {
-            "_key": "5jzmatqd3r",
+            "_key": "etbopnoxmv",
             "description": "Branches",
             "icon": "/gifs/network.gif",
-            "title": "199"
+            "title": "15"
           },
           {
-            "_key": "htpc0404dj",
+            "_key": "uqmpxr2jha",
             "description": "Back Office Platform Users",
             "icon": "/gifs/team.gif",
-            "title": "700"
+            "title": "250"
           },
           {
-            "_key": "0x5fqdi7dj",
+            "_key": "fh5te498kt",
             "description": "Banking Customers",
             "icon": "/gifs/customers.gif",
-            "title": "750K"
+            "title": "1100K"
           },
           {
-            "_key": "k0fdnssid6",
+            "_key": "p9icgmat3a",
             "description": "Transaction Count Per Day",
             "icon": "/gifs/transactions.gif",
-            "title": "7K"
+            "title": "30K"
           }
         ],
-        "logo": "/images/case-study/gsc-ard-bank.webp",
-        "name": "The Gujarat State Co-Operative Agriculture and Rural Development Bank Ltd. (Kheti Bank)",
-        "since": "2022",
+        "logo": "/images/case-study/shri-mahila-sewa-bank.webp",
+        "name": "Shri Mahila Sewa Sahakari Bank Ltd. ",
+        "since": "Nov-2012",
         "takeaways": [
           {
-            "_key": "lrkuldt8cp",
+            "_key": "aslxjyy6hs",
             "columns": 4,
             "items": [
               {
-                "_key": "w6ud3oel2k",
+                "_key": "0ijk3p61wr",
                 "label": "Core Banking Solution"
               },
               {
-                "_key": "jqrbq4uwbt",
+                "_key": "pjfk5mhzx7",
+                "label": "Mobile Banking"
+              },
+              {
+                "_key": "mzsj0w0piy",
                 "label": "Tab Banking"
               },
               {
-                "_key": "p8vmaygaxm",
+                "_key": "5faeap2uff",
                 "label": "SMS/Email Notification"
-              },
-              {
-                "_key": "lq4360cnc3",
-                "label": "E-Statement"
               }
             ]
           },
           {
-            "_key": "x8hwib1mnt",
-            "columns": 1,
+            "_key": "tnt1pn8e55",
+            "columns": 4,
             "items": [
               {
-                "_key": "px0zzssyap",
+                "_key": "ca1locq95r",
+                "label": "E-Statement"
+              },
+              {
+                "_key": "i7ke9i47ye",
                 "label": "RTGS/NEFT"
+              },
+              {
+                "_key": "ppw02nmhyx",
+                "label": "NFS/IMPS/UPI"
+              },
+              {
+                "_key": "cy4xg6nwnf",
+                "label": "NACH"
+              }
+            ]
+          },
+          {
+            "_key": "papja1xa53",
+            "columns": 3,
+            "items": [
+              {
+                "_key": "x4712hpnrk",
+                "label": "CTS"
+              },
+              {
+                "_key": "mhrelugg3p",
+                "label": "Miscall"
+              },
+              {
+                "_key": "yd71qtgb2l",
+                "label": "E-Mandate"
               }
             ]
           }
         ],
         "testimonial": {
-          "author": "B.M. Raichada",
-          "role": "Deputy General Manager ",
-          "text": "Appreciate team Bankai’s support in digitizing our agricultural loan processes & implementing EasyBankCore® - CBS for our organization. I strongly recommend Bankai’s CBS & Managed Services to organizations who are looking for next-gen digital Core Banking Solution.   "
+          "author": "CA Jayshreeben Vyas",
+          "role": "MD",
+          "text": "Bankai demonstrated keen interest in solving our business problems and helped in migrating from legacy CBS to EasyBankCore®. We are proud to have Bankai as our CBS & Cloud Managed Service partner."
         },
-        "theme": "light"
+        "theme": "blue"
       }
     ],
     "title": "Case Studies"
