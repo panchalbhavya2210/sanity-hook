@@ -3537,46 +3537,46 @@
     }
   },
   {
-    "_createdAt": "2026-04-15T05:45:44Z",
+    "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "GWOVDfiedfaJZayS3amevr",
+    "_rev": "iezjcqj9vs7hR9drroaZAW",
     "_type": "productPages",
-    "_updatedAt": "2026-04-15T05:45:44Z",
+    "_updatedAt": "2026-04-15T05:50:35Z",
     "sections": [
       {
-        "_key": "9hs4l9n0s9",
+        "_key": "d0cpsq4une",
         "_type": "heroSection",
         "id": "hero",
         "subtitle": "Bankai IMPS & UPI Switch delivers a secure, unified, and always-on payments infrastructure eliminating multi-vendor chaos and unlocking true speed, control, and compliance.",
         "title": "Powering the Future of Instant Digital Payments"
       },
       {
-        "_key": "e0yuk72yll",
+        "_key": "l273co1btq",
         "_type": "coreInfoSection",
         "features": [
           {
-            "_key": "ymdhw7osi6",
+            "_key": "ogi9kypsoy",
             "description": "Core, switch, and payments come from different providers—slowing innovation.",
             "hasList": false,
             "icon": null,
             "title": "Too Many Vendors"
           },
           {
-            "_key": "wwfg9253ji",
+            "_key": "wjnwl5l16z",
             "description": "Finger-pointing and delayed support slow down issue resolution.",
             "hasList": false,
             "icon": null,
             "title": "Longer Downtimes"
           },
           {
-            "_key": "28pjzl6pfl",
+            "_key": "gxys1lnymg",
             "description": "Managing multiple contracts and SLAs increases operational burden.",
             "hasList": false,
             "icon": null,
             "title": "High Maintenance Costs"
           },
           {
-            "_key": "94zpfdm49m",
+            "_key": "pal2nvxv6y",
             "description": "APIs don’t talk to each other; systems remain siloed.",
             "hasList": false,
             "icon": null,
@@ -3587,39 +3587,39 @@
         "isTextBlack": true,
         "titleParts": [
           {
-            "_key": "kyzys4uhkz",
+            "_key": "ucdevua6y9",
             "color": "",
             "text": "Fragmented "
           },
           {
-            "_key": "tpzq1jhz4a",
+            "_key": "iimy8zzfit",
             "color": "text-brand-600",
             "text": "Ecosystems"
           },
           {
-            "_key": "a5a1r04oh3",
+            "_key": "220v9vf2sm",
             "color": "",
             "text": ". Delayed "
           },
           {
-            "_key": "ivv0e8nc28",
+            "_key": "yswsplpds0",
             "color": "text-[#EE6832]",
             "text": "Resolutions"
           },
           {
-            "_key": "g6boy5hx3f",
+            "_key": "ttj0n4uwob",
             "color": "",
             "text": ". Rising "
           },
           {
-            "_key": "opjxr9aaaj",
+            "_key": "vm5v8kg63f",
             "color": "text-yellow",
             "text": "Risks."
           }
         ]
       },
       {
-        "_key": "g8ruxko1q6",
+        "_key": "hdln44255s",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
@@ -3627,7 +3627,7 @@
           "text": {
             "title": [
               {
-                "_key": "v417l0l1re",
+                "_key": "b54m0t55ok",
                 "color": "text-white",
                 "text": "The Bankai IMPS & UPI Switch Advantage"
               }
@@ -3640,37 +3640,37 @@
         "isTextWhite": true,
         "quickActionCard": [
           {
-            "_key": "nife9mlm8h",
+            "_key": "1tlm99j1mb",
             "description": "Zero downtime, lightning-fast transactions.",
             "icon": null,
             "title": "24x7x365 Real-Time Processing"
           },
           {
-            "_key": "raoby5z9xa",
+            "_key": "kwuxfzcg02",
             "description": "One team, one responsibility, no excuses.",
             "icon": null,
             "title": "Dedicated Single-Vendor Support"
           },
           {
-            "_key": "hwcf2t2ioz",
+            "_key": "jur1l77rui",
             "description": "PCI-DSS certified, fraud-monitored.",
             "icon": null,
             "title": "Bank-Grade Security"
           },
           {
-            "_key": "1mdc9j5on3",
+            "_key": "tiryg3q4co",
             "description": "Built for RBI, NPCI, and evolving compliance standards.",
             "icon": null,
             "title": "Regulatory-Ready"
           },
           {
-            "_key": "vl52i8zyns",
+            "_key": "0ihkhyqmwk",
             "description": "Millions of transactions/second—built for peak loads.",
             "icon": null,
             "title": "High Throughput"
           },
           {
-            "_key": "bgn5put5gk",
+            "_key": "8so7h2e1db",
             "description": "Seamless connection with CBS, mobile banking & fintechs.",
             "icon": null,
             "title": "API-First Integration"
@@ -3678,7 +3678,7 @@
         ]
       },
       {
-        "_key": "n79jddzeex",
+        "_key": "4tt2vt87zj",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
@@ -3686,32 +3686,32 @@
           "text": {
             "title": [
               {
-                "_key": "7uh4bi5v0d",
+                "_key": "8lhphj66dg",
                 "color": "text-black",
                 "text": "Simplified "
               },
               {
-                "_key": "dpkq3p24f3",
+                "_key": "0mwvqtcw06",
                 "color": "text-warning",
                 "text": "Operations"
               },
               {
-                "_key": "mwn6e9gg4w",
+                "_key": "5lytg0fj6g",
                 "color": "text-black",
                 "text": ". "
               },
               {
-                "_key": "jqwkm1ekts",
+                "_key": "rjbim6d54h",
                 "color": "text-black",
                 "text": "Unmatched "
               },
               {
-                "_key": "aguwxzgdqe",
+                "_key": "n4fhmxvkxb",
                 "color": "text-brand-600",
                 "text": "Control"
               },
               {
-                "_key": "h2693rj8a7",
+                "_key": "1z6u557hvk",
                 "color": "text-black",
                 "text": "."
               }
@@ -3724,29 +3724,29 @@
         "isTextBlack": true,
         "quickActionCard": [
           {
-            "_key": "xsa2tnddbn",
+            "_key": "cvdkiq7f5z",
             "description": "No escalation loops. Just direct resolution.",
             "title": "Minimal Support Issues"
           },
           {
-            "_key": "e25y255bzu",
+            "_key": "dxugt06dh1",
             "description": "One vendor = no finger-pointing.",
             "title": "Lower Operational Risk"
           },
           {
-            "_key": "vgi3o5kpvc",
+            "_key": "zbj0zculez",
             "description": "One agreement for CBS + Switch.",
             "title": "Simplified Contracts"
           },
           {
-            "_key": "b0b4a9d01h",
+            "_key": "s422ttnsry",
             "description": "Future upgrades and features under one vision.",
             "title": "Unified Roadmap"
           }
         ]
       },
       {
-        "_key": "0h7fxmsnkw",
+        "_key": "tn1wzh0ccq",
         "_type": "imageSectionSingle",
         "id": "imageShow3",
         "imageAlt": "",
@@ -3756,7 +3756,7 @@
         "isImageFullWidth": true
       },
       {
-        "_key": "05qo2nz4a8",
+        "_key": "0b6zom1a8h",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
@@ -3764,7 +3764,7 @@
           "text": {
             "title": [
               {
-                "_key": "uh40s16zx6",
+                "_key": "s3v9x54vvi",
                 "color": "text-white",
                 "text": "Transform Your Bank’s Payments with Bankai SaaS"
               }
@@ -3777,37 +3777,37 @@
         "isTextWhite": true,
         "quickActionCard": [
           {
-            "_key": "5r1q1cxhho",
+            "_key": "es0kk5e6ht",
             "description": "One partner for uptime, security, support, and compliance.",
             "icon": null,
             "title": "Single Vendor Accountability"
           },
           {
-            "_key": "b6erypk284",
+            "_key": "e8v5tuvivz",
             "description": "Issues resolved quickly, no vendor blame game.",
             "icon": null,
             "title": "Reduced Downtime"
           },
           {
-            "_key": "ajc9btj88r",
+            "_key": "f3b6nihy03",
             "description": "CBS and switch under one ecosystem = faster routing.",
             "icon": null,
             "title": "Operational Efficiency"
           },
           {
-            "_key": "w95cgjcept",
+            "_key": "4rjqzth33c",
             "description": "Lower TCO, no third-party markup.",
             "icon": null,
             "title": "Cost Savings"
           },
           {
-            "_key": "2umlylpez2",
+            "_key": "xrtiqsry0t",
             "description": "End-to-end compliance and simplified audits.",
             "icon": null,
             "title": "Regulatory Confidence"
           },
           {
-            "_key": "hjpf3d7gx8",
+            "_key": "ep3aj6go9d",
             "description": "Built for UPI 2.0, UPI Lite, and CBDC readiness.",
             "icon": null,
             "title": "Scalability for Growth"
@@ -3815,7 +3815,7 @@
         ]
       },
       {
-        "_key": "hl7abhpm1t",
+        "_key": "p0vhg7kdrs",
         "_type": "sectionHeaderSection",
         "className": "pt-10! px-5",
         "icon": null,
@@ -3826,17 +3826,17 @@
         "text": {
           "title": [
             {
-              "_key": "hqeo6j8vyn",
+              "_key": "qwid2dcp0x",
               "color": "text-black",
               "text": "The "
             },
             {
-              "_key": "7df7u1uz18",
+              "_key": "qeb63mnluy",
               "color": "text-warning",
               "text": "Bankai "
             },
             {
-              "_key": "ynhwul21gr",
+              "_key": "4bah0hqypd",
               "color": "text-brand-600",
               "text": "Difference"
             }
@@ -3845,7 +3845,7 @@
         }
       },
       {
-        "_key": "7nbwltz0hj",
+        "_key": "geke0p97e6",
         "_type": "imageSectionSingle",
         "id": "imageShow4",
         "imageAlt": "",
@@ -3855,44 +3855,105 @@
         "isImageFullWidth": false
       },
       {
-        "_key": "cucm8rj13r",
+        "_key": "qsv9kmw3y8",
         "_type": "upiSwitch",
-        "id": "upiSwitch"
+        "id": "upiSwitch",
+        "items": [
+          {
+            "_key": "3od723ueur",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Rest API",
+              "ISO 8583",
+              "XML Over TCP/HTTP/HTTPS"
+            ],
+            "title": "Channel Interfaces"
+          },
+          {
+            "_key": "ozs87pv5fb",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Rest API",
+              "ISO 8583",
+              "XML Over TCP/HTTP/HTTPS"
+            ],
+            "title": "Core and Meta API Integration with NPCI UPI System"
+          },
+          {
+            "_key": "hh83q3ch7u",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "CBS Host Interface",
+              "IMPS Switch",
+              "HSM",
+              "DCMS",
+              "SMS Gateway",
+              "OTP Engine"
+            ],
+            "title": "Integration with Bank Infrastructure"
+          },
+          {
+            "_key": "5jp7aggmoa",
+            "hasList": false,
+            "icon": null,
+            "title": "Database Access Layer"
+          },
+          {
+            "_key": "e8i56udnzx",
+            "hasList": true,
+            "icon": null,
+            "listData": [
+              "Transaction Manager",
+              "Virtual Address Manager",
+              "Built-in OTP Engine",
+              "Reports and MIS",
+              "User Profiles Manager",
+              "Push Notifications Engine"
+            ],
+            "title": "Modules"
+          }
+        ],
+        "masonryTitle": "Bankai UPI Switch",
+        "sectionSubtitle": "A modern, resilient architecture designed for speed, uptime, and compliance.",
+        "sectionTitle": "Built to Scale, Secured to Last"
       },
       {
-        "_key": "8x6smwsm63",
+        "_key": "xctrf3sfyj",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "cta",
         "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
         "titleParts": [
           {
-            "_key": "co9uzp2qr6",
+            "_key": "kj08hgg6vd",
             "color": "",
             "text": "Ready to "
           },
           {
-            "_key": "7a88qwbh6c",
+            "_key": "9bll8o8gu3",
             "color": "text-[#EE6832]",
             "text": "Transform "
           },
           {
-            "_key": "c40a6ao4iv",
+            "_key": "lon9cllyye",
             "color": "",
             "text": "Your "
           },
           {
-            "_key": "6uj917gprm",
+            "_key": "6fphvwwvne",
             "color": "text-[#EE6832]",
             "text": "Banking "
           },
           {
-            "_key": "4xciadh0zp",
+            "_key": "ah3573s0fl",
             "color": "text-brand-600",
             "text": "Experience"
           },
           {
-            "_key": "ncegdpglrj",
+            "_key": "15l72tyuc5",
             "color": "",
             "text": "?"
           }
