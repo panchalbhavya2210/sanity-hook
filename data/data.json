@@ -610,6 +610,93 @@
     ]
   },
   {
+    "_createdAt": "2026-04-15T05:58:36Z",
+    "_id": "case-studies",
+    "_rev": "bKHpsvURqF4u6lEZfOroby",
+    "_type": "caseStudyPage",
+    "_updatedAt": "2026-04-15T05:58:36Z",
+    "slug": {
+      "_type": "slug",
+      "current": "case-studies"
+    },
+    "studies": [
+      {
+        "_key": "besvaq9arq",
+        "deployment": "Hosted on Cloud | Primary DC & DR",
+        "features": [
+          {
+            "_key": "5jzmatqd3r",
+            "description": "Branches",
+            "icon": "/gifs/network.gif",
+            "title": "199"
+          },
+          {
+            "_key": "htpc0404dj",
+            "description": "Back Office Platform Users",
+            "icon": "/gifs/team.gif",
+            "title": "700"
+          },
+          {
+            "_key": "0x5fqdi7dj",
+            "description": "Banking Customers",
+            "icon": "/gifs/customers.gif",
+            "title": "750K"
+          },
+          {
+            "_key": "k0fdnssid6",
+            "description": "Transaction Count Per Day",
+            "icon": "/gifs/transactions.gif",
+            "title": "7K"
+          }
+        ],
+        "logo": "/images/case-study/gsc-ard-bank.webp",
+        "name": "The Gujarat State Co-Operative Agriculture and Rural Development Bank Ltd. (Kheti Bank)",
+        "since": "2022",
+        "takeaways": [
+          {
+            "_key": "lrkuldt8cp",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "w6ud3oel2k",
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "jqrbq4uwbt",
+                "label": "Tab Banking"
+              },
+              {
+                "_key": "p8vmaygaxm",
+                "label": "SMS/Email Notification"
+              },
+              {
+                "_key": "lq4360cnc3",
+                "label": "E-Statement"
+              }
+            ]
+          },
+          {
+            "_key": "x8hwib1mnt",
+            "columns": 1,
+            "items": [
+              {
+                "_key": "px0zzssyap",
+                "label": "RTGS/NEFT"
+              }
+            ]
+          }
+        ],
+        "testimonial": {
+          "author": "B.M. Raichada",
+          "role": "Deputy General Manager ",
+          "text": "Appreciate team Bankai’s support in digitizing our agricultural loan processes & implementing EasyBankCore® - CBS for our organization. I strongly recommend Bankai’s CBS & Managed Services to organizations who are looking for next-gen digital Core Banking Solution.   "
+        },
+        "theme": "light"
+      }
+    ],
+    "title": "Case Studies"
+  },
+  {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
     "_rev": "GWOVDfiedfaJZayS3alpAF",
