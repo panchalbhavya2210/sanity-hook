@@ -3537,6 +3537,390 @@
     }
   },
   {
+    "_createdAt": "2026-04-15T05:45:44Z",
+    "_id": "imps-upi-switch-services",
+    "_rev": "GWOVDfiedfaJZayS3amevr",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-15T05:45:44Z",
+    "sections": [
+      {
+        "_key": "9hs4l9n0s9",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Bankai IMPS & UPI Switch delivers a secure, unified, and always-on payments infrastructure eliminating multi-vendor chaos and unlocking true speed, control, and compliance.",
+        "title": "Powering the Future of Instant Digital Payments"
+      },
+      {
+        "_key": "e0yuk72yll",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "ymdhw7osi6",
+            "description": "Core, switch, and payments come from different providers—slowing innovation.",
+            "hasList": false,
+            "icon": null,
+            "title": "Too Many Vendors"
+          },
+          {
+            "_key": "wwfg9253ji",
+            "description": "Finger-pointing and delayed support slow down issue resolution.",
+            "hasList": false,
+            "icon": null,
+            "title": "Longer Downtimes"
+          },
+          {
+            "_key": "28pjzl6pfl",
+            "description": "Managing multiple contracts and SLAs increases operational burden.",
+            "hasList": false,
+            "icon": null,
+            "title": "High Maintenance Costs"
+          },
+          {
+            "_key": "94zpfdm49m",
+            "description": "APIs don’t talk to each other; systems remain siloed.",
+            "hasList": false,
+            "icon": null,
+            "title": "Lack of Integration"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "kyzys4uhkz",
+            "color": "",
+            "text": "Fragmented "
+          },
+          {
+            "_key": "tpzq1jhz4a",
+            "color": "text-brand-600",
+            "text": "Ecosystems"
+          },
+          {
+            "_key": "a5a1r04oh3",
+            "color": "",
+            "text": ". Delayed "
+          },
+          {
+            "_key": "ivv0e8nc28",
+            "color": "text-[#EE6832]",
+            "text": "Resolutions"
+          },
+          {
+            "_key": "g6boy5hx3f",
+            "color": "",
+            "text": ". Rising "
+          },
+          {
+            "_key": "opjxr9aaaj",
+            "color": "text-yellow",
+            "text": "Risks."
+          }
+        ]
+      },
+      {
+        "_key": "g8ruxko1q6",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "A next-gen switch that simplifies digital payments for banks with a single, high-performance platform—scalable, secure, and future-ready.",
+          "text": {
+            "title": [
+              {
+                "_key": "v417l0l1re",
+                "color": "text-white",
+                "text": "The Bankai IMPS & UPI Switch Advantage"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand",
+        "id": "quickActionCardParent8",
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "nife9mlm8h",
+            "description": "Zero downtime, lightning-fast transactions.",
+            "icon": null,
+            "title": "24x7x365 Real-Time Processing"
+          },
+          {
+            "_key": "raoby5z9xa",
+            "description": "One team, one responsibility, no excuses.",
+            "icon": null,
+            "title": "Dedicated Single-Vendor Support"
+          },
+          {
+            "_key": "hwcf2t2ioz",
+            "description": "PCI-DSS certified, fraud-monitored.",
+            "icon": null,
+            "title": "Bank-Grade Security"
+          },
+          {
+            "_key": "1mdc9j5on3",
+            "description": "Built for RBI, NPCI, and evolving compliance standards.",
+            "icon": null,
+            "title": "Regulatory-Ready"
+          },
+          {
+            "_key": "vl52i8zyns",
+            "description": "Millions of transactions/second—built for peak loads.",
+            "icon": null,
+            "title": "High Throughput"
+          },
+          {
+            "_key": "bgn5put5gk",
+            "description": "Seamless connection with CBS, mobile banking & fintechs.",
+            "icon": null,
+            "title": "API-First Integration"
+          }
+        ]
+      },
+      {
+        "_key": "n79jddzeex",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Eliminate complexity and unlock agility with Bankai's all-in-one payments infrastructure.",
+          "text": {
+            "title": [
+              {
+                "_key": "7uh4bi5v0d",
+                "color": "text-black",
+                "text": "Simplified "
+              },
+              {
+                "_key": "dpkq3p24f3",
+                "color": "text-warning",
+                "text": "Operations"
+              },
+              {
+                "_key": "mwn6e9gg4w",
+                "color": "text-black",
+                "text": ". "
+              },
+              {
+                "_key": "jqwkm1ekts",
+                "color": "text-black",
+                "text": "Unmatched "
+              },
+              {
+                "_key": "aguwxzgdqe",
+                "color": "text-brand-600",
+                "text": "Control"
+              },
+              {
+                "_key": "h2693rj8a7",
+                "color": "text-black",
+                "text": "."
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "xsa2tnddbn",
+            "description": "No escalation loops. Just direct resolution.",
+            "title": "Minimal Support Issues"
+          },
+          {
+            "_key": "e25y255bzu",
+            "description": "One vendor = no finger-pointing.",
+            "title": "Lower Operational Risk"
+          },
+          {
+            "_key": "vgi3o5kpvc",
+            "description": "One agreement for CBS + Switch.",
+            "title": "Simplified Contracts"
+          },
+          {
+            "_key": "b0b4a9d01h",
+            "description": "Future upgrades and features under one vision.",
+            "title": "Unified Roadmap"
+          }
+        ]
+      },
+      {
+        "_key": "0h7fxmsnkw",
+        "_type": "imageSectionSingle",
+        "id": "imageShow3",
+        "imageAlt": "",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": true
+      },
+      {
+        "_key": "05qo2nz4a8",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "A single switch, many outcomes—speed, savings, security, and scale.",
+          "text": {
+            "title": [
+              {
+                "_key": "uh40s16zx6",
+                "color": "text-white",
+                "text": "Transform Your Bank’s Payments with Bankai SaaS"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand",
+        "id": "quickActionCardParent7",
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "5r1q1cxhho",
+            "description": "One partner for uptime, security, support, and compliance.",
+            "icon": null,
+            "title": "Single Vendor Accountability"
+          },
+          {
+            "_key": "b6erypk284",
+            "description": "Issues resolved quickly, no vendor blame game.",
+            "icon": null,
+            "title": "Reduced Downtime"
+          },
+          {
+            "_key": "ajc9btj88r",
+            "description": "CBS and switch under one ecosystem = faster routing.",
+            "icon": null,
+            "title": "Operational Efficiency"
+          },
+          {
+            "_key": "w95cgjcept",
+            "description": "Lower TCO, no third-party markup.",
+            "icon": null,
+            "title": "Cost Savings"
+          },
+          {
+            "_key": "2umlylpez2",
+            "description": "End-to-end compliance and simplified audits.",
+            "icon": null,
+            "title": "Regulatory Confidence"
+          },
+          {
+            "_key": "hjpf3d7gx8",
+            "description": "Built for UPI 2.0, UPI Lite, and CBDC readiness.",
+            "icon": null,
+            "title": "Scalability for Growth"
+          }
+        ]
+      },
+      {
+        "_key": "hl7abhpm1t",
+        "_type": "sectionHeaderSection",
+        "className": "pt-10! px-5",
+        "icon": null,
+        "id": "sectionheader1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "subTitleText": "Why work with five vendors when one platform can do it all?",
+        "text": {
+          "title": [
+            {
+              "_key": "hqeo6j8vyn",
+              "color": "text-black",
+              "text": "The "
+            },
+            {
+              "_key": "7df7u1uz18",
+              "color": "text-warning",
+              "text": "Bankai "
+            },
+            {
+              "_key": "ynhwul21gr",
+              "color": "text-brand-600",
+              "text": "Difference"
+            }
+          ],
+          "variant": "h1"
+        }
+      },
+      {
+        "_key": "7nbwltz0hj",
+        "_type": "imageSectionSingle",
+        "id": "imageShow4",
+        "imageAlt": "",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": false
+      },
+      {
+        "_key": "cucm8rj13r",
+        "_type": "upiSwitch",
+        "id": "upiSwitch"
+      },
+      {
+        "_key": "8x6smwsm63",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "cta",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "co9uzp2qr6",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "7a88qwbh6c",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "c40a6ao4iv",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "6uj917gprm",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "4xciadh0zp",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "ncegdpglrj",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Power instant payments with BankAI’s IMPS and UPI switch services, designed for secure, compliant, and high-performance digital payment processing.",
+      "image": null,
+      "keywords": [
+        "IMPS switch",
+        "UPI switch",
+        "payments infrastructure",
+        "banking payments",
+        "digital payments"
+      ],
+      "ogDescription": "Unlock faster, more reliable digital payments with BankAI’s integrated IMPS and UPI switch services.",
+      "ogTitle": "IMPS & UPI Switch Services | Secure Payments Infrastructure",
+      "title": "IMPS & UPI Switch Services | BankAI",
+      "url": "https://yourdomain.com/products/imps-upi-switch-services"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "imps-upi-switch-services"
+    },
+    "title": "Imps Upi Switch Services"
+  },
+  {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
     "_rev": "bKHpsvURqF4u6lEZfNHQnz",
