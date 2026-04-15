@@ -612,38 +612,38 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "bKHpsvURqF4u6lEZfOsgOb",
+    "_rev": "iezjcqj9vs7hR9drrob8vm",
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-04-15T06:14:18Z",
+    "_updatedAt": "2026-04-15T06:14:54Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
     },
     "studies": [
       {
-        "_key": "c8f42rgpov",
+        "_key": "07f6e8jiev",
         "deployment": "Hosted on Cloud | Primary DC & DR",
         "features": [
           {
-            "_key": "pmaunuq7ib",
+            "_key": "wfh35myt0x",
             "description": "Branches",
             "icon": "/gifs/network.gif",
             "title": "15"
           },
           {
-            "_key": "iomuac231r",
+            "_key": "8xzr1a1k7y",
             "description": "Back Office Platform Users",
             "icon": "/gifs/team.gif",
             "title": "250"
           },
           {
-            "_key": "otjetacszw",
+            "_key": "p2fk709d04",
             "description": "Banking Customers",
             "icon": "/gifs/customers.gif",
             "title": "1100K"
           },
           {
-            "_key": "x5eom2kifu",
+            "_key": "c3xyehc1b0",
             "description": "Transaction Count Per Day",
             "icon": "/gifs/transactions.gif",
             "title": "30K"
@@ -654,63 +654,63 @@
         "since": "Nov-2012",
         "takeaways": [
           {
-            "_key": "s8pc2655rx",
+            "_key": "bjrzhv25jv",
             "columns": 4,
             "items": [
               {
-                "_key": "gbninokc0h",
+                "_key": "kmzlrkvlve",
                 "label": "Core Banking Solution"
               },
               {
-                "_key": "a1ny940hon",
+                "_key": "yd2ehvt9sl",
                 "label": "Mobile Banking"
               },
               {
-                "_key": "og11oqytrx",
+                "_key": "vrv1pzpooe",
                 "label": "Tab Banking"
               },
               {
-                "_key": "75x6dowla1",
+                "_key": "jziognn2a7",
                 "label": "SMS/Email Notification"
               }
             ]
           },
           {
-            "_key": "hu8f5bxe7s",
+            "_key": "t5jy36kkd8",
             "columns": 4,
             "items": [
               {
-                "_key": "tz1il3jj8z",
+                "_key": "ebblou5467",
                 "label": "E-Statement"
               },
               {
-                "_key": "os0nicwoy2",
+                "_key": "bi97ixg8sc",
                 "label": "RTGS/NEFT"
               },
               {
-                "_key": "4ezkajep6o",
+                "_key": "a8maio8c01",
                 "label": "NFS/IMPS/UPI"
               },
               {
-                "_key": "0uwki8iaru",
+                "_key": "i4r3v8qc46",
                 "label": "NACH"
               }
             ]
           },
           {
-            "_key": "lzq06qfomu",
+            "_key": "2d50f46g02",
             "columns": 3,
             "items": [
               {
-                "_key": "lfisyha07v",
+                "_key": "i9pwf5rat9",
                 "label": "CTS"
               },
               {
-                "_key": "5m33mfjmf5",
+                "_key": "hp7u82sfvl",
                 "label": "Miscall"
               },
               {
-                "_key": "usx0m40hec",
+                "_key": "wgrd13w40e",
                 "label": "E-Mandate"
               }
             ]
