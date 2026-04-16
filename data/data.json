@@ -8469,15 +8469,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "piiLNOj3u9Wq2zYwg4ITm0",
+    "_rev": "piiLNOj3u9Wq2zYwg4Qq0y",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "aeR9vTMsaQURTdDrE3hUmx"
+        "rev": "piiLNOj3u9Wq2zYwg4ITm0"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:48:14Z",
+    "_updatedAt": "2026-04-16T11:19:39Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -8925,22 +8925,22 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "imps-upi-switch-services"
+      "current": "services/imps-upi-switch-services"
     },
     "title": "Imps Upi Switch Services"
   },
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "piiLNOj3u9Wq2zYwg4Ihrw",
+    "_rev": "piiLNOj3u9Wq2zYwg4Qq9M",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "piiLNOj3u9Wq2zYwg4IhNk"
+        "rev": "piiLNOj3u9Wq2zYwg4Ihrw"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:14:28Z",
+    "_updatedAt": "2026-04-16T11:19:48Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -9423,7 +9423,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "managed-cloud-services"
+      "current": "services/managed-cloud-services"
     },
     "title": "Managed Cloud Services"
   },
