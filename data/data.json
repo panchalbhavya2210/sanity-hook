@@ -3658,15 +3658,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "aeR9vTMsaQURTdDrE3mmex",
+    "_rev": "piiLNOj3u9Wq2zYwg4QotM",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "aeR9vTMsaQURTdDrE3hPPl"
+        "rev": "aeR9vTMsaQURTdDrE3mmex"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:17:13Z",
+    "_updatedAt": "2026-04-16T11:19:00Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -4055,7 +4055,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "xcelerators/nach/digital-signing"
+      "current": "xcelerators/plugins/digital-signing"
     },
     "title": "Digital Signing"
   },
@@ -9944,9 +9944,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "aeR9vTMsaQURTdDrE3hGfO",
+    "_rev": "piiLNOj3u9Wq2zYwg4Qp8S",
+    "_system": {
+      "base": {
+        "id": "nach-signing-tool",
+        "rev": "aeR9vTMsaQURTdDrE3hGfO"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:45:06Z",
+    "_updatedAt": "2026-04-16T11:19:07Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -10347,7 +10353,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "nach-signing-tool"
+      "current": "xcelerators/nach/nach-signing-tool"
     },
     "title": "Nach Signing Tool"
   },
