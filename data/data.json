@@ -3658,15 +3658,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "aeR9vTMsaQURTdDrE3hPPl",
+    "_rev": "aeR9vTMsaQURTdDrE3mmex",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "aeR9vTMsaQURTdDrE3hGsh"
+        "rev": "aeR9vTMsaQURTdDrE3hPPl"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:24:27Z",
+    "_updatedAt": "2026-04-16T11:17:13Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -4041,7 +4041,6 @@
     ],
     "seo": {
       "description": "Securely sign PDF documents and automate compliance with BankAI’s digital signing service embedded in EasyBankCore®.",
-      "image": null,
       "keywords": [
         "digital signing",
         "e-signature",
@@ -4056,7 +4055,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "digital-signing"
+      "current": "xcelerators/nach/digital-signing"
     },
     "title": "Digital Signing"
   },
@@ -7374,15 +7373,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "7JFZabLQagH5TO1qrtp7nD",
+    "_rev": "piiLNOj3u9Wq2zYwg4Ql8C",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "aeR9vTMsaQURTdDrE3hILi"
+        "rev": "7JFZabLQagH5TO1qrtp7nD"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:16:54Z",
+    "_updatedAt": "2026-04-16T11:17:23Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -7843,7 +7842,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "xcelerator/plugins/formula-genie"
+      "current": "xcelerators/plugins/formula-genie"
     },
     "title": "Formula Genie"
   },
