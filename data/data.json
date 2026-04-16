@@ -2810,15 +2810,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bKHpsvURqF4u6lEZfNASsK",
+    "_rev": "aeR9vTMsaQURTdDrE3hkN0",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "GWOVDfiedfaJZayS3W6YcZ"
+        "rev": "bKHpsvURqF4u6lEZfNASsK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T09:51:47Z",
+    "_updatedAt": "2026-04-16T06:24:39Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -3013,9 +3013,14 @@
         "id": "imageSection",
         "imageAlt": "digi-x-image",
         "imageHeight": 778,
-        "imageSource": null,
-        "imageWidth": 767,
-        "isBgBlue": false
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-dfb076c2da687c69aced69038ffb1d75e8f35be2-2879x1380-png",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 767
       },
       {
         "_key": "3it0q7gcce",
