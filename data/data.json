@@ -5652,12 +5652,12 @@
   {
     "_createdAt": "2026-04-16T09:09:14Z",
     "_id": "employee-self-service",
-    "_rev": "aeR9vTMsaQURTdDrE3k64U",
+    "_rev": "7JFZabLQagH5TO1qrtZqcn",
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:09:14Z",
+    "_updatedAt": "2026-04-16T09:22:54Z",
     "sections": [
       {
-        "_key": "dvv4crficz",
+        "_key": "pnr4vz02m7",
         "_type": "heroSection",
         "cta": {
           "label": "Explore Core Modernization"
@@ -5667,29 +5667,29 @@
         "title": "Empower Your Workforce with ESS"
       },
       {
-        "_key": "h04924msfq",
+        "_key": "gelh84xyfo",
         "_type": "coreInfoSection",
         "features": [
           {
-            "_key": "7mq8h0w8ne",
+            "_key": "lewcy69gco",
             "description": "All employee services in one platform",
             "icon": null,
             "title": "Centralized Access"
           },
           {
-            "_key": "gps8gjdm84",
+            "_key": "1vko61l6by",
             "description": "Reduce dependency on HR teams",
             "icon": null,
             "title": "Self-Service Experience"
           },
           {
-            "_key": "rr2av4k0zd",
+            "_key": "58wzvro9gh",
             "description": "Built with strong privacy controls",
             "icon": null,
             "title": "Secure & Compliant"
           },
           {
-            "_key": "7oea4couhs",
+            "_key": "z71jmxgs90",
             "description": "Faster processes and reduced delays",
             "icon": null,
             "title": "Improved Efficiency"
@@ -5699,34 +5699,34 @@
         "isTextBlack": true,
         "titleParts": [
           {
-            "_key": "72dtv6bg7k",
+            "_key": "1p5ivqirvp",
             "color": "text-black",
             "text": "Everything "
           },
           {
-            "_key": "xfoqt859ir",
+            "_key": "svv7hus1wc",
             "color": "text-brand-600",
             "text": "Employees  "
           },
           {
-            "_key": "kctpniz0n9",
+            "_key": "bk7sidjfme",
             "color": "text-black",
             "text": "Need, "
           },
           {
-            "_key": "40sxxunf8z",
+            "_key": "hqk5ks278i",
             "color": "text-black",
             "text": "In One "
           },
           {
-            "_key": "bmo6rbazs5",
+            "_key": "e0fp7l9wrp",
             "color": "text-warning",
             "text": "Place"
           }
         ]
       },
       {
-        "_key": "fmov82hjhd",
+        "_key": "rkx9ph3wpy",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
@@ -5736,7 +5736,7 @@
           "text": {
             "title": [
               {
-                "_key": "tslwq1o32k",
+                "_key": "zn6cmggg8h",
                 "color": "",
                 "text": "Manage Personal Information "
               }
@@ -5750,7 +5750,7 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "72xdjn5i85",
+            "_key": "39k32ny07b",
             "description": "Update contact and personal details",
             "descriptionClassName": "",
             "image": null,
@@ -5758,7 +5758,7 @@
             "title": "Profile Management"
           },
           {
-            "_key": "x26tjigpmo",
+            "_key": "x0ecpt1z49",
             "description": "Manage family and emergency contacts",
             "descriptionClassName": "",
             "image": null,
@@ -5766,7 +5766,7 @@
             "title": "Dependent Information"
           },
           {
-            "_key": "kabosk78z4",
+            "_key": "870l6u0sjw",
             "description": "Instant data sync across systems",
             "descriptionClassName": "",
             "image": null,
@@ -5776,25 +5776,84 @@
         ]
       },
       {
-        "_key": "2fnv4iy54g",
+        "_key": "exk26588mx",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Designed with usability in mind so even new field agents can onboard customers efficiently",
+          "text": {
+            "title": [
+              {
+                "_key": "zer96kdbhm",
+                "color": "",
+                "text": "Simplify "
+              },
+              {
+                "_key": "wsvwytkmrv",
+                "color": "text-brand-600",
+                "text": "Leave "
+              },
+              {
+                "_key": "r0tt6arx0x",
+                "color": "text-black",
+                "text": "and "
+              },
+              {
+                "_key": "kxnjsaih4b",
+                "color": "text-warning",
+                "text": "Attendance "
+              },
+              {
+                "_key": "8xutcli5xg",
+                "color": "text-success",
+                "text": "Tracking"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "c381z7cz82",
+            "description": "Apply and track leaves easily",
+            "title": "Leave Requests"
+          },
+          {
+            "_key": "9jr1pbre90",
+            "description": "View history and working hours",
+            "title": "Attendance Records"
+          },
+          {
+            "_key": "4zr2zo9i28",
+            "description": "Monitor extra hours and shifts",
+            "title": "Overtime Tracking"
+          }
+        ]
+      },
+      {
+        "_key": "d8of4ttgy1",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite10",
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "l9zhm3k8o6",
+            "_key": "8u7ldepwn6",
             "description": "Set and monitor objectives",
             "icon": null,
             "title": "Goal Tracking"
           },
           {
-            "_key": "xi0flzuyan",
+            "_key": "un7txgftwr",
             "description": "Access feedback and ratings",
             "icon": null,
             "title": "Appraisals"
           },
           {
-            "_key": "2imuyr8017",
+            "_key": "alfuhvoch7",
             "description": "Participate in evaluation process",
             "icon": null,
             "title": "Self-Assessment"
@@ -5806,7 +5865,7 @@
           "text": {
             "title": [
               {
-                "_key": "s3uq7a8r2d",
+                "_key": "gzxa3td5at",
                 "color": "text-white",
                 "text": "Track Growth and Performance"
               }
@@ -5816,23 +5875,23 @@
         }
       },
       {
-        "_key": "t41fauhrzc",
+        "_key": "h7w6oxw2j8",
         "_type": "coreInfoSection",
         "features": [
           {
-            "_key": "sg5qw9wsou",
+            "_key": "n9e3jb2yns",
             "description": "View company guidelines",
             "icon": null,
             "title": "Employee Handbook"
           },
           {
-            "_key": "x9w8xyv55n",
+            "_key": "qobcg0jzlv",
             "description": "Stay updated with changes",
             "icon": null,
             "title": "Policy Access"
           },
           {
-            "_key": "vo1o6zz33f",
+            "_key": "5flejz7br0",
             "description": "Confirm compliance easily",
             "icon": null,
             "title": "Acknowledgements"
@@ -5842,58 +5901,58 @@
         "isTextBlack": true,
         "titleParts": [
           {
-            "_key": "mdp51bojdy",
+            "_key": "j0ghltdsyc",
             "color": "text-black",
             "text": "Access Company Resources Anytime "
           }
         ]
       },
       {
-        "_key": "gr1r20y66c",
+        "_key": "vegvyapfat",
         "_type": "platformCapabilitiesSection",
         "capabilitesDetails": [
           {
-            "_key": "vapwgp7keg",
+            "_key": "oi4s6b5jqe",
             "description": "Company news and updates",
             "hasList": false,
             "id": 1,
             "image": null,
             "titleParts": [
               {
-                "_key": "0ne8x3al2n",
+                "_key": "63fcadh0gp",
                 "color": "",
                 "text": "Announcements"
               }
             ]
           },
           {
-            "_key": "cmf5z0sms8",
+            "_key": "ysw5alrq4c",
             "description": "Find and connect with teams",
             "id": 2,
             "image": null,
             "titleParts": [
               {
-                "_key": "9mnxep9ygi",
+                "_key": "ykaeaqrgdk",
                 "color": "",
                 "text": "Employee Directory"
               }
             ]
           },
           {
-            "_key": "tzjd97gza5",
+            "_key": "9lwh1cn3de",
             "description": "Track schedules and events",
             "id": 3,
             "image": null,
             "titleParts": [
               {
-                "_key": "4c20sqqj0x",
+                "_key": "n2gowhpf8s",
                 "color": "",
                 "text": "Team Calendar"
               }
             ]
           },
           {
-            "_key": "7sdfz5erqr",
+            "_key": "2yo6gdhkjq",
             "description": "Instantly scale resources up or down based on demand. Reduce operational load while delivering consistent performance at any scale.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
@@ -5901,12 +5960,12 @@
             "image": null,
             "titleParts": [
               {
-                "_key": "w2ril6h4cz",
+                "_key": "ve7vne358y",
                 "color": "",
                 "text": "Elastic "
               },
               {
-                "_key": "683qsudn92",
+                "_key": "2rm9a54lr9",
                 "color": "text-brand-600",
                 "text": "Scaling"
               }
@@ -5922,7 +5981,7 @@
           "text": {
             "title": [
               {
-                "_key": "6hm4ugrc2g",
+                "_key": "vfwl7m02c7",
                 "color": "",
                 "text": ""
               }
@@ -5932,25 +5991,25 @@
         }
       },
       {
-        "_key": "2jdd633jwm",
+        "_key": "cdr0hqvusx",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite101",
         "isTextWhite": true,
         "journeyCards": [
           {
-            "_key": "kt7rhidfbq",
+            "_key": "n5695ftk7q",
             "description": "Quick answers to common queries",
             "icon": null,
             "title": "FAQs"
           },
           {
-            "_key": "6e4s4s9zfq",
+            "_key": "98sn3m0pzp",
             "description": "Learn how to use the portal",
             "icon": null,
             "title": "User Guides"
           },
           {
-            "_key": "7frkwqq7zo",
+            "_key": "qbsti0lz48",
             "description": "Get assistance anytime",
             "icon": null,
             "title": "HR Support"
@@ -5962,7 +6021,7 @@
           "text": {
             "title": [
               {
-                "_key": "1fzp6fzefc",
+                "_key": "tm1bk4l7ts",
                 "color": "text-white",
                 "text": "Support When You Need It"
               }
@@ -5972,7 +6031,7 @@
         }
       },
       {
-        "_key": "e7ho7h4j3m",
+        "_key": "9os776oxsa",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
@@ -5982,7 +6041,7 @@
           "text": {
             "title": [
               {
-                "_key": "objognajte",
+                "_key": "ccgckd9i4i",
                 "color": "",
                 "text": "Built with Security at the Core"
               }
@@ -5996,7 +6055,7 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "8eux347tsy",
+            "_key": "dggw0sqe8d",
             "description": "Track daily work time",
             "descriptionClassName": "",
             "image": null,
@@ -6004,7 +6063,7 @@
             "title": "Clock In/Out"
           },
           {
-            "_key": "4oc2sx0qx2",
+            "_key": "4n39h1pdou",
             "description": "View work schedules.  Request swaps easily",
             "descriptionClassName": "",
             "image": null,
@@ -6014,7 +6073,7 @@
         ]
       },
       {
-        "_key": "tutt3kfge5",
+        "_key": "oa6dn3h6tx",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
@@ -6024,7 +6083,7 @@
           "text": {
             "title": [
               {
-                "_key": "ecayi2pvkm",
+                "_key": "ey918vh9gf",
                 "color": "",
                 "text": "Simplify Tax Management"
               }
@@ -6038,7 +6097,7 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "7wpg2kq4ly",
+            "_key": "npir3o793y",
             "description": "Manage tax-saving investments. Stay aligned with tax laws",
             "descriptionClassName": "",
             "image": null,
@@ -6046,7 +6105,7 @@
             "title": "Investment Tracking & Compliance Support"
           },
           {
-            "_key": "oblfx2sr0s",
+            "_key": "y9ujznk2i8",
             "description": "Smooth salary processing",
             "descriptionClassName": "",
             "image": null,
@@ -6056,7 +6115,7 @@
         ]
       },
       {
-        "_key": "uypigv9soo",
+        "_key": "ne5ponx8uh",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "Manage and submit conveyance transactions directly through the portal.",
@@ -6066,17 +6125,17 @@
           "text": {
             "title": [
               {
-                "_key": "77psmrcjzr",
+                "_key": "v1wbywn70t",
                 "color": "",
                 "text": "Track  "
               },
               {
-                "_key": "5g5buy6pm8",
+                "_key": "22us8sejkb",
                 "color": "text-brand-600",
                 "text": "Expenses "
               },
               {
-                "_key": "n3k796yro7",
+                "_key": "igd1s41meb",
                 "color": "",
                 "text": "with Ease"
               }
@@ -6090,7 +6149,7 @@
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
-            "_key": "q3ujr5cki9",
+            "_key": "lg1kd7m8y7",
             "description": "Add travel details",
             "descriptionClassName": "",
             "image": null,
@@ -6098,7 +6157,7 @@
             "title": "Expense Entry"
           },
           {
-            "_key": "jo5r4g6yig",
+            "_key": "l7uzoscu8p",
             "description": "Transaction Records",
             "descriptionClassName": "",
             "image": null,
@@ -6106,7 +6165,7 @@
             "title": "Transaction Records"
           },
           {
-            "_key": "8ta9lewzpv",
+            "_key": "0ox3u0tqat",
             "description": "No manual approvals required",
             "descriptionClassName": "",
             "image": null,
@@ -6116,7 +6175,7 @@
         ]
       },
       {
-        "_key": "ldryr942v6",
+        "_key": "bkfpabg3x2",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
@@ -6124,17 +6183,17 @@
         "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
         "titleParts": [
           {
-            "_key": "7z0vnuubkx",
+            "_key": "pgx8bmnger",
             "color": "text-brand-600",
             "text": "Fast, "
           },
           {
-            "_key": "f26zmj02na",
+            "_key": "0or74ky61q",
             "color": "text-warning",
             "text": "Secure, "
           },
           {
-            "_key": "6r401g9uty",
+            "_key": "k3y2gmxi4o",
             "color": "",
             "text": "and Built for Scale  "
           }
