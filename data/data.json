@@ -5652,9 +5652,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "aeR9vTMsaQURTdDrE3kIIx",
+    "_rev": "7JFZabLQagH5TO1qrtaHrq",
+    "_system": {
+      "base": {
+        "id": "employee-self-service",
+        "rev": "aeR9vTMsaQURTdDrE3kLsN"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:23:18Z",
+    "_updatedAt": "2026-04-16T09:28:00Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -5982,8 +5988,26 @@
             "title": [
               {
                 "_key": "vzz0ww7iun",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Stay "
+              },
+              {
+                "_key": "effc9e95fca1",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Connected "
+              },
+              {
+                "_key": "7846e54be5f6",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Across "
+              },
+              {
+                "_key": "7805497f21de",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Teams"
               }
             ],
             "variant": "h1"
@@ -6094,7 +6118,8 @@
         },
         "id": "articles1",
         "isBgBlue": true,
-        "isTextBlack": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "3nljhyem2p",
