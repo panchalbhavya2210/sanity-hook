@@ -2810,15 +2810,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "piiLNOj3u9Wq2zYwg4J2jE",
+    "_rev": "aeR9vTMsaQURTdDrE3hvcG",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "7JFZabLQagH5TO1qrtLEiG"
+        "rev": "7JFZabLQagH5TO1qrtLX7Q"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:44:51Z",
+    "_updatedAt": "2026-04-16T06:45:27Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -2828,12 +2828,12 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+            "_ref": "image-17773914db9ff48cc9a0abd00b52ca766f57d972-1474x1390-webp",
             "_type": "reference"
           }
         },
         "subtitle": "Experience a unified, always-on, API-first digital banking suite that transforms how your customers bank across all channels, securely and instantly.",
-        "title": "Harness the power of Digital Integrations Embrace Digi.X TR",
+        "title": "Harness the power of Digital Integrations Embrace Digi.X TM",
         "variant": "split"
       },
       {
