@@ -5149,6 +5149,577 @@
     "title": "Easy Cts"
   },
   {
+    "_createdAt": "2026-04-16T09:58:25Z",
+    "_id": "easy-pay-check",
+    "_rev": "7JFZabLQagH5TO1qrtdpXD",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T09:58:25Z",
+    "sections": [
+      {
+        "_key": "g7uqi5gm62",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
+        "title": "HR & Payroll, Simplified"
+      },
+      {
+        "_key": "12n1ozxyz8",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Centralize employee data and simplify HR operations with intuitive tools built for accuracy and control.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "5pta7aw73i",
+                "color": "",
+                "text": "Manage Your Workforce, Effortlessly"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "30twxddnct",
+            "description": "Maintain centralized employee records with easy access, updates, and structured organization.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Data Management"
+          },
+          {
+            "_key": "6pwqf40nk8",
+            "description": "Keep employee information accurate, up-to-date, and ready for quick decision-making.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Organized Records"
+          },
+          {
+            "_key": "ld96z78cr0",
+            "description": "Access employee data anytime, enabling faster HR operations and better transparency.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Instant Access"
+          }
+        ]
+      },
+      {
+        "_key": "2cummufg84",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "b34vyug763",
+            "description": "Automate payroll cycles to ensure timely salary disbursement.",
+            "icon": null,
+            "title": "Faster Processing"
+          },
+          {
+            "_key": "0e1mk7hpkl",
+            "description": "Minimize human errors with system-driven calculations and validations.",
+            "icon": null,
+            "title": "Error Reduction"
+          },
+          {
+            "_key": "kq4e02sfdq",
+            "description": "Ensure adherence to government rules with built-in compliance logic.",
+            "icon": null,
+            "title": "Automation"
+          },
+          {
+            "_key": "io2gebokd4",
+            "description": "Free up HR teams to focus on strategic tasks instead of manual operations.",
+            "icon": null,
+            "title": "Time Saving"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "f609a2hqv6",
+            "color": "text-black",
+            "text": "Automate. Reduce Errors. Save Time. "
+          }
+        ]
+      },
+      {
+        "_key": "4cw0lnvxju",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Simplify attendance and leave tracking with real-time visibility and structured workflows.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "k159szlxuw",
+                "color": "",
+                "text": "Track Time, Leaves & Productivity"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "nc5m4dlkw4",
+            "description": "Manage leave requests, approvals, and policies with complete transparency. Analyze attendance trends and reduce absenteeism effectively.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Leave Management & Absence Insights"
+          },
+          {
+            "_key": "lhred9rfzr",
+            "description": "Employees and managers can track leave balances instantly. Monitor employee attendance with real-time clock-in and clock-out systems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Balance & Attendance Tracking"
+          }
+        ]
+      },
+      {
+        "_key": "celu9un4lp",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Help employees understand and manage taxes while ensuring compliance.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "ppx9f7kwgz",
+                "color": "",
+                "text": "Simplify Tax & Financial Management"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles11",
+        "isBgBlue": true,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "yvujbrjve8",
+            "description": "Support multiple tax declarations and deduction options.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Tax Declarations"
+          },
+          {
+            "_key": "v5q468bbic",
+            "description": "Track employee investments and exemptions for accurate tax calculations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Investment Tracking"
+          },
+          {
+            "_key": "gckveoc0ff",
+            "description": "Provide clear visibility into tax liabilities for employees.  Ensure all tax processes align with legal requirements.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Transparent Tax View"
+          }
+        ]
+      },
+      {
+        "_key": "fw34xefim5",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Empower employees with structured performance management and feedback systems.",
+          "text": {
+            "title": [
+              {
+                "_key": "njwlthv3y0",
+                "color": "",
+                "text": "Drive "
+              },
+              {
+                "_key": "cbyj1uevjb",
+                "color": "text-brand-600",
+                "text": "Performance"
+              },
+              {
+                "_key": "hcjuu0lqk1",
+                "color": "text-black",
+                "text": ", Build "
+              },
+              {
+                "_key": "s11ebp1mm8",
+                "color": "text-warning",
+                "text": "Growth"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "fgiifpuyu",
+            "description": "Define clear objectives and track progress throughout the year.",
+            "title": "Goal Setting"
+          },
+          {
+            "_key": "hggn7irg4b",
+            "description": "Enable regular feedback and performance discussions.",
+            "title": "Feedback System"
+          },
+          {
+            "_key": "gn3s7k0m0l",
+            "description": "Identify high performers and areas of improvement.",
+            "title": "Performance Tracking"
+          },
+          {
+            "_key": "g1x89do2ef",
+            "description": "Support career development and long-term engagement.",
+            "title": "Employee Growth"
+          }
+        ]
+      },
+      {
+        "_key": "3cj2pswddc",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "ngjge48t8k",
+            "description": "Customize salary structures including allowances, deductions, and bonuses as per business needs.",
+            "icon": null,
+            "title": "Flexible Salary Components"
+          },
+          {
+            "_key": "ddf5n1clnz",
+            "description": "Predefined rules ensure accurate salary processing with minimal manual intervention.",
+            "icon": null,
+            "title": "Automated Calculations"
+          },
+          {
+            "_key": "h9myyv1i31",
+            "description": "Automatically handle PF, PTAX, and other deductions in line with regulations.",
+            "icon": null,
+            "title": "Statutory Compliance"
+          },
+          {
+            "_key": "r7rmqd8hh3",
+            "description": "Simplify complex payroll structures while maintaining clarity and consistency.",
+            "icon": null,
+            "title": "Smart Payroll Control"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Configure, automate, and manage payroll with complete flexibility while ensuring compliance and precision.",
+          "text": {
+            "title": [
+              {
+                "_key": "brwb33aoyj",
+                "color": "text-white",
+                "text": "Flexible Payroll. Accurate Every Time."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "39ktvmqn58",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "2l2egq02ti",
+            "description": "Submit, approve, and track employee expense claims.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "zou1esw0rm",
+                "color": "",
+                "text": "Conveyance Tracking"
+              }
+            ]
+          },
+          {
+            "_key": "18ykd95msy",
+            "description": "Generate detailed reports for auditing and analysis.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "fbbmf85m4s",
+                "color": "",
+                "text": "Expense Reports"
+              }
+            ]
+          },
+          {
+            "_key": "x0jdwp13cu",
+            "description": "Track legal cases, advocates, and related costs. Maintain organized legal records for better control.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "l4h872kf5h",
+                "color": "",
+                "text": "Advocate Management"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Manage operational expenses and legal activities with structured workflows.",
+          "text": {
+            "title": [
+              {
+                "_key": "564a7dipul",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "yfbye6czm2",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite101",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "lm0u44fg5w",
+            "description": "Temporarily hold or redirect salary payments when needed.",
+            "icon": null,
+            "title": "Salary Freezing"
+          },
+          {
+            "_key": "kv2wiqlxmd",
+            "description": "Track employee suspensions with proper documentation and reports.",
+            "icon": null,
+            "title": "Suspension Management"
+          },
+          {
+            "_key": "081kkf8iwn",
+            "description": "Get assistance anytime",
+            "icon": null,
+            "title": "Gratuity Calculation"
+          },
+          {
+            "_key": "u9f3vyu4qw",
+            "description": "Handle special HR cases without disrupting operations.",
+            "icon": null,
+            "title": "Lifecycle Management"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Gain full control over payroll and employee lifecycle events.",
+          "text": {
+            "title": [
+              {
+                "_key": "7fyv2c1fr8",
+                "color": "text-white",
+                "text": "Handle Complex HR Scenarios with Ease"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "oxy5sf0zfr",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Protect sensitive HR and payroll data with advanced security features.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "j3wg90om48",
+                "color": "",
+                "text": "Enterprise-Grade Security"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "53ht8f8pn7",
+            "description": "Secure login with one-time password verification.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "OTP Authentication"
+          },
+          {
+            "_key": "x2lle26rl2",
+            "description": "Enable fingerprint-based secure authentication.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Biometric Access"
+          },
+          {
+            "_key": "j1m21auzhr",
+            "description": "Ensure multi-level approval for critical actions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Maker-Checker Control"
+          },
+          {
+            "_key": "drqwgia0iz",
+            "description": "Track every activity for complete transparency and compliance.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Audit Trail"
+          }
+        ]
+      },
+      {
+        "_key": "qpokq5dpo1",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Leverage real-time insights and reports to optimize workforce performance.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "rt07tr43dg",
+                "color": "",
+                "text": "Make "
+              },
+              {
+                "_key": "soem6n22mz",
+                "color": "text-brand-600",
+                "text": "Smarter  "
+              },
+              {
+                "_key": "vhczmnpod2",
+                "color": "",
+                "text": "Decisions with "
+              },
+              {
+                "_key": "csxat4k9nw",
+                "color": "text-warning",
+                "text": "Data"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "k555m1hbmx",
+            "description": "Access live payroll and attendance data instantly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Insights"
+          },
+          {
+            "_key": "87qiajng9b",
+            "description": "Use insights to improve HR strategies.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Data-Driven Decisions"
+          },
+          {
+            "_key": "hblkhs2ouw",
+            "description": "Generate detailed and customizable reports.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "150+ Reports"
+          }
+        ]
+      },
+      {
+        "_key": "ipuape2slf",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "c83liwhnuv",
+            "color": "text-brand-600",
+            "text": "Your Complete HR & Payroll Partner"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-pay-check"
+    },
+    "title": "Easy Pay Check"
+  },
+  {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
     "_rev": "aeR9vTMsaQURTdDrE3jTGg",
