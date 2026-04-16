@@ -7678,15 +7678,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "piiLNOj3u9Wq2zYwg4IhNk",
+    "_rev": "piiLNOj3u9Wq2zYwg4Ihrw",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "7JFZabLQagH5TO1qrtJxoB"
+        "rev": "piiLNOj3u9Wq2zYwg4IhNk"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:13:30Z",
+    "_updatedAt": "2026-04-16T06:14:28Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -7730,6 +7730,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
         "titleParts": [
           {
             "_key": "6rfg9kl3x1",
