@@ -1817,15 +1817,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "GWOVDfiedfaJZayS3alpAF",
+    "_rev": "piiLNOj3u9Wq2zYwg4Qrya",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "iezjcqj9vs7hR9drrnXXoX"
+        "rev": "GWOVDfiedfaJZayS3alpAF"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-15T05:34:15Z",
+    "_updatedAt": "2026-04-16T11:20:41Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -2325,7 +2325,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "core-banking"
+      "current": "products/core-banking"
     },
     "title": "Core Banking"
   },
