@@ -4522,9 +4522,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "aeR9vTMsaQURTdDrE3hGr6",
+    "_rev": "aeR9vTMsaQURTdDrE3hQds",
+    "_system": {
+      "base": {
+        "id": "easy-cts",
+        "rev": "aeR9vTMsaQURTdDrE3hGr6"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:46:14Z",
+    "_updatedAt": "2026-04-16T05:30:17Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -4566,6 +4572,7 @@
             "title": "Limited Transparency"
           }
         ],
+        "headerSubtitle": "Traditional cheque processing involves multiple manual steps, increasing delays, operational costs, and risk of errors.",
         "id": "coreInfo",
         "isTextBlack": true,
         "titleParts": [
@@ -5032,8 +5039,26 @@
             "title": [
               {
                 "_key": "n9oeu3tn10",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Transform "
+              },
+              {
+                "_key": "f335597e7a96",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Cheque "
+              },
+              {
+                "_key": "7e6f5c4cb40b",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Clearing "
+              },
+              {
+                "_key": "e08b6964511b",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Operations"
               }
             ],
             "variant": "h1"
