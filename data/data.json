@@ -3637,9 +3637,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "aeR9vTMsaQURTdDrE3hGsh",
+    "_rev": "aeR9vTMsaQURTdDrE3hPPl",
+    "_system": {
+      "base": {
+        "id": "digital-signing",
+        "rev": "aeR9vTMsaQURTdDrE3hGsh"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:47:03Z",
+    "_updatedAt": "2026-04-16T05:24:27Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -3797,7 +3803,14 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "id": 1,
             "image": null,
-            "titleParts": []
+            "titleParts": [
+              {
+                "_key": "ea270c102e5e",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Faster Processes"
+              }
+            ]
           },
           {
             "_key": "vynu9r6s3m",
@@ -3806,7 +3819,14 @@
             "heading": "EasyBankCore®",
             "id": 2,
             "image": null,
-            "titleParts": []
+            "titleParts": [
+              {
+                "_key": "a083792a85c7",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Lower Costs"
+              }
+            ]
           },
           {
             "_key": "8xlyemob68",
@@ -3815,7 +3835,14 @@
             "heading": "EasyBankCore®",
             "id": 3,
             "image": null,
-            "titleParts": []
+            "titleParts": [
+              {
+                "_key": "410a28962cae",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Improved Security"
+              }
+            ]
           },
           {
             "_key": "vsidt9g0uy",
@@ -3824,7 +3851,14 @@
             "heading": "EasyBankCore®",
             "id": 4,
             "image": null,
-            "titleParts": []
+            "titleParts": [
+              {
+                "_key": "ea2097c9cc98",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Better Compliance"
+              }
+            ]
           },
           {
             "_key": "cfklj7kvot",
@@ -3833,7 +3867,14 @@
             "heading": "EasyBankCore®",
             "id": 5,
             "image": null,
-            "titleParts": []
+            "titleParts": [
+              {
+                "_key": "daec77e7578e",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Seamless Experience"
+              }
+            ]
           }
         ],
         "hasHeader": true,
@@ -3846,8 +3887,32 @@
             "title": [
               {
                 "_key": "6725sd7r24",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Faster"
+              },
+              {
+                "_key": "159e016e5ec1",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": ", "
+              },
+              {
+                "_key": "8f65a7bd23cb",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Safer"
+              },
+              {
+                "_key": "c6a682578f74",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": ", More Efficient "
+              },
+              {
+                "_key": "8dedcb14a84f",
+                "_type": "titlePart",
+                "color": "text-yellow",
+                "text": "Workflows"
               }
             ],
             "variant": "h1"
