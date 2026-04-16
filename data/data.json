@@ -2810,20 +2810,27 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "aeR9vTMsaQURTdDrE3hvcG",
+    "_rev": "piiLNOj3u9Wq2zYwg4JBRM",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "7JFZabLQagH5TO1qrtLX7Q"
+        "rev": "aeR9vTMsaQURTdDrE3hvcG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:45:27Z",
+    "_updatedAt": "2026-04-16T06:52:12Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-85809978da75b56ec70d66032b37ec91fe2c7739-239x122-webp",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
