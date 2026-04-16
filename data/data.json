@@ -5156,15 +5156,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "piiLNOj3u9Wq2zYwg4Qcqu",
+    "_rev": "HrBj9Zx03wkqUmFRdtTQYd",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "aeR9vTMsaQURTdDrE3lAcY"
+        "rev": "piiLNOj3u9Wq2zYwg4Qcqu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:15:14Z",
+    "_updatedAt": "2026-04-16T11:29:08Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -5771,7 +5771,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "prducts/hrms/easy-pay-check"
+      "current": "products/hrms/easy-pay-check"
     },
     "title": "Easy Pay Check"
   },
