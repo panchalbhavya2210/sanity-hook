@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "7JFZabLQagH5TO1qrtNyEc",
+    "_rev": "aeR9vTMsaQURTdDrE3iLKu",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "piiLNOj3u9Wq2zYwg4JdwW"
+        "rev": "7JFZabLQagH5TO1qrtNyEc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T07:17:44Z",
+    "_updatedAt": "2026-04-16T07:21:08Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -814,6 +814,54 @@
             "title": "Overtime Tracking"
           }
         ]
+      },
+      {
+        "_key": "8a1789920e7d",
+        "_type": "bankingSuiteSection",
+        "bankingHeader": {
+          "subTitle": "Enable employees to stay aligned with goals and performance expectations",
+          "text": {
+            "title": [
+              {
+                "_key": "7cf15e8d4bda",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Track Growth and Performance"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand-600",
+        "hasCardBackground": true,
+        "isChild": false,
+        "isTextWhite": false,
+        "journeyCards": [
+          {
+            "_key": "66e469c75a8a",
+            "_type": "journeyCard",
+            "description": "Set and monitor objectives",
+            "title": "Goal Tracking"
+          },
+          {
+            "_key": "2afb69a64f3a",
+            "_type": "journeyCard",
+            "description": "Access feedback and ratings",
+            "title": "Appraisals"
+          },
+          {
+            "_key": "85650b7a5fb6",
+            "_type": "journeyCard",
+            "description": "Participate in evaluation process",
+            "title": "Self-Assessment"
+          }
+        ],
+        "journeyHeader": {
+          "text": {
+            "variant": "h1"
+          }
+        },
+        "variant": ""
       }
     ],
     "slug": {
