@@ -10953,6 +10953,551 @@
     "title": "Omnichannel Banking"
   },
   {
+    "_createdAt": "2026-04-16T10:30:10Z",
+    "_id": "staff-augmentation",
+    "_rev": "7JFZabLQagH5TO1qrtiS1m",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T10:30:10Z",
+    "sections": [
+      {
+        "_key": "pbb4t245t8",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
+        "title": "Build Smarter Teams with Bankai"
+      },
+      {
+        "_key": "jyb37428vt",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "mt92tw2d2w",
+            "description": "Build long-term teams with carefully screened and culturally aligned candidates who match your business goals.",
+            "icon": null,
+            "title": "Permanent Hiring"
+          },
+          {
+            "_key": "v9mh9oth1r",
+            "description": "Hire skilled professionals for specific projects while we manage payroll, compliance, and employee lifecycle.",
+            "icon": null,
+            "title": "Contractual Hiring"
+          },
+          {
+            "_key": "676ehkrvgw",
+            "description": "Scale your workforce quickly during peak demand or short-term requirements without long-term commitments.",
+            "icon": null,
+            "title": "Temporary Staffing"
+          },
+          {
+            "_key": "i1jrcpn90x",
+            "description": "Outsource your entire hiring function for better efficiency, scalability, and structured recruitment processes.",
+            "icon": null,
+            "title": "Recruitment Process Outsourcing (RPO)"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "6an54awcaw",
+            "color": "text-black",
+            "text": "End-to-End "
+          },
+          {
+            "_key": "pzvqmobph2",
+            "color": "text-brand-600",
+            "text": "Staffing "
+          },
+          {
+            "_key": "y71fq5p1w2",
+            "color": "text-warning",
+            "text": "Solutions"
+          }
+        ]
+      },
+      {
+        "_key": "20ood6dq8w",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Backed by experience, technology, and proven processes, we help you hire smarter and faster.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "u6t4hyxyzc",
+                "color": "",
+                "text": "Why Choose Bankai"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "cghzonxdnc",
+            "description": "Advanced sourcing strategies and a strong talent pool ensure quick access to the right candidates.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Sourcing"
+          },
+          {
+            "_key": "2o57uyxu4r",
+            "description": "15+ years of experience with 10,000+ successful placements across industries.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Proven Track Record"
+          },
+          {
+            "_key": "violbxq6de",
+            "description": "Modern recruitment tools and HR platforms for seamless hiring and workforce management.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Technology-Driven Hiring"
+          }
+        ]
+      },
+      {
+        "_key": "jxsiuspawo",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Empower employees with structured performance management and feedback systems.",
+          "text": {
+            "title": [
+              {
+                "_key": "cfvrtdj9g",
+                "color": "text-brand-600",
+                "text": "Flexible "
+              },
+              {
+                "_key": "cuon3h6f4x",
+                "color": "",
+                "text": "Workforce, "
+              },
+              {
+                "_key": "ivv5a60qbw",
+                "color": "text-warning",
+                "text": "Zero "
+              },
+              {
+                "_key": "zaojmf4mkl",
+                "color": "text-black",
+                "text": "Hassle"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "nu6fzok9gc",
+            "description": "We act as the official employer, managing contracts, payroll, and documentation.",
+            "title": "Employer of Record"
+          },
+          {
+            "_key": "iy2jkhh4go",
+            "description": "Complete handling of ESIC, EPF, taxation, and statutory requirements.",
+            "title": "Compliance Management"
+          },
+          {
+            "_key": "mnea76s157",
+            "description": "Quick onboarding of skilled professionals for project-based needs.",
+            "title": "Faster Deployment"
+          },
+          {
+            "_key": "3zw16a5d4z",
+            "description": "Reduce fixed costs and avoid long-term employee liabilities.",
+            "title": "Cost Optimization"
+          }
+        ]
+      },
+      {
+        "_key": "bs8ruy9nqg",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Simplify attendance and leave tracking with real-time visibility and structured workflows.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "v438wte4fm",
+                "color": "",
+                "text": "Track Time, Leaves & Productivity"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "1pm762ul7d",
+            "description": "Manage leave requests, approvals, and policies with complete transparency. Analyze attendance trends and reduce absenteeism effectively.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Leave Management & Absence Insights"
+          },
+          {
+            "_key": "dxvr5kaik9",
+            "description": "Employees and managers can track leave balances instantly. Monitor employee attendance with real-time clock-in and clock-out systems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Balance & Attendance Tracking"
+          }
+        ]
+      },
+      {
+        "_key": "22v0w276ms",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Help employees understand and manage taxes while ensuring compliance.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "lwu9iyzx5o",
+                "color": "",
+                "text": "Simplify Tax & Financial Management"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles11",
+        "isBgBlue": true,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "7j22c5mvgh",
+            "description": "Support multiple tax declarations and deduction options.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Tax Declarations"
+          },
+          {
+            "_key": "fh6hlh033g",
+            "description": "Track employee investments and exemptions for accurate tax calculations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Investment Tracking"
+          },
+          {
+            "_key": "dxfv0ib6ch",
+            "description": "Provide clear visibility into tax liabilities for employees.  Ensure all tax processes align with legal requirements.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Transparent Tax View"
+          }
+        ]
+      },
+      {
+        "_key": "2mw42tq66n",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "jfdseqhnyw",
+            "description": "Access ready-to-deploy workforce across multiple roles and industries.",
+            "icon": null,
+            "title": "On-Demand Talent"
+          },
+          {
+            "_key": "w91hj74x7g",
+            "description": "Save on recruitment, training, and operational overheads.",
+            "icon": null,
+            "title": "Lower Hiring Costs"
+          },
+          {
+            "_key": "66s4hxvp2n",
+            "description": "Fill urgent roles faster with pre-screened candidates.",
+            "icon": null,
+            "title": "Quick Turnaround"
+          },
+          {
+            "_key": "vwxro3km06",
+            "description": "Focus on business while we handle HR, payroll",
+            "icon": null,
+            "title": "Operational Relief"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Meet short-term business demands with reliable and cost-efficient staffing solutions.",
+          "text": {
+            "title": [
+              {
+                "_key": "epafr9ok64",
+                "color": "text-white",
+                "text": "Temporary Staffing"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "73i7euld8l",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "38kp2kgjrg",
+            "description": "Understand business needs and define ideal candidate profiles.",
+            "icon": null,
+            "title": "Role & Requirement Analysis"
+          },
+          {
+            "_key": "e8591xrz93",
+            "description": "Source candidates through multiple channels including job portals and networks.",
+            "icon": null,
+            "title": "Talent Mapping"
+          },
+          {
+            "_key": "bt66b7zxja",
+            "description": "Assess technical skills, experience, and cultural fit.",
+            "icon": null,
+            "title": "Screening & Evaluation"
+          },
+          {
+            "_key": "s5a350xv68",
+            "description": "Smooth hiring journey from offer rollout to joining.",
+            "icon": null,
+            "title": "Offer & Onboarding"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "dfkzsyrfvx",
+            "color": "text-black",
+            "text": "Permanent Hiring"
+          }
+        ]
+      },
+      {
+        "_key": "m2nqzsab8k",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "idcchjaiq4",
+            "description": "Reduce time-to-hire with efficient processes and ready talent pools.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "i01v816eus",
+                "color": "text-brand-600",
+                "text": "Faster Hiring "
+              },
+              {
+                "_key": "lmyslcqg9o",
+                "color": "",
+                "text": "Cycles"
+              }
+            ]
+          },
+          {
+            "_key": "oyxnr6cgdm",
+            "description": "Optimize hiring budgets with flexible staffing models.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "sj41uxem7r",
+                "color": "",
+                "text": "Cost "
+              },
+              {
+                "_key": "kjvi6r3u9o",
+                "color": "text-brand-600",
+                "text": "Efficiency"
+              }
+            ]
+          },
+          {
+            "_key": "hm2spkmtrx",
+            "description": "Stay aligned with all legal and regulatory requirements.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "4ewuru9afr",
+                "color": "text-warning",
+                "text": "Compliance "
+              },
+              {
+                "_key": "owh52c9wt9",
+                "color": "",
+                "text": "Assurance"
+              }
+            ]
+          },
+          {
+            "_key": "9xjpjmjmv9",
+            "description": "Adapt quickly to market changes with scalable workforce solutions.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "jdr58b0je5",
+                "color": "text-brand-600",
+                "text": "Business "
+              },
+              {
+                "_key": "1kpgjt3v0p",
+                "color": "",
+                "text": "Agility"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Manage operational expenses and legal activities with structured workflows.",
+          "text": {
+            "title": [
+              {
+                "_key": "yg69s3pzhb",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "w1w2co8tzb",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite101",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "mafpehadv1",
+            "description": "Single system to manage sourcing, screening, and hiring workflows.",
+            "icon": null,
+            "title": "Centralized Hiring"
+          },
+          {
+            "_key": "bwfrxgre4j",
+            "description": "Align hiring strategies with your brand identity.",
+            "icon": null,
+            "title": "Employer Branding"
+          },
+          {
+            "_key": "4sonlldave",
+            "description": "Easily increase or decrease hiring based on needs.",
+            "icon": null,
+            "title": "Scalable Operations"
+          },
+          {
+            "_key": "my3832pxya",
+            "description": "Works smoothly with your existing HR and internal teams.",
+            "icon": null,
+            "title": "Seamless Integration"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Streamline your recruitment process with a scalable and structured hiring model.",
+          "text": {
+            "title": [
+              {
+                "_key": "klzvxh7yun",
+                "color": "text-white",
+                "text": "Recruitment Process Outsourcing (RPO)"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "5qmshh37bn",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "From startups to enterprises, Bankai helps you unlock the true potential of your workforce with the right talent and the right approach.",
+        "titleParts": [
+          {
+            "_key": "ktnsrm92eo",
+            "color": "text-brand-600",
+            "text": "Your "
+          },
+          {
+            "_key": "b893cnc5cv",
+            "color": "text-warning",
+            "text": "Strategic "
+          },
+          {
+            "_key": "1v4wi389a6",
+            "color": "text-brand-600",
+            "text": "Hiring "
+          },
+          {
+            "_key": "46yixoif89",
+            "color": "text-warning",
+            "text": "Partner"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "staff-augmentation"
+    },
+    "title": "Staff Augmentation"
+  },
+  {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
     "_rev": "bKHpsvURqF4u6lEZfN89B9",
