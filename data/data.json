@@ -10955,9 +10955,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "7JFZabLQagH5TO1qrtiS1m",
+    "_rev": "piiLNOj3u9Wq2zYwg4PJcS",
+    "_system": {
+      "base": {
+        "id": "staff-augmentation",
+        "rev": "7JFZabLQagH5TO1qrtiS1m"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T10:30:10Z",
+    "_updatedAt": "2026-04-16T10:36:27Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -11000,6 +11006,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "From permanent hiring to outsourced recruitment, we provide flexible workforce solutions tailored to your business needs.",
         "titleParts": [
           {
             "_key": "6an54awcaw",
@@ -11048,6 +11055,7 @@
             "descriptionClassName": "",
             "image": null,
             "imageAlt": "",
+            "isReversed": true,
             "title": "Smart Sourcing"
           },
           {
@@ -11056,6 +11064,7 @@
             "descriptionClassName": "",
             "image": null,
             "imageAlt": "",
+            "isReversed": true,
             "title": "Proven Track Record"
           },
           {
@@ -11064,6 +11073,7 @@
             "descriptionClassName": "",
             "image": null,
             "imageAlt": "",
+            "isReversed": true,
             "title": "Technology-Driven Hiring"
           }
         ]
@@ -11124,98 +11134,6 @@
             "_key": "3zw16a5d4z",
             "description": "Reduce fixed costs and avoid long-term employee liabilities.",
             "title": "Cost Optimization"
-          }
-        ]
-      },
-      {
-        "_key": "bs8ruy9nqg",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "",
-          "icon": null,
-          "subTitle": "Simplify attendance and leave tracking with real-time visibility and structured workflows.",
-          "subTitleClassName": "",
-          "text": {
-            "title": [
-              {
-                "_key": "v438wte4fm",
-                "color": "",
-                "text": "Track Time, Leaves & Productivity"
-              }
-            ],
-            "variant": "h1"
-          },
-          "titleTextClassName": ""
-        },
-        "id": "articles1",
-        "isBgBlue": true,
-        "isTextBlack": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "1pm762ul7d",
-            "description": "Manage leave requests, approvals, and policies with complete transparency. Analyze attendance trends and reduce absenteeism effectively.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Leave Management & Absence Insights"
-          },
-          {
-            "_key": "dxvr5kaik9",
-            "description": "Employees and managers can track leave balances instantly. Monitor employee attendance with real-time clock-in and clock-out systems.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Real-Time Balance & Attendance Tracking"
-          }
-        ]
-      },
-      {
-        "_key": "22v0w276ms",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "",
-          "icon": null,
-          "subTitle": "Help employees understand and manage taxes while ensuring compliance.",
-          "subTitleClassName": "",
-          "text": {
-            "title": [
-              {
-                "_key": "lwu9iyzx5o",
-                "color": "",
-                "text": "Simplify Tax & Financial Management"
-              }
-            ],
-            "variant": "h1"
-          },
-          "titleTextClassName": ""
-        },
-        "id": "articles11",
-        "isBgBlue": true,
-        "isTextBlack": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "7j22c5mvgh",
-            "description": "Support multiple tax declarations and deduction options.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Tax Declarations"
-          },
-          {
-            "_key": "fh6hlh033g",
-            "description": "Track employee investments and exemptions for accurate tax calculations.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Investment Tracking"
-          },
-          {
-            "_key": "dxfv0ib6ch",
-            "description": "Provide clear visibility into tax liabilities for employees.  Ensure all tax processes align with legal requirements.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Transparent Tax View"
           }
         ]
       },
@@ -11296,6 +11214,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "End-to-end hiring solutions focused on finding the right talent for long-term success.",
         "titleParts": [
           {
             "_key": "dfkzsyrfvx",
@@ -11392,8 +11311,26 @@
             "title": [
               {
                 "_key": "yg69s3pzhb",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Hire "
+              },
+              {
+                "_key": "f0936e1e033f",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Better. "
+              },
+              {
+                "_key": "e20bb2d0f9dd",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Grow "
+              },
+              {
+                "_key": "74874208be9f",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Faster."
               }
             ],
             "variant": "h1"
