@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "piiLNOj3u9Wq2zYwg4IEuG",
+    "_rev": "piiLNOj3u9Wq2zYwg4IFPI",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "piiLNOj3u9Wq2zYwg4I5M8"
+        "rev": "piiLNOj3u9Wq2zYwg4IEuG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:13:16Z",
+    "_updatedAt": "2026-04-16T05:14:02Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -1272,7 +1272,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "bankai-iam"
+      "current": "xcelerators/plugins/bankai-iam"
     },
     "title": "Bankai Iam"
   },
