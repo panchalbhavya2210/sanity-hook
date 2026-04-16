@@ -5130,9 +5130,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "piiLNOj3u9Wq2zYwg4I5Ea",
+    "_rev": "aeR9vTMsaQURTdDrE3hSex",
+    "_system": {
+      "base": {
+        "id": "easy-recon",
+        "rev": "piiLNOj3u9Wq2zYwg4I5Ea"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:46:12Z",
+    "_updatedAt": "2026-04-16T05:37:35Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -5174,6 +5180,7 @@
             "title": " LimitedVisibility"
           }
         ],
+        "headerSubtitle": "Banks deal with multiple systems and transaction sources, making reconciliation complex, time-consuming, and error-prone.",
         "id": "coreInfo",
         "isTextBlack": true,
         "titleParts": [
@@ -5494,8 +5501,20 @@
             "title": [
               {
                 "_key": "krqcl23g8g",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Accuracy. "
+              },
+              {
+                "_key": "878b42098d8f",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Efficiency. "
+              },
+              {
+                "_key": "75343281f767",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Control."
               }
             ],
             "variant": "h1"
