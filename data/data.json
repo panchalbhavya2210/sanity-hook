@@ -7678,9 +7678,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "bKHpsvURqF4u6lEZfNHQnz",
+    "_rev": "7JFZabLQagH5TO1qrtJxoB",
+    "_system": {
+      "base": {
+        "id": "managed-cloud-services",
+        "rev": "bKHpsvURqF4u6lEZfNHQnz"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T12:04:39Z",
+    "_updatedAt": "2026-04-16T06:08:03Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -7751,9 +7757,15 @@
         "_type": "imageSectionSingle",
         "id": "imageShow2",
         "imageAlt": "",
-        "imageHeight": "",
-        "imageSource": null,
-        "imageWidth": "",
+        "imageHeight": 1441,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-fc9993c5776b0da2a368d3dc926004331741b38d-2160x1091-webp",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 1280,
         "isImageFullWidth": true
       },
       {
@@ -8004,21 +8016,11 @@
         "_key": "urtu4c4re7",
         "_type": "sectionHeaderSection",
         "className": "py-10! px-6",
-        "icon": null,
         "id": "sectionheader2",
         "isBgBlue": false,
         "isTextBlack": true,
         "subTitleText": "Our 21-point managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
-        "text": {
-          "title": [
-            {
-              "_key": "jrl2yp9rnu",
-              "color": "text-black",
-              "text": "End-to-End Managed Services @ OCI "
-            }
-          ],
-          "variant": "h1"
-        }
+        "text": "-"
       },
       {
         "_key": "dodbo8s7w6",
@@ -8062,7 +8064,7 @@
           }
         ],
         "id": "textSection",
-        "lable": "View all 21 points"
+        "label": "View all 21 points"
       },
       {
         "_key": "1wsdcc4cvy",
@@ -8153,7 +8155,6 @@
     ],
     "seo": {
       "description": "Migrate to Oracle Cloud and run your banking platform securely with BankAI’s managed cloud services for high availability and reduced operational risk.",
-      "image": null,
       "keywords": [
         "managed cloud services",
         "oracle cloud migration",
