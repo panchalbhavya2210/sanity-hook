@@ -5992,9 +5992,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "7JFZabLQagH5TO1qrtHfWs",
+    "_rev": "aeR9vTMsaQURTdDrE3hILi",
+    "_system": {
+      "base": {
+        "id": "formula-genie",
+        "rev": "7JFZabLQagH5TO1qrtHfWs"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:47:04Z",
+    "_updatedAt": "2026-04-16T05:00:00Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -6123,38 +6129,39 @@
         "_key": "157vmvlfsf",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "icon": null,
           "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
-          "text": {
-            "title": [
-              {
-                "_key": "1s30rrrlh9",
-                "color": "text-black",
-                "text": "Built for"
-              },
-              {
-                "_key": "4xrrgayuh5",
-                "color": "text-brand-600",
-                "text": "Speed, "
-              },
-              {
-                "_key": "v8zaejwza7",
-                "color": "text-warning",
-                "text": "Simplicity"
-              },
-              {
-                "_key": "q3gtwefxxp",
-                "color": "text-brand-600",
-                "text": ", and "
-              },
-              {
-                "_key": "2uthdtmay5",
-                "color": "text-green",
-                "text": "Scale"
-              }
-            ],
-            "variant": "h1"
-          }
+          "titleParts": [
+            {
+              "_key": "1437fd7b3f8a",
+              "_type": "titlePart",
+              "color": "text-black",
+              "text": "Built for "
+            },
+            {
+              "_key": "ffc308af7f4b",
+              "_type": "titlePart",
+              "color": "text-brand-600",
+              "text": "Speed, "
+            },
+            {
+              "_key": "7fb19462593b",
+              "_type": "titlePart",
+              "color": "text-warning",
+              "text": "Simplicity"
+            },
+            {
+              "_key": "0894a83e97dc",
+              "_type": "titlePart",
+              "color": "text-brand-600",
+              "text": ", and "
+            },
+            {
+              "_key": "406880b49a4a",
+              "_type": "titlePart",
+              "color": "text-success",
+              "text": "Scale"
+            }
+          ]
         },
         "bgColor": "white",
         "id": "quickActionCardParent6",
@@ -6329,8 +6336,26 @@
             "title": [
               {
                 "_key": "5yvwupn6s0",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Fast, "
+              },
+              {
+                "_key": "dadf9d906242",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Secure"
+              },
+              {
+                "_key": "01eb059356cf",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": ", "
+              },
+              {
+                "_key": "ff114fd64f9e",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "and Built for Scale"
               }
             ],
             "variant": "h1"
@@ -6370,7 +6395,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Integration & Usage",
+          "subTitle": "Business Impact",
           "text": {
             "title": [
               {
