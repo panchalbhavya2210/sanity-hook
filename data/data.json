@@ -610,6 +610,649 @@
     ]
   },
   {
+    "_createdAt": "2026-04-16T04:47:06Z",
+    "_id": "bankai-iam",
+    "_rev": "piiLNOj3u9Wq2zYwg4I5M8",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:47:06Z",
+    "sections": [
+      {
+        "_key": "y4ybr7an1r",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
+        "title": "Redefining Identity & Access for the Modern Enterprise"
+      },
+      {
+        "_key": "zrzj9iaod9",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "p6lsuo6ugt",
+            "description": "Manage users, devices, and applications from one platform.",
+            "hasList": false,
+            "icon": null,
+            "title": "Centralized Identity Control"
+          },
+          {
+            "_key": "u4owo3tmje",
+            "description": "Verify identity instantly at every access request.",
+            "hasList": false,
+            "icon": null,
+            "title": "Real-Time Authentication"
+          },
+          {
+            "_key": "3lrgz4xsj3",
+            "description": "Decisions based on device, location, and behavior.",
+            "hasList": false,
+            "icon": null,
+            "title": "Context-Aware Access"
+          },
+          {
+            "_key": "0sgydi0qff",
+            "description": "Track and log every access event securely.",
+            "hasList": false,
+            "icon": null,
+            "title": "Complete Visibility"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "hdqop34n7w",
+            "color": "text-black",
+            "text": "Unified "
+          },
+          {
+            "_key": "718xbqlk3t",
+            "color": "text-brand-600",
+            "text": "Identity"
+          },
+          {
+            "_key": "jmfnyuhcxh",
+            "color": "text-black",
+            "text": ". "
+          },
+          {
+            "_key": "ctnu79mtg8",
+            "color": "text-warning",
+            "text": "Intelligent "
+          },
+          {
+            "_key": "uzynuelkjz",
+            "color": "text-black",
+            "text": "Access."
+          }
+        ]
+      },
+      {
+        "_key": "rap9h3va0j",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Bankai IAM combines identity verification with intelligent access control to ensure secure operations.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "8pnx3agnla",
+                "color": "",
+                "text": "Two Layers. One Secure System."
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "uvzs27k4vh",
+            "description": "Maintain user profiles, roles, and credentials in a unified directory.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Identity Management"
+          },
+          {
+            "_key": "srjjwzjihr",
+            "description": "Add OTP, TOTP, or device-based verification for stronger security.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Multi-Factor Authentication (MFA)"
+          },
+          {
+            "_key": "8rj08y6fvn",
+            "description": "Grant permissions based on roles, departments, and hierarchy.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Access Management (RBAC)"
+          },
+          {
+            "_key": "ckogmmp2u9",
+            "description": "Ensure the right access at the right time — every time.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Automated Authorization"
+          }
+        ]
+      },
+      {
+        "_key": "zhmgrrwz66",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
+          "text": {
+            "title": [
+              {
+                "_key": "x5uje43aa3",
+                "color": "text-black",
+                "text": "Built for "
+              },
+              {
+                "_key": "m9usqa345c",
+                "color": "text-warning",
+                "text": "Security"
+              },
+              {
+                "_key": "55r7sdfawq",
+                "color": "text-black",
+                "text": ", "
+              },
+              {
+                "_key": "x2tkx6rv9l",
+                "color": "text-brand-600",
+                "text": "Scale"
+              },
+              {
+                "_key": "faqfjulrff",
+                "color": "text-black",
+                "text": ", and "
+              },
+              {
+                "_key": "3qofl4ar3v",
+                "color": "text-success",
+                "text": "Simplicity"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "rbz7ndo0dl",
+            "description": "Control access for employees, customers, and partners.",
+            "title": "Unified Access Management"
+          },
+          {
+            "_key": "8nszcq2xz2",
+            "description": "Adaptive security based on behavior and risk signals.",
+            "title": "AI-Driven Authentication"
+          },
+          {
+            "_key": "jxe0bfhzjk",
+            "description": "One login across multiple applications.",
+            "title": "Single Sign-On (SSO)"
+          },
+          {
+            "_key": "chrwmpzsu6",
+            "description": "Audit trails and reporting for RBI, ISO, SOC 2, GDPR.",
+            "title": "Compliance & Governance"
+          }
+        ]
+      },
+      {
+        "_key": "0msn6kw6zj",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "ie4hgxkrhm",
+            "description": "Faster access without compromising security.",
+            "icon": null,
+            "title": "Reduced Login Friction"
+          },
+          {
+            "_key": "gcx6d04exu",
+            "description": "Identify and block suspicious behavior proactively.",
+            "icon": null,
+            "title": "Stronger Threat Detection"
+          },
+          {
+            "_key": "wmxnuybq4d",
+            "description": "Uniform policies across legacy and cloud systems.",
+            "icon": null,
+            "title": "Consistent Governance"
+          },
+          {
+            "_key": "mu7y415wff",
+            "description": "Stay aligned with global regulatory standards.",
+            "icon": null,
+            "title": "Lower Compliance Risk"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Business Impact",
+          "text": {
+            "title": [
+              {
+                "_key": "djlnht3ukk",
+                "color": "text-white",
+                "text": "Security Without Friction"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "3ikd96gjhx",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "u5y0120g2l",
+            "description": "Secure token-based authentication.",
+            "hasList": false,
+            "icon": null,
+            "title": "OAuth 2.0 & OpenID Connect"
+          },
+          {
+            "_key": "56h3j1fxf2",
+            "description": "Enable cross-organization login.",
+            "hasList": false,
+            "icon": null,
+            "title": "Federated Identity (SAML)"
+          },
+          {
+            "_key": "5q5yj1nar6",
+            "description": "Real-time alerts for access activities.",
+            "hasList": false,
+            "icon": null,
+            "title": "Webhooks & Events"
+          },
+          {
+            "_key": "fypmkk15up",
+            "description": "Automate user provisioning and lifecycle management.",
+            "hasList": false,
+            "icon": null,
+            "title": "SCIM Integration"
+          }
+        ],
+        "id": "coreInfo1",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "3tej70xy9a",
+            "color": "text-black",
+            "text": "Built for Modern "
+          },
+          {
+            "_key": "qu10zwrf3m",
+            "color": "text-brand-600",
+            "text": "Digital "
+          },
+          {
+            "_key": "7n5wqaveqo",
+            "color": "text-warning",
+            "text": "Ecosystems"
+          }
+        ]
+      },
+      {
+        "_key": "e3uv4v2nyd",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Integrate authentication, authorization, and governance directly into your applications.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "jjv62ueusp",
+                "color": "",
+                "text": "Developer-First IAM APIs"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles3",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "0xmbxctyjh",
+            "description": "Simple and scalable integration across systems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "RESTful APIs"
+          },
+          {
+            "_key": "con1uoxjh2",
+            "description": "Use only what you need — expand anytime.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Modular Architecture"
+          },
+          {
+            "_key": "met4adqxx1",
+            "description": "Consistent API behavior across endpoints.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Standardized Responses"
+          },
+          {
+            "_key": "5gs00hl6j9",
+            "description": "Test and validate integrations safely before deployment.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Sandbox Environment"
+          }
+        ]
+      },
+      {
+        "_key": "w5z3ge5mom",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "API Capabilities",
+          "text": {
+            "title": [
+              {
+                "_key": "i3s1yvv2lg",
+                "color": "text-black",
+                "text": "Complete "
+              },
+              {
+                "_key": "abo4gtw9zp",
+                "color": "text-warning",
+                "text": "IAM Toolkit "
+              },
+              {
+                "_key": "0yptb41hyz",
+                "color": "text-black",
+                "text": "for Every Scenario"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent1",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "ek2xp2enqe",
+            "description": "Manage login, tokens, and MFA flows.",
+            "title": "Authentication APIs"
+          },
+          {
+            "_key": "1f4d0bq0xt",
+            "description": "Create and manage users, roles, and attributes.",
+            "title": "User Directory APIs"
+          },
+          {
+            "_key": "bovn25bnov",
+            "description": "Define and enforce role-based permissions.",
+            "title": "Access Policy APIs"
+          },
+          {
+            "_key": "pywm5kpixs",
+            "description": "Retrieve logs and monitor activity.",
+            "title": "Audit APIs"
+          }
+        ]
+      },
+      {
+        "_key": "e8gnylp2b7",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "lgfncam8dq",
+            "description": "Test real-world scenarios safely.",
+            "details": "Create and manage multiple user personas with distinct roles and permissions to validate workflows, access control, and behavior under different operational conditions.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "heaxyes1uw",
+                "color": "text-[#EE6832]",
+                "text": "Simulated "
+              },
+              {
+                "_key": "z9n00baxtl",
+                "color": "text-black",
+                "text": "Users & "
+              },
+              {
+                "_key": "lyzo1bc8by",
+                "color": "text-black",
+                "text": "Roles"
+              }
+            ]
+          },
+          {
+            "_key": "68bwpwclgs",
+            "description": "Validate authentication flows end-to-end.",
+            "details": "Simulate token generation, validation, expiration, and refresh mechanisms to ensure secure and seamless authentication across all services.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "9v2dpb9kkz",
+                "color": "text-[#EE6832]",
+                "text": "Token "
+              },
+              {
+                "_key": "2rdxgz7e5i",
+                "color": "text-black",
+                "text": "Lifecycle "
+              },
+              {
+                "_key": "2kdd2smwkr",
+                "color": "text-brand-600",
+                "text": "Testing"
+              }
+            ]
+          },
+          {
+            "_key": "aysyhowpil",
+            "description": "Trigger and test system behaviors.",
+            "details": "Simulate real-time events such as transactions, failures, and edge cases to observe system reactions, ensuring reliability and robustness.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "nrj33e1z9d",
+                "color": "text-black",
+                "text": "Event "
+              },
+              {
+                "_key": "m6bze3fnej",
+                "color": "text-[#EE6832]",
+                "text": "Simulation"
+              }
+            ]
+          },
+          {
+            "_key": "22hvdoup5t",
+            "description": "Track every request in real time.",
+            "details": "Provides detailed logs for all operations, enabling traceability, debugging, compliance checks, and monitoring of system health.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "lx1e3ar48o",
+                "color": "text-brand-600",
+                "text": "Audit "
+              },
+              {
+                "_key": "62qqke4wdm",
+                "color": "text-black",
+                "text": "Logging"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Sandbox & Testing",
+          "text": {
+            "title": [
+              {
+                "_key": "qzufrg83c7",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "z8ldhgwbn8",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": " Use Cases",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "kpj9hclzk5",
+                "color": "",
+                "text": "Where Bankai IAM Delivers Impact"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles3",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "40tyzwr80e",
+            "description": "Secure customer and API access across systems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Banking & Fintech"
+          },
+          {
+            "_key": "yew2tgz85r",
+            "description": "Manage employee and vendor access efficiently.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Enterprise Systems"
+          },
+          {
+            "_key": "cq7qiwsihq",
+            "description": "Enable secure identity sharing across ecosystems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Partner Integrations"
+          },
+          {
+            "_key": "9qjhzagkfu",
+            "description": "Protect mobile and web platforms with unified identity.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Digital Applications"
+          }
+        ]
+      },
+      {
+        "_key": "gpig2dwxuy",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Build a zero-trust foundation with Bankai IAM and scale securely across your digital ecosystem.",
+        "titleParts": [
+          {
+            "_key": "czcxlske2r",
+            "color": "text-brand-600",
+            "text": "Secure "
+          },
+          {
+            "_key": "me43mhe7zc",
+            "color": "text-black",
+            "text": "Every Identity. "
+          },
+          {
+            "_key": "o7h2cfi71j",
+            "color": "text-warning",
+            "text": "Control "
+          },
+          {
+            "_key": "04n180pfe1",
+            "color": "",
+            "text": "Every "
+          },
+          {
+            "_key": "dplovfp1zl",
+            "color": "text-black",
+            "text": "Access. "
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "image": null,
+      "keywords": [
+        "cheque clearing",
+        "cheque processing",
+        "CTS automation",
+        "digital cheque clearing",
+        "banking reconciliation"
+      ],
+      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
+      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
+      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "url": "https://yourdomain.com/products/easy-cts"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "bankai-iam"
+    },
+    "title": "Bankai Iam"
+  },
+  {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
     "_rev": "GWOVDfiedfaJZayS3aq2sN",
@@ -2968,6 +3611,346 @@
     "title": "Digi X"
   },
   {
+    "_createdAt": "2026-04-16T04:47:03Z",
+    "_id": "digital-signing",
+    "_rev": "aeR9vTMsaQURTdDrE3hGsh",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:47:03Z",
+    "sections": [
+      {
+        "_key": "kbr5kp7dmp",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents within EasyBankCore® — instantly, seamlessly, and with full legal compliance.",
+        "title": "PDF Digital Signing Services"
+      },
+      {
+        "_key": "gns5d4vbf6",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "r3lfjxeqh1",
+                "color": "",
+                "text": "Digital "
+              },
+              {
+                "_key": "4tkbe5si4l",
+                "color": "text-[#EE6832]",
+                "text": "Signing"
+              },
+              {
+                "_key": "mcbile3aph",
+                "color": "",
+                "text": ", the "
+              },
+              {
+                "_key": "9bhu02y1ml",
+                "color": "text-brand-600",
+                "text": "Smart "
+              },
+              {
+                "_key": "6xb2elc3rm",
+                "color": "text-brand-600",
+                "text": "Way"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "scxtyotom6",
+            "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents — eliminating impersonation risks and creating a secure trust framework between parties.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Authentic"
+          },
+          {
+            "_key": "gdfijp4pmd",
+            "description": "Once a document is digitally signed, any attempt to modify it breaks the cryptographic seal and alerts all parties of potential tampering. This end-to-end integrity check protects sensitive data and ensures version control.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Tamper-Proof"
+          },
+          {
+            "_key": "bnys29ycet",
+            "description": "Recognized by Global Compliance Standards Digital signatures comply with international frameworks like the IT Act (India), eIDAS (EU), and ESIGN/UETA (US). They carry the same legal standing as handwritten signatures and are admissible in court.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Legally Valid"
+          }
+        ]
+      },
+      {
+        "_key": "wxeyiecau6",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite3",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "fwbozqd7ka",
+            "description": "Supports IT Act (India), eIDAS (EU), and global PKI standards.",
+            "icon": null,
+            "title": "Legally Compliant"
+          },
+          {
+            "_key": "adda6dc9rn",
+            "description": "Based on PKI infra, encryption, and certified digital certificates.",
+            "icon": null,
+            "title": "Strong Security"
+          },
+          {
+            "_key": "i0hp29k4x2",
+            "description": "Aadhaar eSign, USB Token, or Server-based signatures.",
+            "icon": null,
+            "title": "Multi-Mode Signing"
+          },
+          {
+            "_key": "zcrs33ky4n",
+            "description": "Full logs of every signing event for transparency and compliance.",
+            "icon": null,
+            "title": "Audit Trail"
+          },
+          {
+            "_key": "altoreyf0e",
+            "description": "Instantly detects changes post-signing.",
+            "icon": null,
+            "title": "Tamper Detection"
+          },
+          {
+            "_key": "qe836gour4",
+            "description": "API-ready for banking apps, enterprise platforms, and workflow tools.",
+            "icon": null,
+            "title": "Easy Integration"
+          },
+          {
+            "_key": "ol90o3da66",
+            "description": "Keeps certificates up to date with automated renewal to ensure uninterrupted signing.",
+            "icon": null,
+            "title": "Auto-Renewal"
+          },
+          {
+            "_key": "ijnsgfji9v",
+            "description": "Applies trusted third-party timestamps to each signature, ensuring validity",
+            "icon": null,
+            "title": "Time Stamping"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "A feature-rich signing service embedded within EasyBankCore® to digitally secure your banking documents.",
+          "text": {
+            "title": [
+              {
+                "_key": "5obzho2x2a",
+                "color": "text-white",
+                "text": "Enterprise-Grade Security with Seamless Integration"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "5thf9gmm5u",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "d1vji1uxj7",
+            "description": "Eliminate printing, scanning, and courier delays.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "id": 1,
+            "image": null,
+            "titleParts": []
+          },
+          {
+            "_key": "vynu9r6s3m",
+            "description": "Save on paper, logistics, and manual handling.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": []
+          },
+          {
+            "_key": "8xlyemob68",
+            "description": "Encrypt data, verify identity, and prevent fraud.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": []
+          },
+          {
+            "_key": "vsidt9g0uy",
+            "description": "Use certified digital signatures to meet legal standards.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": []
+          },
+          {
+            "_key": "cfklj7kvot",
+            "description": "Let users sign in seconds — securely and remotely.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": []
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "text": {
+            "title": [
+              {
+                "_key": "6725sd7r24",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "wvrviipi4x",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Designed for banks, enterprises, and government bodies — our solution fits right into your ecosystem.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "w80vpqx7oc",
+                "color": "text-white",
+                "text": "Where Digital Signing Makes a Difference"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "hasPadding": true,
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "b3qrgjr1fe",
+            "description": "Digitally sign loan agreements, account opening forms, statements, and fund transfers.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Banking & Finance"
+          },
+          {
+            "_key": "o2ycnt03dr",
+            "description": "Sign HR documents, vendor contracts, and NDAs with ease.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Enterprises"
+          },
+          {
+            "_key": "qkm26egaii",
+            "description": "Ensure compliance for official filings, legal documents, and approvals.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Government & Legal"
+          },
+          {
+            "_key": "164vm5syz8",
+            "description": "Digitally sign patient consent forms, insurance claims, and medical records with full compliance and traceability.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Healthcare & Insurance"
+          }
+        ]
+      },
+      {
+        "_key": "5zbd53yffg",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles3",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "5oedhydo51",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "z6xuajl1ii",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "0mker5fiiu",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "wza0al7a3m",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "a056d55inr",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "eh9qwy07hw",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Securely sign PDF documents and automate compliance with BankAI’s digital signing service embedded in EasyBankCore®.",
+      "image": null,
+      "keywords": [
+        "digital signing",
+        "e-signature",
+        "PDF signing",
+        "banking compliance",
+        "legal signature"
+      ],
+      "ogDescription": "Digitally sign documents with ease using BankAI’s secure, compliant digital signing service for banking workflows.",
+      "ogTitle": "Digital Signing Services | Secure eSignature for Banks",
+      "title": "Digital Signing Services | BankAI",
+      "url": "https://yourdomain.com/xcelerators/digital-signing"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "digital-signing"
+    },
+    "title": "Digital Signing"
+  },
+  {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
     "_rev": "7JFZabLQagH5TO1qrtHdEE",
@@ -5007,6 +5990,457 @@
     }
   },
   {
+    "_createdAt": "2026-04-16T04:47:04Z",
+    "_id": "formula-genie",
+    "_rev": "7JFZabLQagH5TO1qrtHfWs",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:47:04Z",
+    "sections": [
+      {
+        "_key": "8o9mqm2t31",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
+        "title": "Execute Excel Formulas at Scale"
+      },
+      {
+        "_key": "wn8r7durll",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "1vhegfuhsj",
+            "description": "Convert Excel formulas into APIs without coding.",
+            "hasList": false,
+            "icon": null,
+            "title": "Zero-Code Formula Translation"
+          },
+          {
+            "_key": "gb7e95594u",
+            "description": "Launch APIs in seconds instead of weeks.",
+            "hasList": false,
+            "icon": null,
+            "title": "Instant Deployment"
+          },
+          {
+            "_key": "4jxqtd23f5",
+            "description": "Use the same Excel logic across multiple platforms.",
+            "hasList": false,
+            "icon": null,
+            "title": "Reusable Logic"
+          },
+          {
+            "_key": "baeduk21cm",
+            "description": "Expose business logic securely via REST APIs.",
+            "hasList": false,
+            "icon": null,
+            "title": "API-Ready Architecture"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "bjcqzlrb8p",
+            "color": "text-black",
+            "text": "From "
+          },
+          {
+            "_key": "gbiw0u0ja5",
+            "color": "text-warning",
+            "text": "Spreadsheet "
+          },
+          {
+            "_key": "xh0ar1f2hd",
+            "color": "text-black",
+            "text": "to API —  "
+          },
+          {
+            "_key": "xwngjm4fkt",
+            "color": "text-brand-600",
+            "text": "Instantly "
+          }
+        ]
+      },
+      {
+        "_key": "6c56edm1t9",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Why Choose FormulaGenie",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "vlt86ipkt5",
+                "color": "",
+                "text": "Where Excel Meets API Power"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "zxzwiff7iy",
+            "description": "Keep working in Excel without changing your workflow.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Familiar Excel Environment"
+          },
+          {
+            "_key": "q7n39yewsy",
+            "description": "Handle real-world workloads with speed and reliability.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Enterprise-Grade Performance"
+          },
+          {
+            "_key": "mnrazuztfw",
+            "description": "Build and test ideas quickly using existing models",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Rapid Prototyping"
+          },
+          {
+            "_key": "t9clgxj7yy",
+            "description": "Move from prototype to deployment seamlessly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Production Ready"
+          }
+        ]
+      },
+      {
+        "_key": "157vmvlfsf",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
+          "text": {
+            "title": [
+              {
+                "_key": "1s30rrrlh9",
+                "color": "text-black",
+                "text": "Built for"
+              },
+              {
+                "_key": "4xrrgayuh5",
+                "color": "text-brand-600",
+                "text": "Speed, "
+              },
+              {
+                "_key": "v8zaejwza7",
+                "color": "text-warning",
+                "text": "Simplicity"
+              },
+              {
+                "_key": "q3gtwefxxp",
+                "color": "text-brand-600",
+                "text": ", and "
+              },
+              {
+                "_key": "2uthdtmay5",
+                "color": "text-green",
+                "text": "Scale"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "1ijyoa3orv",
+            "description": "Convert formulas into working APIs instantly.",
+            "title": "One-Click API Generation"
+          },
+          {
+            "_key": "2trgyhvstu",
+            "description": "Connect APIs to web, mobile, or enterprise systems easily.",
+            "title": "Effortless Integration"
+          },
+          {
+            "_key": "jal2ew0pb2",
+            "description": "Update Excel → API auto-syncs without redeployment.",
+            "title": "Simplified Maintenance"
+          },
+          {
+            "_key": "fduecvr9gi",
+            "description": "Eliminate need for custom development teams.",
+            "title": "No Backend Dependency"
+          }
+        ]
+      },
+      {
+        "_key": "1fny2dfrpl",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "mxv8ri7l66",
+            "description": "Standard API endpoints for easy consumption.",
+            "icon": null,
+            "title": "REST API Support"
+          },
+          {
+            "_key": "yhfoo65p2x",
+            "description": "Works with web, mobile, and enterprise apps.",
+            "icon": null,
+            "title": "Multi-Platform Integration"
+          },
+          {
+            "_key": "myuo8390d6",
+            "description": "Call API → Get results in real-time.",
+            "icon": null,
+            "title": "Instant Response Execution"
+          },
+          {
+            "_key": "2puzwetu73",
+            "description": "No complex infrastructure required.",
+            "icon": null,
+            "title": "Plug-and-Play Setup"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Integration & Usage",
+          "text": {
+            "title": [
+              {
+                "_key": "gb4i19gu8m",
+                "color": "text-white",
+                "text": "Plug Into Any System. Instantly."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "rq31u4o8fc",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "qbhgfjcbu8",
+            "description": "No file storage, ensuring faster computation and real-time processing across all critical banking operations.",
+            "details": "Processes data directly in memory to eliminate latency caused by disk I/O, enabling instant execution of transactions, validations, and decision-making workflows.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "l7grd7f8q",
+                "color": "text-brand-600",
+                "text": "In-Memory "
+              },
+              {
+                "_key": "v0kh8atvqz",
+                "color": "text-black",
+                "text": "Execution"
+              }
+            ]
+          },
+          {
+            "_key": "vrw7y9mfqq",
+            "description": "Your data remains secure and fully controlled within your infrastructure.",
+            "details": "Implements encryption, identity verification, and fraud prevention mechanisms to ensure sensitive financial data is protected at every stage of processing and storage.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "g6liejkg8f",
+                "color": "text-black",
+                "text": "Data "
+              },
+              {
+                "_key": "p8ync8c8r",
+                "color": "text-[#EE6832]",
+                "text": "Privacy "
+              },
+              {
+                "_key": "hkfakwetj6",
+                "color": "text-black",
+                "text": "First"
+              }
+            ]
+          },
+          {
+            "_key": "nu18sxrkhm",
+            "description": "Handles large workloads without performance issues or system degradation.",
+            "details": "Built to support high transaction volumes with distributed architecture, ensuring consistent throughput and responsiveness during peak demand.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "uo8wre2l1w",
+                "color": "text-black",
+                "text": "High "
+              },
+              {
+                "_key": "v32vyt7345",
+                "color": "text-[#EE6832]",
+                "text": "Scalability"
+              }
+            ]
+          },
+          {
+            "_key": "ch311v1ixj",
+            "description": "Built for consistent uptime and high-performance banking operations.",
+            "details": "Ensures system stability with optimized load handling, redundancy, and continuous performance monitoring to deliver uninterrupted services.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "va153n6u3e",
+                "color": "text-brand-600",
+                "text": "Reliable "
+              },
+              {
+                "_key": "41xx0zjnch",
+                "color": "text-black",
+                "text": "Infrastructure"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Security & Performance",
+          "text": {
+            "title": [
+              {
+                "_key": "5yvwupn6s0",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "d77ie3bik6",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "ooe2sbabqr",
+            "description": "Eliminate rewriting of formulas into code.",
+            "icon": null,
+            "title": "Save Development Time"
+          },
+          {
+            "_key": "8nurixdimn",
+            "description": "Lower dependency on backend developers.",
+            "icon": null,
+            "title": "Reduce Costs"
+          },
+          {
+            "_key": "gpyc2k23cf",
+            "description": "Launch features quickly",
+            "icon": null,
+            "title": "Faster Go-to-Market"
+          },
+          {
+            "_key": "z06k6n1zsp",
+            "description": "Let analysts directly power applications.",
+            "icon": null,
+            "title": "Empower Business Teams"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Integration & Usage",
+          "text": {
+            "title": [
+              {
+                "_key": "yuk7fkojxl",
+                "color": "text-white",
+                "text": "Build Faster. Scale Smarter."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "mxdmuqzy24",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Unlock the power of your Excel models and turn them into scalable APIs instantly.",
+        "titleParts": [
+          {
+            "_key": "fv986sjhkv",
+            "color": "",
+            "text": "From "
+          },
+          {
+            "_key": "nyqosrwjyz",
+            "color": "text-warning",
+            "text": "Spreadsheet "
+          },
+          {
+            "_key": "f07jks0a90",
+            "color": "",
+            "text": "to "
+          },
+          {
+            "_key": "0ivoy7ztxp",
+            "color": "text-brand-600",
+            "text": "API"
+          },
+          {
+            "_key": "6exley2ayr",
+            "color": "text-black",
+            "text": ", in Seconds"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "image": null,
+      "keywords": [
+        "cheque clearing",
+        "cheque processing",
+        "CTS automation",
+        "digital cheque clearing",
+        "banking reconciliation"
+      ],
+      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
+      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
+      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "url": "https://yourdomain.com/products/easy-cts"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "formula-genie"
+    },
+    "title": "Formula Genie"
+  },
+  {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
     "_rev": "48cQ74ab5BPcgD0vBD33Wc",
@@ -6560,6 +7994,508 @@
       "current": "managed-cloud-services"
     },
     "title": "Managed Cloud Services"
+  },
+  {
+    "_createdAt": "2026-04-16T04:47:07Z",
+    "_id": "mt-to-mx-conversion",
+    "_rev": "aeR9vTMsaQURTdDrE3hGuI",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:47:07Z",
+    "sections": [
+      {
+        "_key": "lde6y1xzho",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
+        "title": "Validate. Translate. Automate Financial Messages — Instantly"
+      },
+      {
+        "_key": "v1sci0rnoh",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "we651on4d1",
+            "description": "Check compliance and detect errors in real time.",
+            "hasList": false,
+            "icon": null,
+            "title": "Instant Validation"
+          },
+          {
+            "_key": "sslq1r5v3d",
+            "description": "Seamless translation between SWIFT MT and ISO 20022 formats.",
+            "hasList": false,
+            "icon": null,
+            "title": "MT ↔ ISO Conversion"
+          },
+          {
+            "_key": "v76iz91aii",
+            "description": "Understand every tag and its purpose instantly.",
+            "hasList": false,
+            "icon": null,
+            "title": "Message Insights"
+          },
+          {
+            "_key": "zy3z832zpt",
+            "description": "No need for deep SWIFT expertise.",
+            "hasList": false,
+            "icon": null,
+            "title": "Learning Curve"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "n3xyj261tm",
+            "color": "text-black",
+            "text": "One "
+          },
+          {
+            "_key": "oby4x7eapo",
+            "color": "text-warning",
+            "text": "Platform"
+          },
+          {
+            "_key": "rl8vf0g3x6",
+            "color": "text-black",
+            "text": ". Complete Message "
+          },
+          {
+            "_key": "8q1gb5l9v",
+            "color": "text-brand-600",
+            "text": "Intelligence."
+          }
+        ]
+      },
+      {
+        "_key": "hdsjt4fjjd",
+        "_type": "imageSectionSingle",
+        "id": "imageSection",
+        "imageAlt": "Graph",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": true
+      },
+      {
+        "_key": "hv1lbsadxd",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "gtbmz4asfv",
+            "description": "Support ISO 20022 migration and compliance.",
+            "icon": null,
+            "title": "Banks & Payment Institutions"
+          },
+          {
+            "_key": "5t26wtn2e3",
+            "description": "Build SWIFT-compatible systems with ease.",
+            "icon": null,
+            "title": "Fintech Platforms"
+          },
+          {
+            "_key": "e91wzoapvo",
+            "description": "Validate and test messages before deployment.",
+            "icon": null,
+            "title": "Developers & QA Teams"
+          },
+          {
+            "_key": "r55bfnhccy",
+            "description": "Learn and understand financial message structures.",
+            "icon": null,
+            "title": "Training & Certification"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Where It's Used",
+          "text": {
+            "title": [
+              {
+                "_key": "rr0ikb6ut5",
+                "color": "text-white",
+                "text": "Built for the Entire Financial Ecosystem"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "vodf6x77hi",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Key Capabilities",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "m6sqsexayu",
+                "color": "",
+                "text": "Powerful Features for Precision & Speed"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "tzz6xra8kn",
+            "description": "Line-by-line breakdown with guided corrections.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Validation & Analysis"
+          },
+          {
+            "_key": "tjh8y7duwl",
+            "description": "Identify inconsistencies before they impact production.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Troubleshooting"
+          },
+          {
+            "_key": "jomfq362ur",
+            "description": "Access real examples to understand formats and rules.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Learning Mode"
+          },
+          {
+            "_key": "499noxlwj0",
+            "description": "Always aligned with latest SWIFT & ISO standards.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Continuous Updates"
+          }
+        ]
+      },
+      {
+        "_key": "tzx67ajm85",
+        "_type": "imageSectionSingle",
+        "id": "imageSection",
+        "imageAlt": "Iso 20022 Messaging system graph",
+        "imageHeight": "",
+        "imageSource": null,
+        "imageWidth": "",
+        "isImageFullWidth": true
+      },
+      {
+        "_key": "uq824u3946",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Developer-Ready Platform",
+          "text": {
+            "title": [
+              {
+                "_key": "qct66vdufk",
+                "color": "text-black",
+                "text": "Built for Scale. Ready for Integration."
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "cnu3jrwamj",
+            "description": "Process thousands of messages per second.",
+            "title": "High-Performance APIs"
+          },
+          {
+            "_key": "vbijdc5uj4",
+            "description": "Handle MT ↔ CBPR+ seamlessly.",
+            "title": "Automated Conversions"
+          },
+          {
+            "_key": "5yfeddu9qg",
+            "description": "Accelerate development and reduce debugging time.",
+            "title": "Real-Time Feedback"
+          },
+          {
+            "_key": "d6dw5lr2nl",
+            "description": "Manage returns, replies, and edge cases automatically.",
+            "title": "Exception Handling"
+          }
+        ]
+      },
+      {
+        "_key": "axzga6jo38",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Business Impact",
+          "text": {
+            "title": [
+              {
+                "_key": "3xwsr8qgwp",
+                "color": "text-white",
+                "text": "Faster Operations. Lower Risk. Better Compliance."
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand-600",
+        "hasParentContainer": true,
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "ub2huz0q76",
+            "description": "Reduce delays caused by manual validation.",
+            "title": "Faster Processing"
+          },
+          {
+            "_key": "xuosmz5ig3",
+            "description": "Minimize manual effort and rework.",
+            "title": "Lower Operational Costs"
+          },
+          {
+            "_key": "ee08u3ykcr",
+            "description": "Ensure messages meet global standards.",
+            "title": "Improved Compliance"
+          },
+          {
+            "_key": "r0mcrx7roo",
+            "description": "Clear visibility into message structure and flow.",
+            "title": "Enhanced Transparency"
+          }
+        ]
+      },
+      {
+        "_key": "0wfa7ng7rk",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Why Choose MTMXConverter",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "vusbexvv8o",
+                "color": "",
+                "text": "Built for Modern Financial Systems"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles3",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "byqtdcw1qz",
+            "description": "Used by banks, fintechs, and developers worldwide.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Trusted Globally"
+          },
+          {
+            "_key": "8n868kcbzp",
+            "description": "Designed for performance-critical environments.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Speed & Precision"
+          },
+          {
+            "_key": "cdu2j09igr",
+            "description": "Backed by deep financial messaging logic.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Extensive Rule Engine"
+          },
+          {
+            "_key": "d5swm602bl",
+            "description": "Continuously evolving with global standards.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Future-Ready Platform"
+          }
+        ]
+      },
+      {
+        "_key": "b085ualdwl",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "7fz7w6k21o",
+            "description": "Reduce manual effort with intelligent processing.",
+            "details": "Create and manage multiple user personas with distinct roles and permissions to validate workflows, access control, and behavior under different operational conditions.",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "luxdc67l9v",
+                "color": "text-warning",
+                "text": "Greater "
+              },
+              {
+                "_key": "2eqtmd3d91",
+                "color": "text-black",
+                "text": "Automation"
+              }
+            ]
+          },
+          {
+            "_key": "dp1dud68zq",
+            "description": "Uniform messaging across systems.",
+            "details": "Simulate token generation, validation, expiration, and refresh mechanisms to ensure secure and seamless authentication across all services.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "5ghbmlsnnj",
+                "color": "text-warning",
+                "text": "Standardized "
+              },
+              {
+                "_key": "ibo97bg6xl",
+                "color": "text-black",
+                "text": " & Simplified "
+              }
+            ]
+          },
+          {
+            "_key": "k1rn76yxfa",
+            "description": "Speed up transaction cycles.",
+            "details": "Simulate real-time events such as transactions, failures, and edge cases to observe system reactions, ensuring reliability and robustness.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "u080quu5ve",
+                "color": "text-black",
+                "text": "Greater "
+              },
+              {
+                "_key": "rh791qgxpb",
+                "color": "text-warning",
+                "text": "Efficiency"
+              }
+            ]
+          },
+          {
+            "_key": "as8n11jc53",
+            "description": "Meet global regulatory requirements.",
+            "details": "Provides detailed logs for all operations, enabling traceability, debugging, compliance checks, and monitoring of system health.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "ew8vtqotxb",
+                "color": "text-black",
+                "text": "Improved "
+              },
+              {
+                "_key": "ak7kulkmbo",
+                "color": "text-brand-600",
+                "text": "Compliance"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Value Proposition",
+          "text": {
+            "title": [
+              {
+                "_key": "kp3zgiugyw",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "6wb6yqk85p",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Build a zero-trust foundation with Bankai IAM and scale securely across your digital ecosystem.",
+        "titleParts": [
+          {
+            "_key": "29l9mlm6ma",
+            "color": "text-black",
+            "text": "Make "
+          },
+          {
+            "_key": "i52lscqqbb",
+            "color": "text-black",
+            "text": "Every "
+          },
+          {
+            "_key": "ok5tgcammn",
+            "color": "text-brand-600",
+            "text": "Financial "
+          },
+          {
+            "_key": "drg3vcofpl",
+            "color": "text-black",
+            "text": "Message "
+          },
+          {
+            "_key": "bmadchlgzu",
+            "color": "text-warning",
+            "text": "Count"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "image": null,
+      "keywords": [
+        "cheque clearing",
+        "cheque processing",
+        "CTS automation",
+        "digital cheque clearing",
+        "banking reconciliation"
+      ],
+      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
+      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
+      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "url": "https://yourdomain.com/products/easy-cts"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "mt-to-mx-conversion"
+    },
+    "title": "Mt To Mx Conversion"
   },
   {
     "_createdAt": "2026-04-16T04:45:06Z",
