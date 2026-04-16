@@ -3448,6 +3448,1072 @@
     "title": "E Nach"
   },
   {
+    "_createdAt": "2026-04-16T04:46:14Z",
+    "_id": "easy-cts",
+    "_rev": "aeR9vTMsaQURTdDrE3hGr6",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:46:14Z",
+    "sections": [
+      {
+        "_key": "hqb24flhfz",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "EasyCTS modernizes cheque processing with automated inward and outward clearing, seamless CBS integration, and full compliance with RBI CTS guidelines—helping banks reduce delays, eliminate manual errors, and deliver faster clearing results to customers.",
+        "title": "Accelerate Cheque Clearing with Automation, Security & Compliance"
+      },
+      {
+        "_key": "ep1scgmq16",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "bk6gg2lt5e",
+            "description": "Manual verification and physical handling delay cheque processing.",
+            "hasList": false,
+            "icon": null,
+            "title": "Slow Clearing Cycles"
+          },
+          {
+            "_key": "b5xxs37kda",
+            "description": "Human intervention increases chances of incorrect entries and rejections.",
+            "hasList": false,
+            "icon": null,
+            "title": "Operational Errors"
+          },
+          {
+            "_key": "kngbu7sqek",
+            "description": "Manual processes require more staff and administrative work.",
+            "hasList": false,
+            "icon": null,
+            "title": "Higher Operational Costs"
+          },
+          {
+            "_key": "vwvvlvzq7g",
+            "description": "Lack of centralized monitoring makes it difficult to track clearing workflows.",
+            "hasList": false,
+            "icon": null,
+            "title": "Limited Transparency"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "svk391lrxy",
+            "color": "text-brand-600",
+            "text": "Manual "
+          },
+          {
+            "_key": "hfcf5xla0i",
+            "color": "text-black",
+            "text": "Clearing Slows "
+          },
+          {
+            "_key": "m4kzf732oy",
+            "color": "text-warning",
+            "text": "Down "
+          },
+          {
+            "_key": "yrgq451x2q",
+            "color": "text-black",
+            "text": "Modern "
+          },
+          {
+            "_key": "50uzfd79ur",
+            "color": "text-yellow",
+            "text": "Banking"
+          }
+        ]
+      },
+      {
+        "_key": "efj88v4dfy",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "amg2n699qp",
+            "description": "Connect seamlessly with existing core banking infrastructure.",
+            "icon": null,
+            "title": "CBS Integration"
+          },
+          {
+            "_key": "8138n5j543",
+            "description": "Automated communication with clearing house systems.",
+            "icon": null,
+            "title": "CHI / Sponsor Bank Connectivity"
+          },
+          {
+            "_key": "hqkwfvx6mk",
+            "description": "Batch creation, upload, response download, and updates handled automatically.",
+            "icon": null,
+            "title": "Automated File Handling"
+          },
+          {
+            "_key": "8k68ynvtps",
+            "description": "Encrypted API and SFTP communication ensures safe data exchange.",
+            "icon": null,
+            "title": "Secure Data Transmission"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "EasyCTS acts as an intelligent middleware connecting Core Banking Systems with CHI/Sponsor Bank networks through secure APIs and SFTP channels.",
+          "text": {
+            "title": [
+              {
+                "_key": "6l3vik8o5d",
+                "color": "text-white",
+                "text": "Smart Middleware Connecting Banking"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "6ywda9mwm5",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Digitize cheque processing from capture to submission with intelligent validation and automated workflows.",
+          "text": {
+            "title": [
+              {
+                "_key": "assvqo90if",
+                "color": "text-black",
+                "text": "Fast and Fully Automated Outward Clearing"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "yqv878x27t",
+            "description": "Scan cheque images with MICR-compliant scanners including auto cropping and quality validation.",
+            "title": "Cheque Image Capture"
+          },
+          {
+            "_key": "8tb9j2ar04",
+            "description": "Automatically repair and validate MICR data to reduce cheque rejection rates.",
+            "title": "MICR Repair & Validation"
+          },
+          {
+            "_key": "rtzr923i06",
+            "description": "Review cheque image, payee details, amount, and compliance rules before submission.",
+            "title": "Officer Verification"
+          },
+          {
+            "_key": "gorlgv2kfw",
+            "description": "Securely authenticate cheque batches with digital signatures.",
+            "title": "Digital Signing"
+          },
+          {
+            "_key": "mqmz1hp5sl",
+            "description": "Generate outward clearing files in sponsor-bank-approved formats.",
+            "title": "Batch File Generation"
+          },
+          {
+            "_key": "4q03ag1b23",
+            "description": "Files automatically uploaded to clearing servers with real-time status tracking.",
+            "title": "Automated Upload"
+          }
+        ]
+      },
+      {
+        "_key": "fiq1t3ppj4",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "31ojmg1tbw",
+            "description": "Automatically fetch inward clearing files and acknowledgments from CHI/Sponsor bank servers.",
+            "icon": null,
+            "title": "Auto File Download"
+          },
+          {
+            "_key": "9bwmex3ug5",
+            "description": "Convert inward cheque data into CBS-compatible formats automatically.",
+            "icon": null,
+            "title": "Data Conversion"
+          },
+          {
+            "_key": "omh36guue6",
+            "description": "Handle high-volume, split batches, and distributed branch clearing.",
+            "icon": null,
+            "title": "Continuous Clearing Support"
+          },
+          {
+            "_key": "9y0jgdrf8j",
+            "description": "Retrieve customer account and signature details via CBS APIs for fraud detection.",
+            "icon": null,
+            "title": "Account Lookup & Signature Verification"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Automate inward cheque processing with intelligent data conversion and seamless CBS integration.",
+          "text": {
+            "title": [
+              {
+                "_key": "cohhbdel00",
+                "color": "text-white",
+                "text": "Zero-Touch Inward Cheque Processing"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "7ahl9bavsg",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "EasyCTS enforces compliance with strong approval mechanisms and secure verification workflows.",
+          "text": {
+            "title": [
+              {
+                "_key": "1noph0lb7d",
+                "color": "text-black",
+                "text": "Built-In Controls for "
+              },
+              {
+                "_key": "boymdh8ef0",
+                "color": "text-warning",
+                "text": "Secure "
+              },
+              {
+                "_key": "z9ovgx3639",
+                "color": "text-black",
+                "text": "Clearing "
+              },
+              {
+                "_key": "r1byfgydsv",
+                "color": "text-brand-600",
+                "text": "Operations"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6d",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "ku90zz6hrj",
+            "description": "Dual authorization ensures accountability and fraud prevention.",
+            "title": "Maker–Checker Workflow"
+          },
+          {
+            "_key": "2u6rmda5ju",
+            "description": "Validate transactions before posting to CBS.",
+            "title": "Officer Confirmation"
+          },
+          {
+            "_key": "37037x99xp",
+            "description": "Return suspicious or incorrect items with reasons.",
+            "title": "Exception Handling"
+          },
+          {
+            "_key": "zu6wwo1pb1",
+            "description": "Approved items are automatically posted to CBS.",
+            "title": "Secure Posting to CBS"
+          }
+        ]
+      },
+      {
+        "_key": "cqrlmsow33",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "z0plszlryi",
+            "description": "End-to-end automation for inward and outward clearing",
+            "icon": null
+          },
+          {
+            "_key": "4mdtdvn4pr",
+            "description": "Fully compliant with CHI CTS guidelines",
+            "icon": null
+          },
+          {
+            "_key": "kbr3vqb3f6",
+            "description": "Secure digital signatures and encrypted data transmission",
+            "icon": null
+          },
+          {
+            "_key": "6bm28aqsww",
+            "description": "MICR repair with OCR-enabled data capture",
+            "icon": null
+          },
+          {
+            "_key": "wxlqwckmag",
+            "description": "Continuous clearing support for high- volume processing",
+            "icon": null
+          },
+          {
+            "_key": "j8e0jnoq98",
+            "description": "API and SFTP integration with CBS and sponsor banks",
+            "icon": null
+          },
+          {
+            "_key": "nxo7hkcfuw",
+            "description": "Dashboard and MIS monitoring",
+            "icon": null
+          },
+          {
+            "_key": "rr0auyezq",
+            "description": "Complete audit trails and system logs",
+            "icon": null
+          },
+          {
+            "_key": "slb2p2mnru",
+            "description": "Rule-based validation and exception management",
+            "icon": null
+          },
+          {
+            "_key": "hxvq6wk5sh",
+            "description": "Positive Pay System (PPS) enabled",
+            "icon": null
+          },
+          {
+            "_key": "xlux89crkm",
+            "description": "Complete audit trails and system logs",
+            "icon": null
+          },
+          {
+            "_key": "i06egmubc1",
+            "description": "Image quality analytics for cheque verification",
+            "icon": null
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Key Features of EasyCTS",
+          "text": {
+            "title": [
+              {
+                "_key": "88705dktno",
+                "color": "text-white",
+                "text": "Powerful Capabilities for Modern Cheque Clearing"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "5zv6jx0pyb",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "qwx7qmqslx",
+            "description": "Customers receive funds faster.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "g2fhm2jas2",
+                "color": "text-brand-600",
+                "text": "Faster "
+              },
+              {
+                "_key": "vgx3p0u5cz",
+                "color": "text-",
+                "text": "Clearing  "
+              },
+              {
+                "_key": "bgno6ugb2h",
+                "color": "text-warning",
+                "text": "Cycles"
+              }
+            ]
+          },
+          {
+            "_key": "saqia3wbdl",
+            "description": "Automation minimizes manual workload.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "5rugmgvepm",
+                "color": "text-brand-600",
+                "text": "Reduced  "
+              },
+              {
+                "_key": "gmogc9nxff",
+                "color": "text-black",
+                "text": "Operational "
+              },
+              {
+                "_key": "n94pgbat9s",
+                "color": "text-success",
+                "text": "Cost"
+              }
+            ]
+          },
+          {
+            "_key": "atj7u6p31f",
+            "description": "Secure and auditable clearing workflows.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "tvy759s8px",
+                "color": "",
+                "text": "Stronger"
+              },
+              {
+                "_key": "ruabzuredd",
+                "color": "text-[#EE6832]",
+                "text": " Compliance"
+              }
+            ]
+          },
+          {
+            "_key": "z6pb9xmgls",
+            "description": "Signature verification and validation checks reduce fraud risk.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "55cdyele3l",
+                "color": "text-warning",
+                "text": "Fraud  "
+              },
+              {
+                "_key": "0n9mslz2ud",
+                "color": "",
+                "text": "Prevention"
+              }
+            ]
+          },
+          {
+            "_key": "d7zt5n9er",
+            "description": "Lower cheque rejection rates and quicker processing.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "7dhlepor4c",
+                "color": "text-brand-600",
+                "text": "Better   "
+              },
+              {
+                "_key": "oddrp8eak9",
+                "color": "text-black",
+                "text": "Customer "
+              },
+              {
+                "_key": "3c2ntrldbd",
+                "color": "text-yellow",
+                "text": "Experience"
+              }
+            ]
+          },
+          {
+            "_key": "7il0u0k4i7",
+            "description": "Supports growing transaction volumes without additional manpower.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "wx7p1oqyi7",
+                "color": "text-warning",
+                "text": "Scalable "
+              },
+              {
+                "_key": "bn45d6rmwj",
+                "color": "text-brand-600",
+                "text": "Infrastructure"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "EasyCTS improves efficiency, security, and customer satisfaction while reducing operational complexity.",
+          "text": {
+            "title": [
+              {
+                "_key": "n9oeu3tn10",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "ik3isj31n8",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "m1yijmzgu8",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "w2evarii52",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "f12ppwibrt",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "bkf79o6cej",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "s2tnqyzr49",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "ca04n32clz",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "image": null,
+      "keywords": [
+        "cheque clearing",
+        "cheque processing",
+        "CTS automation",
+        "digital cheque clearing",
+        "banking reconciliation"
+      ],
+      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
+      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
+      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "url": "https://yourdomain.com/products/easy-cts"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-cts"
+    },
+    "title": "Easy Cts"
+  },
+  {
+    "_createdAt": "2026-04-16T04:46:12Z",
+    "_id": "easy-recon",
+    "_rev": "piiLNOj3u9Wq2zYwg4I5Ea",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:46:12Z",
+    "sections": [
+      {
+        "_key": "p29c9hsr6x",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "EasyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels—ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
+        "title": "Smart Automated Reconciliation for Digital Transactions"
+      },
+      {
+        "_key": "llljk16l9g",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "q44xw3cqrm",
+            "description": "CBS, ATM networks, EFT switch, and payment systems operate independently.",
+            "hasList": false,
+            "icon": null,
+            "title": "Multiple Data Sources"
+          },
+          {
+            "_key": "yg2u69l1hb",
+            "description": "Uploading and reconciling files manually slows operations.",
+            "hasList": false,
+            "icon": null,
+            "title": "Manual Processing Delays"
+          },
+          {
+            "_key": "ere76m76ck",
+            "description": "Errors in reconciliation impact financial accuracy.",
+            "hasList": false,
+            "icon": null,
+            "title": "High Operational Risk"
+          },
+          {
+            "_key": "etngn8q3yz",
+            "description": "Lack of centralized dashboards makes tracking difficult.",
+            "hasList": false,
+            "icon": null,
+            "title": " LimitedVisibility"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "ybghy6kfj4",
+            "color": "text-black",
+            "text": "The  "
+          },
+          {
+            "_key": "zfk02b2zvd",
+            "color": "text-warning",
+            "text": "Problem "
+          },
+          {
+            "_key": "y27qzpksys",
+            "color": "text-black",
+            "text": "with "
+          },
+          {
+            "_key": "79gbmav05a",
+            "color": "text-brand-600",
+            "text": "Manual "
+          },
+          {
+            "_key": "vbksmx1yld",
+            "color": "text-black",
+            "text": "Reconciliation"
+          }
+        ]
+      },
+      {
+        "_key": "3xxny52wm7",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "EasyRecon connects all transaction sources into a single platform, enabling seamless and automated reconciliation.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "1ald2rvbla",
+                "color": "",
+                "text": "One Platform. Complete Reconciliation."
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "djk9ryg7sr",
+            "description": "View transaction data across CBS, EFT Switch, ATM, and payment systems in one place.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Unified Dashboard"
+          },
+          {
+            "_key": "ywa0g8gipk",
+            "description": "Handle ATM, POS, ECOM, UPI, IMPS, and other digital transactions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cross-Channel Reconciliation"
+          },
+          {
+            "_key": "b2dia8cjab",
+            "description": "Track transaction counts, values, and statuses instantly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Monitoring"
+          },
+          {
+            "_key": "2uldahcwig",
+            "description": "Ensure precise reconciliation across high-volume data.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Accuracy at Scale"
+          }
+        ]
+      },
+      {
+        "_key": "va4sylxozv",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
+          "text": {
+            "title": [
+              {
+                "_key": "etuvzueoq5",
+                "color": "text-brand-600",
+                "text": "Automation "
+              },
+              {
+                "_key": "7yves86mcv",
+                "color": "text-black",
+                "text": "That "
+              },
+              {
+                "_key": "89f0mkkmau",
+                "color": "text-warning",
+                "text": "Understands "
+              },
+              {
+                "_key": "9lcp2ebh91",
+                "color": "text-black",
+                "text": "Your "
+              },
+              {
+                "_key": "n36sxymkxi",
+                "color": "text-success",
+                "text": "Data"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "xihak2vlgh",
+            "description": "Upload entire folders instead of individual files.",
+            "title": "Bulk File Import"
+          },
+          {
+            "_key": "jzvj7sj5yw",
+            "description": "Automatically categorize and process different file types.",
+            "title": "Auto File Detection"
+          },
+          {
+            "_key": "mqe70rzs7v",
+            "description": "Run reconciliation for past data whenever required.",
+            "title": "Backdated Reconciliation"
+          },
+          {
+            "_key": "770c824l5s",
+            "description": "Visual dashboards provide clear reconciliation insights.",
+            "title": "Graphical Insights"
+          }
+        ]
+      },
+      {
+        "_key": "xmmwvl1ma8",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "x0b6edreo5",
+            "description": "Define permissions for different users.",
+            "icon": null,
+            "title": "User Roles & Access"
+          },
+          {
+            "_key": "p74fg047e7",
+            "description": "Customize reconciliation rules and workflows.",
+            "icon": null,
+            "title": "System Parameters"
+          },
+          {
+            "_key": "6rh2kpz055",
+            "description": "Manage GL accounts, GST, and settlement mappings.",
+            "icon": null,
+            "title": "Account Mapping"
+          },
+          {
+            "_key": "ldj82jzf6i",
+            "description": "Maintain terminal masters and opening balance corrections.",
+            "icon": null,
+            "title": "Terminal & Balance Management"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Flexible configuration tools allow banks to manage rules, users, and system behavior efficiently.",
+          "text": {
+            "title": [
+              {
+                "_key": "8ax8pn26lk",
+                "color": "text-white",
+                "text": "Complete Control Over Reconciliation"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "6zdbmm6j41",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "v202baxgfk",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "u8lmjo25i3",
+                "color": "text-brand-600",
+                "text": "Reduced "
+              },
+              {
+                "_key": "96le3st02v",
+                "color": "text-warning",
+                "text": "Manual "
+              },
+              {
+                "_key": "o0yvsp0g4c",
+                "color": "text-black",
+                "text": "Effort"
+              }
+            ]
+          },
+          {
+            "_key": "uv472dzmsr",
+            "description": " Minimize reconciliation errors across systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "j3fzd5fb4d",
+                "color": "text-black",
+                "text": "Higher "
+              },
+              {
+                "_key": "gwnkk32cmi",
+                "color": "text-brand-600",
+                "text": "Accuracy"
+              }
+            ]
+          },
+          {
+            "_key": "s5t9hc1f2p",
+            "description": "Reduce financial discrepancies and fraud risks.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "axw25gj6vj",
+                "color": "text-warning",
+                "text": "Lower "
+              },
+              {
+                "_key": "zhe5w1k913",
+                "color": "text-black",
+                "text": "Operational "
+              },
+              {
+                "_key": "jdz7wcoob2",
+                "color": "text-brand-600",
+                "text": "Risk"
+              }
+            ]
+          },
+          {
+            "_key": "f5o8py4uka",
+            "description": "Real-time dashboards for better decision-making.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "qb0nxnbcgm",
+                "color": "text-brand-600",
+                "text": "Improved "
+              },
+              {
+                "_key": "jke936q1py",
+                "color": "text-warning",
+                "text": "Visibility"
+              }
+            ]
+          },
+          {
+            "_key": "39gvg5bz1z",
+            "description": "Handle increasing transaction volumes effortlessly.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "xrtu3wiu7y",
+                "color": "text-brand-600",
+                "text": "Scalable "
+              },
+              {
+                "_key": "dnt2ltu77e",
+                "color": "text-black",
+                "text": "Processing"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "EasyRecon transforms reconciliation into a streamlined, automated, and reliable process.",
+          "text": {
+            "title": [
+              {
+                "_key": "krqcl23g8g",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "8hvz2ivfq1",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "okoydp6jsz",
+            "description": "Detailed reports for ATM, POS, UPI, and digital transactions.",
+            "icon": null,
+            "title": "Reconciliation Reports"
+          },
+          {
+            "_key": "67cjy7tdf2",
+            "description": "Identify pending transactions and update statuses.",
+            "icon": null,
+            "title": "Timeout Transaction "
+          },
+          {
+            "_key": "g1v89uknqf",
+            "description": "Manage CBS adjustments and generate submission files.",
+            "icon": null,
+            "title": "Adjustment Reports"
+          },
+          {
+            "_key": "yswt5cb7jo",
+            "description": "Export data for audits and regulatory submission",
+            "icon": null,
+            "title": "Downloadable Reports"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Comprehensive reports enable tracking, auditing, and managing reconciliation with precision.",
+          "text": {
+            "title": [
+              {
+                "_key": "vvw8ystw3j",
+                "color": "text-white",
+                "text": "Deep Insights for Better Financial Control"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "ssvw19d87t",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "3arkkq0wb6",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "iaciggu0r3",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "3uyx1pahuy",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "gewyqs82hs",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "yxv9dp1dy2",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "rvhooukh60",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Simplify reconciliation across ATM, POS, UPI, IMPS, and digital channels with EasyRecon’s intelligent and automated reconciliation engine.",
+      "image": null,
+      "keywords": [
+        "reconciliation software",
+        "transaction reconciliation",
+        "automated reconciliation",
+        "banking reconciliation",
+        "financial operations"
+      ],
+      "ogDescription": "Reduce errors and accelerate reconciliation with EasyRecon, a unified platform for digital transaction matching.",
+      "ogTitle": "EasyRecon | Automated Transaction Reconciliation",
+      "title": "EasyRecon Reconciliation | Automated Transaction Matching",
+      "url": "https://yourdomain.com/products/easy-recon"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-recon"
+    },
+    "title": "Easy Recon"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
