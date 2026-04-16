@@ -5652,15 +5652,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "aeR9vTMsaQURTdDrE3kMD8",
+    "_rev": "piiLNOj3u9Wq2zYwg4MyOu",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "7JFZabLQagH5TO1qrtaHrq"
+        "rev": "aeR9vTMsaQURTdDrE3kMD8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:28:10Z",
+    "_updatedAt": "2026-04-16T09:31:55Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -5669,8 +5669,16 @@
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-912a3a562d7bfce62025f27264d850eadc263832-1614x1320-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
-        "title": "Empower Your Workforce with ESS"
+        "title": "Empower Your Workforce with ESS",
+        "variant": "split"
       },
       {
         "_key": "cwq9oow3ix",
