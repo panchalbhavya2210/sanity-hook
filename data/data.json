@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "piiLNOj3u9Wq2zYwg4KegS",
+    "_rev": "7JFZabLQagH5TO1qrtScSA",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "7JFZabLQagH5TO1qrtR0n2"
+        "rev": "piiLNOj3u9Wq2zYwg4KegS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T08:06:06Z",
+    "_updatedAt": "2026-04-16T08:11:33Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -814,6 +814,52 @@
           }
         },
         "variant": ""
+      },
+      {
+        "_key": "a3d03e38d353",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "subTitle": "Manage leave requests, attendance records, and work hours in one place.",
+          "text": {
+            "title": [
+              {
+                "_key": "b746957c992e",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Simplify "
+              },
+              {
+                "_key": "2198b8d93705",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Leave "
+              },
+              {
+                "_key": "6ea4f84975c4",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "and "
+              },
+              {
+                "_key": "ddcab88cd94c",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Attendance "
+              },
+              {
+                "_key": "5e861014a9e2",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "Tracking"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "hasPadding": true,
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": false
       }
     ],
     "slug": {
