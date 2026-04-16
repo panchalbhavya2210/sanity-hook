@@ -7215,9 +7215,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "iezjcqj9vs7hR9drroaZAW",
+    "_rev": "aeR9vTMsaQURTdDrE3hUmx",
+    "_system": {
+      "base": {
+        "id": "imps-upi-switch-services",
+        "rev": "iezjcqj9vs7hR9drroaZAW"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-15T05:50:35Z",
+    "_updatedAt": "2026-04-16T05:45:35Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -7261,6 +7267,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
         "titleParts": [
           {
             "_key": "ucdevua6y9",
@@ -7426,9 +7433,15 @@
         "_type": "imageSectionSingle",
         "id": "imageShow3",
         "imageAlt": "",
-        "imageHeight": "",
-        "imageSource": null,
-        "imageWidth": "",
+        "imageHeight": 763,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-ebb451d01fa502ea8bb445340363d999b788878b-1440x763-webp",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 1280,
         "isImageFullWidth": true
       },
       {
@@ -7498,36 +7511,22 @@
         "id": "sectionheader1",
         "isBgBlue": false,
         "isTextBlack": true,
-        "subTitleText": "Why work with five vendors when one platform can do it all?",
-        "text": {
-          "title": [
-            {
-              "_key": "qwid2dcp0x",
-              "color": "text-black",
-              "text": "The "
-            },
-            {
-              "_key": "qeb63mnluy",
-              "color": "text-warning",
-              "text": "Bankai "
-            },
-            {
-              "_key": "4bah0hqypd",
-              "color": "text-brand-600",
-              "text": "Difference"
-            }
-          ],
-          "variant": "h1"
-        }
+        "subTitleText": "Why work with five vendors when one platform can do it all?"
       },
       {
         "_key": "geke0p97e6",
         "_type": "imageSectionSingle",
         "id": "imageShow4",
         "imageAlt": "",
-        "imageHeight": "",
-        "imageSource": null,
-        "imageWidth": "",
+        "imageHeight": 510,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-64ff91ce2d993f5e76cb064809c2a2a4a7b84db0-2548x1038-webp",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 1280,
         "isImageFullWidth": false
       },
       {
@@ -7638,7 +7637,6 @@
     ],
     "seo": {
       "description": "Power instant payments with BankAI’s IMPS and UPI switch services, designed for secure, compliant, and high-performance digital payment processing.",
-      "image": null,
       "keywords": [
         "IMPS switch",
         "UPI switch",
