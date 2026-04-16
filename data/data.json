@@ -5652,15 +5652,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "7JFZabLQagH5TO1qrtaHrq",
+    "_rev": "aeR9vTMsaQURTdDrE3kMD8",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "aeR9vTMsaQURTdDrE3kLsN"
+        "rev": "7JFZabLQagH5TO1qrtaHrq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:28:00Z",
+    "_updatedAt": "2026-04-16T09:28:10Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -6074,6 +6074,7 @@
           },
           "titleTextClassName": ""
         },
+        "hasPadding": true,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -6116,6 +6117,7 @@
           },
           "titleTextClassName": ""
         },
+        "hasPadding": true,
         "id": "articles1",
         "isBgBlue": true,
         "isTextBlack": false,
