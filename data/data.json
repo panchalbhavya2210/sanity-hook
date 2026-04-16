@@ -10955,25 +10955,34 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "piiLNOj3u9Wq2zYwg4PJcS",
+    "_rev": "7JFZabLQagH5TO1qrtjzfH",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "7JFZabLQagH5TO1qrtiS1m"
+        "rev": "piiLNOj3u9Wq2zYwg4PJcS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T10:36:27Z",
+    "_updatedAt": "2026-04-16T10:37:27Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-085da37d9f1e3066df266f00b36b003ffbdc886b-1460x1346-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
-        "title": "Build Smarter Teams with Bankai"
+        "title": "Build Smarter Teams with Bankai",
+        "variant": "split"
       },
       {
         "_key": "jyb37428vt",
