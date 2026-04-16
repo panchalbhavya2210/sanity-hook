@@ -5151,9 +5151,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "7JFZabLQagH5TO1qrtdpXD",
+    "_rev": "aeR9vTMsaQURTdDrE3l54i",
+    "_system": {
+      "base": {
+        "id": "easy-pay-check",
+        "rev": "7JFZabLQagH5TO1qrtdpXD"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:58:25Z",
+    "_updatedAt": "2026-04-16T10:08:34Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -5194,7 +5200,7 @@
             "description": "Maintain centralized employee records with easy access, updates, and structured organization.",
             "descriptionClassName": "",
             "image": null,
-            "imageAlt": "",
+            "isReversed": true,
             "title": "Data Management"
           },
           {
@@ -5203,6 +5209,7 @@
             "descriptionClassName": "",
             "image": null,
             "imageAlt": "",
+            "isReversed": true,
             "title": "Organized Records"
           },
           {
@@ -5211,9 +5218,56 @@
             "descriptionClassName": "",
             "image": null,
             "imageAlt": "",
+            "isReversed": true,
             "title": "Instant Access"
           }
         ]
+      },
+      {
+        "_key": "3cj2pswddc",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "ngjge48t8k",
+            "description": "Customize salary structures including allowances, deductions, and bonuses as per business needs.",
+            "icon": null,
+            "title": "Flexible Salary Components"
+          },
+          {
+            "_key": "ddf5n1clnz",
+            "description": "Predefined rules ensure accurate salary processing with minimal manual intervention.",
+            "icon": null,
+            "title": "Automated Calculations"
+          },
+          {
+            "_key": "h9myyv1i31",
+            "description": "Automatically handle PF, PTAX, and other deductions in line with regulations.",
+            "icon": null,
+            "title": "Statutory Compliance"
+          },
+          {
+            "_key": "r7rmqd8hh3",
+            "description": "Simplify complex payroll structures while maintaining clarity and consistency.",
+            "icon": null,
+            "title": "Smart Payroll Control"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Configure, automate, and manage payroll with complete flexibility while ensuring compliance and precision.",
+          "text": {
+            "title": [
+              {
+                "_key": "brwb33aoyj",
+                "color": "text-white",
+                "text": "Flexible Payroll. Accurate Every Time."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
       },
       {
         "_key": "2cummufg84",
@@ -5317,7 +5371,7 @@
           "titleTextClassName": ""
         },
         "id": "articles11",
-        "isBgBlue": true,
+        "isBgBlue": false,
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
@@ -5347,109 +5401,36 @@
         ]
       },
       {
-        "_key": "fw34xefim5",
-        "_type": "quickActionCardParentSection",
-        "actionCardHeader": {
-          "icon": null,
-          "subTitleText": "Empower employees with structured performance management and feedback systems.",
-          "text": {
-            "title": [
-              {
-                "_key": "njwlthv3y0",
-                "color": "",
-                "text": "Drive "
-              },
-              {
-                "_key": "cbyj1uevjb",
-                "color": "text-brand-600",
-                "text": "Performance"
-              },
-              {
-                "_key": "hcjuu0lqk1",
-                "color": "text-black",
-                "text": ", Build "
-              },
-              {
-                "_key": "s11ebp1mm8",
-                "color": "text-warning",
-                "text": "Growth"
-              }
-            ],
-            "variant": "h1"
-          }
-        },
-        "bgColor": "white",
-        "id": "quickActionCardParent2",
-        "isChild": false,
-        "isTextBlack": true,
-        "quickActionCard": [
+        "_key": "bb2e823039ab",
+        "_type": "bankingSolutionsSection",
+        "bankingSolutionCardData": [
           {
-            "_key": "fgiifpuyu",
-            "description": "Define clear objectives and track progress throughout the year.",
-            "title": "Goal Setting"
+            "_key": "771954e9cd8e",
+            "description": "Automate bonus calculations and ensure timely payouts.",
+            "title": "Bonus Management"
           },
           {
-            "_key": "hggn7irg4b",
-            "description": "Enable regular feedback and performance discussions.",
-            "title": "Feedback System"
+            "_key": "16f0f4767b4f",
+            "description": "Provide financial support to employees during festive periods.",
+            "title": "Festival Advance"
           },
           {
-            "_key": "gn3s7k0m0l",
-            "description": "Identify high performers and areas of improvement.",
-            "title": "Performance Tracking"
+            "_key": "321c08eb809c",
+            "description": "Generate compliance-ready financial reports.",
+            "title": "Integrated Reports"
           },
           {
-            "_key": "g1x89do2ef",
-            "description": "Support career development and long-term engagement.",
-            "title": "Employee Growth"
-          }
-        ]
-      },
-      {
-        "_key": "3cj2pswddc",
-        "_type": "bankingSuiteSection",
-        "id": "bankingSuite10",
-        "isTextWhite": true,
-        "journeyCards": [
-          {
-            "_key": "ngjge48t8k",
-            "description": "Customize salary structures including allowances, deductions, and bonuses as per business needs.",
-            "icon": null,
-            "title": "Flexible Salary Components"
-          },
-          {
-            "_key": "ddf5n1clnz",
-            "description": "Predefined rules ensure accurate salary processing with minimal manual intervention.",
-            "icon": null,
-            "title": "Automated Calculations"
-          },
-          {
-            "_key": "h9myyv1i31",
-            "description": "Automatically handle PF, PTAX, and other deductions in line with regulations.",
-            "icon": null,
-            "title": "Statutory Compliance"
-          },
-          {
-            "_key": "r7rmqd8hh3",
-            "description": "Simplify complex payroll structures while maintaining clarity and consistency.",
-            "icon": null,
-            "title": "Smart Payroll Control"
+            "_key": "089fba599002",
+            "description": "Simplify year-end financial processes.",
+            "title": "Smooth Closing"
           }
         ],
-        "journeyHeader": {
-          "icon": null,
-          "subTitle": "Configure, automate, and manage payroll with complete flexibility while ensuring compliance and precision.",
-          "text": {
-            "title": [
-              {
-                "_key": "brwb33aoyj",
-                "color": "text-white",
-                "text": "Flexible Payroll. Accurate Every Time."
-              }
-            ],
-            "variant": "h1"
-          }
-        }
+        "bankingSolutionHeader": {
+          "subTitle": "Handle bonuses, advances, and financial support systems with ease.",
+          "text": "Manage Rewards & Benefits Seamlessly"
+        },
+        "id": "bankingSolutions",
+        "isTextWhite": true
       },
       {
         "_key": "39ktvmqn58",
@@ -5513,6 +5494,65 @@
             "variant": "h1"
           }
         }
+      },
+      {
+        "_key": "fw34xefim5",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Empower employees with structured performance management and feedback systems.",
+          "text": {
+            "title": [
+              {
+                "_key": "njwlthv3y0",
+                "color": "",
+                "text": "Drive "
+              },
+              {
+                "_key": "cbyj1uevjb",
+                "color": "text-brand-600",
+                "text": "Performance"
+              },
+              {
+                "_key": "hcjuu0lqk1",
+                "color": "text-black",
+                "text": ", Build "
+              },
+              {
+                "_key": "s11ebp1mm8",
+                "color": "text-warning",
+                "text": "Growth"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "fgiifpuyu",
+            "description": "Define clear objectives and track progress throughout the year.",
+            "title": "Goal Setting"
+          },
+          {
+            "_key": "hggn7irg4b",
+            "description": "Enable regular feedback and performance discussions.",
+            "title": "Feedback System"
+          },
+          {
+            "_key": "gn3s7k0m0l",
+            "description": "Identify high performers and areas of improvement.",
+            "title": "Performance Tracking"
+          },
+          {
+            "_key": "g1x89do2ef",
+            "description": "Support career development and long-term engagement.",
+            "title": "Employee Growth"
+          }
+        ]
       },
       {
         "_key": "yfbye6czm2",
