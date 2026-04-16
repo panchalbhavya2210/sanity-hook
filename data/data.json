@@ -612,9 +612,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "piiLNOj3u9Wq2zYwg4I5M8",
+    "_rev": "piiLNOj3u9Wq2zYwg4IEuG",
+    "_system": {
+      "base": {
+        "id": "bankai-iam",
+        "rev": "piiLNOj3u9Wq2zYwg4I5M8"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:47:06Z",
+    "_updatedAt": "2026-04-16T05:13:16Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -1129,8 +1135,26 @@
             "title": [
               {
                 "_key": "qzufrg83c7",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Test "
+              },
+              {
+                "_key": "b34bcc8dbf39",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Securely. "
+              },
+              {
+                "_key": "24ced7b83733",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Deploy "
+              },
+              {
+                "_key": "1d2e4045b90d",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Confidently"
               }
             ],
             "variant": "h1"
