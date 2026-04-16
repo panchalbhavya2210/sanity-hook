@@ -2968,6 +2968,486 @@
     "title": "Digi X"
   },
   {
+    "_createdAt": "2026-04-16T04:45:05Z",
+    "_id": "e-nach",
+    "_rev": "7JFZabLQagH5TO1qrtHdEE",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:45:05Z",
+    "sections": [
+      {
+        "_key": "hbk7aousl9",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Bankai’s web-based e-NACH platform simplifies and automates the entire NACH lifecycle from file processing to reporting with seamless CBS integration, real-time updates, and full NPCI compliance.",
+        "title": "Smart Automation for All NACH Operations"
+      },
+      {
+        "_key": "h01phfpk9g",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Traditional NACH operations involve multiple systems, manual file handling, and compliance risks — slowing down processing and increasing errors.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "95bt4bp970",
+                "color": "",
+                "text": "Complex "
+              },
+              {
+                "_key": "bwrq157j81",
+                "color": "text-brand-600",
+                "text": "Processes"
+              },
+              {
+                "_key": "znl51cbyh4",
+                "color": "",
+                "text": ". Manual "
+              },
+              {
+                "_key": "76geig3ipy",
+                "color": "text-[#EE6832]",
+                "text": "Effort"
+              },
+              {
+                "_key": "x85jogorld",
+                "color": "",
+                "text": ". Limited "
+              },
+              {
+                "_key": "wldfzwqff2",
+                "color": "text-success",
+                "text": "Visibility"
+              },
+              {
+                "_key": "hxshnucrcw",
+                "color": "",
+                "text": "."
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "d5i25ooxo7",
+            "description": "Downloading, validating, and uploading files manually increases effort and delays.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Manual File Handling"
+          },
+          {
+            "_key": "w3k4nx7aal",
+            "description": "Manual validation leads to data inconsistencies and processing failures.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Operational Errors"
+          },
+          {
+            "_key": "krsep4aeh9",
+            "description": "Multiple tools and systems create inefficiencies and lack of control.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fragmented Workflows"
+          },
+          {
+            "_key": "9vy2c2x8b6",
+            "description": "Meeting NPCI standards becomes complex without automation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Compliance Risks"
+          }
+        ]
+      },
+      {
+        "_key": "dy6l36zclm",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "xzpwgmfo5i",
+                "color": "",
+                "text": "One Platform. Complete NACH Lifecycle."
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "34se64ljax",
+            "description": "Downloading, validating, and uploading files manually increases effort and delays.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Manual File Handling"
+          },
+          {
+            "_key": "j99hg6r4ko",
+            "description": "Manual validation leads to data inconsistencies and processing failures.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Operational Errors"
+          },
+          {
+            "_key": "1nu6s8nf36",
+            "description": "Multiple tools and systems create inefficiencies and lack of control.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fragmented Workflows"
+          },
+          {
+            "_key": "p5wu8ik232",
+            "description": "Meeting NPCI standards becomes complex without automation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Compliance Risks"
+          }
+        ]
+      },
+      {
+        "_key": "wn0ae6f0tt",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Key Features",
+          "text": {
+            "title": [
+              {
+                "_key": "9pnc35qe82",
+                "color": "text-black",
+                "text": "Built for "
+              },
+              {
+                "_key": "5qax4tdo9q",
+                "color": "text-brand-600",
+                "text": "Scalable"
+              },
+              {
+                "_key": "f2yrh1k5fa",
+                "color": "text-black",
+                "text": ". "
+              },
+              {
+                "_key": "uq1t9k3q6i",
+                "color": "text-warning",
+                "text": "Secure"
+              },
+              {
+                "_key": "ho1kol7lqt",
+                "color": "text-black",
+                "text": ", and "
+              },
+              {
+                "_key": "tzhjen9n9o",
+                "color": "text-success",
+                "text": "Compliant "
+              },
+              {
+                "_key": "6ht3vbaul7",
+                "color": "text-black",
+                "text": "Operations"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent6",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "s1ce3ka3nu",
+            "groupTitle": "File Processing",
+            "items": [
+              {
+                "_key": "dzyysdpm3g",
+                "description": "Supports Credit, Debit, APB mapper, Mandates, and ECS transactions.",
+                "title": "Comprehensive File Processing"
+              },
+              {
+                "_key": "ef67x8mxsu",
+                "description": "Handles both incoming and outgoing NACH workflows seamlessly.",
+                "title": "Inward & Outward Processing"
+              },
+              {
+                "_key": "dm3hguh9na",
+                "description": "Aligned with encryption standards and file format requirements.",
+                "title": "NPCI Compliance"
+              },
+              {
+                "_key": "5pihn3miju",
+                "description": "Supports Aadhaar seeding, mandate registration, and reporting.",
+                "title": "Branch-Level Operations"
+              }
+            ]
+          },
+          {
+            "_key": "5j51nmj95j",
+            "groupTitle": "Automation",
+            "items": [
+              {
+                "_key": "yofkw0rrwk",
+                "description": "Fetch NACH files directly from NPCI portals (H2H).",
+                "title": "Auto File Download"
+              },
+              {
+                "_key": "reueado5a8",
+                "description": "Eliminate manual checks with system-driven validation.",
+                "title": "Automated Validation"
+              },
+              {
+                "_key": "2zmn5er8ib",
+                "description": "Automatically create and upload response files.",
+                "title": "Response File Generation"
+              },
+              {
+                "_key": "w3my2gup19",
+                "description": "Maintain secure storage of processed files for audits.",
+                "title": "Auto Archival"
+              }
+            ]
+          },
+          {
+            "_key": "4hqz2etdhn",
+            "groupTitle": "Integration",
+            "items": [
+              {
+                "_key": "qh2amba3jp",
+                "description": "Secure REST APIs ensure smooth system connectivity.",
+                "title": "API-Based CBS Integration"
+              },
+              {
+                "_key": "6g84zsk0vv",
+                "description": "Instant debit/credit updates and reconciliation.",
+                "title": "Real-Time Transactions"
+              },
+              {
+                "_key": "igzrgcx1z2",
+                "description": "Notify customers and stakeholders instantly.",
+                "title": "Real-Time Alerts"
+              },
+              {
+                "_key": "pnl8uva2eh",
+                "description": "Automation minimizes human intervention.",
+                "title": "Reduced Manual Dependency"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "w7hkwx2ewb",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "k5t3ggrnv9",
+            "description": "Manage all NACH operations through one web-based solution.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "86yvhpx5co",
+                "color": "text-brand-600",
+                "text": "Unified "
+              },
+              {
+                "_key": "th20ug7cb",
+                "color": "text-black",
+                "text": "Platform"
+              }
+            ]
+          },
+          {
+            "_key": "qtnco6ayh8",
+            "description": "Seamless CBS integration enables faster turnaround.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "17i8y9dc3e",
+                "color": "text-brand-600",
+                "text": "Real-Time "
+              },
+              {
+                "_key": "cnqv8af9d8",
+                "color": "text-black",
+                "text": "Processing"
+              }
+            ]
+          },
+          {
+            "_key": "7gvxudt7en",
+            "description": "Reduce manual effort and eliminate operational bottlenecks.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "i5uhyc2w7y",
+                "color": "",
+                "text": "End-to-End "
+              },
+              {
+                "_key": "056l8p37lr",
+                "color": "text-warning",
+                "text": "Automation "
+              }
+            ]
+          },
+          {
+            "_key": "dafc3fm6qj",
+            "description": "Automated validation minimizes errors and rejections.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "pxjy9e35pi",
+                "color": "text-warning",
+                "text": "Higher "
+              },
+              {
+                "_key": "sqzllfbcgo",
+                "color": "text-black",
+                "text": "Accuracy"
+              }
+            ]
+          },
+          {
+            "_key": "8d8568uvgw",
+            "description": "Ensure adherence to NPCI standards and audit readiness.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "sy9irfk35q",
+                "color": "text-brand-600",
+                "text": "Enhanced "
+              },
+              {
+                "_key": "3atneto9vf",
+                "color": "text-black",
+                "text": "Compliance"
+              }
+            ]
+          },
+          {
+            "_key": "mib80ch4q5",
+            "description": "Adapt to growing transaction volumes effortlessly.",
+            "heading": "EasyBankCore®",
+            "id": 6,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "9eqg4msx9r",
+                "color": "text-warning",
+                "text": "Scalable "
+              },
+              {
+                "_key": "8ly7flae0j",
+                "color": "text-black",
+                "text": "Architecture"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": " Transform your NACH operations with automation and real-time processing.",
+          "text": {
+            "title": [
+              {
+                "_key": "yqzhi52nf5",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "uv81sq3bwp",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Automate file processing, improve compliance, and scale your operations with Bankai’s e-NACH platform.",
+        "titleParts": [
+          {
+            "_key": "2irtskgmz2",
+            "color": "text-warning",
+            "text": "Simplify "
+          },
+          {
+            "_key": "2u4p7stmey",
+            "color": "text-black",
+            "text": " Your NACH "
+          },
+          {
+            "_key": "7jtydrrav8",
+            "color": "text-brand-600",
+            "text": "Operations "
+          },
+          {
+            "_key": "lnttue04wh",
+            "color": "",
+            "text": "Today "
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Automate NACH workflows end-to-end with BankAI’s e-NACH platform — from mandate management to reconciliation with NPCI compliance.",
+      "image": null,
+      "keywords": [
+        "e-NACH platform",
+        "NACH automation",
+        "mandate management",
+        "NPCI compliance",
+        "digital payments"
+      ],
+      "ogDescription": "Simplify NACH processing with BankAI’s secure, automated e-NACH solution for banks and financial institutions.",
+      "ogTitle": "e-NACH Automation | NPCI-Compliant NACH Platform",
+      "title": "e-NACH Automation Platform | BankAI",
+      "url": "https://yourdomain.com/products/e-nach"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "e-nach"
+    },
+    "title": "E Nach"
+  },
+  {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
     "_rev": "2LL9JC6EMX15mEdNnsGpfe",
@@ -5016,18 +5496,414 @@
     "title": "Managed Cloud Services"
   },
   {
-    "_createdAt": "2026-04-16T04:44:35Z",
-    "_id": "nach",
-    "_rev": "piiLNOj3u9Wq2zYwg4I4ii",
+    "_createdAt": "2026-04-16T04:45:06Z",
+    "_id": "nach-signing-tool",
+    "_rev": "aeR9vTMsaQURTdDrE3hGfO",
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:44:35Z",
-    "sections": [],
-    "seo": {},
+    "_updatedAt": "2026-04-16T04:45:06Z",
+    "sections": [
+      {
+        "_key": "rx7muov8c",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration—ensuring security, compliance, and operational efficiency.",
+        "title": "Secure, Automated & NPCI-Compliant File Signing"
+      },
+      {
+        "_key": "xnfen77i1w",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "m56bf61xno",
+            "description": "Manual file signing and verification delays daily operations.",
+            "hasList": false,
+            "icon": null,
+            "title": "Slow Processing"
+          },
+          {
+            "_key": "pb75nti935",
+            "description": "Strict NPCI standards require secure and validated workflows.",
+            "hasList": false,
+            "icon": null,
+            "title": "Compliance Challenges"
+          },
+          {
+            "_key": "jmedhqpioy",
+            "description": "Weak signing methods expose sensitive financial data.",
+            "hasList": false,
+            "icon": null,
+            "title": "Security Risks"
+          },
+          {
+            "_key": "6vuqwh012i",
+            "description": "Managing bulk and individual files manually increases workload.",
+            "hasList": false,
+            "icon": null,
+            "title": "Operational Complexity"
+          }
+        ],
+        "headerSubtitle": "Handling NACH files manually increases the risk of errors, delays, and compliance issues—especially with high transaction volumes.",
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "z21hjfsacm",
+            "color": "text-warning",
+            "text": "Manual "
+          },
+          {
+            "_key": "yb36iu5gge",
+            "color": "text-brand-600",
+            "text": "Signing "
+          },
+          {
+            "_key": "ydggfb67no",
+            "color": "text-black",
+            "text": "Creates "
+          },
+          {
+            "_key": "slsifph8gg",
+            "color": "text-warning",
+            "text": "Risk "
+          },
+          {
+            "_key": "i1669fblta",
+            "color": "text-black",
+            "text": "and Delays"
+          }
+        ]
+      },
+      {
+        "_key": "5aox6czf64",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "zsaud3txft",
+            "description": "Digitally sign and verify files with strong cryptographic standards.",
+            "icon": null,
+            "title": "Secure Digital Signing & Verification"
+          },
+          {
+            "_key": "vaxx43zhzf",
+            "description": "Handle large volumes of files efficiently in a single workflow.",
+            "icon": null,
+            "title": "Bulk Processing Support"
+          },
+          {
+            "_key": "6cif8dsscy",
+            "description": "Flexibility to sign and verify files one at a time when needed.",
+            "icon": null,
+            "title": "Individual File Signing"
+          },
+          {
+            "_key": "5cwqy57krb",
+            "description": "Uses 2048-bit RSA and SHA-256 algorithms for maximum security.",
+            "icon": null,
+            "title": "Advanced Cryptography"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "A powerful solution designed to handle both bulk and individual NACH file signing with full compliance and automation.",
+          "text": {
+            "title": [
+              {
+                "_key": "134k5t2tdq",
+                "color": "text-white",
+                "text": "Built for Secure, Scalable File Signing"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "n6ubim5qrr",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "fy8qsa4re6",
+            "description": "Automatically exchange files with NPCI systems.",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "t4u59mwnxg",
+                "color": "text-black",
+                "text": "Auto "
+              },
+              {
+                "_key": "s8j8dp151e",
+                "color": "text-warning",
+                "text": "Upload "
+              },
+              {
+                "_key": "8kjen9uhe8",
+                "color": "",
+                "text": "& "
+              },
+              {
+                "_key": "xlfa9rizm9",
+                "color": "text-brand-600",
+                "text": "Download "
+              }
+            ]
+          },
+          {
+            "_key": "xu26en6zec",
+            "description": "Generate processed files without manual steps.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "u8hqi7su2i",
+                "color": "text-brand-600",
+                "text": "Automated "
+              },
+              {
+                "_key": "u7szp0su8d",
+                "color": "",
+                "text": "File Generation"
+              }
+            ]
+          },
+          {
+            "_key": "kngt5tluci",
+            "description": "Receive SMS and email notifications for file activities.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "1namgyogny",
+                "color": "",
+                "text": "Real-Time  "
+              },
+              {
+                "_key": "cred06ih37",
+                "color": "text-[#EE6832]",
+                "text": "Alerts"
+              }
+            ]
+          },
+          {
+            "_key": "5nwcn0w0pq",
+            "description": "Ensure fast, accurate handling of daily transaction files.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "d2gazhva67",
+                "color": "text-success",
+                "text": "High-Speed "
+              },
+              {
+                "_key": "4645l2yeit",
+                "color": "",
+                "text": "Processing"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Eliminate manual intervention with automated Host-to-Host integration for continuous file processing.",
+          "text": {
+            "title": [
+              {
+                "_key": "648bcwk9so",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "mpxad4dhkl",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Designed to work seamlessly across environments for maximum operational flexibility.",
+          "text": {
+            "title": [
+              {
+                "_key": "o88z5mfxnh",
+                "color": "text-white",
+                "text": "Flexible and Cross-Platform Deployment"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "bg-brand-600",
+        "hasParentContainer": true,
+        "id": "quickActionCardParent2",
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "xq6pw8e50v",
+            "description": "Compatible with both Windows and Linux systems.",
+            "title": "Multi-OS Support"
+          },
+          {
+            "_key": "ubdmtc4jaq",
+            "description": "Supports PKCS#7 and Raw RSA signature formats.",
+            "title": "Standards-Based Architecture"
+          },
+          {
+            "_key": "kg05yyd95j",
+            "description": "Built to integrate into existing banking infrastructure.",
+            "title": "Enterprise Ready"
+          }
+        ]
+      },
+      {
+        "_key": "aubkl4tqm9",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "A solution designed to simplify operations while ensuring security and compliance at every step.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "guzlpia1zz",
+                "color": "text-brand-600",
+                "text": "Trusted"
+              },
+              {
+                "_key": "yjvs8vzg99",
+                "color": "text-warning",
+                "text": ", Proven"
+              },
+              {
+                "_key": "6os43bfvog",
+                "color": "",
+                "text": ", and Built for"
+              },
+              {
+                "_key": "bbff22j1gp",
+                "color": "text-success",
+                "text": " Scale"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "f6fmf2wb7f",
+            "description": "Fully aligned with NACH signing and encryption standards.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "NPCI-Compliant Solution"
+          },
+          {
+            "_key": "0xhxl9c5wd",
+            "description": "Successfully deployed across multiple financial institutions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Proven in Leading Banks"
+          },
+          {
+            "_key": "7ku8344nwn",
+            "description": "Efficient handling of bulk file operations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High-Speed Processing"
+          },
+          {
+            "_key": "uqzzbcjrf8",
+            "description": "Automation minimizes human intervention and errors.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Reduced Manual Work"
+          }
+        ]
+      },
+      {
+        "_key": "1ds7r1ke7o",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "rwx85nl5ec",
+            "color": "",
+            "text": "Ready to "
+          },
+          {
+            "_key": "ryjg25081j",
+            "color": "text-[#EE6832]",
+            "text": "Transform "
+          },
+          {
+            "_key": "ik80v2re6m",
+            "color": "",
+            "text": "Your "
+          },
+          {
+            "_key": "nnnnvkgq1t",
+            "color": "text-[#EE6832]",
+            "text": "Banking "
+          },
+          {
+            "_key": "rh7fxll4x5",
+            "color": "text-brand-600",
+            "text": "Experience"
+          },
+          {
+            "_key": "6cvv810we6",
+            "color": "",
+            "text": "?"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Digitally sign and verify NACH files with BankAI’s secure signing tool, built for NPCI compliance, automation, and high-volume banking operations.",
+      "image": null,
+      "keywords": [
+        "NACH signing tool",
+        "digital signature",
+        "NPCI compliance",
+        "banking automation",
+        "file signing"
+      ],
+      "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
+      "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
+      "title": "NACH Signing Tool | BankAI",
+      "url": "https://yourdomain.com/products/nach-signin-tool"
+    },
     "slug": {
       "_type": "slug",
-      "current": "nach"
+      "current": "nach-signing-tool"
     },
-    "title": "Nach"
+    "title": "Nach Signing Tool"
   },
   {
     "_createdAt": "2026-04-14T07:37:52Z",
