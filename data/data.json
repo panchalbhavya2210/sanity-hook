@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "7JFZabLQagH5TO1qrtSmkp",
+    "_rev": "7JFZabLQagH5TO1qrtSuRO",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "piiLNOj3u9Wq2zYwg4KzUO"
+        "rev": "7JFZabLQagH5TO1qrtSmkp"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T08:12:56Z",
+    "_updatedAt": "2026-04-16T08:14:05Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -883,6 +883,46 @@
           }
         },
         "variant": ""
+      },
+      {
+        "_key": "07cd0625f646",
+        "_type": "coreInfoSection",
+        "cta": {
+          "isButtonVisible": true
+        },
+        "features": [
+          {
+            "_key": "98bc9cb308d8",
+            "_type": "featureCard",
+            "description": "View company guidelines",
+            "hasList": false,
+            "title": "Employee Handbook"
+          },
+          {
+            "_key": "ff6b78fd0147",
+            "_type": "featureCard",
+            "description": "Stay updated with changes",
+            "hasList": false,
+            "title": "Policy Access"
+          },
+          {
+            "_key": "3b95edda7de4",
+            "_type": "featureCard",
+            "description": "Confirm compliance easily",
+            "hasList": false,
+            "title": "Acknowledgements"
+          }
+        ],
+        "isTextBlack": true,
+        "subTitleText": "Keep employees informed with policies, documents, and compliance updates.",
+        "titleParts": [
+          {
+            "_key": "b05c43b60715",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Access Company Resources Anytime"
+          }
+        ]
       }
     ],
     "slug": {
