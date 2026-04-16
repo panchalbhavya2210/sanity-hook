@@ -5151,15 +5151,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "piiLNOj3u9Wq2zYwg4O48K",
+    "_rev": "aeR9vTMsaQURTdDrE3lAcY",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "aeR9vTMsaQURTdDrE3l54i"
+        "rev": "piiLNOj3u9Wq2zYwg4O48K"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T10:14:38Z",
+    "_updatedAt": "2026-04-16T10:16:19Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -5339,7 +5339,8 @@
         },
         "id": "articles1",
         "isBgBlue": true,
-        "isTextBlack": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "nc5m4dlkw4",
@@ -5496,8 +5497,8 @@
             "title": [
               {
                 "_key": "564a7dipul",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Track Expenses & Legal Processes"
               }
             ],
             "variant": "h1"
@@ -5631,7 +5632,8 @@
         },
         "id": "articles1",
         "isBgBlue": true,
-        "isTextBlack": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "53ht8f8pn7",
