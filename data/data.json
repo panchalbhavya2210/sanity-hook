@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "piiLNOj3u9Wq2zYwg4JdwW",
+    "_rev": "7JFZabLQagH5TO1qrtNyEc",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "aeR9vTMsaQURTdDrE3iCEi"
+        "rev": "piiLNOj3u9Wq2zYwg4JdwW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T07:15:17Z",
+    "_updatedAt": "2026-04-16T07:17:44Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -749,6 +749,69 @@
             "description": "Instant data sync across systems",
             "isReversed": true,
             "title": "Real-Time Updates"
+          }
+        ]
+      },
+      {
+        "_key": "a2dbc13c1d7a",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "titleParts": [
+            {
+              "_key": "995ee9a3463d",
+              "_type": "titlePart",
+              "color": "text-black",
+              "text": "Simplify "
+            },
+            {
+              "_key": "d73e173d40d3",
+              "_type": "titlePart",
+              "color": "text-brand-600",
+              "text": "Leave "
+            },
+            {
+              "_key": "5bae70a0ac1d",
+              "_type": "titlePart",
+              "color": "text-black",
+              "text": "and "
+            },
+            {
+              "_key": "7f28eb7e0355",
+              "_type": "titlePart",
+              "color": "text-warning",
+              "text": "Attendance "
+            },
+            {
+              "_key": "a243b4be7270",
+              "_type": "titlePart",
+              "color": "text-success",
+              "text": "Tracking"
+            }
+          ]
+        },
+        "bgColor": "white",
+        "hasCardBackground": true,
+        "isChild": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "quickActionCard": [
+          {
+            "_key": "7bba5140e327",
+            "_type": "quickActionCard",
+            "description": "Apply and track leaves easily",
+            "title": "Leave Requests"
+          },
+          {
+            "_key": "7e67443f3768",
+            "_type": "quickActionCard",
+            "description": "View history and working hours",
+            "title": "Attendance Records"
+          },
+          {
+            "_key": "a488de7be442",
+            "_type": "quickActionCard",
+            "description": "Monitor extra hours and shifts",
+            "title": "Overtime Tracking"
           }
         ]
       }
