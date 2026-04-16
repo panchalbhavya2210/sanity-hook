@@ -5016,6 +5016,20 @@
     "title": "Managed Cloud Services"
   },
   {
+    "_createdAt": "2026-04-16T04:44:35Z",
+    "_id": "nach",
+    "_rev": "piiLNOj3u9Wq2zYwg4I4ii",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T04:44:35Z",
+    "sections": [],
+    "seo": {},
+    "slug": {
+      "_type": "slug",
+      "current": "nach"
+    },
+    "title": "Nach"
+  },
+  {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
     "_rev": "bKHpsvURqF4u6lEZfN5G42",
