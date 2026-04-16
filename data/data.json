@@ -10366,15 +10366,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "piiLNOj3u9Wq2zYwg4LgAW",
+    "_rev": "aeR9vTMsaQURTdDrE3mrPI",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "bKHpsvURqF4u6lEZfN5G42"
+        "rev": "piiLNOj3u9Wq2zYwg4LgAW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T08:42:13Z",
+    "_updatedAt": "2026-04-16T11:20:36Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -10959,7 +10959,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "omnichannel-banking"
+      "current": "products/omnichannel-banking"
     },
     "title": "Omnichannel Banking"
   },
@@ -11457,15 +11457,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "bKHpsvURqF4u6lEZfN89B9",
+    "_rev": "piiLNOj3u9Wq2zYwg4QrCm",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "GWOVDfiedfaJZayS3VzjrT"
+        "rev": "bKHpsvURqF4u6lEZfN89B9"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T09:04:48Z",
+    "_updatedAt": "2026-04-16T11:20:26Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -12065,7 +12065,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "tab-banking-solutions-mobipro"
+      "current": "products/tab-banking-solutions-mobipro"
     },
     "title": "Tab Banking Solutions Mobipro"
   }
