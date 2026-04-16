@@ -8023,9 +8023,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "aeR9vTMsaQURTdDrE3hGuI",
+    "_rev": "7JFZabLQagH5TO1qrtHwzg",
+    "_system": {
+      "base": {
+        "id": "mt-to-mx-conversion",
+        "rev": "aeR9vTMsaQURTdDrE3hGuI"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T04:47:07Z",
+    "_updatedAt": "2026-04-16T05:04:40Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -8067,6 +8073,7 @@
             "title": "Learning Curve"
           }
         ],
+        "headerSubtitle": "The Solution",
         "id": "coreInfo",
         "isTextBlack": true,
         "titleParts": [
@@ -8097,9 +8104,15 @@
         "_type": "imageSectionSingle",
         "id": "imageSection",
         "imageAlt": "Graph",
-        "imageHeight": "",
-        "imageSource": null,
-        "imageWidth": "",
+        "imageHeight": 597,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-708ddbd34345d687e8792ac99e3244416af4def9-2880x1194-webp",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 1280,
         "isImageFullWidth": true
       },
       {
@@ -8211,9 +8224,15 @@
         "_type": "imageSectionSingle",
         "id": "imageSection",
         "imageAlt": "Iso 20022 Messaging system graph",
-        "imageHeight": "",
-        "imageSource": null,
-        "imageWidth": "",
+        "imageHeight": 697,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-383671d2f16fa57f00b8514c5aa7a61532ef6f85-2880x1394-webp",
+            "_type": "reference"
+          }
+        },
+        "imageWidth": 1280,
         "isImageFullWidth": true
       },
       {
@@ -8451,14 +8470,13 @@
         "id": "platformCapabilities",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
           "subTitle": "Value Proposition",
           "text": {
             "title": [
               {
                 "_key": "kp3zgiugyw",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Your Financial Message Intelligence Platform"
               }
             ],
             "variant": "h1"
