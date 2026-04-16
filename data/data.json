@@ -610,6 +610,147 @@
     ]
   },
   {
+    "_createdAt": "2026-04-16T07:00:26Z",
+    "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
+    "_rev": "aeR9vTMsaQURTdDrE3iCEi",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-16T07:05:35Z",
+    "sections": [
+      {
+        "_key": "a3118774a5a3",
+        "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "cta": {
+          "_type": "ctaButton",
+          "variant": "primary"
+        },
+        "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-912a3a562d7bfce62025f27264d850eadc263832-1614x1320-webp",
+            "_type": "reference"
+          }
+        },
+        "subtitle": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
+        "title": "Empower Your Workforce with ESS",
+        "variant": "split"
+      },
+      {
+        "_key": "b97a810becd4",
+        "_type": "coreInfoSection",
+        "cta": {
+          "isButtonVisible": true
+        },
+        "features": [
+          {
+            "_key": "5fef198fb822",
+            "_type": "featureCard",
+            "description": "All employee services in one platform",
+            "hasList": false,
+            "title": "Centralized  Access"
+          },
+          {
+            "_key": "8ccac54087e4",
+            "_type": "featureCard",
+            "description": "Reduce dependency on HR teams",
+            "hasList": false,
+            "title": "Self-Service Experience"
+          },
+          {
+            "_key": "0e4a4bf459f7",
+            "_type": "featureCard",
+            "description": "Built with strong privacy controls\n",
+            "hasList": false,
+            "title": "Secure &  Compliant"
+          },
+          {
+            "_key": "746179eee968",
+            "_type": "featureCard",
+            "description": "Faster processes and reduced delays",
+            "hasList": false,
+            "title": "Improved  Efficiency"
+          }
+        ],
+        "isTextBlack": true,
+        "subTitleText": "Streamline HR operations and empower employees with self-service tools for daily tasks, communication, and productivity.",
+        "titleParts": [
+          {
+            "_key": "ad769aee1f41",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Everything "
+          },
+          {
+            "_key": "56b6905cd544",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Employees "
+          },
+          {
+            "_key": "b44f397611cf",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Need,  In One "
+          },
+          {
+            "_key": "13e486fa811a",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Place"
+          }
+        ]
+      },
+      {
+        "_key": "f60012e8d298",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "subTitle": "Employees can securely access and update their personal and professional details anytime.",
+          "text": {
+            "title": [
+              {
+                "_key": "defd4b8451f9",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Manage Personal Information "
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "hasPadding": true,
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "02b330261fcb",
+            "_type": "mediaCard",
+            "description": "Update contact and personal details",
+            "title": "Profile Management"
+          },
+          {
+            "_key": "426c8bda0e7e",
+            "_type": "mediaCard",
+            "description": "Manage family and emergency contacts",
+            "title": "Dependent Information"
+          },
+          {
+            "_key": "6ef625f67f7b",
+            "_type": "mediaCard",
+            "description": "Instant data sync across systems",
+            "title": "Real-Time Updates"
+          }
+        ]
+      }
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "employee-self-service"
+    },
+    "title": "Employee Self Service"
+  },
+  {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
     "_rev": "piiLNOj3u9Wq2zYwg4IFPI",
