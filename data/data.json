@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "7JFZabLQagH5TO1qrtScSA",
+    "_rev": "piiLNOj3u9Wq2zYwg4Kyxg",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "piiLNOj3u9Wq2zYwg4KegS"
+        "rev": "7JFZabLQagH5TO1qrtScSA"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T08:11:33Z",
+    "_updatedAt": "2026-04-16T08:12:19Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -859,7 +859,27 @@
         "hasPadding": true,
         "isBgBlue": false,
         "isTextBlack": true,
-        "isTextWhite": false
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "76900a994a40",
+            "_type": "mediaCard",
+            "description": "Apply and track leaves easily",
+            "title": "Leave Requests"
+          },
+          {
+            "_key": "a2884934a332",
+            "_type": "mediaCard",
+            "description": "View history and working hours",
+            "title": "Attendance Records"
+          },
+          {
+            "_key": "a53140f11df2",
+            "_type": "mediaCard",
+            "description": "Monitor extra hours and shifts",
+            "title": "Overtime Tracking"
+          }
+        ]
       }
     ],
     "slug": {
