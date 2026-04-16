@@ -5467,15 +5467,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "piiLNOj3u9Wq2zYwg4IQZE",
+    "_rev": "aeR9vTMsaQURTdDrE3jTGg",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "aeR9vTMsaQURTdDrE3hSex"
+        "rev": "piiLNOj3u9Wq2zYwg4IQZE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:41:09Z",
+    "_updatedAt": "2026-04-16T08:30:25Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -5553,7 +5553,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "EasyRecon connects all transaction sources into a single platform, enabling seamless and automated reconciliation.",
           "subTitleClassName": "",
           "text": {
