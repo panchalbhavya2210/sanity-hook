@@ -7374,15 +7374,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "aeR9vTMsaQURTdDrE3hILi",
+    "_rev": "7JFZabLQagH5TO1qrtp7nD",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "7JFZabLQagH5TO1qrtHfWs"
+        "rev": "aeR9vTMsaQURTdDrE3hILi"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:00:00Z",
+    "_updatedAt": "2026-04-16T11:16:54Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -7843,7 +7843,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "formula-genie"
+      "current": "xcelerator/plugins/formula-genie"
     },
     "title": "Formula Genie"
   },
@@ -9425,15 +9425,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "7JFZabLQagH5TO1qrtHwzg",
+    "_rev": "aeR9vTMsaQURTdDrE3mm7Q",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "aeR9vTMsaQURTdDrE3hGuI"
+        "rev": "7JFZabLQagH5TO1qrtHwzg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:04:40Z",
+    "_updatedAt": "2026-04-16T11:16:46Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -9938,7 +9938,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "mt-to-mx-conversion"
+      "current": "xcelerator/plugins/mt-to-mx-conversion"
     },
     "title": "Mt To Mx Conversion"
   },
