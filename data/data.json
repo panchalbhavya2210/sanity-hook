@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-16T07:00:26Z",
     "_id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-    "_rev": "aeR9vTMsaQURTdDrE3iLKu",
+    "_rev": "7JFZabLQagH5TO1qrtPCzm",
     "_system": {
       "base": {
         "id": "946743e5-5c75-458f-90c3-dcb7fe39ca61",
-        "rev": "7JFZabLQagH5TO1qrtNyEc"
+        "rev": "aeR9vTMsaQURTdDrE3iLKu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T07:21:08Z",
+    "_updatedAt": "2026-04-16T07:36:58Z",
     "sections": [
       {
         "_key": "a3118774a5a3",
@@ -749,6 +749,54 @@
             "description": "Instant data sync across systems",
             "isReversed": true,
             "title": "Real-Time Updates"
+          }
+        ]
+      },
+      {
+        "_key": "e75600220dcc",
+        "_type": "sectionHeaderSection",
+        "icon": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31-svg",
+            "_type": "reference"
+          }
+        },
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": true,
+        "isTitleOnly": true,
+        "subTitleText": "Enable employees to stay aligned with goals and performance expectations",
+        "titleParts": [
+          {
+            "_key": "602a5c4d17de",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Simplify "
+          },
+          {
+            "_key": "45a3551e541e",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Leave "
+          },
+          {
+            "_key": "11c274ef5c2e",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "and "
+          },
+          {
+            "_key": "b7aa56c1b89f",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Attendance "
+          },
+          {
+            "_key": "37a2d2d6baee",
+            "_type": "titlePart",
+            "color": "text-success",
+            "text": "Tracking"
           }
         ]
       },
