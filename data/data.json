@@ -6274,15 +6274,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "7JFZabLQagH5TO1qrtaqH2",
+    "_rev": "aeR9vTMsaQURTdDrE3mkco",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "piiLNOj3u9Wq2zYwg4MyOu"
+        "rev": "piiLNOj3u9Wq2zYwg4Qh24"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:33:57Z",
+    "_updatedAt": "2026-04-16T11:16:04Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -6874,7 +6874,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "employee-self-service"
+      "current": "products/hrms/employee-self-service"
     },
     "title": "Employee Self Service"
   },
