@@ -7215,15 +7215,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "aeR9vTMsaQURTdDrE3hUmx",
+    "_rev": "piiLNOj3u9Wq2zYwg4ITm0",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "iezjcqj9vs7hR9drroaZAW"
+        "rev": "aeR9vTMsaQURTdDrE3hUmx"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:45:35Z",
+    "_updatedAt": "2026-04-16T05:48:14Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -7511,7 +7511,27 @@
         "id": "sectionheader1",
         "isBgBlue": false,
         "isTextBlack": true,
-        "subTitleText": "Why work with five vendors when one platform can do it all?"
+        "subTitleText": "Why work with five vendors when one platform can do it all?",
+        "titleParts": [
+          {
+            "_key": "aecc0284d860",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "The "
+          },
+          {
+            "_key": "d8de79cc5f51",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": " Bankai "
+          },
+          {
+            "_key": "6bc86e1c5a6b",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Difference"
+          }
+        ]
       },
       {
         "_key": "geke0p97e6",
