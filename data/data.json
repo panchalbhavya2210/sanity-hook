@@ -5652,19 +5652,20 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "piiLNOj3u9Wq2zYwg4MyOu",
+    "_rev": "7JFZabLQagH5TO1qrtaqH2",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "aeR9vTMsaQURTdDrE3kMD8"
+        "rev": "piiLNOj3u9Wq2zYwg4MyOu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T09:31:55Z",
+    "_updatedAt": "2026-04-16T09:33:57Z",
     "sections": [
       {
         "_key": "darum29qp6",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
