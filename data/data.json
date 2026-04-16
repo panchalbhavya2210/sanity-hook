@@ -4542,15 +4542,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "aeR9vTMsaQURTdDrE3hTlc",
+    "_rev": "piiLNOj3u9Wq2zYwg4Qnfs",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "aeR9vTMsaQURTdDrE3hQds"
+        "rev": "aeR9vTMsaQURTdDrE3hTlc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:42:00Z",
+    "_updatedAt": "2026-04-16T11:18:28Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -5143,7 +5143,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "easy-cts"
+      "current": "xcelerators/others/easy-cts"
     },
     "title": "Easy Cts"
   },
@@ -5772,15 +5772,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "aeR9vTMsaQURTdDrE3jTGg",
+    "_rev": "piiLNOj3u9Wq2zYwg4QnyK",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "piiLNOj3u9Wq2zYwg4IQZE"
+        "rev": "aeR9vTMsaQURTdDrE3jTGg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T08:30:25Z",
+    "_updatedAt": "2026-04-16T11:18:34Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -6266,7 +6266,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "easy-recon"
+      "current": "xcelerators/others/easy-recon"
     },
     "title": "Easy Recon"
   },
