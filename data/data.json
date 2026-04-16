@@ -7678,15 +7678,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "7JFZabLQagH5TO1qrtJxoB",
+    "_rev": "piiLNOj3u9Wq2zYwg4IhNk",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "bKHpsvURqF4u6lEZfNHQnz"
+        "rev": "7JFZabLQagH5TO1qrtJxoB"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:08:03Z",
+    "_updatedAt": "2026-04-16T06:13:30Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -8020,7 +8020,7 @@
         "isBgBlue": false,
         "isTextBlack": true,
         "subTitleText": "Our 21-point managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
-        "text": "-"
+        "text": "End-to-End Managed Services @ OCI"
       },
       {
         "_key": "dodbo8s7w6",
