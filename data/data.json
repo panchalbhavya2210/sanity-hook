@@ -5151,25 +5151,34 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "aeR9vTMsaQURTdDrE3l54i",
+    "_rev": "piiLNOj3u9Wq2zYwg4O48K",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "7JFZabLQagH5TO1qrtdpXD"
+        "rev": "aeR9vTMsaQURTdDrE3l54i"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T10:08:34Z",
+    "_updatedAt": "2026-04-16T10:14:38Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-20f0f0a27be04ada4e03bf6369591b7419766dce-1424x1344-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
-        "title": "HR & Payroll, Simplified"
+        "title": "HR & Payroll, Simplified",
+        "variant": "split"
       },
       {
         "_key": "12n1ozxyz8",
