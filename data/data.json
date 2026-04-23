@@ -612,9 +612,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ZcJhm7Cr2zfVlbDl922vPw",
+    "_rev": "ZcJhm7Cr2zfVlbDl923fHn",
+    "_system": {
+      "base": {
+        "id": "api-hub",
+        "rev": "ZcJhm7Cr2zfVlbDl922vPw"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-23T09:47:12Z",
+    "_updatedAt": "2026-04-23T10:00:49Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -998,7 +1004,7 @@
             "titleParts": [
               {
                 "_key": "nssywh83rv",
-                "color": "text-brand-600",
+                "color": "text-black",
                 "text": "Dynamic Version Management"
               }
             ]
@@ -1011,7 +1017,7 @@
             "titleParts": [
               {
                 "_key": "vthqwki8i8",
-                "color": "text-brand-600",
+                "color": "text-black",
                 "text": "Graceful Retiremen"
               }
             ]
@@ -1024,7 +1030,7 @@
             "titleParts": [
               {
                 "_key": "1u668rosn2",
-                "color": "text-brand-600",
+                "color": "text-black",
                 "text": "Human Touch"
               }
             ]
@@ -1034,14 +1040,13 @@
         "id": "platformCapabilities1",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
           "subTitle": "API Lifecycle Management: Manage APIs from creation to retirement with full control.",
           "text": {
             "title": [
               {
                 "_key": "vrbwelnamg",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Build. Grow. Evolve."
               }
             ],
             "variant": "h1"
@@ -1077,11 +1082,105 @@
             "text": "Partner"
           }
         ]
+      },
+      {
+        "_key": "54fcd1fa620c",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "The Future of API Management",
+          "subTitleClassName": "Monitoring & Analytics",
+          "text": {
+            "title": [
+              {
+                "_key": "065e369fb312",
+                "color": "",
+                "text": "Real-Time Insights, Total Control"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "c488c8a1ccb5",
+            "description": "Track response times, error rates, latency, and throughput—all visualized for quick decision-making.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Performance Dashboard"
+          },
+          {
+            "_key": "b602573c2d98",
+            "description": "Dig into traffic patterns, user behavior, and request volumes. Discover trends, optimize resources, and spot opportunities for growth.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Advanced Usage Analytic"
+          },
+          {
+            "_key": "3ed0efd27b5e",
+            "description": "Set custom thresholds and get instant alerts—keeping your team proactive and minimizing downtime.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Alerts & Notifications"
+          },
+          {
+            "_key": "afe6b397e4d0",
+            "description": "Search and analyze API logs for deep diagnostics, easy troubleshooting, and accountability.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Comprehensive Logging"
+          }
+        ]
+      },
+      {
+        "_key": "2317b3ce5b40",
+        "_type": "productListSection",
+        "cards": [
+          {
+            "_key": "4064ce9e7cbc",
+            "_type": "productListCard",
+            "buttonTitle": "Start Free Trial",
+            "description": "Ideal for small teams and new projects. Access core features with generous usage limits at an entry-level price.",
+            "title": "Starter"
+          },
+          {
+            "_key": "f5b04b477ef8",
+            "_type": "productListCard",
+            "buttonTitle": "Choose",
+            "description": "Upgrade for advanced analytics, premium support, higher usage, and custom integration options. ",
+            "title": "Pro"
+          },
+          {
+            "_key": "9682141d8ffe",
+            "_type": "productListCard",
+            "buttonTitle": "Contact Sales",
+            "description": "Unlock unlimited potential with dedicated account management, custom solutions, and enterprise-grade reliability. ",
+            "title": "Enterprise"
+          }
+        ],
+        "headerSubTitleText": "Choose the perfect plan for your needs with flexible pricing designed to scale with your business.",
+        "id": "productList",
+        "titleParts": [
+          {
+            "_key": "82a13cced6eb",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Flexible Plans for Every Stage"
+          }
+        ]
       }
     ],
     "seo": {
       "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
-      "image": null,
       "keywords": [
         "core modernization",
         "legacy core banking",
