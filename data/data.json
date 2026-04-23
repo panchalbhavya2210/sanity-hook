@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ZcJhm7Cr2zfVlbDl923fHn",
+    "_rev": "ZcJhm7Cr2zfVlbDl923v4c",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZcJhm7Cr2zfVlbDl922vPw"
+        "rev": "ZcJhm7Cr2zfVlbDl923fHn"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-23T10:00:49Z",
+    "_updatedAt": "2026-04-23T10:04:40Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1054,36 +1054,6 @@
         }
       },
       {
-        "_key": "1q6ve3uios",
-        "_type": "contactCtaSection",
-        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
-        "id": "articles",
-        "isTextBlack": true,
-        "subText": "From startups to enterprises, Bankai helps you unlock the true potential of your workforce with the right talent and the right approach.",
-        "titleParts": [
-          {
-            "_key": "y8pmcn30bh",
-            "color": "text-brand-600",
-            "text": "Your "
-          },
-          {
-            "_key": "gpzlhnscyn",
-            "color": "text-warning",
-            "text": "Strategic "
-          },
-          {
-            "_key": "1xccgt4se4",
-            "color": "text-brand-600",
-            "text": "Hiring "
-          },
-          {
-            "_key": "f8dhzrbeeg",
-            "color": "text-warning",
-            "text": "Partner"
-          }
-        ]
-      },
-      {
         "_key": "54fcd1fa620c",
         "_type": "articlesSection",
         "articleSectionHeader": {
@@ -1138,6 +1108,36 @@
             "image": null,
             "imageAlt": "",
             "title": "Comprehensive Logging"
+          }
+        ]
+      },
+      {
+        "_key": "1q6ve3uios",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "From startups to enterprises, Bankai helps you unlock the true potential of your workforce with the right talent and the right approach.",
+        "titleParts": [
+          {
+            "_key": "y8pmcn30bh",
+            "color": "text-brand-600",
+            "text": "Your "
+          },
+          {
+            "_key": "gpzlhnscyn",
+            "color": "text-warning",
+            "text": "Strategic "
+          },
+          {
+            "_key": "1xccgt4se4",
+            "color": "text-brand-600",
+            "text": "Hiring "
+          },
+          {
+            "_key": "f8dhzrbeeg",
+            "color": "text-warning",
+            "text": "Partner"
           }
         ]
       },
