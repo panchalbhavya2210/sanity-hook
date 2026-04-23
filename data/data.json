@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ZcJhm7Cr2zfVlbDl9253nM",
+    "_rev": "zQBhq3UsEZ740ykqkGbh7s",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZcJhm7Cr2zfVlbDl923v4c"
+        "rev": "ZcJhm7Cr2zfVlbDl9253nM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-23T10:23:51Z",
+    "_updatedAt": "2026-04-23T10:31:09Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1145,6 +1145,49 @@
             "_type": "titlePart",
             "color": "text-black",
             "text": "Flexible Plans for Every Stage"
+          }
+        ]
+      },
+      {
+        "_key": "af8b525ab287",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "subTitleText": "• Transparent pricing—no hidden fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
+          "text": {
+            "title": [
+              {
+                "_key": "70a4951fe60f",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Subscription Options"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "hasCardBackground": true,
+        "isChild": false,
+        "isTextBlack": true,
+        "isTextWhite": false,
+        "quickActionCard": [
+          {
+            "_key": "defff46d0a45",
+            "_type": "quickActionCard",
+            "description": "Predictable, all-in-one pricing for peace of mind and easy budgeting.\n",
+            "title": "Monthly Subscription"
+          },
+          {
+            "_key": "775d14394d99",
+            "_type": "quickActionCard",
+            "description": "Pay only for what you use—perfect for unpredictable traffic or seasonal scaling.\n",
+            "title": "Usage-Based Pricing"
+          },
+          {
+            "_key": "c225c6c10ad3",
+            "_type": "quickActionCard",
+            "description": "Experience our platform risk-free before you commit. Try out full features with no upfront cost.",
+            "title": "Free Trial"
           }
         ]
       },
