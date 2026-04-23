@@ -610,6 +610,496 @@
     ]
   },
   {
+    "_createdAt": "2026-04-23T09:47:12Z",
+    "_id": "api-hub",
+    "_rev": "ZcJhm7Cr2zfVlbDl922vPw",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-23T09:47:12Z",
+    "sections": [
+      {
+        "_key": "ckrq94qswb",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
+        "title": "Empowering Seamless API Connectivity"
+      },
+      {
+        "_key": "ma6fxen0wt",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "nl3tzdm42n",
+            "description": "All APIs in one place",
+            "icon": null,
+            "title": "Centralized Access"
+          },
+          {
+            "_key": "h4o113itwe",
+            "description": "Start integration in minutes",
+            "icon": null,
+            "title": "Fast Onboarding"
+          },
+          {
+            "_key": "sa6zxwrx5t",
+            "description": "Built with strong monitoring",
+            "icon": null,
+            "title": "Secure by Design"
+          },
+          {
+            "_key": "lpmaqy8o7a",
+            "description": " Grows with your business",
+            "icon": null,
+            "title": "Scalable Infra"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "3gt0jgvymn",
+            "color": "text-black",
+            "text": "One "
+          },
+          {
+            "_key": "q4k5mxe6pz",
+            "color": "text-brand-600",
+            "text": "Platform. "
+          },
+          {
+            "_key": "9wbn88cjtr",
+            "color": "text-black",
+            "text": "Endless "
+          },
+          {
+            "_key": "z08sc8z0r4",
+            "color": "text-warning",
+            "text": "Possibilities"
+          }
+        ]
+      },
+      {
+        "_key": "8h4rkxzag9",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "8ho9vulqqt",
+            "description": "Instant signup and access",
+            "icon": null,
+            "title": "Self-Service Onboarding"
+          },
+          {
+            "_key": "hs3pej1dda",
+            "description": "Secure access control",
+            "icon": null,
+            "title": "API Key Management"
+          },
+          {
+            "_key": "qkf3mhlzeg",
+            "description": "Track performance & usage",
+            "icon": null,
+            "title": "Usage Analytics"
+          },
+          {
+            "_key": "b1yhm6a7qg",
+            "description": "Test APIs in real-time",
+            "icon": null,
+            "title": "API Explorer"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Everything you need to integrate, test, and scale APIs effortlessly.",
+          "text": {
+            "title": [
+              {
+                "_key": "zq12tl5y2v",
+                "color": "text-white",
+                "text": "For Developers: Build Without Limits"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "03c8cis51o",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Well-structured documentation designed for speed and clarity.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "zroa89mjmf",
+                "color": "",
+                "text": "Clear Docs. Faster Integration"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "5a776wzjdq",
+            "description": "Test endpoints instantly",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Interactive Explorer"
+          },
+          {
+            "_key": "7wa7x9dzbr",
+            "description": "Clear inputs and outputs",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Detailed Endpoints"
+          },
+          {
+            "_key": "5tux74lwtr",
+            "description": "Ready-to-use snippets",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Code Samples"
+          },
+          {
+            "_key": "hwrqkcnzud",
+            "description": "Track updates easily",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Versioning"
+          }
+        ]
+      },
+      {
+        "_key": "qj3ndzo8f4",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Partner Integrations",
+          "text": {
+            "title": [
+              {
+                "_key": "s8w0qnjdxl",
+                "color": "text-brand-600",
+                "text": "Expand "
+              },
+              {
+                "_key": "1vku4lnw2m",
+                "color": "",
+                "text": "Your "
+              },
+              {
+                "_key": "aaejjfpncj",
+                "color": "text-success",
+                "text": "Ecosystem "
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "5cxlhqtf2n",
+            "description": "Reach new audiences",
+            "title": "Market Expansion"
+          },
+          {
+            "_key": "iry6myw7rm",
+            "description": "Build joint solutions",
+            "title": "Collaboration"
+          },
+          {
+            "_key": "9lijtwc0td",
+            "description": "Reliable integrations",
+            "title": "Verified APIs"
+          },
+          {
+            "_key": "jgsp8fw9s6",
+            "description": "Join ecosystem",
+            "title": "Become a Partner"
+          }
+        ]
+      },
+      {
+        "_key": "j08xmkjg7d",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "The Future of API Management",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "uiqn5gjh5i",
+                "color": "",
+                "text": "What Sets API Hub Apart"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "s1qxp3vs1x",
+            "description": "All tools in one place",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Unified Platform"
+          },
+          {
+            "_key": "9worg6lbbv",
+            "description": "Built for speed & ease",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Developer First"
+          },
+          {
+            "_key": "cgbphzlf06",
+            "description": "End-to-end API journey",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Lifecycle Automation"
+          },
+          {
+            "_key": "kzf5q9m3nv",
+            "description": "Real-time insights",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Monitoring"
+          }
+        ]
+      },
+      {
+        "_key": "dlbm1hbedq",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Explore and validate APIs in a safe sandbox environment.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "0skx8tf8ds",
+                "color": "",
+                "text": "Test Without Limits"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles11",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "bzvmxdnx79",
+            "description": "Same as production",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Full Functionality"
+          },
+          {
+            "_key": "erpl9forud",
+            "description": "Simulate real use cases",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Testing"
+          },
+          {
+            "_key": "4uul7g06l8",
+            "description": "Switch to production fast",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Easy Deployment"
+          }
+        ]
+      },
+      {
+        "_key": "x78latd0fi",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "yjdegsoab9",
+            "description": "Launch new APIs in minutes with intuitive onboarding, smart templates, and instant validation—get to market faster than ever.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "r0s6vza6r9",
+                "color": "",
+                "text": "Effortless Creation"
+              }
+            ]
+          },
+          {
+            "_key": "tt8x5i153g",
+            "description": "Control every detail with granular permissions, automated compliance checks, and built-in security policies. Stay audit-ready with detailed activity logs and documentation.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "pclea60r41",
+                "color": "",
+                "text": "Smart Governance"
+              }
+            ]
+          },
+          {
+            "_key": "ut77y4mnev",
+            "description": "Leverage real-time analytics, instant feedback, and collaborative tools to optimize your APIs, squash bugs, and add features—all without disrupting your consumers.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "589dyqet9j",
+                "color": "text-black",
+                "text": "Continuous Improvement "
+              }
+            ]
+          },
+          {
+            "_key": "mz9xzjdv91",
+            "description": "Seamlessly support multiple API versions, sunset outdated endpoints, and communicate changes to users clearly—keeping integrations robust and reliable.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "nssywh83rv",
+                "color": "text-brand-600",
+                "text": "Dynamic Version Management"
+              }
+            ]
+          },
+          {
+            "_key": "ig5t7x0ol1",
+            "description": "Wind down APIs with scheduled deprecation, migration guidance, and transparent communication—ensuring a smooth transition for all consumers.",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "vthqwki8i8",
+                "color": "text-brand-600",
+                "text": "Graceful Retiremen"
+              }
+            ]
+          },
+          {
+            "_key": "8uctdgpqbu",
+            "description": "Access expert support, best practice guides, and proactive lifecycle recommendations to maximize your platform’s impact.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "1u668rosn2",
+                "color": "text-brand-600",
+                "text": "Human Touch"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "API Lifecycle Management: Manage APIs from creation to retirement with full control.",
+          "text": {
+            "title": [
+              {
+                "_key": "vrbwelnamg",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "1q6ve3uios",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "From startups to enterprises, Bankai helps you unlock the true potential of your workforce with the right talent and the right approach.",
+        "titleParts": [
+          {
+            "_key": "y8pmcn30bh",
+            "color": "text-brand-600",
+            "text": "Your "
+          },
+          {
+            "_key": "gpzlhnscyn",
+            "color": "text-warning",
+            "text": "Strategic "
+          },
+          {
+            "_key": "1xccgt4se4",
+            "color": "text-brand-600",
+            "text": "Hiring "
+          },
+          {
+            "_key": "f8dhzrbeeg",
+            "color": "text-warning",
+            "text": "Partner"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "api-hub"
+    },
+    "title": "Api Hub"
+  },
+  {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
     "_rev": "piiLNOj3u9Wq2zYwg4IFPI",
