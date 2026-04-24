@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "zQBhq3UsEZ740ykqkGbh7s",
+    "_rev": "ZcJhm7Cr2zfVlbDl948Ryt",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZcJhm7Cr2zfVlbDl9253nM"
+        "rev": "zQBhq3UsEZ740ykqkGbh7s"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-23T10:31:09Z",
+    "_updatedAt": "2026-04-24T10:01:48Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -961,7 +961,13 @@
             "description": "Launch new APIs in minutes with intuitive onboarding, smart templates, and instant validation—get to market faster than ever.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dfb076c2da687c69aced69038ffb1d75e8f35be2-2879x1380-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "r0s6vza6r9",
