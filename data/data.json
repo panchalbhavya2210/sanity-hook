@@ -10997,15 +10997,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "aeR9vTMsaQURTdDrE3mrPI",
+    "_rev": "zQBhq3UsEZ740ykqkLJ3Hm",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "piiLNOj3u9Wq2zYwg4LgAW"
+        "rev": "aeR9vTMsaQURTdDrE3mrPI"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:20:36Z",
+    "_updatedAt": "2026-04-24T07:48:03Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -11394,7 +11394,7 @@
               {
                 "_key": "0cc815870281",
                 "_type": "titlePart",
-                "color": "text-black",
+                "color": "text-white",
                 "text": "Smart Banking in Your Customer’s Pocket"
               }
             ]
@@ -11403,6 +11403,7 @@
         "hasPadding": true,
         "id": "articles3",
         "isBgBlue": true,
+        "isTextBlack": false,
         "isTextWhite": true,
         "mediaInfoCardData": [
           {
@@ -11575,7 +11576,6 @@
     ],
     "seo": {
       "description": "Deliver seamless digital banking across mobile, kiosk, internet, and super app channels with BankAI’s omnichannel banking platform.",
-      "image": null,
       "keywords": [
         "omnichannel banking",
         "mobile banking",
