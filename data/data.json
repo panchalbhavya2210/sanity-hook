@@ -3445,6 +3445,535 @@
     "title": "Core Modernization"
   },
   {
+    "_createdAt": "2026-04-28T07:01:58Z",
+    "_id": "credit-underwriting",
+    "_rev": "zQBhq3UsEZ740ykqkTv2JI",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-28T07:01:58Z",
+    "sections": [
+      {
+        "_key": "4payty2m2v",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
+        "title": "AI-Powered Credit Underwriting"
+      },
+      {
+        "_key": "ddcdbqi5th",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Manual processes, limited data usage, and inconsistent decision-making slow down approvals and increase risk.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "b0h06l8w39",
+                "color": "",
+                "text": "Why Traditional Underwriting Falls Short"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "41p6l0goxr",
+            "description": "Underwriters spend significant time collecting and verifying borrower data, delaying approvals and onboarding.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Manual & Time-Consuming"
+          },
+          {
+            "_key": "82xpr5v39v",
+            "description": "Different teams make different decisions, leading to inconsistency in risk evaluation across branches.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Subjective Decisions"
+          },
+          {
+            "_key": "fvm8tekvgu",
+            "description": "Traditional systems rely only on historical scores, ignoring real-time financial behavior and alternative data.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Limited Data Usage"
+          },
+          {
+            "_key": "rbq11meog5",
+            "description": "Long review cycles frustrate customers and cause banks to lose potential borrowers.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Delayed Decisions"
+          },
+          {
+            "_key": "jdpqwzup4x",
+            "description": "Manual verification increases cost and reduces efficiency across lending operations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Operational Costs"
+          },
+          {
+            "_key": "2v6fakrimx",
+            "description": "Non-standardized processes make auditing and regulatory tracking difficult.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Compliance Challenges"
+          }
+        ]
+      },
+      {
+        "_key": "ocumu4xwks",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "l6zl71770m",
+            "description": "Batch-based workflows delay approvals and increase turnaround time.",
+            "icon": null,
+            "title": "Slow Processing Cycles"
+          },
+          {
+            "_key": "ac4rbdvrgg",
+            "description": "Multiple systems fail to provide a unified borrower view.",
+            "icon": null,
+            "title": "Disconnected Data Sources"
+          },
+          {
+            "_key": "6oxvs10r0q",
+            "description": "Lack of AI leads to reactive, not proactive, risk assessment.",
+            "icon": null,
+            "title": "No Predictive Intelligence"
+          },
+          {
+            "_key": "3oojn3qf7b",
+            "description": "Outdated scoring models fail to adapt to changing borrower behavior.",
+            "icon": null,
+            "title": "Static Risk Models"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Traditional systems lack speed, intelligence, and adaptability needed for modern lending.",
+          "text": {
+            "title": [
+              {
+                "_key": "2sazxi3iuc",
+                "color": "text-white",
+                "text": "System Gaps: Where Legacy Underwriting Breaks"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "wnt17hgqh4",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "AI-powered underwriting automates credit evaluation using real-time data, predictive analytics, and intelligent decisioning.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "casrd63jyc",
+                "color": "",
+                "text": "Shift to AI Underwriting - From Manual Reviews to AI Precision"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "jvh1gtcqv0",
+            "description": "Advanced models evaluate borrower risk using multiple data points instantly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "AI-Based Risk Analysis"
+          },
+          {
+            "_key": "y5meelmvai",
+            "description": "Approve loans in seconds instead of weeks.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Decisioning"
+          },
+          {
+            "_key": "1yksurwgq6",
+            "description": "Automates the entire journey from application to approval.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "End-to-End Automation"
+          },
+          {
+            "_key": "kw5tqnfhrp",
+            "description": "Uses financial, behavioral, and transactional data for deeper insights.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Data-Driven Decisions"
+          }
+        ]
+      },
+      {
+        "_key": "mdkk0xzl7j",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "br9usdg8cs",
+            "description": "Gather borrower data from credit bureaus, bank APIs, income sources, and digital transactions.",
+            "icon": null,
+            "title": "Data Collection"
+          },
+          {
+            "_key": "q8q0sd2vr3",
+            "description": "Analyze patterns and correlations to generate credit insights.",
+            "icon": null,
+            "title": "Data Processing"
+          },
+          {
+            "_key": "ceptx1xxx3",
+            "description": "Evaluate creditworthiness using AI-driven scoring models.",
+            "icon": null,
+            "title": "Credit Analysis"
+          },
+          {
+            "_key": "a174awaf0i",
+            "description": "Approve or reject applications based on predictive analytics.",
+            "icon": null,
+            "title": "Decision Engine"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "n9bizc5wyy",
+            "color": "text-black",
+            "text": "How It Works: Automated Credit Decisioning Flow"
+          }
+        ]
+      },
+      {
+        "_key": "pk3zhm590y",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Key Features. AI-powered capabilities designed to improve speed, accuracy, and scalability.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "aoy1q35x9y",
+                "color": "",
+                "text": "Built for Intelligent Lending"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles4",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "rw3vzdtvp9",
+            "description": "Process applications in seconds using real-time ML evaluation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Lightning-Fast Decisions"
+          },
+          {
+            "_key": "c8pbymqed1",
+            "description": "Analyze income, spending, and repayment patterns to predict risk more accurately.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smarter Risk Prediction"
+          },
+          {
+            "_key": "bbmgzjlzv8",
+            "description": "Eliminate human bias with standardized AI-driven logic.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fair & Consistent Decisions"
+          },
+          {
+            "_key": "tspql0p1u9",
+            "description": "Track every decision with detailed logs for compliance and audits. Enable smarter loan pricing and improve portfolio performance.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Full Audit Transparency & Profit Optimization "
+          }
+        ]
+      },
+      {
+        "_key": "wdkwiz1kob",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "jxz2glfy1c",
+            "description": "Reduce approval time from weeks to seconds.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "c2t9uuo4eu",
+                "color": "text-brand-600",
+                "text": "Instant Decisioning"
+              }
+            ]
+          },
+          {
+            "_key": "6a48jyy17t",
+            "description": "Minimize defaults with AI-powered risk models.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "zehi2ksjc7",
+                "color": "text-black",
+                "text": "Accurate "
+              },
+              {
+                "_key": "30nzer95o3",
+                "color": "text-warning",
+                "text": "Risk Scoring"
+              }
+            ]
+          },
+          {
+            "_key": "dvc2c38las",
+            "description": "Faster approvals increase satisfaction and trust.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "9si21bcj7b",
+                "color": "text-black",
+                "text": "Better "
+              },
+              {
+                "_key": "s0xxlzlkfq",
+                "color": "text-brand-600",
+                "text": "Customer "
+              },
+              {
+                "_key": "oijj9t9y5r",
+                "color": "text-black",
+                "text": "Experience "
+              }
+            ]
+          },
+          {
+            "_key": "cwqzjtd0t4",
+            "description": "Stay aligned with regulatory frameworks automatically. Handle thousands of applications without manual effort.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "kye7tuy89u",
+                "color": "text-brand-600",
+                "text": "Scalability & Compliance "
+              },
+              {
+                "_key": "izccznkdeo",
+                "color": "text-black",
+                "text": "Ready"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Benefits Section: Transform underwriting into a fast, scalable, and intelligent system.",
+          "text": {
+            "title": [
+              {
+                "_key": "j6r128ny12",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "6h3ed8qhww",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "wb444dkxoq",
+            "description": "Identify risks before they occur.",
+            "icon": null,
+            "title": "Predictive Intelligence"
+          },
+          {
+            "_key": "ynftpu7c4b",
+            "description": "Continuously evolve with market and borrower behavior.",
+            "icon": null,
+            "title": "Adaptive Models"
+          },
+          {
+            "_key": "j2php2iwij",
+            "description": "Test multiple borrower outcomes for better decisions.",
+            "icon": null,
+            "title": "Scenario Simulation"
+          },
+          {
+            "_key": "l3c8brhn25",
+            "description": "Stay aligned with changing regulations automatically.",
+            "icon": null,
+            "title": "Continuous Compliance"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Generative AI enables adaptive, predictive, and intelligent underwriting systems.",
+          "text": {
+            "title": [
+              {
+                "_key": "f987adrltf",
+                "color": "text-white",
+                "text": "Future-Proof Credit Decisions"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "lbl2mwe3tg",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Move from reactive to proactive lending with intelligent automation.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "2cxfv5oghi",
+                "color": "",
+                "text": "Why AI Underwriting Wins"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "ov6acfw4mr",
+            "description": "Identify high-risk applicants early and reduce defaults.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Risk Mitigation"
+          },
+          {
+            "_key": "3nalv1ol8k",
+            "description": "Ensure fair and transparent decisions for all applicants.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Responsible Lending"
+          },
+          {
+            "_key": "42uu7e44uf",
+            "description": "Standardize decisions across teams and branches.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Consistency"
+          },
+          {
+            "_key": "qujbrckags",
+            "description": "Automatically comply with evolving lending regulations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Regulatory"
+          }
+        ]
+      },
+      {
+        "_key": "bahcufegp2",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Reimagine credit underwriting with AI — faster decisions, smarter risk insights, and stronger profitability. Build a future-ready lending ecosystem powered by intelligence.",
+        "titleParts": [
+          {
+            "_key": "jgp5v3r0wq",
+            "color": "text-brand-600",
+            "text": "Transform Your Lending. Empower Your Growth."
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "credit-underwriting"
+    },
+    "title": "Credit Underwriting"
+  },
+  {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
     "_rev": "piiLNOj3u9Wq2zYwg4JBRM",
