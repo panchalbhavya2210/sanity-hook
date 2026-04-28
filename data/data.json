@@ -5793,15 +5793,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "WY20wT53hxKtTStZN8l1YC",
+    "_rev": "ZcJhm7Cr2zfVlbDl97MDqj",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "zQBhq3UsEZ740ykqkTmHQ7"
+        "rev": "WY20wT53hxKtTStZN8l1YC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T05:21:27Z",
+    "_updatedAt": "2026-04-28T05:24:36Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -5914,6 +5914,19 @@
         ]
       },
       {
+        "_key": "f670bd8e69d6",
+        "_type": "imageSection",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-632596e6044f63b942279d746d38e7a45453c4e1-1926x450-webp",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": true,
+        "isBgBlue": true
+      },
+      {
         "_key": "6gat05888m",
         "_type": "articlesSection",
         "articleSectionHeader": {
@@ -6000,7 +6013,7 @@
             "titleParts": [
               {
                 "_key": "dj1jgfmd84",
-                "color": "text-brand-600",
+                "color": "text-black",
                 "text": "Improved Customer Experience"
               }
             ]
@@ -6208,6 +6221,20 @@
             "title": "Decision Engine"
           }
         ]
+      },
+      {
+        "_key": "eee787487860",
+        "_type": "imageSection",
+        "fullImageAlt": "Credit Decision System",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-ee0595c93e584b4b96bc9dbb27aa3b0bf90c84f5-1284x821-webp",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": false,
+        "isBgBlue": true
       },
       {
         "_key": "ulhwwuiw9z",
