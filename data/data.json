@@ -3447,19 +3447,34 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "zQBhq3UsEZ740ykqkTv2JI",
+    "_rev": "zQBhq3UsEZ740ykqkTwSrL",
+    "_system": {
+      "base": {
+        "id": "credit-underwriting",
+        "rev": "zQBhq3UsEZ740ykqkTv2JI"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T07:01:58Z",
+    "_updatedAt": "2026-04-28T07:10:48Z",
     "sections": [
       {
         "_key": "4payty2m2v",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-d7310c7eacb2eefd890be93fe27fed7f3279b919-2380x2380-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
-        "title": "AI-Powered Credit Underwriting"
+        "title": "AI-Powered Credit Underwriting",
+        "variant": "split"
       },
       {
         "_key": "ddcdbqi5th",
@@ -3678,6 +3693,20 @@
             "text": "How It Works: Automated Credit Decisioning Flow"
           }
         ]
+      },
+      {
+        "_key": "0bac800a06ae",
+        "_type": "imageSection",
+        "fullImageAlt": "Automated credit scoring process",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfcce507488a1011ed541041cd8a65adbd56a9b5-1536x1024-webp",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": true,
+        "isBgBlue": false
       },
       {
         "_key": "pk3zhm590y",
