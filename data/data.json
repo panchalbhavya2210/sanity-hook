@@ -5791,6 +5791,552 @@
     "title": "Easy Cts"
   },
   {
+    "_createdAt": "2026-04-28T06:29:47Z",
+    "_id": "easy-lms",
+    "_rev": "ZcJhm7Cr2zfVlbDl97OOHt",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-28T06:29:47Z",
+    "sections": [
+      {
+        "_key": "28llprjkxd",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
+        "title": "Loan Management & Servicing, Simplified"
+      },
+      {
+        "_key": "sn0o9nnxt8",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Manage, monitor, and optimize every stage of lending through a unified system built for speed, accuracy, and scale.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "ozil4dgdj4",
+                "color": "",
+                "text": "One Platform. Complete Lending Control"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "tj3vpj54hg",
+            "description": "From loan creation to closure — manage disbursement, repayment, restructuring, and write-offs in one flow.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "End-to-End Lifecycle"
+          },
+          {
+            "_key": "7k7trw4n91",
+            "description": "Ready processes for disbursement, collections, NPA handling, and servicing reduce manual effort.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Preconfigured Workflows"
+          },
+          {
+            "_key": "v3stosz8po",
+            "description": "Track loan status, overdue accounts, and customer interactions through a centralized dashboard.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Visibility"
+          },
+          {
+            "_key": "rvdfw931ld",
+            "description": "Connect with CKYC, CIBIL, accounting systems, and APIs for seamless operations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Integrated Ecosystem"
+          }
+        ]
+      },
+      {
+        "_key": "gjdoggru0l",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Loan Products Coverage: Flexible platform supporting a wide range of loan products across industries.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "n160idrmru",
+                "color": "",
+                "text": "Built for Every Lending Need"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "b0c3nkf1xz",
+            "description": "Personal, housing, education, vehicle, and consumer durable loans.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Retail Lending"
+          },
+          {
+            "_key": "mdu8t4gae3",
+            "description": "SME, infrastructure, equipment, and channel finance solutions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Business Lending"
+          },
+          {
+            "_key": "faylax5n9w",
+            "description": "Agriculture, gold loans, loan against securities, and empowerment schemes.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Specialized Loans"
+          },
+          {
+            "_key": "vx7g8pa8sd",
+            "description": "BNPL, micro-loans, and structured credit products.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "New-Age Lending"
+          }
+        ]
+      },
+      {
+        "_key": "5gkca7kowu",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "35czneijj3",
+            "description": "Supports EMI, moratorium, scattered installments, and multiple repayment frequencies.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "hi3hd0w37x",
+                "color": "",
+                "text": "Flexible Repayments"
+              }
+            ]
+          },
+          {
+            "_key": "rp2o4isrdq",
+            "description": "XIRR-based calculations and configurable interest methods for accurate loan structuring.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dhx7rc6c9c",
+                "color": "",
+                "text": "Intelligent Decisioning"
+              }
+            ]
+          },
+          {
+            "_key": "v7bi77htfn",
+            "description": "Complete borrower timeline with DPD tracking and interaction history.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "ah24vdx892",
+                "color": "text-black",
+                "text": "Customer 360 View"
+              }
+            ]
+          },
+          {
+            "_key": "9sh9wharsf",
+            "description": "Scheduled payouts, API-based disbursement, and voucher automation.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dk5eyjablh",
+                "color": "text-black",
+                "text": "Automated Disbursal"
+              }
+            ]
+          },
+          {
+            "_key": "ma8y9vsdji",
+            "description": "Built-in regulatory reporting and real-time data formats.",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "5pttxfnp7m",
+                "color": "text-black",
+                "text": "Compliance Ready"
+              }
+            ]
+          },
+          {
+            "_key": "6lmhc0ujy9",
+            "description": "Track delinquency, overdue accounts, and risk patterns proactively.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "1k3o5ey1ls",
+                "color": "text-black",
+                "text": "Credit Risk Monitoring"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Core Features: Automation, flexibility, and compliance built into every process.",
+          "text": {
+            "title": [
+              {
+                "_key": "jpg4h9t1fa",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "se29awqqb",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "ruhj5xbv8d",
+            "description": "Mandates, SI, PDC, and auto-debit workflows for smooth collections.",
+            "icon": null,
+            "title": "Collection Automation"
+          },
+          {
+            "_key": "3dox4hjtge",
+            "description": "Automated alerts via SMS, WhatsApp, and email for due payments and updates.",
+            "icon": null,
+            "title": "Smart Notifications"
+          },
+          {
+            "_key": "ofij3oa8oz",
+            "description": "Secure portals for customers to manage loans independently.",
+            "icon": null,
+            "title": "Borrower Self-Service"
+          },
+          {
+            "_key": "zeg2r7eq8p",
+            "description": "Rule-based engine with SMA classification and auto-provisioning.",
+            "icon": null,
+            "title": "NPA Management"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Reduce manual effort and improve accuracy with intelligent workflows.",
+          "text": {
+            "title": [
+              {
+                "_key": "ww6zfu1dcm",
+                "color": "text-white",
+                "text": "Automation That Drives Efficiency"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "ss92fztgbe",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Business Functions: Operational, financial, and customer management in one system.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "pik33l6qxb",
+                "color": "",
+                "text": "Control Every Aspect of Lending"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles4",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "j84k38c9so",
+            "description": "Origination, disbursement, repayment, restructuring, and closure handled seamlessly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Loan Lifecycle Management"
+          },
+          {
+            "_key": "n1nk941mkz",
+            "description": "Monitor all transactions including failed, scheduled, and completed payments.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Payment Tracking"
+          },
+          {
+            "_key": "6b4zf53q0x",
+            "description": "Access full borrower history and documents instantly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Customer Interaction Tracking"
+          },
+          {
+            "_key": "0r3txhqypf",
+            "description": "100+ reports including balance sheet, P&L, and portfolio insights.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Reporting & MIS"
+          }
+        ]
+      },
+      {
+        "_key": "w0m1gz2bgq",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "utlvslzqw6",
+            "description": "General ledger with flexible chart of accounts and reporting.",
+            "icon": null,
+            "title": "Real-Time Accounting"
+          },
+          {
+            "_key": "1o1z80wcsv",
+            "description": "Automated GST calculation and regulatory reporting.",
+            "icon": null,
+            "title": "GST & Compliance"
+          },
+          {
+            "_key": "pyx52xmw3c",
+            "description": "Track inflows, outflows, and revenue with live dashboards.",
+            "icon": null,
+            "title": "Cash Flow Planning"
+          },
+          {
+            "_key": "18fcvwmpdb",
+            "description": "Seamlessly integrates with external accounting software.",
+            "icon": null,
+            "title": "System Integration"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "vo5cy0fodu",
+            "color": "text-black",
+            "text": "Integrated Financial Control"
+          }
+        ]
+      },
+      {
+        "_key": "k6v1u46gm1",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Built to improve efficiency, reduce risk, and enhance customer experience.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "dnmkcx72il",
+                "color": "",
+                "text": "Why easyLMS Works for You"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "8s4j1x5azo",
+            "description": "Automate repetitive tasks and reduce manual errors.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Faster Operations"
+          },
+          {
+            "_key": "tl8n026x4t",
+            "description": "Minimize operational overhead through automation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Lower Costs"
+          },
+          {
+            "_key": "yforb0xw09",
+            "description": "Encryption, VAPT testing, and secure data handling.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Strong Security"
+          },
+          {
+            "_key": "k6wh2cw54q",
+            "description": "Centralized data improves loan tracking and risk assessment.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Better Decision Making"
+          },
+          {
+            "_key": "2tvp7ijmvq",
+            "description": "Personalized lending experience with self-service access.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Customer Satisfaction"
+          },
+          {
+            "_key": "lt7bjym653",
+            "description": "Handles growth with high performance and flexibility.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Scalable Platform"
+          }
+        ]
+      },
+      {
+        "_key": "knb35syuny",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Technology and infrastructure built for scale, speed, and reliability.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "sxa48nadhm",
+                "color": "",
+                "text": "Designed for Modern Lending"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles6",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "rlh4wvr6qg",
+            "description": "Hosted on Oracle Cloud with reduced CAPEX.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cloud-Ready Infrastructure"
+          },
+          {
+            "_key": "w4v0lp0rx9",
+            "description": "DR/BCP enabled with real-time data replication.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Availability"
+          },
+          {
+            "_key": "uo9divwhju",
+            "description": "Continuous integration and faster deployment cycles.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "DevOps Enabled"
+          },
+          {
+            "_key": "le4r95jm6v",
+            "description": "End-to-end encryption and secure storage of sensitive data.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Monitoring & Data Security"
+          }
+        ]
+      },
+      {
+        "_key": "uol5gei09v",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Digitize your loan origination process, reduce costs, and deliver faster, smarter credit decisions with easyLOS.",
+        "titleParts": [
+          {
+            "_key": "hhtpa5bhns",
+            "color": "text-brand-600",
+            "text": "Transform Your Lending Journey"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-lms"
+    },
+    "title": "Easy Lms"
+  },
+  {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
     "_rev": "ZcJhm7Cr2zfVlbDl97Mo5O",
