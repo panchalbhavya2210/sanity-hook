@@ -5793,25 +5793,41 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "zQBhq3UsEZ740ykqkTno3g",
+    "_rev": "ZcJhm7Cr2zfVlbDl97Mo5O",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "ZcJhm7Cr2zfVlbDl97MIyU"
+        "rev": "zQBhq3UsEZ740ykqkTno3g"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T05:48:32Z",
+    "_updatedAt": "2026-04-28T05:51:32Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-6ece1203e487814e419a453bda668c454ac0ecd8-1180x1415-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-0761405c35734701970d924e739140a0ce766928-708x672-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
-        "title": "Unleash New Opportunities in Lending"
+        "title": "Unleash New Opportunities in Lending",
+        "variant": "split"
       },
       {
         "_key": "gdde0271wz",
