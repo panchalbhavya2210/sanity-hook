@@ -5793,15 +5793,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "ZcJhm7Cr2zfVlbDl97MIyU",
+    "_rev": "zQBhq3UsEZ740ykqkTno3g",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "ZcJhm7Cr2zfVlbDl97MDqj"
+        "rev": "ZcJhm7Cr2zfVlbDl97MIyU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T05:29:56Z",
+    "_updatedAt": "2026-04-28T05:48:32Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -6506,7 +6506,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "easy-los"
+      "current": "products/digital-lending/easy-los"
     },
     "title": "Easy Los"
   },
