@@ -5793,25 +5793,41 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "ZcJhm7Cr2zfVlbDl97OxMh",
+    "_rev": "WY20wT53hxKtTStZN8q9Wu",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "ZcJhm7Cr2zfVlbDl97OOHt"
+        "rev": "ZcJhm7Cr2zfVlbDl97OxMh"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T06:36:19Z",
+    "_updatedAt": "2026-04-28T06:37:29Z",
     "sections": [
       {
         "_key": "28llprjkxd",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9d75c417c9ac88493ce17cbb00331fc700a832c4-1168x1401-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-3abc026b6c157dd14df474490f9bbbf15f9921a8-2380x2380-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
-        "title": "Loan Management & Servicing, Simplified"
+        "title": "Loan Management & Servicing, Simplified",
+        "variant": "split"
       },
       {
         "_key": "sn0o9nnxt8",
@@ -6023,8 +6039,8 @@
             "title": [
               {
                 "_key": "jpg4h9t1fa",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Powerful Features for Smarter Lending"
               }
             ],
             "variant": "h1"
