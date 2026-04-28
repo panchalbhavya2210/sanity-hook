@@ -5791,6 +5791,693 @@
     "title": "Easy Cts"
   },
   {
+    "_createdAt": "2026-04-28T05:14:52Z",
+    "_id": "easy-los",
+    "_rev": "zQBhq3UsEZ740ykqkTmHQ7",
+    "_type": "productPages",
+    "_updatedAt": "2026-04-28T05:14:52Z",
+    "sections": [
+      {
+        "_key": "90u0ob2j7v",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
+        "title": "Unleash New Opportunities in Lending"
+      },
+      {
+        "_key": "gdde0271wz",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Digitize and streamline the complete loan journey — from lead capture to disbursement — with automation, intelligence, and seamless integrations.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "kdhsxavcut",
+                "color": "",
+                "text": "A Smarter Way to Originate Loans"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "oivaz2e2ne",
+            "description": "Capture applications, documents, and borrower data digitally with faster turnaround time.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Digital Loan Origination"
+          },
+          {
+            "_key": "7pwzg07jmx",
+            "description": "Automate credit scoring, verification, and approval workflows using rule-based engines.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Intelligent Decisioning"
+          },
+          {
+            "_key": "plslndttla",
+            "description": "Manage application, underwriting, approval, and disbursement in a single system.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Unified Platform"
+          },
+          {
+            "_key": "kro9pm7zam",
+            "description": "Customize loan journeys based on your business rules and risk appetite.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Configurable Workflows"
+          }
+        ]
+      },
+      {
+        "_key": "w337z6j6hy",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "A structured and automated workflow that ensures faster processing and accurate decision-making.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "vylgzoewcg",
+                "color": "",
+                "text": "From Application to Disbursement"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "a05hw8rcxq",
+            "description": "Capture inquiries, convert leads, and initiate credit applications digitally.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Lead to Application"
+          },
+          {
+            "_key": "37ygu5pvix",
+            "description": "Automated document collection, de-duplication, and validation reduces manual effort.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Document Processing"
+          }
+        ]
+      },
+      {
+        "_key": "6gat05888m",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles3",
+        "isBgBlue": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "18wxfs9xt2",
+            "description": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Underwriting & Risk Analysis"
+          },
+          {
+            "_key": "smsoj4hphw",
+            "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Approval & Disbursement"
+          }
+        ]
+      },
+      {
+        "_key": "sfz2jf0xsh",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "76cjvjhxcp",
+            "description": "Approve loans in minutes instead of days with automated workflows.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "0412wv6jmz",
+                "color": "",
+                "text": "Faster Loan Processing"
+              }
+            ]
+          },
+          {
+            "_key": "dmdy4sjy4l",
+            "description": "Reduce manual intervention and improve efficiency across teams.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "igtpnnat2f",
+                "color": "",
+                "text": "Lower Operational Cost"
+              }
+            ]
+          },
+          {
+            "_key": "6gql3kdctu",
+            "description": "Leverage real-time data and analytics for smarter lending decisions.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "c8vcxtgugj",
+                "color": "text-black",
+                "text": "Better Credit Decisions"
+              }
+            ]
+          },
+          {
+            "_key": "1ask1vothu",
+            "description": "Simplified application journey with transparency and faster approvals.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dj1jgfmd84",
+                "color": "text-brand-600",
+                "text": "Improved Customer Experience"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Deliver faster decisions, better customer experience, and improved profitability.",
+          "text": {
+            "title": [
+              {
+                "_key": "shtkrprljq",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "t7en0igal5",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "3p4kanh13s",
+            "description": "Combine multiple data sources to generate accurate credit insights.",
+            "icon": null,
+            "title": "Data-Driven Underwriting"
+          },
+          {
+            "_key": "278gbp0owi",
+            "description": "Eliminate repetitive tasks and streamline decision-making processes.",
+            "icon": null,
+            "title": "Workflow Automation"
+          },
+          {
+            "_key": "pwxq1aeqb4",
+            "description": "Connect with CRM, credit bureaus, eSign, bank APIs, and more.",
+            "icon": null,
+            "title": "Integration Ready"
+          },
+          {
+            "_key": "r2u5n2zg56",
+            "description": "Build flexible integrations and accelerate go-to-market.",
+            "icon": null,
+            "title": "Open API Ecosystem"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Designed to simplify complexity and improve operational efficiency.",
+          "text": {
+            "title": [
+              {
+                "_key": "kr2ykolw22",
+                "color": "text-white",
+                "text": "Powerful Features That Drive Lending"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "t0ems4xv9w",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Flexible, scalable, and designed to adapt to your business growth.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "s9vfngkl89",
+                "color": "",
+                "text": "Built for Modern Lending Needs"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles4",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "6c3ouumlzg",
+            "description": "SaaS-based architecture ensures scalability and reduced infrastructure cost.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cloud-Native Platform"
+          },
+          {
+            "_key": "ry4cpamidd",
+            "description": "Plug-and-play components to support different lending products.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Modular Architecture"
+          },
+          {
+            "_key": "pwpa80pbqq",
+            "description": "Quickly customize workflows without heavy development effort.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Low-Code Configuration"
+          },
+          {
+            "_key": "q0cbfl482u",
+            "description": "Handles growing loan volumes with auto-scaling and load balancing.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Scalability"
+          }
+        ]
+      },
+      {
+        "_key": "9unv9uppjk",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "6nh7ghyxm5",
+            "description": "Rule-based engine with bureau integration ensures accurate borrower evaluation.",
+            "icon": null,
+            "title": "Credit Assessment"
+          },
+          {
+            "_key": "0h6p2860fh",
+            "description": "Reduce manual data entry and speed up loan approvals.",
+            "icon": null,
+            "title": "Automated Processing"
+          },
+          {
+            "_key": "l7w8r51g9q",
+            "description": "Identify credit risk early using data analytics and scoring models.",
+            "icon": null,
+            "title": "Risk Mitigation"
+          },
+          {
+            "_key": "kr7608wu7",
+            "description": "Analyze bank statements, income data, and financial history automatically.",
+            "icon": null,
+            "title": "Financial Analysis"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "mhabojkbak",
+            "color": "text-black",
+            "text": "Streamline Lending Operations"
+          }
+        ]
+      },
+      {
+        "_key": "scowtaqdya",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Bring multiple data sources together for better underwriting and decisioning.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "p6tcnvpwwb",
+                "color": "",
+                "text": "Smarter Decision Ecosystem"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "rdnsig398h",
+            "description": "Combine KYC, banking data, credit bureau, and alternative data sources.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Data Integration"
+          },
+          {
+            "_key": "27867p3aoh",
+            "description": "Automated eligibility checks and loan decisioning using predefined rules.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Decision Engine"
+          }
+        ]
+      },
+      {
+        "_key": "ulhwwuiw9z",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles6",
+        "isBgBlue": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "f3nzaooq5a",
+            "description": "Digital portals with real-time updates, notifications, and transparency.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Borrower Experience"
+          },
+          {
+            "_key": "iz0k82bexy",
+            "description": "Enable no-touch or low-touch approvals for faster turnaround.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Application Processing"
+          }
+        ]
+      },
+      {
+        "_key": "b789pg26rc",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Digitize, process, and manage loan documents efficiently using AI.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "7xkip2j8vo",
+                "color": "",
+                "text": "Smart Document Management"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles6",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "p6py4sqkhg",
+            "description": "AI-based OCR extracts key information from documents automatically.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "OCR & Data Extraction"
+          },
+          {
+            "_key": "68diwnc94q",
+            "description": "Centralized and secure document storage with easy access.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Secure Storage"
+          },
+          {
+            "_key": "jaknamuyrz",
+            "description": "Automatically categorize documents like KYC, applications, sanction letters.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Document Classification"
+          },
+          {
+            "_key": "0tp0bx6puy",
+            "description": "Reduce approval time with digitized document workflows.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Faster Processing"
+          }
+        ]
+      },
+      {
+        "_key": "9dbameicay",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "eat3t54p64",
+            "description": "Track loan performance, borrower behavior, and KPIs in real-time.",
+            "icon": null,
+            "title": "BI & Reporting"
+          },
+          {
+            "_key": "iwf2s95vt9",
+            "description": "Use analytics to identify high-risk borrowers and optimize lending.",
+            "icon": null,
+            "title": "Predictive Insights"
+          },
+          {
+            "_key": "xxzomtj5ul",
+            "description": "Improve credit strategy using data-driven insights.",
+            "icon": null,
+            "title": "Portfolio "
+          },
+          {
+            "_key": "hnvrp1pzh2",
+            "description": " Scale operations without increasing manual workload.",
+            "icon": null,
+            "title": "Business Growth"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Leverage insights and analytics to improve performance and reduce risk.",
+          "text": {
+            "title": [
+              {
+                "_key": "4eh2ymsgrz",
+                "color": "text-white",
+                "text": "Make Better Lending Decisions"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "84k45df26g",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Deliver trust, compliance, and seamless user experience.",
+          "text": {
+            "title": [
+              {
+                "_key": "m6zx1m8a0g",
+                "color": "text-warning",
+                "text": "Secure, "
+              },
+              {
+                "_key": "vt166a6pfq",
+                "color": "text-brand-600",
+                "text": "Flexible "
+              },
+              {
+                "_key": "dp2djw1jz0",
+                "color": "text-black",
+                "text": "& Customer-Friendly"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "yc2gaeq86d",
+            "description": "End-to-end encryption and secure cloud infrastructure protect sensitive data.",
+            "title": "Data Security"
+          },
+          {
+            "_key": "o7fdmum2iq",
+            "description": "Apply via web, branch, or call center with unified experience.",
+            "title": "Omnichannel Experience"
+          },
+          {
+            "_key": "5ly7wa8e6g",
+            "description": "Tailor workflows, products, and rules to your business needs.",
+            "title": "Customizable Platform"
+          },
+          {
+            "_key": "lcnslfql4t",
+            "description": "Automated reminders via SMS, WhatsApp, and email.",
+            "title": "Alerts & Notifications"
+          }
+        ]
+      },
+      {
+        "_key": "blfj34s4vj",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Enterprise-grade infrastructure ensuring uptime, scalability, and security.",
+          "text": {
+            "title": [
+              {
+                "_key": "yw8tr8kvyx",
+                "color": "text-white",
+                "text": "Built for Performance & Reliability"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "brand",
+        "id": "quickActionCardParent2",
+        "isChild": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "x43654d6l4",
+            "description": "Hosted on Oracle Cloud with reduced CAPEX.",
+            "title": "Cloud Infrastructure"
+          },
+          {
+            "_key": "k1mfc8pz7x",
+            "description": "Real-time replication ensures zero disruption.",
+            "title": "BCP & DR Ready"
+          },
+          {
+            "_key": "s9j93eqbew",
+            "description": "Continuous deployment for faster updates and improvements.",
+            "title": "DevOps Enabled"
+          },
+          {
+            "_key": "21rtoy0kcj",
+            "description": "Flexible integrations and faster system expansion.",
+            "title": "API-First Architecture"
+          }
+        ]
+      },
+      {
+        "_key": "xrhzhz1xup",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "Digitize your loan origination process, reduce costs, and deliver faster, smarter credit decisions with easyLOS.",
+        "titleParts": [
+          {
+            "_key": "h6dc4bgcfm",
+            "color": "text-brand-600",
+            "text": "Transform Your Lending Journey"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-los"
+    },
+    "title": "Easy Los"
+  },
+  {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
     "_rev": "HrBj9Zx03wkqUmFRdtTQYd",
