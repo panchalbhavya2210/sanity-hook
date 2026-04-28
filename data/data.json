@@ -5793,9 +5793,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "ZcJhm7Cr2zfVlbDl97OOHt",
+    "_rev": "ZcJhm7Cr2zfVlbDl97OxMh",
+    "_system": {
+      "base": {
+        "id": "easy-lms",
+        "rev": "ZcJhm7Cr2zfVlbDl97OOHt"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T06:29:47Z",
+    "_updatedAt": "2026-04-28T06:36:19Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -6167,6 +6173,20 @@
             "text": "Integrated Financial Control"
           }
         ]
+      },
+      {
+        "_key": "47728a21d1c2",
+        "_type": "imageSection",
+        "fullImageAlt": "Loan lifecycle management",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-274f92b88a8a274f991f8d28052a3fab6fe352ca-1623x969-webp",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": true,
+        "isBgBlue": false
       },
       {
         "_key": "k6v1u46gm1",
