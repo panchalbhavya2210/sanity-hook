@@ -5793,9 +5793,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "zQBhq3UsEZ740ykqkTmHQ7",
+    "_rev": "WY20wT53hxKtTStZN8l1YC",
+    "_system": {
+      "base": {
+        "id": "easy-los",
+        "rev": "zQBhq3UsEZ740ykqkTmHQ7"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T05:14:52Z",
+    "_updatedAt": "2026-04-28T05:21:27Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -6415,7 +6421,7 @@
         },
         "bgColor": "brand",
         "id": "quickActionCardParent2",
-        "isChild": true,
+        "isChild": false,
         "isTextBlack": false,
         "isTextWhite": true,
         "quickActionCard": [
