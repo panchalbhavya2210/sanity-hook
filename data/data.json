@@ -13479,15 +13479,15 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "PkvfMuHikZ3PPrOYZrWswR",
+    "_rev": "neBicO9iaKxCJYUMiElHRv",
     "_system": {
       "base": {
         "id": "risk-modeling",
-        "rev": "neBicO9iaKxCJYUMiEhVBH"
+        "rev": "PkvfMuHikZ3PPrOYZrWswR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-02T08:10:50Z",
+    "_updatedAt": "2026-05-02T08:43:15Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
@@ -13513,7 +13513,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Despite digital systems, lack of real-time intelligence leads to financial losses, compliance risks, and delayed action.",
           "subTitleClassName": "",
           "text": {
@@ -13537,7 +13536,13 @@
             "_key": "hjyrh26f52",
             "description": "Massive transaction volumes still rely on manual or rule-based checks, making detection slow and inefficient.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-515a6eed25a072c9fbd47b0ac6a366538a376426-271x164-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Manual Monitoring"
           },
@@ -13545,7 +13550,13 @@
             "_key": "6sii4iuehx",
             "description": "Fraud is identified too late, causing financial damage and loss of customer trust.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d834a6609b6229afe701dcd8f93edb3c4e4e5e3e-271x164-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Delayed Detection"
           },
@@ -13553,7 +13564,13 @@
             "_key": "rmlaj2b1lx",
             "description": "Limited visibility into suspicious activities prevents proactive intervention.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4be51541a0e300ac6309b69917412ab802b6f59c-271x164-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "No Real-Time Visibility"
           },
@@ -13561,7 +13578,13 @@
             "_key": "n7jwexfkla",
             "description": "Manual validation against RBI guidelines is time-consuming and prone to errors.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a0189ef79f4564c9cbcc3d46de6d84fb21e9249c-271x164-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Compliance Burden"
           }
@@ -13573,26 +13596,49 @@
         "features": [
           {
             "_key": "41osbmyyye",
-            "description": "Static checks run in intervals instead of real-time, missing critical fraud windows.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a8984f9afad8985883f1f318cc4780b811fa369c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Batch-Based Processing"
           },
           {
             "_key": "bztoc1b4vt",
             "description": "Disconnected platforms lead to inconsistent fraud detection and data gaps.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1b668071088852cf22b7d97dfd59aa2c0e6881b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Fragmented Data Systems"
           },
           {
             "_key": "eogiou08th",
             "description": "Systems are not tightly aligned with evolving RBI compliance frameworks.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdcda43f28bc514b0d2613b773a160e243d2e4b0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Limited RBI Integration"
           },
           {
             "_key": "dmd2undt02",
             "description": "Absence of machine learning prevents predictive fraud detection.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdc56afdbae2b2ca25da46739d3e423807c93c1f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "No AI Intelligence"
           }
         ],
@@ -13626,7 +13672,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Why This Solution A; I-driven systems are essential to handle rising fraud, regulatory pressure, and real-time banking demands.",
           "subTitleClassName": "",
           "text": {
@@ -13649,7 +13694,13 @@
             "_key": "c92bgud51t",
             "description": "Increasing online transactions demand stronger, faster fraud detection systems.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8b9bd38db3b50221742750203962a431ba1eef51-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Rising Digital Fraud"
           },
@@ -13657,7 +13708,13 @@
             "_key": "7i2kyt3o08",
             "description": "Continuous RBI compliance requires real-time validation mechanisms.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d9dc2fec33d8da8fad4a370fbe1d223b057e3549-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Regulatory Pressure"
           },
@@ -13665,7 +13722,13 @@
             "_key": "6wtdkeaq5a",
             "description": "Banks need instant detection and response capabilities.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-80c685d5468a1d63d18d35045a978ba8b3e9f274-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Faster Decision Making"
           },
@@ -13673,7 +13736,13 @@
             "_key": "fizikhxc1c",
             "description": "AI enables early intervention before fraud impacts operations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ae130d4302d89cc4f48bf1d6b65abce758a2bc3d-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Intelligent Risk Prevention"
           }
