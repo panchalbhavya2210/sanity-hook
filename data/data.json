@@ -13479,19 +13479,34 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "neBicO9iaKxCJYUMiEhVBH",
+    "_rev": "PkvfMuHikZ3PPrOYZrWswR",
+    "_system": {
+      "base": {
+        "id": "risk-modeling",
+        "rev": "neBicO9iaKxCJYUMiEhVBH"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-02T08:07:55Z",
+    "_updatedAt": "2026-05-02T08:10:50Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-920f5af278e50b39edd2d761eb98c9f2106c2fcb-2380x2380-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Continuously monitor banking transactions with AI-driven intelligence that validates every activity against RBI rules — detecting and preventing fraud instantly with zero delays.",
-        "title": "AI-Powered Fraud Detection. Real-Time Protection."
+        "title": "AI-Powered Fraud Detection. Real-Time Protection.",
+        "variant": "split"
       },
       {
         "_key": "6octc05nfj",
@@ -13746,17 +13761,16 @@
         "id": "platformCapabilities1",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
           "subTitle": "Solution Overview: An intelligent platform that validates every transaction in real time using AI, rules, and compliance frameworks.",
           "text": {
             "title": [
               {
                 "_key": "5ntz8irnpx",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "AI-Driven Fraud Analytics Platform"
               }
             ],
-            "variant": "h1"
+            "variant": "h2"
           }
         }
       },
@@ -14067,7 +14081,6 @@
     ],
     "seo": {
       "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
-      "image": null,
       "keywords": [
         "core modernization",
         "legacy core banking",
