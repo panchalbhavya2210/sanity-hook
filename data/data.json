@@ -13477,6 +13477,615 @@
     "title": "Omnichannel Banking"
   },
   {
+    "_createdAt": "2026-05-02T08:07:55Z",
+    "_id": "risk-modeling",
+    "_rev": "neBicO9iaKxCJYUMiEhVBH",
+    "_type": "productPages",
+    "_updatedAt": "2026-05-02T08:07:55Z",
+    "sections": [
+      {
+        "_key": "ub8mzuh6f2",
+        "_type": "heroSection",
+        "cta": {
+          "label": "Explore Core Modernization"
+        },
+        "id": "hero",
+        "subtitle": "Continuously monitor banking transactions with AI-driven intelligence that validates every activity against RBI rules — detecting and preventing fraud instantly with zero delays.",
+        "title": "AI-Powered Fraud Detection. Real-Time Protection."
+      },
+      {
+        "_key": "6octc05nfj",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Despite digital systems, lack of real-time intelligence leads to financial losses, compliance risks, and delayed action.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "v1gyvgaq8f",
+                "color": "",
+                "text": "Why Banks Still Struggle with Fraud Detection"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles1",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "hjyrh26f52",
+            "description": "Massive transaction volumes still rely on manual or rule-based checks, making detection slow and inefficient.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Manual Monitoring"
+          },
+          {
+            "_key": "6sii4iuehx",
+            "description": "Fraud is identified too late, causing financial damage and loss of customer trust.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Delayed Detection"
+          },
+          {
+            "_key": "rmlaj2b1lx",
+            "description": "Limited visibility into suspicious activities prevents proactive intervention.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "No Real-Time Visibility"
+          },
+          {
+            "_key": "n7jwexfkla",
+            "description": "Manual validation against RBI guidelines is time-consuming and prone to errors.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Compliance Burden"
+          }
+        ]
+      },
+      {
+        "_key": "987jggfrex",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "41osbmyyye",
+            "description": "Static checks run in intervals instead of real-time, missing critical fraud windows.",
+            "icon": null,
+            "title": "Batch-Based Processing"
+          },
+          {
+            "_key": "bztoc1b4vt",
+            "description": "Disconnected platforms lead to inconsistent fraud detection and data gaps.",
+            "icon": null,
+            "title": "Fragmented Data Systems"
+          },
+          {
+            "_key": "eogiou08th",
+            "description": "Systems are not tightly aligned with evolving RBI compliance frameworks.",
+            "icon": null,
+            "title": "Limited RBI Integration"
+          },
+          {
+            "_key": "dmd2undt02",
+            "description": "Absence of machine learning prevents predictive fraud detection.",
+            "icon": null,
+            "title": "No AI Intelligence"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "jei67ew3wi",
+            "color": "text-black",
+            "text": "Where "
+          },
+          {
+            "_key": "dg2rvnno8t",
+            "color": "text-brand-600",
+            "text": "Traditional "
+          },
+          {
+            "_key": "4bt2pdxrkn",
+            "color": "text-black",
+            "text": "Systems "
+          },
+          {
+            "_key": "u7avgiirq3",
+            "color": "text-warning",
+            "text": "Fail"
+          }
+        ]
+      },
+      {
+        "_key": "223vxr4w4z",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Why This Solution A; I-driven systems are essential to handle rising fraud, regulatory pressure, and real-time banking demands.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "lf4q1wru8l",
+                "color": "",
+                "text": "The Need for Intelligent Fraud Detection"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles4",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "c92bgud51t",
+            "description": "Increasing online transactions demand stronger, faster fraud detection systems.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Rising Digital Fraud"
+          },
+          {
+            "_key": "7i2kyt3o08",
+            "description": "Continuous RBI compliance requires real-time validation mechanisms.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Regulatory Pressure"
+          },
+          {
+            "_key": "6wtdkeaq5a",
+            "description": "Banks need instant detection and response capabilities.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Faster Decision Making"
+          },
+          {
+            "_key": "fizikhxc1c",
+            "description": "AI enables early intervention before fraud impacts operations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Intelligent Risk Prevention"
+          }
+        ]
+      },
+      {
+        "_key": "5lp5wqar1y",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "a5303wuv2t",
+            "description": "Continuously track all transactions and account activities without delay.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "17y1xho6f9",
+                "color": "text-brand-600",
+                "text": "Real-Time "
+              },
+              {
+                "_key": "i4dtbt3mb4",
+                "color": "text-black",
+                "text": "Monitoring"
+              }
+            ]
+          },
+          {
+            "_key": "1h9ur6qwqm",
+            "description": "Automatically validate every event against RBI fraud and audit guidelines.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "zwn9wz7j20",
+                "color": "text-warning",
+                "text": "RBI Rule "
+              },
+              {
+                "_key": "b80pxretty",
+                "color": "text-black",
+                "text": "Validation"
+              }
+            ]
+          },
+          {
+            "_key": "p2maz0rkc9",
+            "description": "Flag suspicious patterns and anomalies instantly before escalation.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "bx0uhn2jge",
+                "color": "text-black",
+                "text": "Instant "
+              },
+              {
+                "_key": "39hvni6uhy",
+                "color": "text-warning",
+                "text": "Risk  "
+              },
+              {
+                "_key": "o0n41y059s",
+                "color": "text-brand-600",
+                "text": "Detection"
+              }
+            ]
+          },
+          {
+            "_key": "y580g3re0m",
+            "description": "Works with core banking systems without disrupting existing operations.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "8wecm1pco9",
+                "color": "text-brand-600",
+                "text": "Seamless Integration"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Solution Overview: An intelligent platform that validates every transaction in real time using AI, rules, and compliance frameworks.",
+          "text": {
+            "title": [
+              {
+                "_key": "5ntz8irnpx",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "d3ky6or7ox",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "cy554o3yhj",
+            "description": "Batch-based workflows delay approvals and increase turnaround time.",
+            "icon": null,
+            "title": "Slow Processing Cycles"
+          },
+          {
+            "_key": "1z5n23pyvf",
+            "description": "Multiple systems fail to provide a unified borrower view.",
+            "icon": null,
+            "title": "Disconnected Data Sources"
+          },
+          {
+            "_key": "ks7kmqrwhv",
+            "description": "Lack of AI leads to reactive, not proactive, risk assessment.",
+            "icon": null,
+            "title": "No Predictive Intelligence"
+          },
+          {
+            "_key": "i3y1sgcfjt",
+            "description": "Outdated scoring models fail to adapt to changing borrower behavior.",
+            "icon": null,
+            "title": "Static Risk Models"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Traditional systems lack speed, intelligence, and adaptability needed for modern lending.",
+          "text": {
+            "title": [
+              {
+                "_key": "evznpdi2iz",
+                "color": "text-white",
+                "text": "System Gaps: Where Legacy Underwriting Breaks"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "evv2tmo2ca",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Key Features: Advanced AI and analytics ensure accurate, fast, and scalable fraud detection.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "kzld9f3tc3",
+                "color": "",
+                "text": "AI Intelligence at Every Layer"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles2",
+        "isBgBlue": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "zl6wyf2gcz",
+            "description": "Monitor all transactions continuously and detect anomalies across accounts and channels.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Transaction Surveillance"
+          },
+          {
+            "_key": "d4ucn6i3fh",
+            "description": "Combine AI models and rules-based logic to identify unusual behavior and reduce false positives.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Dynamic Fraud Detection Engine"
+          },
+          {
+            "_key": "wpjqlybgl5",
+            "description": "Assign risk scores to every transaction and prioritize high-risk cases for investigation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Risk Scoring System"
+          },
+          {
+            "_key": "9dscy3ies2",
+            "description": "Maintain detailed logs for transparency, traceability, and RBI audit readiness.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Audit Trail & Reporting"
+          },
+          {
+            "_key": "0ylsbgsb0f",
+            "description": "Trigger instant alerts to compliance teams for quick action.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Alerts"
+          },
+          {
+            "_key": "o09fi3padv",
+            "description": "Seamlessly connect with CBS systems for unified fraud monitoring.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Core Banking Integration"
+          }
+        ]
+      },
+      {
+        "_key": "46daf4tp3f",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Enterprise-grade architecture ensures reliability, performance, and regulatory alignment.",
+          "text": {
+            "title": [
+              {
+                "_key": "7imvijk4yg",
+                "color": "",
+                "text": "Built for "
+              },
+              {
+                "_key": "dmtx2769tr",
+                "color": "text-brand-600",
+                "text": "Scale,"
+              },
+              {
+                "_key": "u6pwlae3sg",
+                "color": "text-warning",
+                "text": " Security "
+              },
+              {
+                "_key": "r9u02f4u9i",
+                "color": "text-black",
+                "text": "& "
+              },
+              {
+                "_key": "ilov0qs3qy",
+                "color": "text-success",
+                "text": "Compliance"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "yfncrnsqe5",
+            "description": "Automatically updates with RBI changes and internal policies.",
+            "title": "Adaptive Rule Engine"
+          },
+          {
+            "_key": "b2d35bmaaa",
+            "description": "Detect fraud across mobile, ATM, internet banking, and branches.",
+            "title": "Cross-Channel Monitoring"
+          },
+          {
+            "_key": "f9n8lm5kxv",
+            "description": "Built with encryption, access control, and high-performance data pipelines.",
+            "title": "Secure Architecture"
+          },
+          {
+            "_key": "f032wxzgq8",
+            "description": "Leverage real-time data pipelines for faster and more accurate detection.",
+            "title": "Data Streaming Intelligence"
+          }
+        ]
+      },
+      {
+        "_key": "eupf3wbalw",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "5h78s91t6w",
+            "description": "Identify suspicious activities in real time and prevent losses.",
+            "icon": null,
+            "title": "Instant Fraud Detection"
+          },
+          {
+            "_key": "yr4dgj4hh9",
+            "description": "Minimize fraud-related losses through proactive monitoring.",
+            "icon": null,
+            "title": "Reduced Financial Risk"
+          },
+          {
+            "_key": "ush8ax6y61",
+            "description": "Stay aligned with RBI regulations and audit requirements.",
+            "icon": null,
+            "title": "Better Compliance"
+          },
+          {
+            "_key": "50t13n0fzn",
+            "description": "Build customer confidence with secure and transparent banking systems.",
+            "icon": null,
+            "title": "Increased Trust"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Reduce fraud losses and improve operational efficiency with AI-driven intelligence.",
+          "text": {
+            "title": [
+              {
+                "_key": "m71gri1nbg",
+                "color": "text-white",
+                "text": "Real Results. Immediate Impact."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "e1pj6n715y",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Next-gen AI innovations will redefine how financial security is managed globally.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "fuhljqs07s",
+                "color": "",
+                "text": "Future of Fraud Detection"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "dg0d5g70ok",
+            "description": "Understand why a transaction was flagged with transparent AI decisions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Explainable Intelligence"
+          },
+          {
+            "_key": "bjkbc8mhuy",
+            "description": "Use deep learning and hybrid models for higher accuracy and adaptability.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Advanced AI Models"
+          },
+          {
+            "_key": "qatixpr3nv",
+            "description": "Detect global fraud patterns with shared data and blockchain integration.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cross-Border Intelligence"
+          },
+          {
+            "_key": "8ljimrihma",
+            "description": "Use typing patterns, touch behavior, and user activity for identity validation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Behavioral Biometrics"
+          }
+        ]
+      },
+      {
+        "_key": "o5lhzpjs8p",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "isTextBlack": true,
+        "subText": "AI-powered fraud detection enables banks to stay ahead of evolving threats with real-time intelligence, adaptive analytics, and complete compliance control.",
+        "titleParts": [
+          {
+            "_key": "yddxev2a43",
+            "color": "text-brand-600",
+            "text": "Secure the Future of Banking with AI"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": null,
+      "keywords": [
+        "core modernization",
+        "legacy core banking",
+        "cloud banking transformation",
+        "API-first banking"
+      ],
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
+      "url": "https://yourdomain.com/products/core-modernization"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "risk-modeling"
+    },
+    "title": "Risk Modeling"
+  },
+  {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
     "_rev": "piiLNOj3u9Wq2zYwg4QZOC",
