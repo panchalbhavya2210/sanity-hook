@@ -14928,15 +14928,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "j4WZNIGUzPsJcmnHbc0v9L",
+    "_rev": "j4WZNIGUzPsJcmnHbc13w6",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "j4WZNIGUzPsJcmnHbc0ikT"
+        "rev": "j4WZNIGUzPsJcmnHbc0v9L"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T06:25:41Z",
+    "_updatedAt": "2026-05-07T06:34:56Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -15094,7 +15094,13 @@
             "_key": "x4ny1fc30m",
             "description": "Invest in mutual funds, SIPs, equities, bonds, and insurance, all with real-time tracking and insights.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2151f03834903c684d9f967073616887ab38d044-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Investments"
           },
@@ -15102,7 +15108,13 @@
             "_key": "dcojrsxscy",
             "description": "Discover and invest in IPOs directly from the app without external platforms.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0cbb3ff09deccd492b729fcdd333088b4ba6b93e-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "IPO Access"
           },
@@ -15110,7 +15122,13 @@
             "_key": "5bfxy7viyg",
             "description": "Book travel, shop online, and access lifestyle services within the banking app.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d218d060e724dd4a34143558ce3e99e9c14ab54b-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Lifestyle & Shopping"
           },
@@ -15118,8 +15136,13 @@
             "_key": "ufcffar39v",
             "description": "Manage business accounts, merchant services, and trade workflows for SMEs and enterprises.",
             "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6e89365271ddd230559cf91bd557e1c6d11b88fd-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Business & SME"
           }
         ]
@@ -15128,19 +15151,30 @@
         "_key": "vhhpwy4hto",
         "_type": "imageSection",
         "fullImageAlt": "picsum",
-        "fullImageSource": null,
         "hasFullImage": false,
         "id": "imageSection4",
         "imageSource": [
           {
             "_key": "zsck7w7n5y",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a7f86d37c03555acd76c3f81abea98c9620857d5-941x821-webp",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "emu2jud30x",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f29586204a3ef65ede5b4a77db263abde04c8d47-941x821-webp",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "isBgBlue": true
@@ -15173,7 +15207,13 @@
             "_key": "fi6bnp7gik",
             "description": "Deliver contextual recommendations based on user behavior and financial patterns.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fd34a112eb20f3bfc54f294dafedfc4cb818cddf-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Personalized Journeys"
           },
@@ -15181,7 +15221,13 @@
             "_key": "lja18l2l2k",
             "description": "Track spending, investments, and financial health with intelligent dashboards.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8f3f8a3fb0a29215695882e77592203f43832f05-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Insights"
           },
@@ -15189,7 +15235,13 @@
             "_key": "om1kf9k594",
             "description": "Enable secure, frictionless login using fingerprint and face authentication.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-87c7a6780300b1c25f18d6a35b44a5dca2a70fbc-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Biometric Access"
           },
@@ -15197,7 +15249,13 @@
             "_key": "j3p9z0pzha",
             "description": "Optimized UI ensures smooth, lag-free experience across devices.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bc2713569b448d40020c72c9ad9e5bae02725ba3-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fast Performance"
           }
@@ -15214,12 +15272,24 @@
           {
             "_key": "se9onlp9hg",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6466ad25839e9e792f9e37286b64c2b62a07f05c-945x821-webp",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "0cmu4lcjr3",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f29586204a3ef65ede5b4a77db263abde04c8d47-941x821-webp",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "isBgBlue": true
@@ -15326,7 +15396,13 @@
             "_key": "eplh5rk5cz",
             "description": "Each service runs independently, enabling faster updates and scalability.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a7645256b867c5322b0b291089b2513b16937606-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Modular Microservices"
           },
@@ -15334,7 +15410,13 @@
             "_key": "v1egiijg1l",
             "description": "Open APIs allow seamless integration with partners, fintechs, and marketplaces.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-40479da190eb2deebee748718ffbb505270fe106-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "API-First Ecosystem"
           },
@@ -15342,7 +15424,13 @@
             "_key": "ygcvx0vue2",
             "description": "24×7 uptime with cloud/on-prem flexibility and disaster recovery support.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-233d02d6f494f4b8ead2b862b175ea09bf64d66a-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Availability"
           },
@@ -15350,7 +15438,13 @@
             "_key": "d053dyhr20",
             "description": "Biometric login, tokenization, audit logs, and compliance-first design.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c5a72caee660e958b8bce1c47d916d24904143f3-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Security & Governance"
           }
@@ -15363,25 +15457,49 @@
           {
             "_key": "xtv7jk2955",
             "description": "Continuous usage across services increases customer lifetime value.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-69317e6583c42777efe2dc469105df58c34fd23f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Higher Engagement"
           },
           {
             "_key": "g0jkc45vqy",
             "description": "Enable subscriptions, ecosystem monetization, and partner integrations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-149ecc1cc1bca9e4b8c3713f0c8dd9c3924e1a40-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "New Revenue Streams"
           },
           {
             "_key": "z61kpi8jly",
             "description": "Launch new features quickly with modular architecture.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e6dea03c43cbc22dae65c4e12533b9c052e6e96b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Go-To-Market"
           },
           {
             "_key": "2nu4fzhtg3",
             "description": "Evolve from product-based banking to ecosystem-driven engagement.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-65709f9f92df329b5b1f894cbd1422cd889bf99f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Platform-Led Growth"
           }
         ],
@@ -15423,7 +15541,13 @@
             "_key": "jabgrmdj6f",
             "description": "Deep understanding of banking, compliance, and migration challenges.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5ebce8b55657178dbc6c51e09486d83bdea38532-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Domain-Led Expertise"
           },
@@ -15431,7 +15555,13 @@
             "_key": "htje3vxr6i",
             "description": "Customized solutions aligned with your business goals and scale.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-580320dac7042726b344814fc03a8431cafd36bf-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Tailored Approach"
           },
@@ -15439,7 +15569,13 @@
             "_key": "38snwe45jg",
             "description": "Built to evolve with emerging fintech and customer expectations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f2574c0411b8977b323e5d522d8a0b10978e9591-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Future-Ready Platform"
           },
@@ -15447,7 +15583,13 @@
             "_key": "furuc2jf9x",
             "description": "Strong data integrity, security, and operational excellence.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a5d64ead3245274ffd1aa1fee31db4f89be597e5-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Trusted Foundation"
           }
