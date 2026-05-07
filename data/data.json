@@ -2454,15 +2454,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "piiLNOj3u9Wq2zYwg4Qrya",
+    "_rev": "j4WZNIGUzPsJcmnHbc00W3",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "GWOVDfiedfaJZayS3alpAF"
+        "rev": "piiLNOj3u9Wq2zYwg4Qrya"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:20:41Z",
+    "_updatedAt": "2026-05-07T04:52:05Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -2480,6 +2480,13 @@
         "cta": {
           "buttonLabel": "Explore the Platform",
           "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform...",
+          "icon": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
+              "_type": "reference"
+            }
+          },
           "isButtonVisible": true,
           "title": "Everything at your finger tip"
         },
@@ -2487,25 +2494,49 @@
           {
             "_key": "nyaen3ph3i",
             "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform built to transform traditional banking systems with intuitive digital capabilities.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1ec69055990bd21bb780a5857d3cd3d3b6c2f3da-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Plug into the Cloud-Native Core"
           },
           {
             "_key": "5frt95r88q",
             "description": "Experience immediate improvements in operational efficiency and productivity for your internal teams — without disruption.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3dfd33159397723e80a4e39361f65e10f70f9af8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Boost Internal Efficiency Instantly"
           },
           {
             "_key": "17r9v58am0",
             "description": "EasyBankCore® overlays your existing core and intelligently aggregates data from other systems to provide a unified digital experience.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-137e1b422922c908ffed426d8909f43af1788d22-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Overlay & Aggregate Seamlessly"
           },
           {
             "_key": "151smt17as",
             "description": "Add intelligent workflows and powerful digital tools to streamline daily operations across all banking departments.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-137e1b422922c908ffed426d8909f43af1788d22-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Enable Smarter Workflows"
           }
         ],
@@ -2645,25 +2676,49 @@
           {
             "_key": "umlitu8t7h",
             "description": "Targeted onboarding & segmentation",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-966964fe133ea8c8bb8396a1f2802fe6a63ef0a2-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Acquire"
           },
           {
             "_key": "9zpy420was",
             "description": "Fast-track first use with automation",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-406b9220e1cd27c63479555321e70572f61ffcf5-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Activate"
           },
           {
             "_key": "gtli019glx",
             "description": "Keep customers with value-driven insights",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3f228f12e57f04d3d71de25c15c674c46230c72e-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Retain"
           },
           {
             "_key": "tf9eq8fcmo",
             "description": "Cross-sell & up-sell at the right time",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4018fa5122df6c2940c68d6c1d1e2ad9a90ae6ae-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Expand"
           }
         ],
@@ -2691,6 +2746,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 1,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-65868d791e95dabce9e69d76d3f3f6a418c3cb08-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "cxc78tgjkk",
@@ -2710,7 +2772,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-41784bc5e48520c5c1ea8051d8321de4b0281757-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "59zi6essvk",
@@ -2740,7 +2808,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5a377980f0134c422d1a1a42b89400b457c9a892-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zcxdw40q01",
@@ -2760,7 +2834,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7f411f6fc7d8135467fc1b18453fff0b166d422c-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "lr7slkraxi",
@@ -2847,13 +2927,25 @@
           {
             "_key": "cpg46ojijb",
             "description": "EasyBankCore® is built ground-up with AI and ML at its core not as an add-on, but as the foundation of smarter banking.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-23c63c62369225e9995988cd82f6ac3f4a4168e6-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "AI/ML — Not Just Integrated, Built-In"
           },
           {
             "_key": "ai95zfwftt",
             "description": "From Credit Risk Analysis via ML models to UPI/IMPS Transaction Monitoring and AI-based OCR for KYC intelligence powers every layer.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1d701eaebf6888dfe15639332468c6d37a832ff3-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Real Use Cases. Real Intelligence."
           }
         ]
@@ -2881,13 +2973,25 @@
           {
             "_key": "bbqpe5a2qr",
             "description": "A comprehensive, region-specific reporting hub that simplifies the entire lifecycle — from data ingestion to STP submission.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3e0620d8be6d3744079bb3eb73f6b142d3ab610-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "End-to-End Regulatory Reporting, Streamlined"
           },
           {
             "_key": "8q5y572vg6",
             "description": "Modular, open architecture empowers banks to meet global regulatory requirements with accuracy, speed, and scalability.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-343e1e1a1112e3d932a1675ef7fd7ad06c8d6b6d-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Built for Compliance at Scale"
           }
         ]
