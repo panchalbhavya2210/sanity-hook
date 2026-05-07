@@ -12996,15 +12996,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "x9AkaoQOe6dzdFl4eHFWSU",
+    "_rev": "x9AkaoQOe6dzdFl4eHFcAL",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "zQBhq3UsEZ740ykqkLJ3Hm"
+        "rev": "x9AkaoQOe6dzdFl4eHFWSU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T05:12:11Z",
+    "_updatedAt": "2026-05-07T05:12:56Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -13494,26 +13494,6 @@
         "isTextWhite": true
       },
       {
-        "_key": "kv2oqsqkx7",
-        "_type": "imageSection",
-        "fullImageAlt": "picusm",
-        "fullImageSource": null,
-        "hasFullImage": true,
-        "id": "imageSection2",
-        "imageSource": [
-          {
-            "_key": "mjrjchj5px",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
-          },
-          {
-            "_key": "c7xiky3icz",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
-          }
-        ]
-      },
-      {
         "_key": "ejjy6wbb5k",
         "_type": "articlesSection",
         "articleSectionHeader": {
@@ -13607,27 +13587,6 @@
             "title": "Future-Proof Flexibility"
           }
         ]
-      },
-      {
-        "_key": "wq4w7g3b3k",
-        "_type": "imageSection",
-        "fullImageAlt": "picusm",
-        "fullImageSource": null,
-        "hasFullImage": false,
-        "id": "imageSection3",
-        "imageSource": [
-          {
-            "_key": "zplh9mm1p4",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
-          },
-          {
-            "_key": "rd601q02rz",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
-          }
-        ],
-        "isBgBlue": true
       },
       {
         "_key": "ymdn2gavrc",
