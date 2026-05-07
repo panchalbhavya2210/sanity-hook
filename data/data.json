@@ -15183,15 +15183,15 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "neBicO9iaKxCJYUMiElHRv",
+    "_rev": "j4WZNIGUzPsJcmnHbc7gsy",
     "_system": {
       "base": {
         "id": "risk-modeling",
-        "rev": "PkvfMuHikZ3PPrOYZrWswR"
+        "rev": "neBicO9iaKxCJYUMiElHRv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-02T08:43:15Z",
+    "_updatedAt": "2026-05-07T11:16:25Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
@@ -15231,6 +15231,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -15300,6 +15301,7 @@
         "features": [
           {
             "_key": "41osbmyyye",
+            "description": "Static checks run in intervals instead of real-time, missing critical fraud windows.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -15461,7 +15463,13 @@
             "description": "Continuously track all transactions and account activities without delay.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d8160f7eed923109bf586427e5eb366a7c0d526d-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "17y1xho6f9",
@@ -15479,7 +15487,13 @@
             "_key": "1h9ur6qwqm",
             "description": "Automatically validate every event against RBI fraud and audit guidelines.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-daee79ae3e67d1dead5fae5f79731b9b078c5a69-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zwn9wz7j20",
@@ -15497,7 +15511,13 @@
             "_key": "p2maz0rkc9",
             "description": "Flag suspicious patterns and anomalies instantly before escalation.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-42136cfa5cd605b1b1a3cb6fa24a16f32f3f8757-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "bx0uhn2jge",
@@ -15520,7 +15540,13 @@
             "_key": "y580g3re0m",
             "description": "Works with core banking systems without disrupting existing operations.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9a95fb6f80f9a567abde6a757c8d976573d3917a-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "8wecm1pco9",
@@ -15622,7 +15648,13 @@
             "_key": "zl6wyf2gcz",
             "description": "Monitor all transactions continuously and detect anomalies across accounts and channels.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d98d5cf1015084756af568c5cc6611d2c96c54f9-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Transaction Surveillance"
           },
@@ -15630,7 +15662,13 @@
             "_key": "d4ucn6i3fh",
             "description": "Combine AI models and rules-based logic to identify unusual behavior and reduce false positives.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aa2848985d3e013aab25d4e8bd5c0d2639f4cdcd-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Dynamic Fraud Detection Engine"
           },
@@ -15638,7 +15676,13 @@
             "_key": "wpjqlybgl5",
             "description": "Assign risk scores to every transaction and prioritize high-risk cases for investigation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-27d44fda112482b3fb95f65785c3b51138b89a37-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Risk Scoring System"
           },
@@ -15646,7 +15690,13 @@
             "_key": "9dscy3ies2",
             "description": "Maintain detailed logs for transparency, traceability, and RBI audit readiness.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c98563b9ec9ef08a1a4669e59c83e679c6bb2b1a-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Audit Trail & Reporting"
           },
@@ -15654,7 +15704,13 @@
             "_key": "0ylsbgsb0f",
             "description": "Trigger instant alerts to compliance teams for quick action.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cdf794ba1d34f3d41acda457a9cdfd53a2ea538f-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Alerts"
           },
@@ -15662,7 +15718,13 @@
             "_key": "o09fi3padv",
             "description": "Seamlessly connect with CBS systems for unified fraud monitoring.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-77ea4805757d0ca79f6da8a265c17808ae7c550e-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Core Banking Integration"
           }
@@ -15806,7 +15868,13 @@
             "_key": "dg0d5g70ok",
             "description": "Understand why a transaction was flagged with transparent AI decisions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d67208721132fe0b7fe512c022a5238cc117ab99-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Explainable Intelligence"
           },
@@ -15814,7 +15882,13 @@
             "_key": "bjkbc8mhuy",
             "description": "Use deep learning and hybrid models for higher accuracy and adaptability.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cfa2d08ed8885ee6e81974dfa06cff211ed7be09-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Advanced AI Models"
           },
@@ -15822,7 +15896,13 @@
             "_key": "qatixpr3nv",
             "description": "Detect global fraud patterns with shared data and blockchain integration.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0a92a59990cf89acc90e61627d20d5f28b10cf65-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Cross-Border Intelligence"
           },
@@ -15830,7 +15910,13 @@
             "_key": "8ljimrihma",
             "description": "Use typing patterns, touch behavior, and user activity for identity validation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-34560357b7c1f14a1aadfc4d794207b94363bf9d-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Behavioral Biometrics"
           }
