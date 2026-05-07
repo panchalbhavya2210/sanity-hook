@@ -14928,15 +14928,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "j4WZNIGUzPsJcmnHbc1IDG",
+    "_rev": "x9AkaoQOe6dzdFl4eHQpen",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "x9AkaoQOe6dzdFl4eHNniV"
+        "rev": "j4WZNIGUzPsJcmnHbc1IDG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T06:49:59Z",
+    "_updatedAt": "2026-05-07T06:59:21Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -14996,6 +14996,7 @@
                 "_type": "reference"
               }
             },
+            "isReversed": true,
             "title": "Smart Banking"
           },
           {
@@ -15009,6 +15010,7 @@
                 "_type": "reference"
               }
             },
+            "isReversed": true,
             "title": "Card Services"
           },
           {
@@ -15023,6 +15025,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Deposits & Loans"
           },
           {
@@ -15037,6 +15040,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Bill Payments"
           }
         ]
@@ -15103,6 +15107,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Investments"
           },
           {
@@ -15117,6 +15122,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "IPO Access"
           },
           {
@@ -15131,6 +15137,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Lifestyle & Shopping"
           },
           {
@@ -15144,6 +15151,7 @@
                 "_type": "reference"
               }
             },
+            "isReversed": true,
             "title": "Business & SME"
           }
         ]
