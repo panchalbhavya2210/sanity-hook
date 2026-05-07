@@ -610,6 +610,387 @@
     ]
   },
   {
+    "_createdAt": "2026-05-07T10:06:06Z",
+    "_id": "aml-kyc",
+    "_rev": "j4WZNIGUzPsJcmnHbc6JGG",
+    "_type": "productPages",
+    "_updatedAt": "2026-05-07T10:06:06Z",
+    "sections": [
+      {
+        "_key": "m5qiekrpne",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time — ensuring compliance, accuracy, and zero manual effort.",
+        "title": "AI-Powered KYC. Instant. Intelligent. Secure."
+      },
+      {
+        "_key": "jwr2h5sc3o",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "apk4cfde7w",
+                "color": "text-black",
+                "text": "Why "
+              },
+              {
+                "_key": "a9685ewjjh",
+                "color": "text-brand-600",
+                "text": "Traditional KYC "
+              },
+              {
+                "_key": "7gkxmr7oyl",
+                "color": "text-warning",
+                "text": "Slows "
+              },
+              {
+                "_key": "c2kk98dbtw",
+                "color": "text-black",
+                "text": "You Down"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "17l9pwlkgu",
+            "description": "Manual verification and repetitive workflows delay approvals and increase drop-offs.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Slow Onboarding"
+          },
+          {
+            "_key": "hhpknrw5rc",
+            "description": "Teams spend hours reviewing documents, increasing cost and reducing efficiency.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Operational Costs"
+          },
+          {
+            "_key": "u52y7zym44",
+            "description": "Delayed or inconsistent checks can lead to penalties and audit failures.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Compliance Risks"
+          },
+          {
+            "_key": "c2o8ko6eto",
+            "description": "Disconnected tools create data silos and reduce accuracy across processes.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fragmented Systems"
+          }
+        ]
+      },
+      {
+        "_key": "3omh526kx3",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "RAI enables instant onboarding, proactive compliance, and fraud prevention at scale.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "0p5poil9np",
+                "color": "text-white",
+                "text": "Why AI-Powered KYC"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles6",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "lckwhw5qdt",
+            "description": "Reduce verification time from days to seconds with AI automation.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Faster Onboarding"
+          },
+          {
+            "_key": "d42d70svzw",
+            "description": "Detect forged or tampered documents instantly using AI models.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Proactive Fraud Detection"
+          },
+          {
+            "_key": "02jfo5aiew",
+            "description": "Stay compliant with evolving KYC/AML regulations automatically.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Regulatory Agility"
+          },
+          {
+            "_key": "zta2pcvzti",
+            "description": "Reduce manual workload and allow teams to focus on high-risk cases.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Operational Efficiency"
+          }
+        ]
+      },
+      {
+        "_key": "7ya89f7yw8",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "422ts41qas",
+            "description": "Capture and digitize documents from multiple formats and sources.",
+            "icon": null,
+            "title": "Smart Document Capture"
+          },
+          {
+            "_key": "19xywivzur",
+            "description": "Verify identity data instantly against trusted databases.",
+            "icon": null,
+            "title": "Real-Time Validation"
+          },
+          {
+            "_key": "so0vwvhy2q",
+            "description": "Analyze patterns and detect inconsistencies automatically.",
+            "icon": null,
+            "title": "AI Decision Engine"
+          },
+          {
+            "_key": "0x6y9td07j",
+            "description": "Ensure compliance and accuracy throughout the lifecycle.",
+            "icon": null,
+            "title": "Continuous Monitoring"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "yp0l4nkk75",
+            "color": "text-brand-600",
+            "text": "Intelligent KYC Platform"
+          },
+          {
+            "_key": "okatqk3j6t",
+            "color": "text-black",
+            "text": "Traditional "
+          }
+        ]
+      },
+      {
+        "_key": "c03kdq2w5w",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Advanced AI and ML models power every stage — from extraction to verification.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "4j38m7g4id",
+                "color": "text-white",
+                "text": "AI at Every Step of KYC"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "majvwo6oq0",
+            "description": "Extract data from passports, IDs, and documents — even with poor quality or complex formats.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Intelligent OCR & Extraction"
+          },
+          {
+            "_key": "ipa37q8wmj",
+            "description": "Detect tampering and validate authenticity using computer vision models.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Document Verification"
+          },
+          {
+            "_key": "hn5nphbbyx",
+            "description": "Cross-check data with KYC/AML rules and institutional policies in real time.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Automated Regulatory Validation"
+          },
+          {
+            "_key": "25yuk71laz",
+            "description": "Assign risk scores using ML and flag high-risk profiles instantly. Maintain complete logs for transparency, traceability, and audit readiness.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Dynamic Risk Assessment & Audit Trail"
+          }
+        ]
+      },
+      {
+        "_key": "1a518qi735",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "d02djhmvil",
+            "description": "Reduce processing time dramatically with automation.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "lzmppbxmxm",
+                "color": "text-brand-600",
+                "text": "90% Faster "
+              },
+              {
+                "_key": "q7tlweahh6",
+                "color": "text-black",
+                "text": "Onboarding"
+              }
+            ]
+          },
+          {
+            "_key": "he6afsruue",
+            "description": "Minimize manual effort and operational overhead.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "vzpk6pgo6b",
+                "color": "text-black",
+                "text": "Lower "
+              },
+              {
+                "_key": "0osbs5ehpd",
+                "color": "text-warning",
+                "text": "Compliance "
+              },
+              {
+                "_key": "s1tr48ktmw",
+                "color": "text-black",
+                "text": "Costs"
+              }
+            ]
+          },
+          {
+            "_key": "ylgf2ys194",
+            "description": "Build customer confidence with secure and transparent processes.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "p3551cl53w",
+                "color": "text-black",
+                "text": "Increased "
+              },
+              {
+                "_key": "fjog2gsgzh",
+                "color": "text-success",
+                "text": "Trust"
+              }
+            ]
+          },
+          {
+            "_key": "f22q5beisb",
+            "description": "Maintain full visibility and compliance at all times.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "nawfvlkkdq",
+                "color": "text-brand-600",
+                "text": "Audit-Ready "
+              },
+              {
+                "_key": "b7ilfrjg7s",
+                "color": "text-black",
+                "text": "Systems"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Deliver faster onboarding, lower costs, and stronger compliance with AI-driven KYC",
+          "text": {
+            "title": [
+              {
+                "_key": "kngfyj5si0",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "rrnif8yfj5",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Go beyond automation — build a real-time, intelligent compliance system that scales with your business and keeps you ahead of regulatory challenges.",
+        "titleParts": [
+          {
+            "_key": "o9ddvcykap",
+            "color": "text-brand-600",
+            "text": "Redefine KYC with AI"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time — ensuring compliance, accuracy, and zero manual effort.",
+      "image": null,
+      "keywords": [
+        "NACH signing tool",
+        "digital signature",
+        "NPCI compliance",
+        "banking automation",
+        "file signing"
+      ],
+      "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
+      "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
+      "title": "AI-Powered KYC. Instant. Intelligent. Secure.",
+      "url": "https://yourdomain.com/products/nach-signin-tool"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "aml-kyc"
+    },
+    "title": "Aml Kyc"
+  },
+  {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
     "_rev": "ZcJhm7Cr2zfVlbDl948Ryt",
@@ -2450,6 +2831,579 @@
       }
     ],
     "title": "Case Studies"
+  },
+  {
+    "_createdAt": "2026-05-07T10:06:08Z",
+    "_id": "chat-bot",
+    "_rev": "x9AkaoQOe6dzdFl4eI3UZr",
+    "_type": "productPages",
+    "_updatedAt": "2026-05-07T10:06:08Z",
+    "sections": [
+      {
+        "_key": "ay1kev2bsv",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels — 24×7.",
+        "title": "AI-Powered Virtual Banking Assistant"
+      },
+      {
+        "_key": "i82uknk60m",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Modern customers expect instant, personalized, and seamless support — but legacy systems struggle to keep up.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "luc69016dd",
+                "color": "text-whtie",
+                "text": "Why Traditional Banking Support Fails "
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "5f5azbbwue",
+            "description": "Customers wait too long even for simple requests like balance checks or card queries.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Slow Response Times"
+          },
+          {
+            "_key": "fv0q1m8qei",
+            "description": "Limited multilingual support excludes large regional audiences from digital banking.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Language Barriers"
+          },
+          {
+            "_key": "t6gu7uv2c1",
+            "description": "Rule-based bots fail to understand real conversations and provide contextual responses.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Rigid Chatbots"
+          },
+          {
+            "_key": "oqi1heoyod",
+            "description": "Disconnected systems across web, mobile, and messaging break user journeys.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fragmented Experience"
+          }
+        ]
+      },
+      {
+        "_key": "jzeehksom0",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "lxf4apkh4r",
+            "description": "ils to understand user intent beyond predefined commands.",
+            "icon": null,
+            "title": "No AI Intent Detection"
+          },
+          {
+            "_key": "cc30r4n33f",
+            "description": "Does not improve with usage or past interactions.",
+            "icon": null,
+            "title": "No Learning Mechanism"
+          },
+          {
+            "_key": "p7k2whcfvg",
+            "description": "Limited connectivity with core banking systems and APIs.",
+            "icon": null,
+            "title": "Weak Integrations"
+          },
+          {
+            "_key": "nlherlsp6v",
+            "description": "OTP flows are often clunky, slow, and not user-friendly.",
+            "icon": null,
+            "title": "Inefficient Authentication"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Traditional chatbot and support systems are not built for intelligent, conversational banking.",
+          "text": {
+            "title": [
+              {
+                "_key": "tkpa8u07py",
+                "color": "text-white",
+                "text": "System Gaps: Where Existing Systems Break"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "wrcmhk9a4p",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "A next-gen AI-powered chatbot that transforms banking interactions into seamless, conversational experiences.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "n2reuwi4o1",
+                "color": "text-black",
+                "text": "Meet ENViA – Your Intelligent Banking Assistant"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "wkc2r0v0js",
+            "description": "Understands natural language and responds like a human assistant.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Conversational AI"
+          },
+          {
+            "_key": "b8uq8ig40q",
+            "description": "Engages users in multiple regional languages for inclusive banking.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Multilingual Support"
+          },
+          {
+            "_key": "qbc2d0un5n",
+            "description": "Handles account-related services with safe authentication flows.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Secure Interactions"
+          },
+          {
+            "_key": "2rq95oobtn",
+            "description": "Reduces operational costs by automating customer support.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cost Optimization"
+          }
+        ]
+      },
+      {
+        "_key": "2fx9b9u719",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "grn1ftnqn9",
+            "description": "Enable instant communication across all channels and devices.",
+            "icon": null,
+            "title": "Real-Time Interactions"
+          },
+          {
+            "_key": "ea3goxyojm",
+            "description": "Support multilingual users for wider reach and accessibility.",
+            "icon": null,
+            "title": "Inclusive Conversations"
+          },
+          {
+            "_key": "xx79ud4j0m",
+            "description": "Use NLP and ML for contextual and accurate responses.",
+            "icon": null,
+            "title": "AI-Powered Understanding"
+          },
+          {
+            "_key": "34z81nnys9",
+            "description": "Reduce manual effort with intelligent routing and workflows.",
+            "icon": null,
+            "title": "Process Automation"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "1ps08bn7pd",
+            "color": "text-black",
+            "text": "Built for Modern Banking Needs"
+          }
+        ]
+      },
+      {
+        "_key": "7l0kosv68l",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Advanced AI and ML models power every stage — from extraction to verification.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "05cj801mn1",
+                "color": "text-white",
+                "text": "Powerful Features That Drive Engagement"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "0ciyrtx7fw",
+            "description": "Greets users with guided menus, combining text and button interactions for easy navigation and faster adoption.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Onboarding Experience"
+          },
+          {
+            "_key": "p3af2gp5b1",
+            "description": "Identifies user needs instantly whether checking balance, applying for loans, or updating details and responds accordingly.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Intelligent Intent Recognition"
+          },
+          {
+            "_key": "wom9d5s5m7",
+            "description": "Supports OTP-based verification for sensitive actions while maintaining seamless user flow.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Secure Authentication Layer"
+          },
+          {
+            "_key": "1asrh08oxw",
+            "description": "Handles general queries like offers, rates, and information without requiring authentication.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Instant Non-Login Services"
+          },
+          {
+            "_key": "ia1ir5xba0",
+            "description": "Understands mixed-language inputs like Hindi-English or regional phrases and responds intelligently.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Multilingual & Natural Language"
+          },
+          {
+            "_key": "04mhv7a5z5",
+            "description": "Detects incorrect inputs and helps users complete actions smoothly without frustration.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Guided Error Handling"
+          },
+          {
+            "_key": "h7os7nlchb",
+            "description": "Automatically redirects users to relevant next steps, ensuring uninterrupted journeys.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Continuous Navigation Flow"
+          },
+          {
+            "_key": "1c623k1qoy",
+            "description": "Provides a familiar chat interface that feels natural and easy to use across platforms.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "WhatsApp-Like Experience"
+          }
+        ]
+      },
+      {
+        "_key": "9ee50snjh0",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "kyion63usa",
+            "description": "Robust and flexible core development environment.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "dcsg6xlgmx",
+                "color": "text-brand-600",
+                "text": "Python-Based "
+              },
+              {
+                "_key": "bg6n5y2uq5",
+                "color": "text-black",
+                "text": "Backend"
+              }
+            ]
+          },
+          {
+            "_key": "57fj4zh3hm",
+            "description": "High-performance APIs for real-time interactions.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "jljfi20zi8",
+                "color": "text-warning",
+                "text": "FastAPI "
+              },
+              {
+                "_key": "wteaj56qn9",
+                "color": "text-black",
+                "text": "Framework "
+              }
+            ]
+          },
+          {
+            "_key": "55p1jwbdwy",
+            "description": "Power intelligent classification and predictions.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "x8hpwrk11c",
+                "color": "text-success",
+                "text": "Machine Learning "
+              },
+              {
+                "_key": "s2msgy7gv1",
+                "color": "text-black",
+                "text": "Models"
+              }
+            ]
+          },
+          {
+            "_key": "qlnx6xp5bz",
+            "description": "Enable human-like conversations and responses.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "nizxwlkwp9",
+                "color": "text-brand-600",
+                "text": "Large Language "
+              },
+              {
+                "_key": "35m38fogi5",
+                "color": "text-black",
+                "text": "Models"
+              }
+            ]
+          },
+          {
+            "_key": "a0z5tnuy0r",
+            "description": "Seamlessly integrates with core banking systems.",
+            "id": 5,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "09kuu4yfcd",
+                "color": "text-black",
+                "text": "Secure "
+              },
+              {
+                "_key": "9q22x05vz6",
+                "color": "text-success",
+                "text": "API Layer"
+              }
+            ]
+          },
+          {
+            "_key": "iu33oe136j",
+            "description": "Delivers real-time chat experiences across channels.",
+            "id": 6,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "1tymlhhz8u",
+                "color": "text-brand-600",
+                "text": "WhatsApp "
+              },
+              {
+                "_key": "i6tut2pru",
+                "color": "text-black",
+                "text": "Integration"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Modern, modular tech stack designed for performance, security, and scalability.",
+          "text": {
+            "title": [
+              {
+                "_key": "dvr2b3ctqm",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "vwq305i4o6",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite3",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "vibapyfjin",
+            "description": "Cuts up to 60% of manual customer service queries.",
+            "icon": null,
+            "title": "Reduced Support Load"
+          },
+          {
+            "_key": "jf4m6ou2h3",
+            "description": "Instant replies improve customer satisfaction.",
+            "icon": null,
+            "title": "Faster Response Time"
+          },
+          {
+            "_key": "9hc96ghasq",
+            "description": "Automation reduces dependency on human agents.",
+            "icon": null,
+            "title": "Lower Operational Costs"
+          },
+          {
+            "_key": "rv5or8et7v",
+            "description": "Improves retention through personalized conversations.",
+            "icon": null,
+            "title": "Higher Engagement"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Transform customer engagement while reducing cost and complexity.",
+          "text": {
+            "title": [
+              {
+                "_key": "5y0y138cmo",
+                "color": "text-white",
+                "text": "Real Impact on Banking Operations"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "5klj864qlx",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "Turn everyday banking into a simple, intuitive, and engaging experience powered by AI.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "xd6uyzgsxw",
+                "color": "text-white",
+                "text": "Banking, Reimagined Through Conversations"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "o1ckx6duer",
+            "description": "Feels like chatting with a real assistant.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Human-Like Interaction"
+          },
+          {
+            "_key": "2vdk87vjlj",
+            "description": " No waiting, no friction.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Instant Service Delivery"
+          },
+          {
+            "_key": "60jkfz0qwf",
+            "description": "Trust built into every interaction.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Secure & Reliable"
+          },
+          {
+            "_key": "9c9lmlxjcc",
+            "description": "Available across devices and platforms.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Accessible Anywhere"
+          }
+        ]
+      },
+      {
+        "_key": "r8w30pobdr",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Deliver intelligent, multilingual, and secure banking experiences that scale with your customers’ needs.",
+        "titleParts": [
+          {
+            "_key": "m9zdvgp121",
+            "color": "text-brand-600",
+            "text": "Transform Customer Engagement with ENViA"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels — 24×7.",
+      "image": null,
+      "keywords": [
+        "NACH signing tool",
+        "digital signature",
+        "NPCI compliance",
+        "banking automation",
+        "file signing"
+      ],
+      "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
+      "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
+      "title": "AI-Powered Virtual Banking Assistant.",
+      "url": "https://yourdomain.com/products/nach-signin-tool"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "chat-bot"
+    },
+    "title": "Chat Bot"
   },
   {
     "_createdAt": "2026-04-14T05:38:29Z",
