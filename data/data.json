@@ -14928,23 +14928,44 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "j4WZNIGUzPsJcmnHbc0ikT",
+    "_rev": "j4WZNIGUzPsJcmnHbc0v9L",
+    "_system": {
+      "base": {
+        "id": "super-app",
+        "rev": "j4WZNIGUzPsJcmnHbc0ikT"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T06:12:11Z",
+    "_updatedAt": "2026-05-07T06:25:41Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-b9d551795255513d0a891485d845cd079772d7d6-199x44-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-597aaf19f62b96134bfb23f56dd77a66f3c822ec-680x672-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration—ensuring security, compliance, and operational efficiency.",
-        "title": "Secure, Automated & NPCI-Compliant File Signing"
+        "title": "Secure, Automated & NPCI-Compliant File Signing",
+        "variant": "split"
       },
       {
         "_key": "9ou7bohxco",
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
           "subTitleClassName": "",
           "text": {
@@ -14967,23 +14988,39 @@
             "_key": "7mkgrtrg13",
             "description": "Manage balances, transactions, statements, and multiple accounts with full control anytime, anywhere. Supports NEFT, RTGS, IMPS, and UPI for seamless transfers.",
             "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1dded938171de1fed0f2b4bf13bece7f08964f9b-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Smart Banking"
           },
           {
             "_key": "pduj5vxlqe",
             "description": "Apply, manage, block/unblock cards, set limits, and generate virtual cards instantly — all from one interface.",
             "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-01d508b4ed2a3049cf4d73da9c8b8d7fe27559d3-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Card Services"
           },
           {
             "_key": "vi5mazo52r",
             "description": "Open FDs/RDs, explore pre-approved loans, and track EMIs with built-in calculators for smarter decisions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3f9b248b3574cb5cb23e4066f96b2fd481cb4a58-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Deposits & Loans"
           },
@@ -14991,7 +15028,13 @@
             "_key": "g51aqvv4u9",
             "description": "Pay utility bills, recharge services, and manage recurring payments through integrated BBPS system.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4b30e5369e2b09c0ce9b0c65dbe752a676495a4d-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Bill Payments"
           }
@@ -15001,19 +15044,30 @@
         "_key": "njsr0ab6xb",
         "_type": "imageSection",
         "fullImageAlt": "picsum",
-        "fullImageSource": null,
         "hasFullImage": false,
         "id": "imageSection4",
         "imageSource": [
           {
             "_key": "0nfv6j6gn0",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-37d2474754187bc820b5aea60a654d5dc501f59d-945x821-webp",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "f3eoqk1crv",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fead30f248db437f380256b14179e7ab7627124-945x821-webp",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "isBgBlue": true
@@ -15201,12 +15255,9 @@
               "title": "Continuous engagement & monetization"
             }
           ],
-          "logo": "/icons/bank-core.png",
-          "sideIcon": "/icons/acute.png",
           "title": "After: EasyBankCore®"
         },
         "bankingHeader": {
-          "icon": null,
           "subTitle": "Legacy apps are limited. Super App unlocks a complete ecosystem.",
           "text": {
             "title": [
@@ -15434,7 +15485,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "super-app"
+      "current": "products/super-app"
     },
     "title": "Super App"
   },
