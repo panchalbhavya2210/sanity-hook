@@ -14928,15 +14928,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "piiLNOj3u9Wq2zYwg4QrCm",
+    "_rev": "x9AkaoQOe6dzdFl4eHGY2j",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "bKHpsvURqF4u6lEZfN89B9"
+        "rev": "piiLNOj3u9Wq2zYwg4QrCm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:20:26Z",
+    "_updatedAt": "2026-05-07T05:25:39Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -14944,9 +14944,24 @@
         "cta": {
           "label": "Start Digital Onboarding"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-92498f2d1cc27b376977affb58eb1213c4e03c2e-1140x620-png",
+            "_type": "reference"
+          }
+        },
         "id": "Hero",
-        "subtitle": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
-        "title": "Deliver Banking Without Boundaries"
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-f8b5649242e0317f6cd7e952d8b47fab4dfc80bc-2380x2380-webp",
+            "_type": "reference"
+          }
+        },
+        "subtitle": "MobiProPlus enables banks to bring secure, paperless banking directly to customers through tablet-powered field operations. From instant \naccount opening to document verification and doorstep banking, everything can be completed in minutes.",
+        "title": "Deliver Digital DoorStep Banking Without Boundaries",
+        "variant": "split"
       },
       {
         "_key": "kpz71k8g7a",
@@ -14955,25 +14970,49 @@
           {
             "_key": "jhki3lekx2",
             "description": "Eliminate forms and manual documentation with fully digital onboarding.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-723863d1274a8544af8029e8fa4539150fc1e264-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Paperless Banking"
           },
           {
             "_key": "afkbqia7kn",
             "description": "Open and activate accounts within minutes.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e2e066bf7c9d0a916b4189f6d62f694fb6c992e8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Instant Customer Activation"
           },
           {
             "_key": "b07ngt0kv7",
             "description": "Extend banking services to rural and semi-urban locations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1411be806d2cde638b87323289f7857ff8c35f83-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reach Remote Communities"
           },
           {
             "_key": "zw3ri2y6q2",
             "description": "Field agents deliver banking services using secure tablets.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e285a13715f4b99568397c5a43c36165ff5f0cb0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Mobility-First Platform"
           }
         ],
@@ -15025,7 +15064,13 @@
             "hasList": true,
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-406a8e0a9d5df88837fc7d74bcf06126349f6939-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "nfu57wfs7k",
@@ -15050,7 +15095,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-769a3ee591fd8c8d798e9b2c11909348c34d1f73-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "trardjuifc",
@@ -15080,7 +15131,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d5ef429e1c857e66a33258f37a4e9f433d031d7f-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "divp5udth1",
@@ -15105,7 +15162,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3f322d6f3b54816fe387296afd856a0e7d99ca39-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "9o9l8vi9vm",
@@ -15163,25 +15226,49 @@
           {
             "_key": "jxh5602ptl",
             "description": "Continuous data sync with Core Banking Systems.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6789ad9381ca67da2d62a852af62e191bd2ab7b3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Real-Time Synchronization"
           },
           {
             "_key": "u45si6lsb3",
             "description": "Agents can work even in low-network areas with queued sync.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a5980a05bf12f0c7a74ec5bd22776f6f0dc5b865-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Offline Data Capture"
           },
           {
             "_key": "h0723bb3wq",
             "description": "Seamless integration with CBS and banking platforms.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6d080d192de5cfb1a391e379b7cd4390b3160176-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Secure API Integration"
           },
           {
             "_key": "g4ygkndk0r",
             "description": "Transactions and onboarding validated in real time.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fce7c7b64c36e232b5bc695fc08e3333adf98676-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Instant Validation"
           }
         ],
@@ -15286,7 +15373,13 @@
             "_key": "b3n4n0c5wu",
             "description": "Monitor performance across field teams.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3c62db749ec6271df4dbe7fc5bad4a9a59579de-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Agent Productivity Tracking"
           },
@@ -15294,7 +15387,13 @@
             "_key": "edqncpk9pg",
             "description": "Review and approve submitted documents instantly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3a2bb30ec03bb79f247cf17ef854535734a3c604-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Document Validation"
           },
@@ -15302,7 +15401,13 @@
             "_key": "vupfxjl10i",
             "description": "Receive alerts for approvals and actions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e0f73117c675e19681e75d9f3d91c52cc3844a03-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Workflow Notifications"
           },
@@ -15310,7 +15415,13 @@
             "_key": "pauyh0wzhq",
             "description": "Gain insights from real-time MIS dashboards.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ec486187c1193b4dbe448aeadee99cb739914b23-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Data-Driven Decisions"
           }
@@ -15336,19 +15447,37 @@
           {
             "_key": "83q53f6cmu",
             "description": "Onboard customers in minutes instead of days.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d216af46b55509d41807691ec8fee1fe101c2f33-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Turnaround Time"
           },
           {
             "_key": "pjuh8kf97o",
             "description": "Reduce paperwork, branches, and manual effort.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f5222d84c1f45188885a3996e1dd69863aa21a64-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lower Operational Cost"
           },
           {
             "_key": "zh7ymz72id",
             "description": "Deliver digital banking services anywhere.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6410a4ec6ba77ba053e65e9451b82ef4155e0e1e-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Better Customer Experience"
           }
         ]
