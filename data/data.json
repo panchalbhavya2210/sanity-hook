@@ -612,16 +612,31 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "j4WZNIGUzPsJcmnHbc6JGG",
+    "_rev": "x9AkaoQOe6dzdFl4eI83N7",
+    "_system": {
+      "base": {
+        "id": "aml-kyc",
+        "rev": "j4WZNIGUzPsJcmnHbc6JGG"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T10:06:06Z",
+    "_updatedAt": "2026-05-07T10:31:29Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-816ddbad372416379cd6dff89a92736da4521ea2-728x672-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time — ensuring compliance, accuracy, and zero manual effort.",
-        "title": "AI-Powered KYC. Instant. Intelligent. Secure."
+        "title": "AI-Powered KYC. Instant. Intelligent. Secure.",
+        "variant": "split"
       },
       {
         "_key": "jwr2h5sc3o",
@@ -665,7 +680,13 @@
             "_key": "17l9pwlkgu",
             "description": "Manual verification and repetitive workflows delay approvals and increase drop-offs.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e0e23fda587fe9ae719f3b992a4e8806fc5a4a82-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Slow Onboarding"
           },
@@ -673,7 +694,13 @@
             "_key": "hhpknrw5rc",
             "description": "Teams spend hours reviewing documents, increasing cost and reducing efficiency.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-28b0dabb25fce77d643ac5717a1a97249f99ee5c-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Operational Costs"
           },
@@ -681,7 +708,13 @@
             "_key": "u52y7zym44",
             "description": "Delayed or inconsistent checks can lead to penalties and audit failures.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-858058b3a38da9bace8cec3dd947963bc7d3fbc6-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Compliance Risks"
           },
@@ -689,7 +722,13 @@
             "_key": "c2o8ko6eto",
             "description": "Disconnected tools create data silos and reduce accuracy across processes.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2da3fd6768fb71d5f2ca49fcbfde33b2725b75df-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fragmented Systems"
           }
@@ -722,7 +761,13 @@
             "_key": "lckwhw5qdt",
             "description": "Reduce verification time from days to seconds with AI automation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-47168f409d0c9671479b1e53ab6e8d39a7cd4b92-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Faster Onboarding"
           },
@@ -730,7 +775,13 @@
             "_key": "d42d70svzw",
             "description": "Detect forged or tampered documents instantly using AI models.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cb3792a241d0a44d092999912dade9caef72e196-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Proactive Fraud Detection"
           },
@@ -738,7 +789,13 @@
             "_key": "02jfo5aiew",
             "description": "Stay compliant with evolving KYC/AML regulations automatically.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0c2eec6c03de9f9345f21537f0eab02d25940466-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Regulatory Agility"
           },
@@ -746,7 +803,13 @@
             "_key": "zta2pcvzti",
             "description": "Reduce manual workload and allow teams to focus on high-risk cases.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8e060df1282a18bdb34f8f06bdd95606f0538017-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Operational Efficiency"
           }
@@ -759,25 +822,49 @@
           {
             "_key": "422ts41qas",
             "description": "Capture and digitize documents from multiple formats and sources.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-98a5c4c4000ffc21daa79e54a9b7c136e9e50693-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Smart Document Capture"
           },
           {
             "_key": "19xywivzur",
             "description": "Verify identity data instantly against trusted databases.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e127ea1ecc257a3d5bef3e224de7675468ab6fb7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Real-Time Validation"
           },
           {
             "_key": "so0vwvhy2q",
             "description": "Analyze patterns and detect inconsistencies automatically.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b31855e12671803eefd9643a17e69c9fc67e0957-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "AI Decision Engine"
           },
           {
             "_key": "0x6y9td07j",
             "description": "Ensure compliance and accuracy throughout the lifecycle.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aefb18e9bfc648e6d727b6146d07b3a0100f9540-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Continuous Monitoring"
           }
         ],
@@ -823,7 +910,13 @@
             "_key": "majvwo6oq0",
             "description": "Extract data from passports, IDs, and documents — even with poor quality or complex formats.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8d7b476042ebaa9307d9649b93e7e463f3b38ab8-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Intelligent OCR & Extraction"
           },
@@ -831,7 +924,13 @@
             "_key": "ipa37q8wmj",
             "description": "Detect tampering and validate authenticity using computer vision models.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1786a882acda7accf73710080558f9e103d4c89-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Document Verification"
           },
@@ -839,7 +938,13 @@
             "_key": "hn5nphbbyx",
             "description": "Cross-check data with KYC/AML rules and institutional policies in real time.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-003fd4080d330ab5c2168cbb216f1e896371d678-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Automated Regulatory Validation"
           },
@@ -847,7 +952,13 @@
             "_key": "25yuk71laz",
             "description": "Assign risk scores using ML and flag high-risk profiles instantly. Maintain complete logs for transparency, traceability, and audit readiness.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6a3dc415b4c5ae423f0d5b725b0fcd242b69f918-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Dynamic Risk Assessment & Audit Trail"
           }
@@ -862,7 +973,13 @@
             "description": "Reduce processing time dramatically with automation.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-97889be60a06b53b008c29e26932cfbe899b14c8-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "lzmppbxmxm",
@@ -880,7 +997,13 @@
             "_key": "he6afsruue",
             "description": "Minimize manual effort and operational overhead.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-058c704b776b09bec983629ed97aaf501e98805e-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "vzpk6pgo6b",
@@ -903,7 +1026,13 @@
             "_key": "ylgf2ys194",
             "description": "Build customer confidence with secure and transparent processes.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad5305ce3da3e870ded2c262d7dbd7ae6e772b38-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "p3551cl53w",
@@ -921,7 +1050,13 @@
             "_key": "f22q5beisb",
             "description": "Maintain full visibility and compliance at all times.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0c8ab41709c55f471ba9b031374d1b4830fa9caa-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "nawfvlkkdq",
@@ -940,14 +1075,31 @@
         "id": "platformCapabilities1",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
           "subTitle": "Deliver faster onboarding, lower costs, and stronger compliance with AI-driven KYC",
           "text": {
             "title": [
               {
                 "_key": "kngfyj5si0",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Measurable "
+              },
+              {
+                "_key": "6683fbe83f69",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Results. "
+              },
+              {
+                "_key": "eef011167cfb",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Real "
+              },
+              {
+                "_key": "f7571da6e83c",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Impact."
               }
             ],
             "variant": "h1"
