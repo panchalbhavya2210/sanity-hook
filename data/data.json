@@ -14926,6 +14926,519 @@
     "title": "Staff Augmentation"
   },
   {
+    "_createdAt": "2026-05-07T06:12:11Z",
+    "_id": "super-app",
+    "_rev": "j4WZNIGUzPsJcmnHbc0ikT",
+    "_type": "productPages",
+    "_updatedAt": "2026-05-07T06:12:11Z",
+    "sections": [
+      {
+        "_key": "kb4i03cb84",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration—ensuring security, compliance, and operational efficiency.",
+        "title": "Secure, Automated & NPCI-Compliant File Signing"
+      },
+      {
+        "_key": "9ou7bohxco",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "c65pv34yto",
+                "color": "",
+                "text": "One Platform. Endless Possibilities"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "7mkgrtrg13",
+            "description": "Manage balances, transactions, statements, and multiple accounts with full control anytime, anywhere. Supports NEFT, RTGS, IMPS, and UPI for seamless transfers.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Smart Banking"
+          },
+          {
+            "_key": "pduj5vxlqe",
+            "description": "Apply, manage, block/unblock cards, set limits, and generate virtual cards instantly — all from one interface.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Card Services"
+          },
+          {
+            "_key": "vi5mazo52r",
+            "description": "Open FDs/RDs, explore pre-approved loans, and track EMIs with built-in calculators for smarter decisions.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Deposits & Loans"
+          },
+          {
+            "_key": "g51aqvv4u9",
+            "description": "Pay utility bills, recharge services, and manage recurring payments through integrated BBPS system.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Bill Payments"
+          }
+        ]
+      },
+      {
+        "_key": "njsr0ab6xb",
+        "_type": "imageSection",
+        "fullImageAlt": "picsum",
+        "fullImageSource": null,
+        "hasFullImage": false,
+        "id": "imageSection4",
+        "imageSource": [
+          {
+            "_key": "0nfv6j6gn0",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "f3eoqk1crv",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ],
+        "isBgBlue": true
+      },
+      {
+        "_key": "274gm3qfd2",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "x4ny1fc30m",
+            "description": "Invest in mutual funds, SIPs, equities, bonds, and insurance, all with real-time tracking and insights.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Investments"
+          },
+          {
+            "_key": "dcojrsxscy",
+            "description": "Discover and invest in IPOs directly from the app without external platforms.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "IPO Access"
+          },
+          {
+            "_key": "5bfxy7viyg",
+            "description": "Book travel, shop online, and access lifestyle services within the banking app.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Lifestyle & Shopping"
+          },
+          {
+            "_key": "ufcffar39v",
+            "description": "Manage business accounts, merchant services, and trade workflows for SMEs and enterprises.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Business & SME"
+          }
+        ]
+      },
+      {
+        "_key": "vhhpwy4hto",
+        "_type": "imageSection",
+        "fullImageAlt": "picsum",
+        "fullImageSource": null,
+        "hasFullImage": false,
+        "id": "imageSection4",
+        "imageSource": [
+          {
+            "_key": "zsck7w7n5y",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "emu2jud30x",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ],
+        "isBgBlue": true
+      },
+      {
+        "_key": "n7rfj6dxmy",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Move beyond transactions to personalized, data-driven engagement.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "0bksphammz",
+                "color": "",
+                "text": "Designed for Intelligent Banking Experiences"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "fi6bnp7gik",
+            "description": "Deliver contextual recommendations based on user behavior and financial patterns.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Personalized Journeys"
+          },
+          {
+            "_key": "lja18l2l2k",
+            "description": "Track spending, investments, and financial health with intelligent dashboards.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Real-Time Insights"
+          },
+          {
+            "_key": "om1kf9k594",
+            "description": "Enable secure, frictionless login using fingerprint and face authentication.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Biometric Access"
+          },
+          {
+            "_key": "j3p9z0pzha",
+            "description": "Optimized UI ensures smooth, lag-free experience across devices.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fast Performance"
+          }
+        ]
+      },
+      {
+        "_key": "37el9ib1m5",
+        "_type": "imageSection",
+        "fullImageAlt": "picsum",
+        "fullImageSource": null,
+        "hasFullImage": false,
+        "id": "imageSection4",
+        "imageSource": [
+          {
+            "_key": "se9onlp9hg",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          },
+          {
+            "_key": "0cmu4lcjr3",
+            "imageAlt": "Fina Bright Application Showcase",
+            "imageLink": null
+          }
+        ],
+        "isBgBlue": true
+      },
+      {
+        "_key": "ohq03xtpmp",
+        "_type": "bankingSuiteSection",
+        "afterData": {
+          "items": [
+            {
+              "_key": "nlxsyf5ocx",
+              "description": "Everything accessible within a single unified platform",
+              "title": "All services in one place"
+            },
+            {
+              "_key": "c5dpikimkq",
+              "description": "Quick signup with minimal steps and friction",
+              "title": "Instant onboarding & KYC"
+            },
+            {
+              "_key": "9cc6kqfte5",
+              "description": "Smooth transitions across features without interruptions",
+              "title": "Seamless journeys"
+            },
+            {
+              "_key": "w6ih7x1mvr",
+              "description": "Flexible system that grows with user needs",
+              "title": "Scalable modular architecture"
+            },
+            {
+              "_key": "2a82j5he27",
+              "description": "Drives retention and unlocks multiple revenue streams",
+              "title": "Continuous engagement & monetization"
+            }
+          ],
+          "logo": "/icons/bank-core.png",
+          "sideIcon": "/icons/acute.png",
+          "title": "After: EasyBankCore®"
+        },
+        "bankingHeader": {
+          "icon": null,
+          "subTitle": "Legacy apps are limited. Super App unlocks a complete ecosystem.",
+          "text": {
+            "title": [
+              {
+                "_key": "svyfwk6bh2",
+                "color": "text-white",
+                "text": "Why Super App Beats Traditional Banking"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "beforeData": {
+          "items": [
+            {
+              "_key": "6t165l4c2a",
+              "description": "Limited functionality, needs multiple separate apps",
+              "title": "One feature at a time"
+            },
+            {
+              "_key": "5h4oit29h7",
+              "description": "Time-consuming steps delay user activation process",
+              "title": "Slow onboarding"
+            },
+            {
+              "_key": "d07igadra7",
+              "description": "Data and services are not well connected",
+              "title": "Siloed experiences"
+            },
+            {
+              "_key": "3s5j3f1dsg",
+              "description": "Old systems restrict speed and scalability",
+              "title": "Legacy architecture"
+            }
+          ],
+          "title": "Traditional Apps"
+        },
+        "id": "bankingSuite13",
+        "isTextWhite": true
+      },
+      {
+        "_key": "32za5kkntz",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Built with modern architecture to support growth, security, and flexibility.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "c4eus25i9q",
+                "color": "",
+                "text": "Engineered for Scale. Designed for Speed."
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "eplh5rk5cz",
+            "description": "Each service runs independently, enabling faster updates and scalability.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Modular Microservices"
+          },
+          {
+            "_key": "v1egiijg1l",
+            "description": "Open APIs allow seamless integration with partners, fintechs, and marketplaces.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "API-First Ecosystem"
+          },
+          {
+            "_key": "ygcvx0vue2",
+            "description": "24×7 uptime with cloud/on-prem flexibility and disaster recovery support.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "High Availability"
+          },
+          {
+            "_key": "d053dyhr20",
+            "description": "Biometric login, tokenization, audit logs, and compliance-first design.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Security & Governance"
+          }
+        ]
+      },
+      {
+        "_key": "scnvcla4ft",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "xtv7jk2955",
+            "description": "Continuous usage across services increases customer lifetime value.",
+            "icon": null,
+            "title": "Higher Engagement"
+          },
+          {
+            "_key": "g0jkc45vqy",
+            "description": "Enable subscriptions, ecosystem monetization, and partner integrations.",
+            "icon": null,
+            "title": "New Revenue Streams"
+          },
+          {
+            "_key": "z61kpi8jly",
+            "description": "Launch new features quickly with modular architecture.",
+            "icon": null,
+            "title": "Faster Go-To-Market"
+          },
+          {
+            "_key": "2nu4fzhtg3",
+            "description": "Evolve from product-based banking to ecosystem-driven engagement.",
+            "icon": null,
+            "title": "Platform-Led Growth"
+          }
+        ],
+        "id": "bankingChallenges",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "fp88d6jyg7",
+            "color": "text-black",
+            "text": "Driving Growth Beyond Banking"
+          }
+        ]
+      },
+      {
+        "_key": "y385kw3ooh",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "We don’t just build apps — we build long-term banking ecosystems.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "7fxafcyzq2",
+                "color": "",
+                "text": "Built for Your Scale. Designed for Your Future"
+              }
+            ],
+            "variant": "h1"
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "jabgrmdj6f",
+            "description": "Deep understanding of banking, compliance, and migration challenges.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Domain-Led Expertise"
+          },
+          {
+            "_key": "htje3vxr6i",
+            "description": "Customized solutions aligned with your business goals and scale.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Tailored Approach"
+          },
+          {
+            "_key": "38snwe45jg",
+            "description": "Built to evolve with emerging fintech and customer expectations.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Future-Ready Platform"
+          },
+          {
+            "_key": "furuc2jf9x",
+            "description": "Strong data integrity, security, and operational excellence.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Trusted Foundation"
+          }
+        ]
+      },
+      {
+        "_key": "ayizn07eg9",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "articles",
+        "subText": "Deliver smarter experiences, drive engagement, and unlock new growth with one unified platform.",
+        "titleParts": [
+          {
+            "_key": "i7fzv12ioj",
+            "color": "text-brand-600",
+            "text": "Turn Your Bank Into a Super App"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Digitally sign and verify NACH files with BankAI’s secure signing tool, built for NPCI compliance, automation, and high-volume banking operations.",
+      "image": null,
+      "keywords": [
+        "NACH signing tool",
+        "digital signature",
+        "NPCI compliance",
+        "banking automation",
+        "file signing"
+      ],
+      "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
+      "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
+      "title": "NACH Signing Tool | BankAI",
+      "url": "https://yourdomain.com/products/nach-signin-tool"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "super-app"
+    },
+    "title": "Super App"
+  },
+  {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
     "_rev": "j9x8aXCnOL41Sub9FmttTC",
