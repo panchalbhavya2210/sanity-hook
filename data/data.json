@@ -14928,15 +14928,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "x9AkaoQOe6dzdFl4eHGY2j",
+    "_rev": "j4WZNIGUzPsJcmnHbc0JFG",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "piiLNOj3u9Wq2zYwg4QrCm"
+        "rev": "x9AkaoQOe6dzdFl4eHGY2j"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T05:25:39Z",
+    "_updatedAt": "2026-05-07T05:35:21Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -15503,7 +15503,13 @@
             "_key": "4zyikipknm",
             "description": "Encrypted records and strong identity checks.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-04831664900d2291b513015f828d48d1f5699e9d-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Enhanced Security"
           },
@@ -15511,7 +15517,13 @@
             "_key": "xjxfwvuqij",
             "description": "Automated data capture eliminates human errors.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-91ed9455d31354715e3bf515af14f0c538776ff9-568x248-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Higher Accuracy"
           }
