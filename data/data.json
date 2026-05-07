@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "x9AkaoQOe6dzdFl4eI83N7",
+    "_rev": "j9x8aXCnOL41Sub9FnY6FK",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "j4WZNIGUzPsJcmnHbc6JGG"
+        "rev": "x9AkaoQOe6dzdFl4eI83N7"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T10:31:29Z",
+    "_updatedAt": "2026-05-07T10:53:13Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -643,7 +643,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
-          "icon": null,
           "subTitle": "",
           "subTitleClassName": "",
           "text": {
@@ -672,6 +671,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -870,6 +870,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "An end-to-end AI-powered ecosystem that automates identity verification with accuracy, speed, and compliance.",
         "titleParts": [
           {
             "_key": "yp0l4nkk75",
