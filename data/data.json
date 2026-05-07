@@ -7786,15 +7786,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "HrBj9Zx03wkqUmFRdtTQYd",
+    "_rev": "x9AkaoQOe6dzdFl4eHtrEi",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "piiLNOj3u9Wq2zYwg4Qcqu"
+        "rev": "HrBj9Zx03wkqUmFRdtTQYd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:29:08Z",
+    "_updatedAt": "2026-05-07T09:11:39Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -7803,11 +7803,18 @@
         "cta": {
           "label": "Explore Core Modernization"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-54b3e522c8ededb05ae8312312c676d06dc996a7-457x176-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-20f0f0a27be04ada4e03bf6369591b7419766dce-1424x1344-webp",
+            "_ref": "image-95aca96940655335c39941d8cb3c3876849cc399-702x672-webp",
             "_type": "reference"
           }
         },
@@ -7843,7 +7850,13 @@
             "_key": "30twxddnct",
             "description": "Maintain centralized employee records with easy access, updates, and structured organization.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9b6a28f4b562ee42eb66bf2dc16df5722b809e4f-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "isReversed": true,
             "title": "Data Management"
           },
@@ -7851,7 +7864,13 @@
             "_key": "6pwqf40nk8",
             "description": "Keep employee information accurate, up-to-date, and ready for quick decision-making.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-da09779ffa3a4c6f8e24a812c26c68cf391af6e9-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "isReversed": true,
             "title": "Organized Records"
@@ -7860,7 +7879,13 @@
             "_key": "ld96z78cr0",
             "description": "Access employee data anytime, enabling faster HR operations and better transparency.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bfc1e4d8dae8061d7ea0abfcb47e9662d6f41d23-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "isReversed": true,
             "title": "Instant Access"
@@ -7876,25 +7901,49 @@
           {
             "_key": "ngjge48t8k",
             "description": "Customize salary structures including allowances, deductions, and bonuses as per business needs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e4c4a1721f23e56deb309a15389f98ec9657e878-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Flexible Salary Components"
           },
           {
             "_key": "ddf5n1clnz",
             "description": "Predefined rules ensure accurate salary processing with minimal manual intervention.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d0a01804607cacd1c50e46ec9f2f4ce1e6fa2a6c-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Automated Calculations"
           },
           {
             "_key": "h9myyv1i31",
             "description": "Automatically handle PF, PTAX, and other deductions in line with regulations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-41791013daa5bb2bc9c24409bcddc6b1783ec4d3-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Statutory Compliance"
           },
           {
             "_key": "r7rmqd8hh3",
             "description": "Simplify complex payroll structures while maintaining clarity and consistency.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ed10b9bb943c0aba913282a167db868ba06edf6a-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Smart Payroll Control"
           }
         ],
@@ -7920,25 +7969,49 @@
           {
             "_key": "b34vyug763",
             "description": "Automate payroll cycles to ensure timely salary disbursement.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e127ea1ecc257a3d5bef3e224de7675468ab6fb7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Processing"
           },
           {
             "_key": "0e1mk7hpkl",
             "description": "Minimize human errors with system-driven calculations and validations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-185323f97361819bfe695b48292424aed1cd066d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Error Reduction"
           },
           {
             "_key": "kq4e02sfdq",
             "description": "Ensure adherence to government rules with built-in compliance logic.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e740612201281a33ba6fcd869e5fd045a943d296-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Automation"
           },
           {
             "_key": "io2gebokd4",
             "description": "Free up HR teams to focus on strategic tasks instead of manual operations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Time Saving"
           }
         ],
@@ -7981,7 +8054,13 @@
             "_key": "nc5m4dlkw4",
             "description": "Manage leave requests, approvals, and policies with complete transparency. Analyze attendance trends and reduce absenteeism effectively.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d9de554520d16632412b0aba19300fbc22c43ba8-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Leave Management & Absence Insights"
           },
@@ -7989,7 +8068,13 @@
             "_key": "lhred9rfzr",
             "description": "Employees and managers can track leave balances instantly. Monitor employee attendance with real-time clock-in and clock-out systems.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-14d20a8c02fa26062c70ed6b973dc06a94be8a77-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Balance & Attendance Tracking"
           }
@@ -8015,6 +8100,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles11",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -8023,7 +8109,13 @@
             "_key": "yvujbrjve8",
             "description": "Support multiple tax declarations and deduction options.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2b2bc7434477c40108b0063d8b460f7dbcf22d23-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Tax Declarations"
           },
@@ -8031,7 +8123,13 @@
             "_key": "v5q468bbic",
             "description": "Track employee investments and exemptions for accurate tax calculations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-18243ffdfb7f9bee6f767acd9eb8f94d6c83c274-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Investment Tracking"
           },
@@ -8039,7 +8137,13 @@
             "_key": "gckveoc0ff",
             "description": "Provide clear visibility into tax liabilities for employees.  Ensure all tax processes align with legal requirements.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-273e2ac393d7ef123296a2fe57c0fd803f9ba16e-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Transparent Tax View"
           }
@@ -8086,7 +8190,13 @@
             "description": "Submit, approve, and track employee expense claims.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f07a7c23b6ea7c0fb5b543344a6b8f3b220259d5-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zou1esw0rm",
@@ -8099,7 +8209,13 @@
             "_key": "18ykd95msy",
             "description": "Generate detailed reports for auditing and analysis.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6a93e9e1c410274b45bbcde829c066d78ca579c9-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "fbbmf85m4s",
@@ -8112,7 +8228,13 @@
             "_key": "x0jdwp13cu",
             "description": "Track legal cases, advocates, and related costs. Maintain organized legal records for better control.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3043d851e136285f5d8541225265cc4406d3569b-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "l4h872kf5h",
@@ -8208,25 +8330,49 @@
           {
             "_key": "lm0u44fg5w",
             "description": "Temporarily hold or redirect salary payments when needed.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a61a6bc9913f45abf33851693a39754ced6c92ff-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Salary Freezing"
           },
           {
             "_key": "kv2wiqlxmd",
             "description": "Track employee suspensions with proper documentation and reports.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e7fe98105b4a2e795b8bf7cc2710dffe1f9b047f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Suspension Management"
           },
           {
             "_key": "081kkf8iwn",
             "description": "Get assistance anytime",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d230e306a1b1e3bc6f92a53d98d4c18a8c280896-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Gratuity Calculation"
           },
           {
             "_key": "u9f3vyu4qw",
             "description": "Handle special HR cases without disrupting operations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-595b80fcd3a1e36ba5e658d58f48841a9c529c01-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lifecycle Management"
           }
         ],
@@ -8274,7 +8420,13 @@
             "_key": "53ht8f8pn7",
             "description": "Secure login with one-time password verification.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4a4052c5b62f4540ae236f1b82055ba402d6d250-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "OTP Authentication"
           },
@@ -8282,7 +8434,13 @@
             "_key": "x2lle26rl2",
             "description": "Enable fingerprint-based secure authentication.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8568deb5fa299e6097a72d00903b6eb5e12b1054-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Biometric Access"
           },
@@ -8290,7 +8448,13 @@
             "_key": "j1m21auzhr",
             "description": "Ensure multi-level approval for critical actions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c81c1347a98ce4c15c1b84056a065e7b62ee551e-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Maker-Checker Control"
           },
@@ -8298,7 +8462,13 @@
             "_key": "drqwgia0iz",
             "description": "Track every activity for complete transparency and compliance.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5f02c6d6e2bba782186697ebeccaa588bd5d2157-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Audit Trail"
           }
@@ -8347,7 +8517,13 @@
             "_key": "k555m1hbmx",
             "description": "Access live payroll and attendance data instantly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c0af6054633fe906d3b4f39298129f6858e2e036-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Insights"
           },
@@ -8355,7 +8531,13 @@
             "_key": "87qiajng9b",
             "description": "Use insights to improve HR strategies.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0a916375ead40e4f603df7ecba2190bff851d118-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Data-Driven Decisions"
           },
@@ -8363,7 +8545,13 @@
             "_key": "hblkhs2ouw",
             "description": "Generate detailed and customizable reports.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0b5fe891a80796703a45d667a2bdcf119d3922ba-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "150+ Reports"
           }
