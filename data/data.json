@@ -14928,15 +14928,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "x9AkaoQOe6dzdFl4eHNniV",
+    "_rev": "j4WZNIGUzPsJcmnHbc1IDG",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "j9x8aXCnOL41Sub9FmyJvq"
+        "rev": "x9AkaoQOe6dzdFl4eHNniV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T06:38:32Z",
+    "_updatedAt": "2026-05-07T06:49:59Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -14980,6 +14980,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -15085,6 +15086,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -15197,6 +15199,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": true,
         "isTextWhite": true,
@@ -15386,6 +15389,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -15531,6 +15535,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": true,
         "isTextWhite": true,
