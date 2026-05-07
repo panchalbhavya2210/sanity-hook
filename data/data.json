@@ -2454,15 +2454,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "j9x8aXCnOL41Sub9Fms6bn",
+    "_rev": "j9x8aXCnOL41Sub9Fms9Gy",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "j4WZNIGUzPsJcmnHbc00W3"
+        "rev": "j9x8aXCnOL41Sub9Fms6bn"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T04:53:57Z",
+    "_updatedAt": "2026-05-07T04:56:52Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -2492,7 +2492,7 @@
         "_type": "coreInfoSection",
         "cta": {
           "buttonLabel": "Explore the Platform",
-          "description": "EasyBankCore® is a Next-Gen Cloud-Native SaaS-based platform...",
+          "description": "From loans and deposits to customer data and documents — access everything in one place to enhance productivityand enable reliable decision-making.",
           "icon": {
             "_type": "image",
             "asset": {
