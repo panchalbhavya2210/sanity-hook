@@ -4671,15 +4671,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "zQBhq3UsEZ740ykqkTwSrL",
+    "_rev": "x9AkaoQOe6dzdFl4eIUKXz",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "zQBhq3UsEZ740ykqkTv2JI"
+        "rev": "zQBhq3UsEZ740ykqkTwSrL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T07:10:48Z",
+    "_updatedAt": "2026-05-07T11:53:28Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -4705,7 +4705,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Manual processes, limited data usage, and inconsistent decision-making slow down approvals and increase risk.",
           "subTitleClassName": "",
           "text": {
@@ -4729,7 +4728,13 @@
             "_key": "41p6l0goxr",
             "description": "Underwriters spend significant time collecting and verifying borrower data, delaying approvals and onboarding.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-061ec3bfe09a8849cb322056cca9ac241b084283-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Manual & Time-Consuming"
           },
@@ -4737,7 +4742,13 @@
             "_key": "82xpr5v39v",
             "description": "Different teams make different decisions, leading to inconsistency in risk evaluation across branches.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8711baeb6af9bc8b41f9f966b18ead11c077879e-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Subjective Decisions"
           },
@@ -4745,7 +4756,13 @@
             "_key": "fvm8tekvgu",
             "description": "Traditional systems rely only on historical scores, ignoring real-time financial behavior and alternative data.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9574b0ff270d515cc2133ed1028c9ee706ddcd31-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Limited Data Usage"
           },
@@ -4753,7 +4770,13 @@
             "_key": "rbq11meog5",
             "description": "Long review cycles frustrate customers and cause banks to lose potential borrowers.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-429895c6a0308101a1db18d2a96e9de979c7b1f6-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Delayed Decisions"
           },
@@ -4761,7 +4784,13 @@
             "_key": "jdpqwzup4x",
             "description": "Manual verification increases cost and reduces efficiency across lending operations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-db9a947ed6a7f1dd85bc751d9f11c4e83dbbe7bc-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Operational Costs"
           },
@@ -4769,7 +4798,13 @@
             "_key": "2v6fakrimx",
             "description": "Non-standardized processes make auditing and regulatory tracking difficult.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ab2c4bc1c9f2c63a61475a1e045ffeb01514b02f-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Compliance Challenges"
           }
@@ -4784,25 +4819,49 @@
           {
             "_key": "l6zl71770m",
             "description": "Batch-based workflows delay approvals and increase turnaround time.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-542c5969b04e249a51c3f69e90a9e1c5b00ba2bd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Slow Processing Cycles"
           },
           {
             "_key": "ac4rbdvrgg",
             "description": "Multiple systems fail to provide a unified borrower view.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dbc18bb3dad79b7e41766d873e308e8521b884f4-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Disconnected Data Sources"
           },
           {
             "_key": "6oxvs10r0q",
             "description": "Lack of AI leads to reactive, not proactive, risk assessment.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdc56afdbae2b2ca25da46739d3e423807c93c1f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "No Predictive Intelligence"
           },
           {
             "_key": "3oojn3qf7b",
             "description": "Outdated scoring models fail to adapt to changing borrower behavior.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-131ca3dfdb553452e2e4cf7442929fb733fcc1cf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Static Risk Models"
           }
         ],
@@ -4849,7 +4908,13 @@
             "_key": "jvh1gtcqv0",
             "description": "Advanced models evaluate borrower risk using multiple data points instantly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-28ace20fa689d0802556bd9f77a13ffc961ab41d-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "AI-Based Risk Analysis"
           },
@@ -4857,7 +4922,13 @@
             "_key": "y5meelmvai",
             "description": "Approve loans in seconds instead of weeks.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-faeed6c57f2fc896462b7d8c2ad6149ebf152f33-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Decisioning"
           },
@@ -4865,7 +4936,13 @@
             "_key": "1yksurwgq6",
             "description": "Automates the entire journey from application to approval.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7a343ab050547ecd66bf966b0abf10d901933694-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "End-to-End Automation"
           },
@@ -4873,7 +4950,13 @@
             "_key": "kw5tqnfhrp",
             "description": "Uses financial, behavioral, and transactional data for deeper insights.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a357b47af32ce7c2978f50f9da9319a11f7b0183-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Data-Driven Decisions"
           }
@@ -4886,25 +4969,49 @@
           {
             "_key": "br9usdg8cs",
             "description": "Gather borrower data from credit bureaus, bank APIs, income sources, and digital transactions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8e3169d9377701aa20cd1b1b85313e3efbd48c39-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Data Collection"
           },
           {
             "_key": "q8q0sd2vr3",
             "description": "Analyze patterns and correlations to generate credit insights.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e740612201281a33ba6fcd869e5fd045a943d296-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Data Processing"
           },
           {
             "_key": "ceptx1xxx3",
             "description": "Evaluate creditworthiness using AI-driven scoring models.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f4e4eed2b51588234e79e96198cbb2ee18003852-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Credit Analysis"
           },
           {
             "_key": "a174awaf0i",
             "description": "Approve or reject applications based on predictive analytics.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-efee420eb2682ace61b1280a06407fa4b6a57f0d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Decision Engine"
           }
         ],
@@ -4960,7 +5067,13 @@
             "_key": "rw3vzdtvp9",
             "description": "Process applications in seconds using real-time ML evaluation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-708df8cc4db2af96520ccff0284cd6bc2fff63ed-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Lightning-Fast Decisions"
           },
@@ -4968,7 +5081,13 @@
             "_key": "c8pbymqed1",
             "description": "Analyze income, spending, and repayment patterns to predict risk more accurately.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c16d5310936ecccdf06344d0210455f32de5acd0-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Smarter Risk Prediction"
           },
@@ -4976,7 +5095,13 @@
             "_key": "bbmgzjlzv8",
             "description": "Eliminate human bias with standardized AI-driven logic.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fd72ad4185fd9e4819551a858f678b836cf3f151-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fair & Consistent Decisions"
           },
@@ -4984,7 +5109,13 @@
             "_key": "tspql0p1u9",
             "description": "Track every decision with detailed logs for compliance and audits. Enable smarter loan pricing and improve portfolio performance.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d3a3772edf41ce44724dfff5bf93aeac26af0a2-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Full Audit Transparency & Profit Optimization "
           }
@@ -4999,7 +5130,13 @@
             "description": "Reduce approval time from weeks to seconds.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aabd62f085b9b5d4970cea204f1c9886b9cd8a6b-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "c2t9uuo4eu",
@@ -5012,7 +5149,13 @@
             "_key": "6a48jyy17t",
             "description": "Minimize defaults with AI-powered risk models.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c0da5d32cbe013db6d584a5f14a5641e194a1078-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zehi2ksjc7",
@@ -5030,7 +5173,13 @@
             "_key": "dvc2c38las",
             "description": "Faster approvals increase satisfaction and trust.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d61a25ded07fe5e42ca10b807a8563fd0574197c-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "9si21bcj7b",
@@ -5053,7 +5202,13 @@
             "_key": "cwqzjtd0t4",
             "description": "Stay aligned with regulatory frameworks automatically. Handle thousands of applications without manual effort.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-87b56d3846c93a4f8ed565ab06ca58336e68f7f5-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "kye7tuy89u",
@@ -5095,25 +5250,49 @@
           {
             "_key": "wb444dkxoq",
             "description": "Identify risks before they occur.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f8d9a61c5db3ea4feea03f528e7bb9c3b4f9fe37-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Predictive Intelligence"
           },
           {
             "_key": "ynftpu7c4b",
             "description": "Continuously evolve with market and borrower behavior.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fbfbbe6b3cc19e7fd3934cea0816ba58265dd5df-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Adaptive Models"
           },
           {
             "_key": "j2php2iwij",
             "description": "Test multiple borrower outcomes for better decisions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-13dc3d7935934c5c0c1c1de82866574776b3b968-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Scenario Simulation"
           },
           {
             "_key": "l3c8brhn25",
             "description": "Stay aligned with changing regulations automatically.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2e39e2a161bb11dffe7016647d133b7d22463630-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Continuous Compliance"
           }
         ],
@@ -5160,7 +5339,13 @@
             "_key": "ov6acfw4mr",
             "description": "Identify high-risk applicants early and reduce defaults.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cb243ab2f48d10067bc5f1807b1e8a32afa4a27f-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Risk Mitigation"
           },
@@ -5168,7 +5353,13 @@
             "_key": "3nalv1ol8k",
             "description": "Ensure fair and transparent decisions for all applicants.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5dfd76909fd250314bb0d4c947b85b9006ca10d6-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Responsible Lending"
           },
@@ -5176,7 +5367,13 @@
             "_key": "42uu7e44uf",
             "description": "Standardize decisions across teams and branches.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5727feb70caa53278a84c553728fd4f52d0f8550-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Consistency"
           },
@@ -5184,7 +5381,13 @@
             "_key": "qujbrckags",
             "description": "Automatically comply with evolving lending regulations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9cad6d197c05639f9c269ca434251faaeb7eeaab-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Regulatory"
           }
@@ -5207,7 +5410,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -5215,9 +5418,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
+      "ogTitle": "AI-Powered Credit Underwriting",
+      "title": "AI-Powered Credit Underwriting",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
