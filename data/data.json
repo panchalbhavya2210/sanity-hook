@@ -12996,32 +12996,55 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "zQBhq3UsEZ740ykqkLJ3Hm",
+    "_rev": "x9AkaoQOe6dzdFl4eHFWSU",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "aeR9vTMsaQURTdDrE3mrPI"
+        "rev": "zQBhq3UsEZ740ykqkLJ3Hm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-24T07:48:03Z",
+    "_updatedAt": "2026-05-07T05:12:11Z",
     "sections": [
       {
         "_key": "wdfs412arr",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Start Digital Onboarding",
           "variant": "outline"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-649bfcf63556da9c412ab48a7b364838deb52c6a-226x81-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-09f52a625b3de753833fc6307f045c97b2683e3c-2380x2380-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Bankai’s mobile banking platform delivers seamless, secure, and fully branded digital experiences—built for your customers, optimized for your growth.",
-        "title": "Your Bank. Your Brand. Your Digital Channel."
+        "title": "Your Bank. Your Brand. Your Digital Channel.",
+        "variant": "split"
       },
       {
         "_key": "8n4yan3nqm",
         "_type": "coreInfoSection",
         "cta": {
           "description": "Clunky interfaces reduce usage and trust.",
+          "icon": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
+              "_type": "reference"
+            }
+          },
           "isButtonVisible": false,
           "title": "Customer Adoption"
         },
@@ -13029,25 +13052,49 @@
           {
             "_key": "rdg6aywrb7",
             "description": "Legacy CBS systems make mobile innovation slow and costly.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Technology Integration"
           },
           {
             "_key": "gwfkvrvrq8",
             "description": "Constant regulatory shifts demand adaptable solutions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Regulatory Compliance"
           },
           {
             "_key": "9ga57083dp",
             "description": "Rising fraud and threats require airtight protection.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Cybersecurity Risks"
           },
           {
             "_key": "0c3ibt9cpo",
             "description": "Staying compliant with privacy laws adds complexity.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Data Privacy"
           }
         ],
@@ -13087,12 +13134,24 @@
           {
             "_key": "7nn7iwf7h7",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0b84e08607256d1030dd45b1841128f5d79bf037-630x472-webp",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "5myjhyrddv",
             "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": null
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fb6bff4bcb68bcf89d358218d6360ba77fdbe377-630x472-webp",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "isBgBlue": false
@@ -13120,25 +13179,49 @@
           {
             "_key": "c3riekwomg",
             "description": "Aligns with global banking compliance and authentication standards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-542c5969b04e249a51c3f69e90a9e1c5b00ba2bd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Regulatory Readiness"
           },
           {
             "_key": "hkldjg6j1h",
             "description": "Includes E2E encryption, device binding, GEO tagging, OTP, and fraud detection.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-55796dcd3338058d80278377243f0b382e3486d2-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Robust Security"
           },
           {
             "_key": "bagnu10dmc",
             "description": "Smooth UI/UX with chatbot integration.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-64b127c70b10926f45f9b2cffed28de0f51fcd3f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Customer-Centric "
           },
           {
             "_key": "87pmv9p5w8",
             "description": "Launch ASBA, Positive Pay, Loans, and more without rework.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-131ca3dfdb553452e2e4cf7442929fb733fcc1cf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Modular Expansion"
           }
         ],
@@ -13169,7 +13252,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-978d53ecfbc92b28bf8b7f09f4a8347d78e5ae7a-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "e50tgyslcp",
@@ -13191,7 +13280,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9c01b842f9dceb7e3ad12900db0a826fb7fde53c-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "xcdv203ksu",
@@ -13213,7 +13308,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bd97bad1bda90547cc71c89ee90ade768bc8854e-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dvyvk557b2",
@@ -13235,7 +13336,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fa8017493734671ac78652b7d9431fb2eae00bd8-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "cabv46wrvj",
@@ -13257,7 +13364,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8408e1761eb3f01056d0762fbf9e599a0a715498-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dg1slldw0y",
@@ -13279,7 +13392,13 @@
             ],
             "heading": "EasyBankCore®",
             "id": 6,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5ad59f0dc874cfb9a5a60fef7bec5bb9149f8d4a-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "xcbpkj0khy",
@@ -13321,13 +13440,25 @@
               "_key": "tu8gkbkh9q",
               "description": "Fully aligned with global and local regulations.",
               "descriptionClassName": "text-black",
-              "image": null,
+              "image": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-ab007566061ddff9414f3f0d8b978f3c08d57f37-570x248-webp",
+                  "_type": "reference"
+                }
+              },
               "title": "GDPR & RBI Guidelines"
             },
             {
               "_key": "4elh6tog1t",
               "description": "Transparent and traceable operations.",
-              "image": null,
+              "image": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-8cdb5c8a096e382a238ce1d86b2795bbc14869a8-570x248-webp",
+                  "_type": "reference"
+                }
+              },
               "title": "Audit Trail & Dispute Logs"
             }
           ]
@@ -13408,13 +13539,25 @@
           {
             "_key": "q5erzdnytk",
             "description": "Use in-app and offline messaging to build loyalty and engagement.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c0198d3b8bd9252620f4af87fe9a86b2738a9255-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Stronger Customer Relationships"
           },
           {
             "_key": "muajoiyg6d",
             "description": "Digital onboarding with reduced drop-offs and faster conversions.",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-25240a3e7438c16693fd918c68dfe026659e1640-570x248-webp",
+                "_type": "reference"
+              }
+            },
             "title": "Rapid Onboarding"
           }
         ]
@@ -13430,19 +13573,37 @@
           {
             "_key": "zz6dfy4t6a",
             "description": "Recommend personalized products through behavior-driven campaigns.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7aec440106964278e9f36f9494880859cf1cc0dd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Cross-Selling Made Easy"
           },
           {
             "_key": "ksa9zytrsy",
             "description": "One interface for accounts, loans, investments, and service requests.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d7ee06941ae72274814455c0c78a804bb037627c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Seamless Digital Journey"
           },
           {
             "_key": "fz6ol6d051",
             "description": "Scale effortlessly with continuous updates via SaaS.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-12d9f65455607642ee369f421a33835dccbda785-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Future-Proof Flexibility"
           }
         ]
@@ -13478,7 +13639,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c9623fdce00cccc9c14669793a688afa9f9607dd-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "212wup6bmw",
@@ -13493,7 +13660,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3f4f9ef9837a844613cfd3fcc43d6c3f73cf3ded-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "achqg796xa",
@@ -13508,7 +13681,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a9f0deed816a5b385c90d14b16ad78118434f1e0-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "gkysm9lxoi",
@@ -13523,7 +13702,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-463a87f9f539238a29ba89616ec29804f65460a5-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "8p05f2idyi",
@@ -13538,7 +13723,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1c2d37446752736a0eca9e7eef10a341e2d1db8a-627x547-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "3gm0uv4bak",
