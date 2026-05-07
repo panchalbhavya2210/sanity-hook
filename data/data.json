@@ -8909,15 +8909,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "aeR9vTMsaQURTdDrE3mkco",
+    "_rev": "x9AkaoQOe6dzdFl4eHb3ea",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "piiLNOj3u9Wq2zYwg4Qh24"
+        "rev": "aeR9vTMsaQURTdDrE3mkco"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:16:04Z",
+    "_updatedAt": "2026-05-07T07:43:41Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -8926,11 +8926,18 @@
         "cta": {
           "label": "Explore Core Modernization"
         },
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-8e241467505bd4ba80468a64b91963e2c34d615b-242x63-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-912a3a562d7bfce62025f27264d850eadc263832-1614x1320-webp",
+            "_ref": "image-6a34fc30c90f1dae0ce661ca18548d3e3bbc49ef-708x672-png",
             "_type": "reference"
           }
         },
@@ -8945,25 +8952,49 @@
           {
             "_key": "mszn2og0jd",
             "description": "All employee services in one platform",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d4fdcf6767ed89ab1255b2ed8b9f037b3a37d28-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Centralized Access"
           },
           {
             "_key": "20hh13rsp1",
             "description": "Reduce dependency on HR teams",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-69949ac2267fc0a0e02fd4ff6e2c415746216855-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Self-Service Experience"
           },
           {
             "_key": "j4esaxc1sl",
             "description": "Built with strong privacy controls",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-efee420eb2682ace61b1280a06407fa4b6a57f0d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Secure & Compliant"
           },
           {
             "_key": "8u86i6n3ox",
             "description": "Faster processes and reduced delays",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-481ea68691345def884b0e40d5aa4960caed27b4-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Improved Efficiency"
           }
         ],
@@ -9002,7 +9033,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Employees can securely access and update their personal and professional details anytime.",
           "subTitleClassName": "",
           "text": {
@@ -9025,7 +9055,13 @@
             "_key": "356rj094ig",
             "description": "Update contact and personal details",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7ec28abfef87a5500b5a2ca7b0226fdd99e99c9b-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Profile Management"
           },
@@ -9033,7 +9069,13 @@
             "_key": "mdga7anxax",
             "description": "Manage family and emergency contacts",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a29e7dcd0fb5cb6e536a70a1df82f99697f60354-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Dependent Information"
           },
@@ -9041,7 +9083,13 @@
             "_key": "ih9vnpczpm",
             "description": "Instant data sync across systems",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c691c4579c927fa47edd07b4317e5ae01687c649-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Updates"
           }
@@ -9115,19 +9163,37 @@
           {
             "_key": "jba4wvp5y2",
             "description": "Set and monitor objectives",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1c9ef6885b2107a57f7412b2f9437497978ccbed-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Goal Tracking"
           },
           {
             "_key": "s5nitetoxm",
             "description": "Access feedback and ratings",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e8066e7cacef045e53b90f7f724c19f9f630fd22-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Appraisals"
           },
           {
             "_key": "vz1imyhhcp",
             "description": "Participate in evaluation process",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a7beb2b4550fc23d9dff28c5047e477f0fe6b92e-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Self-Assessment"
           }
         ],
@@ -9153,19 +9219,37 @@
           {
             "_key": "6wb9qyb2hq",
             "description": "View company guidelines",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e2850034b653dd269884f3885eac1d83c6d916c5-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Employee Handbook"
           },
           {
             "_key": "39ar8gavk6",
             "description": "Stay updated with changes",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9377cdde7df90582a01f76fa9220187fd731843f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Policy Access"
           },
           {
             "_key": "xy844o72at",
             "description": "Confirm compliance easily",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c6b7311c2e34d92464913f6a5b62cb18daf4abcf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Acknowledgements"
           }
         ],
@@ -9188,7 +9272,13 @@
             "description": "Company news and updates",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b90907dc6d120b7261fbefd406c9efbcff242bbc-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "1y3cqg2slp",
@@ -9201,7 +9291,13 @@
             "_key": "fgd4k8ztoi",
             "description": "Find and connect with teams",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b21f31474954bb7bc9d3a87f90576107d76fb580-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "cpw14rm6ll",
@@ -9214,32 +9310,18 @@
             "_key": "7sw49f03qr",
             "description": "Track schedules and events",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-078fd90404a48f559c1e8e52fe60f1d9a285ccda-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "6s0gjbg72h",
                 "color": "",
                 "text": "Team Calendar"
-              }
-            ]
-          },
-          {
-            "_key": "zrq28bvlbn",
-            "description": "Instantly scale resources up or down based on demand. Reduce operational load while delivering consistent performance at any scale.",
-            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
-            "heading": "EasyBankCore®",
-            "id": 4,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "n4gqzm9jnl",
-                "color": "",
-                "text": "Elastic "
-              },
-              {
-                "_key": "w63u1xse38",
-                "color": "text-brand-600",
-                "text": "Scaling"
               }
             ]
           }
@@ -9289,19 +9371,37 @@
           {
             "_key": "h1g38bxe7j",
             "description": "Quick answers to common queries",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7dc2f8a884f9d360a78c6f9cbe9dc8141b475fce-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "FAQs"
           },
           {
             "_key": "kbnjurfqzr",
             "description": "Learn how to use the portal",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-82735d227597aa1795f6e74e1f28f0f0877a2941-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "User Guides"
           },
           {
             "_key": "pt8nkjk8cu",
             "description": "Get assistance anytime",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-27cc7638e3605327a2bae439622388b5331a8ebd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "HR Support"
           }
         ],
@@ -9349,7 +9449,13 @@
             "_key": "whfjwxo4p4",
             "description": "Track daily work time",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-76bb555a8fbc6104b1269d65f7821ed76c70222b-852x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Clock In/Out"
           },
@@ -9357,7 +9463,13 @@
             "_key": "jyx7rygvlm",
             "description": "View work schedules.  Request swaps easily",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b6aff119dc50f2f03a36fe759625ff9fe3f1d245-852x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Shift Scheduling & Changes"
           }
@@ -9393,7 +9505,13 @@
             "_key": "3nljhyem2p",
             "description": "Manage tax-saving investments. Stay aligned with tax laws",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4b82342c8925a96e09901feead6a45f6eb10fa92-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Investment Tracking & Compliance Support"
           },
@@ -9401,7 +9519,13 @@
             "_key": "noa41l6bjt",
             "description": "Smooth salary processing",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-62404530e93997192d6b1438bc5c945e39801030-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Payroll Integration"
           }
@@ -9445,7 +9569,13 @@
             "_key": "afbq0gd2sb",
             "description": "Add travel details",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9d95d0d6d56b4c64163cd8ffecf6534d39dbb550-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Expense Entry"
           },
@@ -9453,7 +9583,13 @@
             "_key": "7rwcgyyhys",
             "description": "Transaction Records",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b1612c070be0eabf4db97d03836b3414cc6ebd82-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Transaction Records"
           },
@@ -9461,7 +9597,13 @@
             "_key": "jtzkueu3io",
             "description": "No manual approvals required",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cb201e886caba9a6389c5f7173ae4d28850c9c9c-551x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Faster Processing"
           }
