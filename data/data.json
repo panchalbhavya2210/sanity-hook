@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "2LL9JC6EMX15mEdNnsJplu",
+    "_rev": "vVaFl7ADmGgQzf5cZ42j05",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "2LL9JC6EMX15mEdNnsJoCc"
+        "rev": "2LL9JC6EMX15mEdNnsJplu"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-04-13T08:22:15Z",
+    "_updatedAt": "2026-05-08T10:49:34Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -48,25 +48,13 @@
               },
               {
                 "_key": "13079b2c-e406-4e99-9b46-c04c66ebe35c",
-                "href": "/products/omnichannel-banking",
+                "href": "/products/tab-banking-solutions-mobipro",
                 "label": "Tab Banking ",
                 "type": "link"
               },
               {
-                "_key": "445ac415-8fa4-4258-b795-eb82eb1272c5",
-                "href": "/products/omnichannel-banking",
-                "label": "Kiosk",
-                "type": "link"
-              },
-              {
-                "_key": "9ca801b6-db5d-4357-9453-5a537ed2978e",
-                "href": "/products/omnichannel-banking",
-                "label": "Internet Banking ",
-                "type": "link"
-              },
-              {
                 "_key": "e5752f7c-8d2c-4c2e-a331-82102cea0310",
-                "href": "/products/omnichannel-banking",
+                "href": "/products/super-app",
                 "label": "Super App ",
                 "type": "link"
               }
@@ -145,7 +133,10 @@
             ],
             "title": "HRMS"
           }
-        ]
+        ],
+        "sideCard": {
+          "type": "careerSideCard"
+        }
       },
       {
         "_key": "11be2c40-8f15-4dd6-ba2a-ae2a5d3ea92a",
@@ -161,7 +152,7 @@
                 "image": {
                   "_type": "image",
                   "asset": {
-                    "_ref": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
+                    "_ref": "image-9c12a529ebda1480b2206be9eb60b91cd94096c8-164x83-png",
                     "_type": "reference"
                   }
                 },
@@ -170,7 +161,7 @@
                 "width": 159
               }
             ],
-            "title": ""
+            "title": "Digi X"
           },
           {
             "_key": "6694e8cc-67b8-4435-8568-1e8d15e837f1",
