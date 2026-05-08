@@ -14487,15 +14487,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "hbFHDleTVRD2fswKs18PKv",
+    "_rev": "xYdOegpFMyaIaw5eRqWuVB",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "piiLNOj3u9Wq2zYwg4Qq0y"
+        "rev": "hbFHDleTVRD2fswKs18PKv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T09:28:52Z",
+    "_updatedAt": "2026-05-08T09:42:24Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -14933,7 +14933,13 @@
           {
             "_key": "3od723ueur",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-19263f46fd9b1590dacc212ca71ced4097058572-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Rest API",
               "ISO 8583",
@@ -14944,7 +14950,13 @@
           {
             "_key": "ozs87pv5fb",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e7a60ebac0db66ad44c023eb33bbd8307ac39034-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Rest API",
               "ISO 8583",
@@ -14955,7 +14967,13 @@
           {
             "_key": "hh83q3ch7u",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a3f54b2b46a63e73b666cdfd945e1e932f049d00-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "CBS Host Interface",
               "IMPS Switch",
@@ -14969,13 +14987,25 @@
           {
             "_key": "5jp7aggmoa",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c53b7a9cd9a82a923c0c3cbd79b8c545ec24cd91-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Database Access Layer"
           },
           {
             "_key": "e8i56udnzx",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-730eb67ed0de5b3e6a8071de495459af4df4ae05-640x640-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Transaction Manager",
               "Virtual Address Manager",
