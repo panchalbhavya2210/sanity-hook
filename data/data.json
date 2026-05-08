@@ -7648,15 +7648,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "x9AkaoQOe6dzdFl4eKWbFB",
+    "_rev": "j4WZNIGUzPsJcmnHbcNmwy",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "x9AkaoQOe6dzdFl4eKVL1s"
+        "rev": "x9AkaoQOe6dzdFl4eKWbFB"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:17:13Z",
+    "_updatedAt": "2026-05-08T07:22:04Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -7672,7 +7672,7 @@
         },
         "subtitle": "EasyCTS modernizes cheque processing with automated inward and outward clearing, seamless CBS integration, and full compliance with RBI CTS guidelines—helping banks reduce delays, eliminate manual errors, and deliver faster clearing results to customers.",
         "title": "Accelerate Cheque Clearing with Automation, Security & Compliance",
-        "variant": "stacked"
+        "variant": "split"
       },
       {
         "_key": "ep1scgmq16",
