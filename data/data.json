@@ -15147,22 +15147,38 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "7JFZabLQagH5TO1qrtpGGP",
+    "_rev": "x9AkaoQOe6dzdFl4eKdkeD",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "aeR9vTMsaQURTdDrE3mm7Q"
+        "rev": "7JFZabLQagH5TO1qrtpGGP"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:17:36Z",
+    "_updatedAt": "2026-05-08T08:14:47Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-e8ee56c43f736704a6d959f681c46cfa2bbc47b3-554x165-jpg",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-9dbe17d3c6e9570eff2d3fafad0a575f8ae781d7-1062x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
-        "title": "Validate. Translate. Automate Financial Messages — Instantly"
+        "title": "Validate. Translate. Automate Financial Messages — Instantly",
+        "variant": "split"
       },
       {
         "_key": "v1sci0rnoh",
@@ -15172,28 +15188,52 @@
             "_key": "we651on4d1",
             "description": "Check compliance and detect errors in real time.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fce7c7b64c36e232b5bc695fc08e3333adf98676-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Instant Validation"
           },
           {
             "_key": "sslq1r5v3d",
             "description": "Seamless translation between SWIFT MT and ISO 20022 formats.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c863391bc719155c835340697da7d0fe96d26d59-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "MT ↔ ISO Conversion"
           },
           {
             "_key": "v76iz91aii",
             "description": "Understand every tag and its purpose instantly.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-64c74b809a459efb27c758847843b1eea0cc7fe3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Message Insights"
           },
           {
             "_key": "zy3z832zpt",
             "description": "No need for deep SWIFT expertise.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c9ec93c1d2e8596bd379603bb367d7ac88a15f82-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Learning Curve"
           }
         ],
@@ -15232,7 +15272,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-708ddbd34345d687e8792ac99e3244416af4def9-2880x1194-webp",
+            "_ref": "image-305cbac4d26059816674b1051925f96d713c2d9f-2880x1194-png",
             "_type": "reference"
           }
         },
@@ -15248,25 +15288,49 @@
           {
             "_key": "gtbmz4asfv",
             "description": "Support ISO 20022 migration and compliance.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c37bae50297cc52cf74f71d854410f82d42a863c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Banks & Payment Institutions"
           },
           {
             "_key": "5t26wtn2e3",
             "description": "Build SWIFT-compatible systems with ease.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3c14884a414fe4f79b7a2325a4fe068c1e86c6fc-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Fintech Platforms"
           },
           {
             "_key": "e91wzoapvo",
             "description": "Validate and test messages before deployment.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32521149592c1c22d2d549f6c128613cf12405db-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Developers & QA Teams"
           },
           {
             "_key": "r55bfnhccy",
             "description": "Learn and understand financial message structures.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c6b7311c2e34d92464913f6a5b62cb18daf4abcf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Training & Certification"
           }
         ],
@@ -15313,7 +15377,13 @@
             "_key": "tzz6xra8kn",
             "description": "Line-by-line breakdown with guided corrections.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d002640b474601a1df61ba26c2f445693001791c-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Validation & Analysis"
           },
@@ -15321,7 +15391,13 @@
             "_key": "tjh8y7duwl",
             "description": "Identify inconsistencies before they impact production.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-25e64a865ca7a8a528d84bf6a394707330fc6168-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Smart Troubleshooting"
           },
@@ -15329,7 +15405,13 @@
             "_key": "jomfq362ur",
             "description": "Access real examples to understand formats and rules.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-db196da481d4c8025966e2d69a7c5d5f8cab5815-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Learning Mode"
           },
@@ -15337,7 +15419,13 @@
             "_key": "499noxlwj0",
             "description": "Always aligned with latest SWIFT & ISO standards.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ebe2e9e61890101dffbcca10bcc7ec582c3f2af-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Continuous Updates"
           }
@@ -15476,7 +15564,13 @@
             "_key": "byqtdcw1qz",
             "description": "Used by banks, fintechs, and developers worldwide.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-960ae58f7326350ab6639ac373aeb305e5330c0a-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Trusted Globally"
           },
@@ -15484,7 +15578,13 @@
             "_key": "8n868kcbzp",
             "description": "Designed for performance-critical environments.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ba5ef018d077bd4ad54b8046d7b3536de430bc50-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Speed & Precision"
           },
@@ -15492,7 +15592,13 @@
             "_key": "cdu2j09igr",
             "description": "Backed by deep financial messaging logic.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad97a8b75cea487e14544020355eddaa28d3c2f9-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Extensive Rule Engine"
           },
@@ -15500,7 +15606,13 @@
             "_key": "d5swm602bl",
             "description": "Continuously evolving with global standards.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0037dc3830888479f4d42ec4f85cb49751f95270-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Future-Ready Platform"
           }
@@ -15515,7 +15627,13 @@
             "description": "Reduce manual effort with intelligent processing.",
             "details": "Create and manage multiple user personas with distinct roles and permissions to validate workflows, access control, and behavior under different operational conditions.",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d98bb9429e09cae7258b12081927e4cfbc8b75f-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "luxdc67l9v",
@@ -15535,7 +15653,13 @@
             "details": "Simulate token generation, validation, expiration, and refresh mechanisms to ensure secure and seamless authentication across all services.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-757f6f56297535498e2e67a5130f14af3554213b-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "5ghbmlsnnj",
@@ -15555,7 +15679,13 @@
             "details": "Simulate real-time events such as transactions, failures, and edge cases to observe system reactions, ensuring reliability and robustness.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3f40086dd297296d8bc664545f87c71fa24c5fb7-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "u080quu5ve",
@@ -15575,7 +15705,13 @@
             "details": "Provides detailed logs for all operations, enabling traceability, debugging, compliance checks, and monitoring of system health.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8d8613826b9dab51f4a6fbcd6f625a7ceb7ee8ce-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ew8vtqotxb",
