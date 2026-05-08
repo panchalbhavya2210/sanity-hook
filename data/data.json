@@ -14487,22 +14487,30 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "piiLNOj3u9Wq2zYwg4Qq0y",
+    "_rev": "hbFHDleTVRD2fswKs18PKv",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "piiLNOj3u9Wq2zYwg4ITm0"
+        "rev": "piiLNOj3u9Wq2zYwg4Qq0y"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:19:39Z",
+    "_updatedAt": "2026-05-08T09:28:52Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
         "_type": "heroSection",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-a9fc792f5b8307b3cfa154e588fea50b9f244b6d-1414x1344-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Bankai IMPS & UPI Switch delivers a secure, unified, and always-on payments infrastructure eliminating multi-vendor chaos and unlocking true speed, control, and compliance.",
-        "title": "Powering the Future of Instant Digital Payments"
+        "title": "Powering the Future of Instant Digital Payments",
+        "variant": "split"
       },
       {
         "_key": "l273co1btq",
@@ -14512,28 +14520,52 @@
             "_key": "ogi9kypsoy",
             "description": "Core, switch, and payments come from different providers—slowing innovation.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-11707ed50def19f91bb9f44a7cbc7fadce8ce959-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Too Many Vendors"
           },
           {
             "_key": "wjnwl5l16z",
             "description": "Finger-pointing and delayed support slow down issue resolution.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05786ce955e2c365f0f9ddf92c9e89c5dd1f068c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Longer Downtimes"
           },
           {
             "_key": "gxys1lnymg",
             "description": "Managing multiple contracts and SLAs increases operational burden.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "High Maintenance Costs"
           },
           {
             "_key": "pal2nvxv6y",
             "description": "APIs don’t talk to each other; systems remain siloed.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dbc18bb3dad79b7e41766d873e308e8521b884f4-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lack of Integration"
           }
         ],
@@ -14597,37 +14629,73 @@
           {
             "_key": "1tlm99j1mb",
             "description": "Zero downtime, lightning-fast transactions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ebfa6cdc9c6892cf5282a1a0f1a55a6d3b42ebc9-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "24x7x365 Real-Time Processing"
           },
           {
             "_key": "kwuxfzcg02",
             "description": "One team, one responsibility, no excuses.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c33930822db5a3a02dbed931275fb761b5943bef-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Dedicated Single-Vendor Support"
           },
           {
             "_key": "jur1l77rui",
             "description": "PCI-DSS certified, fraud-monitored.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4a0380b4ccae90e0f3788fdc133fd29cefbcc60a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Bank-Grade Security"
           },
           {
             "_key": "tiryg3q4co",
             "description": "Built for RBI, NPCI, and evolving compliance standards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6ccd767583fa63dbe5856713a4b510285826c0cb-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Regulatory-Ready"
           },
           {
             "_key": "0ihkhyqmwk",
             "description": "Millions of transactions/second—built for peak loads.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad8cde0f7f72a67e2c18d9e4d7d4de7f7c9b7b21-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "High Throughput"
           },
           {
             "_key": "8so7h2e1db",
             "description": "Seamless connection with CBS, mobile banking & fintechs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2305bee3d1e8bc998aabd5ffb39f1a79ac8a87f0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "API-First Integration"
           }
         ]
@@ -14709,7 +14777,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-ebb451d01fa502ea8bb445340363d999b788878b-1440x763-webp",
+            "_ref": "image-bc52daef9e88bd48a104ce4c2fb55d60d20e4dde-1440x763-png",
             "_type": "reference"
           }
         },
@@ -14740,37 +14808,73 @@
           {
             "_key": "es0kk5e6ht",
             "description": "One partner for uptime, security, support, and compliance.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c33930822db5a3a02dbed931275fb761b5943bef-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Single Vendor Accountability"
           },
           {
             "_key": "e8v5tuvivz",
             "description": "Issues resolved quickly, no vendor blame game.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ebfa6cdc9c6892cf5282a1a0f1a55a6d3b42ebc9-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduced Downtime"
           },
           {
             "_key": "f3b6nihy03",
             "description": "CBS and switch under one ecosystem = faster routing.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Operational Efficiency"
           },
           {
             "_key": "4rjqzth33c",
             "description": "Lower TCO, no third-party markup.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-92cf8df000185d772c164557b835853be0992e17-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Cost Savings"
           },
           {
             "_key": "xrtiqsry0t",
             "description": "End-to-end compliance and simplified audits.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Regulatory Confidence"
           },
           {
             "_key": "ep3aj6go9d",
             "description": "Built for UPI 2.0, UPI Lite, and CBDC readiness.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-de6453a3c1dd78ce795f965cd3e59d6bfb79eff9-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Scalability for Growth"
           }
         ]
