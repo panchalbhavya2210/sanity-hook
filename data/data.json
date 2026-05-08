@@ -5864,15 +5864,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "piiLNOj3u9Wq2zYwg4JBRM",
+    "_rev": "hbFHDleTVRD2fswKs15GWs",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "aeR9vTMsaQURTdDrE3hvcG"
+        "rev": "piiLNOj3u9Wq2zYwg4JBRM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T06:52:12Z",
+    "_updatedAt": "2026-05-08T08:50:36Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -5904,7 +5904,13 @@
           {
             "_key": "k89gcs4t96",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Mobile",
               "Internet",
@@ -5918,7 +5924,13 @@
           {
             "_key": "oinapt2601",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e261ce8260a87f2593e09e915a50569f6278007f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "UPI",
               "IMPS",
@@ -5933,7 +5945,13 @@
           {
             "_key": "0vxowuum9p",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bcf39baf184823b51215bf51c8561e003521556d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Built on AI ",
               "Blockchain",
@@ -5946,7 +5964,13 @@
           {
             "_key": "jo7rg39zqo",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bcf39baf184823b51215bf51c8561e003521556d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Rapid Deployment",
               "Low Risk",
@@ -5996,25 +6020,49 @@
           {
             "_key": "4cxro36420",
             "description": "Your bank anywhere, anytime, no branch limitations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ef3fd230e1da28ecb2768ee433f33242fcd7b46a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Your Bank Anytime, Anywhere"
           },
           {
             "_key": "hbuxayyrv6",
             "description": "Save time, paper, and overhead costs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ef3fd230e1da28ecb2768ee433f33242fcd7b46a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Cost-Effectiveness"
           },
           {
             "_key": "sxs2bxpf7b",
             "description": "Empower rural and unbanked communities.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5550564ea724f45f66595bd247fb58cf3bc0c2af-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Financial Inclusion"
           },
           {
             "_key": "g522augv5l",
             "description": "Smarter service, secure transactions, easyonboarding.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-92c38253e2038a026c597ca5c9d1a218f6a0b35c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "AI + Blockchain"
           }
         ],
@@ -6037,9 +6085,7 @@
         "_key": "sevmp75n28",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "icon": null,
-          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions.",
-          "text": "Business Payoffs That Drive Growth"
+          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions."
         },
         "bgColor": "white",
         "id": "quickActionCardParent",
@@ -6101,46 +6147,93 @@
           {
             "_key": "ob1foescrg",
             "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c8e2f706124982ab0eb928b0c9a4c5d07c796e37-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4f53xwnnwu",
             "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f3531a2acabeb3840ff5b3a0d2c92a7bb287a1e3-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "b8p5cu0l68",
             "description": "Built for Cloud with Cybersecurity @ Core",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-787abe27155d7a5d2bfbf8cc14495c14af183aa2-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4jtbxv9wlc",
             "description": "DevOps ensures easy maintenance & upgrades",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-27d9b9bc7035f3836368aa9a60773fd8fb43e980-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "f4mqi8qj45",
             "description": "Elevate Cross & Upsellin",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c8e2f706124982ab0eb928b0c9a4c5d07c796e37-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "225xv2w0ms",
             "description": "Easy Account Aggregator & Fintech Integration",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f3531a2acabeb3840ff5b3a0d2c92a7bb287a1e3-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4ll8wh9xcs",
             "description": "API-First enables easy integrations with CBS & Central Payment Systems",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-787abe27155d7a5d2bfbf8cc14495c14af183aa2-48x48-png",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "vtjcf9o1iy",
             "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-27d9b9bc7035f3836368aa9a60773fd8fb43e980-48x48-png",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "journeyHeader": {
-          "icon": null,
           "subTitle": "Empower your bank to thrive in a digital-first world with seamless integration, regulatory compliance, and future-ready infrastructure.",
           "text": {
             "title": [
@@ -6161,54 +6254,114 @@
           "backOffice": [
             {
               "_key": "4ny3zwsycx",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-ed1c862c232473c7da43739a4be878ceae303b8d-42x44-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Core Banking"
             },
             {
               "_key": "cxa0du2xhd",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-089546b047ed9c8a4364fa776c74155edf3dc424-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Payments"
             }
           ],
           "channels": [
             {
               "_key": "215sj6pen1",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-b55ee49f70d3ac171f2e4d76530d48ad24822a17-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Mobile"
             },
             {
               "_key": "edriiowrlr",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-79dfd8523e89491f82250386e606c6b6dd02e1ce-42x43-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Internet"
             },
             {
               "_key": "8mimcwqmhq",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-b6bc802fd8ee2f21f31464037a34a04cc432c769-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Call Center"
             },
             {
               "_key": "dcn7z6bpyn",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-cd9e71b335fbf581b3e254c61c6192a104cbd903-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Branch"
             },
             {
               "_key": "5j0hra4kaz",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-0c3d56c860e186f8a3dfb0e4e3ad87081b59a8ba-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Agent"
             },
             {
               "_key": "m2j2rku9fk",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-450aff8bb22af2457bbcf6b66d762f277065ea35-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "ATM"
             },
             {
               "_key": "wohe5wzcy",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-25a21557744597f5f5d206a3b0a1814a8265d8a4-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "API"
             },
             {
               "_key": "1lps9k0s9q",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-25a21557744597f5f5d206a3b0a1814a8265d8a4-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Kiosk"
             }
           ],
@@ -6216,17 +6369,35 @@
           "frontOffice": [
             {
               "_key": "wbuhu0iyta",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-bfd973e106a410b0235afabbef02c5c82e24a65c-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Marketing"
             },
             {
               "_key": "i9tp8y713g",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-05fdb31a196c0dd1cd6b46e717eea9fb6c1886cd-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Sales"
             },
             {
               "_key": "535mrwmiv6",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-3c7cb1629f71bc7cf4542ba53341d34b8a7eb319-48x48-png",
+                  "_type": "reference"
+                }
+              },
               "label": "Services"
             }
           ],
@@ -6247,7 +6418,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-40723c33d8c496ed1b588cdffbfee65bb5c5e939-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "hjvffhyqjo",
@@ -6267,7 +6444,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5afef8e0c73f6b0190ea95214d4154c57e3b12bb-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zyhjfl63e6",
@@ -6287,7 +6470,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8088aa1d581c653bf6dd267a99f24b640b0163c0-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "edlu3xknf1",
@@ -6317,7 +6506,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-48ef1cf62c63324359cc1a586d4b2258f5e8817f-627x507-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "g59jmkrgc9",
