@@ -4625,25 +4625,34 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "GWOVDfiedfaJZayS3WD2ux",
+    "_rev": "xYdOegpFMyaIaw5eRqUtlV",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "iezjcqj9vs7hR9drrnbG8R"
+        "rev": "GWOVDfiedfaJZayS3WD2ux"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-14T10:34:15Z",
+    "_updatedAt": "2026-05-08T08:55:50Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Explore Core Modernization"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-ca3df70963e430f01dcda13defd5fd3dc6af4ad1-1062x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Transform your legacy banking systems into secure, scalable, API-first digital cores seamlessly and at your pace. Unlock agility, innovation, and intelligence without compromising continuity.",
-        "title": "Modernize Your Core Without Disruption"
+        "title": "Modernize Your Core Without Disruption",
+        "variant": "split"
       },
       {
         "_key": "c2z8z4s336",
