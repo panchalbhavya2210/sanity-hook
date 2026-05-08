@@ -14950,22 +14950,31 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "piiLNOj3u9Wq2zYwg4Qq9M",
+    "_rev": "hbFHDleTVRD2fswKs17h9K",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "piiLNOj3u9Wq2zYwg4Ihrw"
+        "rev": "piiLNOj3u9Wq2zYwg4Qq9M"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:19:48Z",
+    "_updatedAt": "2026-05-08T09:19:04Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-8794d79cf3e4042e3938a0d810ef8072c01d9f1c-1062x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Leverage Bankai’s proven OCI migration and managed services to modernize your infrastructure, minimize risk, and unlock the full potential of Oracle Cloud—securely, efficiently, and at scale.",
-        "title": "Accelerate Oracle Cloud Migration with Confidence"
+        "title": "Accelerate Oracle Cloud Migration with Confidence",
+        "variant": "split"
       },
       {
         "_key": "mge7t2lkct",
@@ -14975,28 +14984,52 @@
             "_key": "fcmp5fukza",
             "description": "Scale compute resources on demand and adapt to changing business needs with ease.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Enhanced Agility & Flexibility"
           },
           {
             "_key": "k7a1wr7lly",
             "description": "Accelerate cloud transformation while minimizing disruption to your operations.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Speed of Migration"
           },
           {
             "_key": "lyhckh6d6w",
             "description": "Eliminate physical hardware, reduce IT overhead, and benefit from pay-as-you-go.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduced Risk & Cost Savings"
           },
           {
             "_key": "s18qsznq8v",
             "description": "Move apps to the cloud with minimal changes and zero disruption.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lift n Shift Cloud approach"
           }
         ],
@@ -15034,7 +15067,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-fc9993c5776b0da2a368d3dc926004331741b38d-2160x1091-webp",
+            "_ref": "image-a4f65c4f85166fa06b1c2f00319027a311c1d6f6-2880x1454-png",
             "_type": "reference"
           }
         },
@@ -15067,37 +15100,73 @@
           {
             "_key": "1tosd53d84",
             "description": "Evaluate current workloads, TCO, dependencies, and cloud-readiness.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8332856d9bad5311eaa3104124cd394d035e93a2-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Assessment"
           },
           {
             "_key": "uluefg8nrr",
             "description": "Define timeline, roles, migration tools, risk plans, and stakeholder communication.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-941a590b953c4be9797030f473d03ddc44697216-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Planning"
           },
           {
             "_key": "2qv3v8oono",
             "description": "Copy your on-prem environment to the cloud for pre-migration validation.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7cad041468f8034a6bcbeacc4e33c664de61556d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Replication"
           },
           {
             "_key": "z63hxehdf9",
             "description": "Transfer applications and data with minimal business disruption.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lift & Shift"
           },
           {
             "_key": "a4tuenm0xn",
             "description": "Conduct UAT, performance, security, and integration testing.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c8802d3d05c333a58980d761a17506ff04b36e83-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Testing"
           },
           {
             "_key": "qemskpbyjs",
             "description": "Tune applications for cloud scalability, performance, and reliability.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32a3768b33a626e17bf990c2497b8fecd8167a67-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Optimization"
           }
         ]
@@ -15113,7 +15182,13 @@
             "hasList": false,
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-81a8c2ac20b5d2ca36a3c52a64cabf921b17d9a3-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "k1gh235dsv",
@@ -15142,7 +15217,13 @@
             "description": "Rapid deployment with minimal disruption, allowing your organization to access cloud benefits and innovations faster.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6e0fde4805fce994a74a1e6b25b45e5b7e9696c4-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "hqqbj0hkj6",
@@ -15157,7 +15238,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ac96dd66507b28ce2ba9a39880ecfda13dab228f-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "1yv7aiefke",
@@ -15172,7 +15259,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-900968d97df37e2e78b35c9f8df395106418e247-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "vrdg6b1lgf",
@@ -15187,7 +15280,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5d9e88503eb56b5bd37a260bbc7e826c39be696e-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "4gpo2tmbnc",
@@ -15202,7 +15301,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6d4d4bf17012c9c1146f3832750a484a51dcf563-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "eamm5nf45k",
@@ -15217,7 +15322,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4aa2721c311355cf1f457db66c5e40bc92ccba5f-941x821-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ao74jfbs13",
@@ -15239,46 +15350,6 @@
                 "_key": "vzwrofqhq5",
                 "color": "",
                 "text": "Why Lift & Shift with Bankai?"
-              }
-            ],
-            "variant": "h1"
-          }
-        }
-      },
-      {
-        "_key": "pnyfvp7xln",
-        "_type": "bankingSuiteSection",
-        "id": "bankingSuite12",
-        "isTextWhite": true,
-        "journeyCards": [
-          {
-            "_key": "3p1hcezt8f",
-            "description": "Extensive delivery experience with a certified expert team.",
-            "icon": null,
-            "title": "70+ Successful Migrations"
-          },
-          {
-            "_key": "3zy6qalbx3",
-            "description": "Standardized frameworks for architecture, planning, and delivery.",
-            "icon": null,
-            "title": "Unified Methodology"
-          },
-          {
-            "_key": "4ts3nchq0n",
-            "description": "Onsite, offsite, offshore, and hybrid support options.s",
-            "icon": null,
-            "title": "Flexible Engagement Models"
-          }
-        ],
-        "journeyHeader": {
-          "icon": null,
-          "subTitle": "Expertise that enterprises and banks trust to lead complex Oracle Cloud transformations.",
-          "text": {
-            "title": [
-              {
-                "_key": "l0lhl8b48t",
-                "color": "text-white",
-                "text": "Why Choose Bankai for OCI Cloud"
               }
             ],
             "variant": "h1"
@@ -15385,6 +15456,64 @@
           }
         },
         "variant": "titleOnly"
+      },
+      {
+        "_key": "pnyfvp7xln",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite12",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "3p1hcezt8f",
+            "description": "Extensive delivery experience with a certified expert team.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-88fc1810f4406b5caf412041514d9db6b2f647b4-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "70+ Successful Migrations"
+          },
+          {
+            "_key": "3zy6qalbx3",
+            "description": "Standardized frameworks for architecture, planning, and delivery.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Unified Methodology"
+          },
+          {
+            "_key": "4ts3nchq0n",
+            "description": "Onsite, offsite, offshore, and hybrid support options.s",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Flexible Engagement Models"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Expertise that enterprises and banks trust to lead complex Oracle Cloud transformations.",
+          "text": {
+            "title": [
+              {
+                "_key": "l0lhl8b48t",
+                "color": "text-white",
+                "text": "Why Choose Bankai for OCI Cloud"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
       },
       {
         "_key": "5ttuzzdrb4",
