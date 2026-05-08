@@ -12965,15 +12965,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "2LL9JC6EMX15mEdNnsGpfe",
+    "_rev": "hbFHDleTVRD2fswKs1KeCW",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "2LL9JC6EMX15mEdNnsGlDg"
+        "rev": "2LL9JC6EMX15mEdNnsGpfe"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-04-13T06:16:31Z",
+    "_updatedAt": "2026-05-08T11:17:15Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -13021,20 +13021,14 @@
           },
           {
             "_key": "7152ca55-5025-427d-a983-35b2008b8836",
-            "href": "#",
+            "href": "/products/omnichannel-banking",
             "label": "Mobile Banking",
             "type": "link"
           },
           {
             "_key": "9a6eedc2-2eed-4ae9-a86b-4e7230e48daa",
-            "href": "#",
+            "href": "/products/tab-banking-solutions-mobipro",
             "label": "Tab Banking",
-            "type": "link"
-          },
-          {
-            "_key": "f1d1a20a-240b-480d-af35-001a8b4a74b6",
-            "href": "#",
-            "label": "Kiosk",
             "type": "link"
           },
           {
@@ -13045,7 +13039,7 @@
           },
           {
             "_key": "fa36a8bf-8d19-4539-9c4a-3c1f9a1fbb41",
-            "href": "#",
+            "href": "/products/super-app",
             "label": "Super App",
             "type": "link"
           },
@@ -13062,13 +13056,13 @@
           },
           {
             "_key": "27c07b4a-43f1-41bb-b08a-2cbfc17512e3",
-            "href": "#",
+            "href": "/products/risk-based-modelling",
             "label": "Risk Modelling",
             "type": "link"
           },
           {
             "_key": "39ff68c8-430a-4edd-9adf-c0adee06b0e7",
-            "href": "#",
+            "href": "/products/credit-underwriting",
             "label": "Credit Underwriting",
             "type": "link"
           },
@@ -13085,13 +13079,13 @@
           },
           {
             "_key": "2a21be2f-8028-4e00-814b-1551c3779289",
-            "href": "#",
+            "href": "/products/digital-lending/easy-los",
             "label": "LOS",
             "type": "link"
           },
           {
             "_key": "f16fdf7d-c7d0-4159-a9bc-e4bb7683e380",
-            "href": "#",
+            "href": "/products/digital-lending/easy-lms",
             "label": "LMS",
             "type": "link"
           },
@@ -13108,13 +13102,13 @@
           },
           {
             "_key": "d463c4a5-465a-4382-a501-47246ac7cddc",
-            "href": "#",
+            "href": "/products/hrms/employee-self-service",
             "label": "Employee Self Service",
             "type": "link"
           },
           {
             "_key": "8c54ea07-68ae-4a61-b2ce-fcc562b74930",
-            "href": "#",
+            "href": "/products/hrms/easy-pay-check",
             "label": "easyPayPack",
             "type": "link"
           }
@@ -13131,7 +13125,7 @@
             "icon": {
               "_type": "image",
               "asset": {
-                "_ref": "image-e32ce8971e4ee6fd9a15b5d50d1f278b0818a25b-230x68-png",
+                "_ref": "image-9c12a529ebda1480b2206be9eb60b91cd94096c8-164x83-png",
                 "_type": "reference"
               }
             },
@@ -13141,7 +13135,7 @@
           {
             "_key": "e7aa8acd-0911-49dd-8cee-975fcea9bccc",
             "alt": "Mobipro",
-            "href": "#",
+            "href": "/products/tab-banking-solutions-mobipro",
             "icon": {
               "_type": "image",
               "asset": {
@@ -13173,13 +13167,13 @@
           },
           {
             "_key": "d92c0f72-0fb7-426d-90f4-7ddbe22dd98d",
-            "href": "#",
+            "href": "/xcelerators/plugins/formula-genie",
             "label": "Formula Genie",
             "type": "link"
           },
           {
             "_key": "e93827c5-b7be-4a32-91a3-d9208d78d51e",
-            "href": "#",
+            "href": "/xcelerators/plugins/mt-to-mx-conversion",
             "label": "Mt to MX Conversion",
             "type": "link"
           },
@@ -13197,7 +13191,7 @@
           },
           {
             "_key": "5fa1dc91-f365-4bea-be6b-8dbb57e5489c",
-            "href": "#",
+            "href": "/xcelerators/plugins/digital-signing",
             "label": "Digital Signing",
             "type": "link"
           },
@@ -13208,13 +13202,13 @@
           },
           {
             "_key": "cad2b07f-3b03-41bc-8d0b-c93f51daf294",
-            "href": "/products/e-nach",
+            "href": "/xcelerators/nach/e-nach",
             "label": "eNACH",
             "type": "link"
           },
           {
             "_key": "ba561c9c-cd8b-484d-b20e-22d345c92f07",
-            "href": "/products/nach-signin-tool",
+            "href": "/xcelerators/nach/nach-signing-tool",
             "label": "Signing Tool (H2H)",
             "type": "link"
           },
@@ -13231,13 +13225,13 @@
           },
           {
             "_key": "d76b8f0b-4891-4934-9b4a-9351e856602c",
-            "href": "/products/easy-recon",
+            "href": "/xcelerators/others/easy-recon",
             "label": "easyRecon",
             "type": "link"
           },
           {
             "_key": "b8bd7c18-7fa8-4b0b-ade9-4a4661bce968",
-            "href": "/products/easy-cts",
+            "href": "/xcelerators/others/easy-cts",
             "label": "easyCTS",
             "type": "link"
           }
@@ -13279,13 +13273,13 @@
         "items": [
           {
             "_key": "b9f00698-309b-451d-b81e-69fb431c5916",
-            "href": "#",
+            "href": "/services/managed-cloud-services",
             "label": "Managed Cloud Services",
             "type": "link"
           },
           {
             "_key": "2dfeab79-8615-4643-afe8-bf0a67be9321",
-            "href": "#",
+            "href": "/services/core-modernization",
             "label": "Core Modernization",
             "type": "link"
           },
@@ -13297,7 +13291,7 @@
           },
           {
             "_key": "606d0c46-3a7f-4e2d-a617-a2ea2fb6dc1f",
-            "href": "#",
+            "href": "/services/staff-augmentation",
             "label": "Staff Augmentation",
             "type": "link"
           }
