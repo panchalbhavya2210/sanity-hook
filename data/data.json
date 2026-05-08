@@ -1783,22 +1783,31 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "piiLNOj3u9Wq2zYwg4IFPI",
+    "_rev": "x9AkaoQOe6dzdFl4eKbP9P",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "piiLNOj3u9Wq2zYwg4IEuG"
+        "rev": "piiLNOj3u9Wq2zYwg4IFPI"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T05:14:02Z",
+    "_updatedAt": "2026-05-08T08:00:27Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-98f7bd2ad8c6c038d01e726a9a7c57b447ff62d1-1056x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
-        "title": "Redefining Identity & Access for the Modern Enterprise"
+        "title": "Redefining Identity & Access for the Modern Enterprise",
+        "variant": "split"
       },
       {
         "_key": "zrzj9iaod9",
@@ -1808,28 +1817,52 @@
             "_key": "p6lsuo6ugt",
             "description": "Manage users, devices, and applications from one platform.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Centralized Identity Control"
           },
           {
             "_key": "u4owo3tmje",
             "description": "Verify identity instantly at every access request.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ddf0a12711c7e4c7a754279a1db7e860cd41c4f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Real-Time Authentication"
           },
           {
             "_key": "3lrgz4xsj3",
             "description": "Decisions based on device, location, and behavior.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8ddfcd93de6355bec6e5ee3d7b22d8a2a56b62a6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Context-Aware Access"
           },
           {
             "_key": "0sgydi0qff",
             "description": "Track and log every access event securely.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f8d9a61c5db3ea4feea03f528e7bb9c3b4f9fe37-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Complete Visibility"
           }
         ],
@@ -1891,7 +1924,13 @@
             "_key": "uvzs27k4vh",
             "description": "Maintain user profiles, roles, and credentials in a unified directory.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ea536579ef027d267fe4fa82ed61e8e8e51c7565-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Identity Management"
           },
@@ -1899,7 +1938,13 @@
             "_key": "srjjwzjihr",
             "description": "Add OTP, TOTP, or device-based verification for stronger security.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-beb76fb40c1c9c9cff34f284e262db2eb2257402-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Multi-Factor Authentication (MFA)"
           },
@@ -1907,7 +1952,13 @@
             "_key": "8rj08y6fvn",
             "description": "Grant permissions based on roles, departments, and hierarchy.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8460940a8578f63d2c99b1ee7bb74bfca01e36bc-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Access Management (RBAC)"
           },
@@ -1915,7 +1966,13 @@
             "_key": "ckogmmp2u9",
             "description": "Ensure the right access at the right time — every time.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b7819002e69d1b4111c15f5a628d6898d6559793-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Automated Authorization"
           }
@@ -1999,25 +2056,49 @@
           {
             "_key": "ie4hgxkrhm",
             "description": "Faster access without compromising security.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e8d7eddc719bff8a46fd423d9ad0d4331ff4ceae-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduced Login Friction"
           },
           {
             "_key": "gcx6d04exu",
             "description": "Identify and block suspicious behavior proactively.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c35a69108c92c2feb08fe1a9378c1bdaadca6e20-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Stronger Threat Detection"
           },
           {
             "_key": "wmxnuybq4d",
             "description": "Uniform policies across legacy and cloud systems.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4a0380b4ccae90e0f3788fdc133fd29cefbcc60a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Consistent Governance"
           },
           {
             "_key": "mu7y415wff",
             "description": "Stay aligned with global regulatory standards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fbf98988d0b4f88850ddbb335a4c09c0ab5848d7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lower Compliance Risk"
           }
         ],
@@ -2044,28 +2125,52 @@
             "_key": "u5y0120g2l",
             "description": "Secure token-based authentication.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1ec69055990bd21bb780a5857d3cd3d3b6c2f3da-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "OAuth 2.0 & OpenID Connect"
           },
           {
             "_key": "56h3j1fxf2",
             "description": "Enable cross-organization login.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7c1b6a3846bfa5290f17f7496b683d176a1e0ccd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Federated Identity (SAML)"
           },
           {
             "_key": "5q5yj1nar6",
             "description": "Real-time alerts for access activities.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b0313620d43a7a4cc4a77467c2b521af787e1c0e-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Webhooks & Events"
           },
           {
             "_key": "fypmkk15up",
             "description": "Automate user provisioning and lifecycle management.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad8cde0f7f72a67e2c18d9e4d7d4de7f7c9b7b21-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "SCIM Integration"
           }
         ],
@@ -2094,7 +2199,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Integrate authentication, authorization, and governance directly into your applications.",
           "subTitleClassName": "",
           "text": {
@@ -2117,7 +2221,13 @@
             "_key": "0xmbxctyjh",
             "description": "Simple and scalable integration across systems.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cf6cc38eb6597210c936142dc16e73399370c9ee-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "RESTful APIs"
           },
@@ -2125,7 +2235,13 @@
             "_key": "con1uoxjh2",
             "description": "Use only what you need — expand anytime.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-287188a9a4f4ae845ef5cce1c45613eed96cd349-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Modular Architecture"
           },
@@ -2133,7 +2249,13 @@
             "_key": "met4adqxx1",
             "description": "Consistent API behavior across endpoints.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7e1f06f83af46e2bfbbab1b13578d5b697fae275-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Standardized Responses"
           },
@@ -2141,7 +2263,13 @@
             "_key": "5gs00hl6j9",
             "description": "Test and validate integrations safely before deployment.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0d420f973aace716cfc7b19cb87e87e7d92fd21d-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Sandbox Environment"
           }
@@ -2211,7 +2339,13 @@
             "details": "Create and manage multiple user personas with distinct roles and permissions to validate workflows, access control, and behavior under different operational conditions.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-821963963ba41b95cc832f836bc49f8c7088a0c8-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "heaxyes1uw",
@@ -2236,7 +2370,13 @@
             "details": "Simulate token generation, validation, expiration, and refresh mechanisms to ensure secure and seamless authentication across all services.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9af473ee7057606f5e63e2f5f41776871c96e986-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "9v2dpb9kkz",
@@ -2261,7 +2401,13 @@
             "details": "Simulate real-time events such as transactions, failures, and edge cases to observe system reactions, ensuring reliability and robustness.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-821963963ba41b95cc832f836bc49f8c7088a0c8-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "nrj33e1z9d",
@@ -2281,7 +2427,13 @@
             "details": "Provides detailed logs for all operations, enabling traceability, debugging, compliance checks, and monitoring of system health.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3c812094531e6680e478a8de15c67e623af08a21-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "lx1e3ar48o",
@@ -2360,7 +2512,13 @@
             "_key": "40tyzwr80e",
             "description": "Secure customer and API access across systems.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bff356247dd7e8691bd6eacdcc8eea9c9fb4a082-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Banking & Fintech"
           },
@@ -2368,7 +2526,13 @@
             "_key": "yew2tgz85r",
             "description": "Manage employee and vendor access efficiently.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-56e35600917c7248981d14c9568909e2f2019a2b-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Enterprise Systems"
           },
@@ -2376,7 +2540,13 @@
             "_key": "cq7qiwsihq",
             "description": "Enable secure identity sharing across ecosystems.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fa60470f7ef9ab8e4370816e25dea46514764b70-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Partner Integrations"
           },
@@ -2384,7 +2554,13 @@
             "_key": "9qjhzagkfu",
             "description": "Protect mobile and web platforms with unified identity.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d8e0ba0454fcb8c072ea12347f3f66699390ee8-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Digital Applications"
           }
