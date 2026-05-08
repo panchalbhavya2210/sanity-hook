@@ -612,15 +612,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "j9x8aXCnOL41Sub9FnY6FK",
+    "_rev": "hbFHDleTVRD2fswKs1Gl0k",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "x9AkaoQOe6dzdFl4eI83N7"
+        "rev": "j9x8aXCnOL41Sub9FnY6FK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T10:53:13Z",
+    "_updatedAt": "2026-05-08T10:38:17Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -1139,7 +1139,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "aml-kyc"
+      "current": "products/aml-kyc"
     },
     "title": "Aml Kyc"
   },
@@ -3339,15 +3339,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "j9x8aXCnOL41Sub9Fp04H1",
+    "_rev": "hbFHDleTVRD2fswKs1GkIV",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "x9AkaoQOe6dzdFl4eI3UZr"
+        "rev": "j9x8aXCnOL41Sub9Fp04H1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T04:39:23Z",
+    "_updatedAt": "2026-05-08T10:38:12Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -4161,7 +4161,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "chat-bot"
+      "current": "products/chat-bot"
     },
     "title": "Chat Bot"
   },
@@ -9025,15 +9025,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "x9AkaoQOe6dzdFl4eKMa6o",
+    "_rev": "xYdOegpFMyaIaw5eRqYoHN",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "WY20wT53hxKtTStZN8q9Wu"
+        "rev": "x9AkaoQOe6dzdFl4eKMa6o"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T05:31:15Z",
+    "_updatedAt": "2026-05-08T10:38:07Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -9819,7 +9819,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "easy-lms"
+      "current": "products/digital-lending/easy-lms"
     },
     "title": "Easy Lms"
   },
