@@ -18415,15 +18415,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "piiLNOj3u9Wq2zYwg4QZOC",
+    "_rev": "xYdOegpFMyaIaw5eRqXQ6P",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "7JFZabLQagH5TO1qrtjzfH"
+        "rev": "piiLNOj3u9Wq2zYwg4QZOC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:14:29Z",
+    "_updatedAt": "2026-05-08T09:52:13Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -18436,7 +18436,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-085da37d9f1e3066df266f00b36b003ffbdc886b-1460x1346-webp",
+            "_ref": "image-0c8fcfc32ee401228cf198501bf4a56e296bc99a-708x672-png",
             "_type": "reference"
           }
         },
@@ -18451,25 +18451,49 @@
           {
             "_key": "mt92tw2d2w",
             "description": "Build long-term teams with carefully screened and culturally aligned candidates who match your business goals.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ea6616a1c8c4e471c3c48aca02f268fd9536d4ea-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Permanent Hiring"
           },
           {
             "_key": "v9mh9oth1r",
             "description": "Hire skilled professionals for specific projects while we manage payroll, compliance, and employee lifecycle.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8db80e4d319910e405c39d5cad8b1c32f37e2776-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Contractual Hiring"
           },
           {
             "_key": "676ehkrvgw",
             "description": "Scale your workforce quickly during peak demand or short-term requirements without long-term commitments.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-66df72fea05e755eb7a0e6e0775e34e996d5efc3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Temporary Staffing"
           },
           {
             "_key": "i1jrcpn90x",
             "description": "Outsource your entire hiring function for better efficiency, scalability, and structured recruitment processes.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32521149592c1c22d2d549f6c128613cf12405db-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Recruitment Process Outsourcing (RPO)"
           }
         ],
@@ -18615,25 +18639,49 @@
           {
             "_key": "jfdseqhnyw",
             "description": "Access ready-to-deploy workforce across multiple roles and industries.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "On-Demand Talent"
           },
           {
             "_key": "w91hj74x7g",
             "description": "Save on recruitment, training, and operational overheads.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-11707ed50def19f91bb9f44a7cbc7fadce8ce959-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lower Hiring Costs"
           },
           {
             "_key": "66s4hxvp2n",
             "description": "Fill urgent roles faster with pre-screened candidates.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ebfa6cdc9c6892cf5282a1a0f1a55a6d3b42ebc9-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Quick Turnaround"
           },
           {
             "_key": "vwxro3km06",
             "description": "Focus on business while we handle HR, payroll",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-131ca3dfdb553452e2e4cf7442929fb733fcc1cf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Operational Relief"
           }
         ],
@@ -18659,25 +18707,49 @@
           {
             "_key": "38kp2kgjrg",
             "description": "Understand business needs and define ideal candidate profiles.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8db80e4d319910e405c39d5cad8b1c32f37e2776-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Role & Requirement Analysis"
           },
           {
             "_key": "e8591xrz93",
             "description": "Source candidates through multiple channels including job portals and networks.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Talent Mapping"
           },
           {
             "_key": "bt66b7zxja",
             "description": "Assess technical skills, experience, and cultural fit.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-df819cbf8157944ee2a4f012705aa4132694bd4d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Screening & Evaluation"
           },
           {
             "_key": "s5a350xv68",
             "description": "Smooth hiring journey from offer rollout to joining.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Offer & Onboarding"
           }
         ],
@@ -18815,25 +18887,49 @@
           {
             "_key": "mafpehadv1",
             "description": "Single system to manage sourcing, screening, and hiring workflows.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ea6616a1c8c4e471c3c48aca02f268fd9536d4ea-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Centralized Hiring"
           },
           {
             "_key": "bwfrxgre4j",
             "description": "Align hiring strategies with your brand identity.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3414f05df483c3980eced1916767d7caa97abd6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Employer Branding"
           },
           {
             "_key": "4sonlldave",
             "description": "Easily increase or decrease hiring based on needs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d230e306a1b1e3bc6f92a53d98d4c18a8c280896-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Scalable Operations"
           },
           {
             "_key": "my3832pxya",
             "description": "Works smoothly with your existing HR and internal teams.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Seamless Integration"
           }
         ],
