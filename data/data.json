@@ -2988,16 +2988,31 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "x9AkaoQOe6dzdFl4eI3UZr",
+    "_rev": "j9x8aXCnOL41Sub9Fp04H1",
+    "_system": {
+      "base": {
+        "id": "chat-bot",
+        "rev": "x9AkaoQOe6dzdFl4eI3UZr"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T10:06:08Z",
+    "_updatedAt": "2026-05-08T04:39:23Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-c23cc4729d1663610633da61f9f4b718570ac14c-708x672-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels — 24×7.",
-        "title": "AI-Powered Virtual Banking Assistant"
+        "title": "AI-Powered Virtual Banking Assistant",
+        "variant": "split"
       },
       {
         "_key": "i82uknk60m",
@@ -3026,7 +3041,13 @@
             "_key": "5f5azbbwue",
             "description": "Customers wait too long even for simple requests like balance checks or card queries.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d1affaae2fb27d73f633b0e0faf2203da9420bc2-855x372-jpg",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Slow Response Times"
           },
@@ -3034,7 +3055,13 @@
             "_key": "fv0q1m8qei",
             "description": "Limited multilingual support excludes large regional audiences from digital banking.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6e0004e59c86456f00fecb533bf7a2889d3aa003-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Language Barriers"
           },
@@ -3042,7 +3069,13 @@
             "_key": "t6gu7uv2c1",
             "description": "Rule-based bots fail to understand real conversations and provide contextual responses.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0e44efc84116ae2ee8e2caeb5846fbb61645460c-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Rigid Chatbots"
           },
@@ -3050,7 +3083,13 @@
             "_key": "oqi1heoyod",
             "description": "Disconnected systems across web, mobile, and messaging break user journeys.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-683e3ea7aa64a3712c693ec259e0d6828e06c67d-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fragmented Experience"
           }
@@ -3065,25 +3104,49 @@
           {
             "_key": "lxf4apkh4r",
             "description": "ils to understand user intent beyond predefined commands.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdc56afdbae2b2ca25da46739d3e423807c93c1f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "No AI Intent Detection"
           },
           {
             "_key": "cc30r4n33f",
             "description": "Does not improve with usage or past interactions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6ccd767583fa63dbe5856713a4b510285826c0cb-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "No Learning Mechanism"
           },
           {
             "_key": "p7k2whcfvg",
             "description": "Limited connectivity with core banking systems and APIs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dbc18bb3dad79b7e41766d873e308e8521b884f4-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Weak Integrations"
           },
           {
             "_key": "nlherlsp6v",
             "description": "OTP flows are often clunky, slow, and not user-friendly.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9377cdde7df90582a01f76fa9220187fd731843f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Inefficient Authentication"
           }
         ],
@@ -3107,7 +3170,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "A next-gen AI-powered chatbot that transforms banking interactions into seamless, conversational experiences.",
-          "icon": null,
           "subTitle": "",
           "subTitleClassName": "",
           "text": {
@@ -3129,7 +3191,13 @@
             "_key": "wkc2r0v0js",
             "description": "Understands natural language and responds like a human assistant.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aa25149a1edc2a24477549fd8571fc95f8c8baac-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Conversational AI"
           },
@@ -3137,7 +3205,13 @@
             "_key": "b8uq8ig40q",
             "description": "Engages users in multiple regional languages for inclusive banking.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-60f544469d74c0a49734d458769a61316ee37689-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Multilingual Support"
           },
@@ -3145,7 +3219,13 @@
             "_key": "qbc2d0un5n",
             "description": "Handles account-related services with safe authentication flows.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-689467e2375724e6296aa3487d01455bf4f92612-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Secure Interactions"
           },
@@ -3153,7 +3233,13 @@
             "_key": "2rq95oobtn",
             "description": "Reduces operational costs by automating customer support.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3cd3e2c1d42fe59bf5fe019831ea58225a94d67c-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Cost Optimization"
           }
@@ -3166,25 +3252,49 @@
           {
             "_key": "grn1ftnqn9",
             "description": "Enable instant communication across all channels and devices.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f8d9a61c5db3ea4feea03f528e7bb9c3b4f9fe37-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Real-Time Interactions"
           },
           {
             "_key": "ea3goxyojm",
             "description": "Support multilingual users for wider reach and accessibility.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3414f05df483c3980eced1916767d7caa97abd6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Inclusive Conversations"
           },
           {
             "_key": "xx79ud4j0m",
             "description": "Use NLP and ML for contextual and accurate responses.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8ddfcd93de6355bec6e5ee3d7b22d8a2a56b62a6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "AI-Powered Understanding"
           },
           {
             "_key": "34z81nnys9",
             "description": "Reduce manual effort with intelligent routing and workflows.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b2ade117638dc2a09cffe39015affb1160e61e42-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Process Automation"
           }
         ],
@@ -3197,6 +3307,20 @@
             "text": "Built for Modern Banking Needs"
           }
         ]
+      },
+      {
+        "_key": "f05e9db79a08",
+        "_type": "imageSection",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-d289b68fe93d0f72e5d62edae4ebc80099217cf2-1926x1284-webp",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": true,
+        "id": "Full Image",
+        "isBgBlue": false
       },
       {
         "_key": "7l0kosv68l",
@@ -3225,7 +3349,13 @@
             "_key": "0ciyrtx7fw",
             "description": "Greets users with guided menus, combining text and button interactions for easy navigation and faster adoption.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-352728aebecca289267d0c67fef6ce84cf6e4757-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Smart Onboarding Experience"
           },
@@ -3233,7 +3363,13 @@
             "_key": "p3af2gp5b1",
             "description": "Identifies user needs instantly whether checking balance, applying for loans, or updating details and responds accordingly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0b4efa72bd32f0f0a65ab5142f48ee07c7540db2-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Intelligent Intent Recognition"
           },
@@ -3241,7 +3377,13 @@
             "_key": "wom9d5s5m7",
             "description": "Supports OTP-based verification for sensitive actions while maintaining seamless user flow.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-82410ef741755cb615da50f57170f888d29dc359-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Secure Authentication Layer"
           },
@@ -3249,7 +3391,13 @@
             "_key": "1asrh08oxw",
             "description": "Handles general queries like offers, rates, and information without requiring authentication.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-65fe75e4e831faa12417f4a7aa2bb43f29d67e25-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Instant Non-Login Services"
           },
@@ -3257,7 +3405,13 @@
             "_key": "ia1ir5xba0",
             "description": "Understands mixed-language inputs like Hindi-English or regional phrases and responds intelligently.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-51859ddc6347ad7ed8197533fc6b846e3b0d7de1-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Multilingual & Natural Language"
           },
@@ -3265,7 +3419,13 @@
             "_key": "04mhv7a5z5",
             "description": "Detects incorrect inputs and helps users complete actions smoothly without frustration.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-54d46c6b62a8d15505a508d6d0960a14625cda45-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Guided Error Handling"
           },
@@ -3273,7 +3433,13 @@
             "_key": "h7os7nlchb",
             "description": "Automatically redirects users to relevant next steps, ensuring uninterrupted journeys.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-808f095e92d7891265709ecf8266d23dba0d0a15-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Continuous Navigation Flow"
           },
@@ -3281,7 +3447,13 @@
             "_key": "1c623k1qoy",
             "description": "Provides a familiar chat interface that feels natural and easy to use across platforms.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a4893a1b25ed2acfbff24d255be606d3e5b01b11-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "WhatsApp-Like Experience"
           }
@@ -3296,7 +3468,13 @@
             "description": "Robust and flexible core development environment.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e752cf4c361fca6841fa241e5c154b7bf54920ec-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dcsg6xlgmx",
@@ -3314,7 +3492,13 @@
             "_key": "57fj4zh3hm",
             "description": "High-performance APIs for real-time interactions.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ebfaf653a167edd71c256ee0344cc4490a787d9e-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "jljfi20zi8",
@@ -3332,7 +3516,13 @@
             "_key": "55p1jwbdwy",
             "description": "Power intelligent classification and predictions.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-568d89281bece8f7655101b97e6f2a424491b058-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "x8hpwrk11c",
@@ -3350,7 +3540,13 @@
             "_key": "qlnx6xp5bz",
             "description": "Enable human-like conversations and responses.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2e37cc51cf16531dc3e01c348f23b29a3dbdba37-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "nizxwlkwp9",
@@ -3368,7 +3564,13 @@
             "_key": "a0z5tnuy0r",
             "description": "Seamlessly integrates with core banking systems.",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5ae99784419d2927aa705db49e03098bd1c57b40-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "09kuu4yfcd",
@@ -3386,7 +3588,13 @@
             "_key": "iu33oe136j",
             "description": "Delivers real-time chat experiences across channels.",
             "id": 6,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-23994f28cc63f879fc69a76ed183ae66127819da-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "1tymlhhz8u",
@@ -3428,25 +3636,49 @@
           {
             "_key": "vibapyfjin",
             "description": "Cuts up to 60% of manual customer service queries.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-446fffb7688720c73ee7035e18d555144c3e79a7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduced Support Load"
           },
           {
             "_key": "jf4m6ou2h3",
             "description": "Instant replies improve customer satisfaction.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e127ea1ecc257a3d5bef3e224de7675468ab6fb7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Response Time"
           },
           {
             "_key": "9hc96ghasq",
             "description": "Automation reduces dependency on human agents.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d230e306a1b1e3bc6f92a53d98d4c18a8c280896-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Lower Operational Costs"
           },
           {
             "_key": "rv5or8et7v",
             "description": "Improves retention through personalized conversations.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32521149592c1c22d2d549f6c128613cf12405db-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Higher Engagement"
           }
         ],
@@ -3492,7 +3724,13 @@
             "_key": "o1ckx6duer",
             "description": "Feels like chatting with a real assistant.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a54c93d091bfd52a7aa8a711cdd5f8500deb9bd5-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Human-Like Interaction"
           },
@@ -3500,7 +3738,13 @@
             "_key": "2vdk87vjlj",
             "description": " No waiting, no friction.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fdac001ecedbbffc4815f0227630ab306f9f4672-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Instant Service Delivery"
           },
@@ -3508,7 +3752,13 @@
             "_key": "60jkfz0qwf",
             "description": "Trust built into every interaction.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-70ec635d7ec75de0aa66e79f3df0ccf271918d5e-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Secure & Reliable"
           },
@@ -3516,7 +3766,13 @@
             "_key": "9c9lmlxjcc",
             "description": "Available across devices and platforms.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-401c1b528d5a14aa61c8f7fe50ef6e6c07094789-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Accessible Anywhere"
           }
