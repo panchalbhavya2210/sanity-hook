@@ -4625,15 +4625,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "xYdOegpFMyaIaw5eRqUtlV",
+    "_rev": "xYdOegpFMyaIaw5eRqVHm1",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "GWOVDfiedfaJZayS3WD2ux"
+        "rev": "xYdOegpFMyaIaw5eRqUtlV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T08:55:50Z",
+    "_updatedAt": "2026-05-08T09:10:21Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -4646,7 +4646,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-ca3df70963e430f01dcda13defd5fd3dc6af4ad1-1062x1008-png",
+            "_ref": "image-5b245fed72f712165c94cc945390c6af10530f73-1416x1344-png",
             "_type": "reference"
           }
         },
@@ -4661,25 +4661,49 @@
           {
             "_key": "u41dxkfsve",
             "description": "Assemble or reconfigure core functions like building blocks.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1ec69055990bd21bb780a5857d3cd3d3b6c2f3da-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Composable & Modular"
           },
           {
             "_key": "r647f6kkl7",
             "description": "Progressive transition without ripping out existing systems.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1c0107c83d2c7de17c310e8944c9baa38e7a85f7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Zero Disruption Approach"
           },
           {
             "_key": "nrf2c7vif1",
             "description": "Seamless integration with digital services and ecosystems like Account Aggregators.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6d080d192de5cfb1a391e379b7cd4390b3160176-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "API-First Enablement"
           },
           {
             "_key": "7zurff8qoa",
             "description": "Designed to evolve with your business",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0f20deef7997af77000e780fda2a32c4167024df-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Future-Ready Architecture"
           }
         ],
@@ -4719,6 +4743,13 @@
         "id": "imageShow1",
         "imageAlt": "",
         "imageHeight": 767,
+        "imageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cf252f9ba4427b55039d9b72bb9540fc25105166-2878x1242-png",
+            "_type": "reference"
+          }
+        },
         "imageWidth": 767,
         "isImageFullWidth": true
       },
@@ -4745,25 +4776,49 @@
           {
             "_key": "8fv4uy8c4r",
             "description": "Roll out new features and services rapidly.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-542c5969b04e249a51c3f69e90a9e1c5b00ba2bd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Time-to-Market"
           },
           {
             "_key": "jcwur6vwnx",
             "description": "Built-in compliance for evolving regulations (DPDP, GDPR, etc.).",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-55796dcd3338058d80278377243f0b382e3486d2-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Regulatory Ready"
           },
           {
             "_key": "1h5mg6y5j4",
             "description": "Monitor performance, predict behavior, and personalize journeys.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-64b127c70b10926f45f9b2cffed28de0f51fcd3f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "AI-Powered Insights"
           },
           {
             "_key": "gkasmcggsq",
             "description": "Lower operational overhead with modern, streamlined architecture.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-131ca3dfdb553452e2e4cf7442929fb733fcc1cf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Increased Efficiency"
           }
         ],
@@ -4866,19 +4921,37 @@
           {
             "_key": "3p2k8ipxim",
             "description": "Real-time operational data visibility.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b48e5dd8378a66170d7b78c4958cd3c725a536f3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Performance Monitoring"
           },
           {
             "_key": "2ritfy5fsc",
             "description": "Anticipate customer needs and preferences.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a9d5a20f85ec0e43cd1203fd846134f82d4a2bf6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Predictive Behaviour Analytics"
           },
           {
             "_key": "23msylksbm",
             "description": "AI-based recommendation and experience delivery.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4024b3185c3c187b354bcab4b7f3d655a89bf4d5-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Hyper Personalization"
           }
         ],
@@ -4908,7 +4981,13 @@
             "hasList": false,
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f2db1ded9cb13196dc920dda2eea8561b81697f3-1254x1014-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "9biolwbruc",
@@ -4928,7 +5007,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a24c7c4ca872eba447cec079a5f2b3ae4d5ba0ef-1254x1014-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "jeunmevnee",
@@ -4953,7 +5038,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0beee4bd542f686e30026c4dfde131f0e6570c16-1254x1014-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "5dx5okrz76",
@@ -4973,7 +5064,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aef533494921f6880ee5351bf61cf07c409e3626-1254x1014-jpg",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ecm2zedq04",
