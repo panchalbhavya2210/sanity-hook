@@ -12815,22 +12815,31 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "piiLNOj3u9Wq2zYwg4Ql8C",
+    "_rev": "x9AkaoQOe6dzdFl4eKZhWb",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "7JFZabLQagH5TO1qrtp7nD"
+        "rev": "piiLNOj3u9Wq2zYwg4Ql8C"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:17:23Z",
+    "_updatedAt": "2026-05-08T07:45:41Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-349fb19a6bb1d21e9cb0f8921edbea1d4449b93e-1057x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
-        "title": "Execute Excel Formulas at Scale"
+        "title": "Execute Excel Formulas at Scale",
+        "variant": "split"
       },
       {
         "_key": "wn8r7durll",
@@ -12840,28 +12849,52 @@
             "_key": "1vhegfuhsj",
             "description": "Convert Excel formulas into APIs without coding.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdcda43f28bc514b0d2613b773a160e243d2e4b0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Zero-Code Formula Translation"
           },
           {
             "_key": "gb7e95594u",
             "description": "Launch APIs in seconds instead of weeks.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ae5187e3fa90f2c19a397d9c4e8dbcdf873a613-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Instant Deployment"
           },
           {
             "_key": "4jxqtd23f5",
             "description": "Use the same Excel logic across multiple platforms.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reusable Logic"
           },
           {
             "_key": "baeduk21cm",
             "description": "Expose business logic securely via REST APIs.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2305bee3d1e8bc998aabd5ffb39f1a79ac8a87f0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "API-Ready Architecture"
           }
         ],
@@ -12918,7 +12951,13 @@
             "_key": "zxzwiff7iy",
             "description": "Keep working in Excel without changing your workflow.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d507bf57c64443301f79366acda2b01ed311e235-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Familiar Excel Environment"
           },
@@ -12926,7 +12965,13 @@
             "_key": "q7n39yewsy",
             "description": "Handle real-world workloads with speed and reliability.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f23cea37a07dc71943d3e97b19071f90b4575b14-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Enterprise-Grade Performance"
           },
@@ -12934,7 +12979,13 @@
             "_key": "mnrazuztfw",
             "description": "Build and test ideas quickly using existing models",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c68e18d7cdf1d909a257debde1bff23a94e877e6-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Rapid Prototyping"
           },
@@ -12942,7 +12993,13 @@
             "_key": "t9clgxj7yy",
             "description": "Move from prototype to deployment seamlessly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4cb0d1afdb664152296ae9e43068359462324eac-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Production Ready"
           }
@@ -13022,25 +13079,49 @@
           {
             "_key": "mxv8ri7l66",
             "description": "Standard API endpoints for easy consumption.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2305bee3d1e8bc998aabd5ffb39f1a79ac8a87f0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "REST API Support"
           },
           {
             "_key": "yhfoo65p2x",
             "description": "Works with web, mobile, and enterprise apps.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-df819cbf8157944ee2a4f012705aa4132694bd4d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Multi-Platform Integration"
           },
           {
             "_key": "myuo8390d6",
             "description": "Call API → Get results in real-time.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ddf0a12711c7e4c7a754279a1db7e860cd41c4f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Instant Response Execution"
           },
           {
             "_key": "2puzwetu73",
             "description": "No complex infrastructure required.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-da3cebec6978d25dc6b151d8688e3989693c3041-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Plug-and-Play Setup"
           }
         ],
@@ -13069,7 +13150,13 @@
             "details": "Processes data directly in memory to eliminate latency caused by disk I/O, enabling instant execution of transactions, validations, and decision-making workflows.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c2108564695d6aa3715d2016e95a0b46842c647b-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "l7grd7f8q",
@@ -13089,7 +13176,13 @@
             "details": "Implements encryption, identity verification, and fraud prevention mechanisms to ensure sensitive financial data is protected at every stage of processing and storage.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5afa3b150cfd121e05b1ee3e8b9d19a6303d5a5c-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "g6liejkg8f",
@@ -13114,7 +13207,13 @@
             "details": "Built to support high transaction volumes with distributed architecture, ensuring consistent throughput and responsiveness during peak demand.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-574ecb6efb2f5efabea3c22df70d5eb5d2f36365-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "uo8wre2l1w",
@@ -13134,7 +13233,13 @@
             "details": "Ensures system stability with optimized load handling, redundancy, and continuous performance monitoring to deliver uninterrupted services.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f26ed3002b4eb23692d6bd0dc4fe5426dde5f93c-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "va153n6u3e",
