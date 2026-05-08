@@ -7648,15 +7648,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "x9AkaoQOe6dzdFl4eKVL1s",
+    "_rev": "x9AkaoQOe6dzdFl4eKWbFB",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "piiLNOj3u9Wq2zYwg4Qnfs"
+        "rev": "x9AkaoQOe6dzdFl4eKVL1s"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:08:39Z",
+    "_updatedAt": "2026-05-08T07:17:13Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -7682,28 +7682,52 @@
             "_key": "bk6gg2lt5e",
             "description": "Manual verification and physical handling delay cheque processing.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fbfbbe6b3cc19e7fd3934cea0816ba58265dd5df-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Slow Clearing Cycles"
           },
           {
             "_key": "b5xxs37kda",
             "description": "Human intervention increases chances of incorrect entries and rejections.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b172879e1b8184ac14f49f40d57f4f037f0c7730-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Operational Errors"
           },
           {
             "_key": "kngbu7sqek",
             "description": "Manual processes require more staff and administrative work.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8a052aca311920718bd1460cd965b3f0a569bd00-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Higher Operational Costs"
           },
           {
             "_key": "vwvvlvzq7g",
             "description": "Lack of centralized monitoring makes it difficult to track clearing workflows.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3414f05df483c3980eced1916767d7caa97abd6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Limited Transparency"
           }
         ],
@@ -7747,25 +7771,49 @@
           {
             "_key": "amg2n699qp",
             "description": "Connect seamlessly with existing core banking infrastructure.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "CBS Integration"
           },
           {
             "_key": "8138n5j543",
             "description": "Automated communication with clearing house systems.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8ddfcd93de6355bec6e5ee3d7b22d8a2a56b62a6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "CHI / Sponsor Bank Connectivity"
           },
           {
             "_key": "hqkwfvx6mk",
             "description": "Batch creation, upload, response download, and updates handled automatically.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1b668071088852cf22b7d97dfd59aa2c0e6881b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Automated File Handling"
           },
           {
             "_key": "8k68ynvtps",
             "description": "Encrypted API and SFTP communication ensures safe data exchange.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c35a69108c92c2feb08fe1a9378c1bdaadca6e20-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Secure Data Transmission"
           }
         ],
@@ -7847,25 +7895,49 @@
           {
             "_key": "31ojmg1tbw",
             "description": "Automatically fetch inward clearing files and acknowledgments from CHI/Sponsor bank servers.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-763bedf33404189a56b6267a6b15dc28ae4b3801-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Auto File Download"
           },
           {
             "_key": "9bwmex3ug5",
             "description": "Convert inward cheque data into CBS-compatible formats automatically.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-df819cbf8157944ee2a4f012705aa4132694bd4d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Data Conversion"
           },
           {
             "_key": "omh36guue6",
             "description": "Handle high-volume, split batches, and distributed branch clearing.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4cffb4281ab14e2c3d44d7f5fb0720ccf234d618-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Continuous Clearing Support"
           },
           {
             "_key": "9y0jgdrf8j",
             "description": "Retrieve customer account and signature details via CBS APIs for fraud detection.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Account Lookup & Signature Verification"
           }
         ],
@@ -8034,7 +8106,13 @@
             "description": "Customers receive funds faster.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2776fc0696545a7a5cb66f98fbc544ad7f1242ff-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "g2fhm2jas2",
@@ -8059,7 +8137,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f11ffb82917eba748d309776a16e2543c837e036-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "5rugmgvepm",
@@ -8084,7 +8168,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b70009fb3983b7a622925790f3187975df6e6d6c-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "tvy759s8px",
@@ -8104,7 +8194,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a34f93d69b9993292617335c2383999ebf84686f-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "55cdyele3l",
@@ -8124,7 +8220,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-89ce19961bc70599a3c0a8af2146ba3eaf3249a8-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "7dhlepor4c",
@@ -8149,7 +8251,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8f7135309459e9687fca0090bce76ad7182bb90b-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "wx7p1oqyi7",
