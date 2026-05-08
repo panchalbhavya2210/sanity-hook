@@ -10937,22 +10937,31 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "piiLNOj3u9Wq2zYwg4QnyK",
+    "_rev": "x9AkaoQOe6dzdFl4eKYi6v",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "aeR9vTMsaQURTdDrE3jTGg"
+        "rev": "piiLNOj3u9Wq2zYwg4QnyK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:18:34Z",
+    "_updatedAt": "2026-05-08T07:35:15Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-bfb367f5ee3c984c8b369efdec75e38cda470551-1410x1344-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "EasyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels—ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
-        "title": "Smart Automated Reconciliation for Digital Transactions"
+        "title": "Smart Automated Reconciliation for Digital Transactions",
+        "variant": "split"
       },
       {
         "_key": "llljk16l9g",
@@ -10962,29 +10971,53 @@
             "_key": "q44xw3cqrm",
             "description": "CBS, ATM networks, EFT switch, and payment systems operate independently.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Multiple Data Sources"
           },
           {
             "_key": "yg2u69l1hb",
             "description": "Uploading and reconciling files manually slows operations.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-595b80fcd3a1e36ba5e658d58f48841a9c529c01-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Manual Processing Delays"
           },
           {
             "_key": "ere76m76ck",
             "description": "Errors in reconciliation impact financial accuracy.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fbfbbe6b3cc19e7fd3934cea0816ba58265dd5df-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "High Operational Risk"
           },
           {
             "_key": "etngn8q3yz",
             "description": "Lack of centralized dashboards makes tracking difficult.",
             "hasList": false,
-            "icon": null,
-            "title": " LimitedVisibility"
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-aefb18e9bfc648e6d727b6146d07b3a0100f9540-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": " Limited Visibility"
           }
         ],
         "id": "coreInfo",
@@ -11019,6 +11052,178 @@
         ]
       },
       {
+        "_key": "6zdbmm6j41",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "v202baxgfk",
+            "heading": "EasyBankCore®",
+            "id": 1,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-665acaa0c3424886259c62131ffd669f73de81b1-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "u8lmjo25i3",
+                "color": "text-brand-600",
+                "text": "Reduced "
+              },
+              {
+                "_key": "96le3st02v",
+                "color": "text-warning",
+                "text": "Manual "
+              },
+              {
+                "_key": "o0yvsp0g4c",
+                "color": "text-black",
+                "text": "Effort"
+              }
+            ]
+          },
+          {
+            "_key": "uv472dzmsr",
+            "description": " Minimize reconciliation errors across systems.",
+            "heading": "EasyBankCore®",
+            "id": 2,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-028d2cb6830cad09d4a3701d8db3c1dd6e09b779-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "j3fzd5fb4d",
+                "color": "text-black",
+                "text": "Higher "
+              },
+              {
+                "_key": "gwnkk32cmi",
+                "color": "text-brand-600",
+                "text": "Accuracy"
+              }
+            ]
+          },
+          {
+            "_key": "s5t9hc1f2p",
+            "description": "Reduce financial discrepancies and fraud risks.",
+            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
+            "heading": "EasyBankCore®",
+            "id": 3,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad142927cf05679d558fd5f42222c204f51d192a-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "axw25gj6vj",
+                "color": "text-warning",
+                "text": "Lower "
+              },
+              {
+                "_key": "zhe5w1k913",
+                "color": "text-black",
+                "text": "Operational "
+              },
+              {
+                "_key": "jdz7wcoob2",
+                "color": "text-brand-600",
+                "text": "Risk"
+              }
+            ]
+          },
+          {
+            "_key": "f5o8py4uka",
+            "description": "Real-time dashboards for better decision-making.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 4,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1ea53d130de54ab516c1498c1a4b1fa2723c4816-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "qb0nxnbcgm",
+                "color": "text-brand-600",
+                "text": "Improved "
+              },
+              {
+                "_key": "jke936q1py",
+                "color": "text-warning",
+                "text": "Visibility"
+              }
+            ]
+          },
+          {
+            "_key": "39gvg5bz1z",
+            "description": "Handle increasing transaction volumes effortlessly.",
+            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
+            "heading": "EasyBankCore®",
+            "id": 5,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-63bb2f11e39816d6344c2741db707d7f243de51f-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "xrtu3wiu7y",
+                "color": "text-brand-600",
+                "text": "Scalable "
+              },
+              {
+                "_key": "dnt2ltu77e",
+                "color": "text-black",
+                "text": "Processing"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "EasyRecon transforms reconciliation into a streamlined, automated, and reliable process.",
+          "text": {
+            "title": [
+              {
+                "_key": "krqcl23g8g",
+                "color": "text-brand-600",
+                "text": "Accuracy. "
+              },
+              {
+                "_key": "878b42098d8f",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Efficiency. "
+              },
+              {
+                "_key": "75343281f767",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Control."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
         "_key": "3xxny52wm7",
         "_type": "articlesSection",
         "articleSectionHeader": {
@@ -11045,7 +11250,13 @@
             "_key": "djk9ryg7sr",
             "description": "View transaction data across CBS, EFT Switch, ATM, and payment systems in one place.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-63373b3e8af591fa650db3ef61a0e25da7b0f46c-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Unified Dashboard"
           },
@@ -11053,7 +11264,13 @@
             "_key": "ywa0g8gipk",
             "description": "Handle ATM, POS, ECOM, UPI, IMPS, and other digital transactions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4390d3a64de732dd01d65deeb447959d8b8a8573-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Cross-Channel Reconciliation"
           },
@@ -11061,7 +11278,13 @@
             "_key": "b2dia8cjab",
             "description": "Track transaction counts, values, and statuses instantly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1daeda325e12bb6abde80c485c4c18002f40db24-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Real-Time Monitoring"
           },
@@ -11069,11 +11292,87 @@
             "_key": "2uldahcwig",
             "description": "Ensure precise reconciliation across high-volume data.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7846a14ac3eab8b4f65fd87678164599535e7c8e-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Accuracy at Scale"
           }
         ]
+      },
+      {
+        "_key": "xmmwvl1ma8",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite1",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "x0b6edreo5",
+            "description": "Define permissions for different users.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32521149592c1c22d2d549f6c128613cf12405db-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "User Roles & Access"
+          },
+          {
+            "_key": "p74fg047e7",
+            "description": "Customize reconciliation rules and workflows.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a8984f9afad8985883f1f318cc4780b811fa369c-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "System Parameters"
+          },
+          {
+            "_key": "6rh2kpz055",
+            "description": "Manage GL accounts, GST, and settlement mappings.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-66df72fea05e755eb7a0e6e0775e34e996d5efc3-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Account Mapping"
+          },
+          {
+            "_key": "ldj82jzf6i",
+            "description": "Maintain terminal masters and opening balance corrections.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d4fdcf6767ed89ab1255b2ed8b9f037b3a37d28-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Terminal & Balance Management"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Flexible configuration tools allow banks to manage rules, users, and system behavior efficiently.",
+          "text": {
+            "title": [
+              {
+                "_key": "8ax8pn26lk",
+                "color": "text-white",
+                "text": "Complete Control Over Reconciliation"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
       },
       {
         "_key": "va4sylxozv",
@@ -11140,194 +11439,6 @@
         ]
       },
       {
-        "_key": "xmmwvl1ma8",
-        "_type": "bankingSuiteSection",
-        "id": "bankingSuite1",
-        "isTextWhite": true,
-        "journeyCards": [
-          {
-            "_key": "x0b6edreo5",
-            "description": "Define permissions for different users.",
-            "icon": null,
-            "title": "User Roles & Access"
-          },
-          {
-            "_key": "p74fg047e7",
-            "description": "Customize reconciliation rules and workflows.",
-            "icon": null,
-            "title": "System Parameters"
-          },
-          {
-            "_key": "6rh2kpz055",
-            "description": "Manage GL accounts, GST, and settlement mappings.",
-            "icon": null,
-            "title": "Account Mapping"
-          },
-          {
-            "_key": "ldj82jzf6i",
-            "description": "Maintain terminal masters and opening balance corrections.",
-            "icon": null,
-            "title": "Terminal & Balance Management"
-          }
-        ],
-        "journeyHeader": {
-          "icon": null,
-          "subTitle": "Flexible configuration tools allow banks to manage rules, users, and system behavior efficiently.",
-          "text": {
-            "title": [
-              {
-                "_key": "8ax8pn26lk",
-                "color": "text-white",
-                "text": "Complete Control Over Reconciliation"
-              }
-            ],
-            "variant": "h1"
-          }
-        }
-      },
-      {
-        "_key": "6zdbmm6j41",
-        "_type": "platformCapabilitiesSection",
-        "capabilitesDetails": [
-          {
-            "_key": "v202baxgfk",
-            "heading": "EasyBankCore®",
-            "id": 1,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "u8lmjo25i3",
-                "color": "text-brand-600",
-                "text": "Reduced "
-              },
-              {
-                "_key": "96le3st02v",
-                "color": "text-warning",
-                "text": "Manual "
-              },
-              {
-                "_key": "o0yvsp0g4c",
-                "color": "text-black",
-                "text": "Effort"
-              }
-            ]
-          },
-          {
-            "_key": "uv472dzmsr",
-            "description": " Minimize reconciliation errors across systems.",
-            "heading": "EasyBankCore®",
-            "id": 2,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "j3fzd5fb4d",
-                "color": "text-black",
-                "text": "Higher "
-              },
-              {
-                "_key": "gwnkk32cmi",
-                "color": "text-brand-600",
-                "text": "Accuracy"
-              }
-            ]
-          },
-          {
-            "_key": "s5t9hc1f2p",
-            "description": "Reduce financial discrepancies and fraud risks.",
-            "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
-            "heading": "EasyBankCore®",
-            "id": 3,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "axw25gj6vj",
-                "color": "text-warning",
-                "text": "Lower "
-              },
-              {
-                "_key": "zhe5w1k913",
-                "color": "text-black",
-                "text": "Operational "
-              },
-              {
-                "_key": "jdz7wcoob2",
-                "color": "text-brand-600",
-                "text": "Risk"
-              }
-            ]
-          },
-          {
-            "_key": "f5o8py4uka",
-            "description": "Real-time dashboards for better decision-making.",
-            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
-            "heading": "EasyBankCore®",
-            "id": 4,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "qb0nxnbcgm",
-                "color": "text-brand-600",
-                "text": "Improved "
-              },
-              {
-                "_key": "jke936q1py",
-                "color": "text-warning",
-                "text": "Visibility"
-              }
-            ]
-          },
-          {
-            "_key": "39gvg5bz1z",
-            "description": "Handle increasing transaction volumes effortlessly.",
-            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
-            "heading": "EasyBankCore®",
-            "id": 5,
-            "image": null,
-            "titleParts": [
-              {
-                "_key": "xrtu3wiu7y",
-                "color": "text-brand-600",
-                "text": "Scalable "
-              },
-              {
-                "_key": "dnt2ltu77e",
-                "color": "text-black",
-                "text": "Processing"
-              }
-            ]
-          }
-        ],
-        "hasHeader": true,
-        "id": "platformCapabilities",
-        "isTextBlack": true,
-        "platformHeader": {
-          "icon": null,
-          "subTitle": "EasyRecon transforms reconciliation into a streamlined, automated, and reliable process.",
-          "text": {
-            "title": [
-              {
-                "_key": "krqcl23g8g",
-                "color": "text-brand-600",
-                "text": "Accuracy. "
-              },
-              {
-                "_key": "878b42098d8f",
-                "_type": "titlePart",
-                "color": "text-warning",
-                "text": "Efficiency. "
-              },
-              {
-                "_key": "75343281f767",
-                "_type": "titlePart",
-                "color": "text-brand-600",
-                "text": "Control."
-              }
-            ],
-            "variant": "h1"
-          }
-        }
-      },
-      {
         "_key": "8hvz2ivfq1",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite1",
@@ -11336,25 +11447,49 @@
           {
             "_key": "okoydp6jsz",
             "description": "Detailed reports for ATM, POS, UPI, and digital transactions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e2850034b653dd269884f3885eac1d83c6d916c5-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reconciliation Reports"
           },
           {
             "_key": "67cjy7tdf2",
             "description": "Identify pending transactions and update statuses.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ddf0a12711c7e4c7a754279a1db7e860cd41c4f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Timeout Transaction "
           },
           {
             "_key": "g1v89uknqf",
             "description": "Manage CBS adjustments and generate submission files.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-723863d1274a8544af8029e8fa4539150fc1e264-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Adjustment Reports"
           },
           {
             "_key": "yswt5cb7jo",
             "description": "Export data for audits and regulatory submission",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-763bedf33404189a56b6267a6b15dc28ae4b3801-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Downloadable Reports"
           }
         ],
