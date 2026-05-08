@@ -8835,15 +8835,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "ZcJhm7Cr2zfVlbDl97Mo5O",
+    "_rev": "x9AkaoQOe6dzdFl4eKPKqY",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "zQBhq3UsEZ740ykqkTno3g"
+        "rev": "ZcJhm7Cr2zfVlbDl97Mo5O"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T05:51:32Z",
+    "_updatedAt": "2026-05-08T06:11:50Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -8891,6 +8891,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -8899,7 +8900,13 @@
             "_key": "oivaz2e2ne",
             "description": "Capture applications, documents, and borrower data digitally with faster turnaround time.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-faa791b99a9d94f908c0d097ba1bffa2687c5563-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Digital Loan Origination"
           },
@@ -8907,7 +8914,13 @@
             "_key": "7pwzg07jmx",
             "description": "Automate credit scoring, verification, and approval workflows using rule-based engines.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0c1fa1042c25541610a0759924028cef5d5c6141-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Intelligent Decisioning"
           },
@@ -8915,7 +8928,13 @@
             "_key": "plslndttla",
             "description": "Manage application, underwriting, approval, and disbursement in a single system.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-96cf17fb4db4d0059ff8378e10b9a47d88e0832a-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Unified Platform"
           },
@@ -8923,7 +8942,13 @@
             "_key": "kro9pm7zam",
             "description": "Customize loan journeys based on your business rules and risk appetite.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-200d77b804e1059f0e70b7ea69cd5b24429e4266-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Configurable Workflows"
           }
@@ -8957,7 +8982,13 @@
             "_key": "a05hw8rcxq",
             "description": "Capture inquiries, convert leads, and initiate credit applications digitally.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-231ed446fde929590d411a58d7bce861d61efc90-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Lead to Application"
           },
@@ -8965,7 +8996,13 @@
             "_key": "37ygu5pvix",
             "description": "Automated document collection, de-duplication, and validation reduces manual effort.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b3aaebb42053498b6597591b091a63691339d7c1-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Document Processing"
           }
@@ -9005,7 +9042,13 @@
             "_key": "18wxfs9xt2",
             "description": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-69726928fbc26c4f985122a119250baa622b48b4-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Underwriting & Risk Analysis"
           },
@@ -9013,7 +9056,13 @@
             "_key": "smsoj4hphw",
             "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3a4ef572dafc6483c43d941366bd86b0621d4b9f-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Approval & Disbursement"
           }
@@ -9028,7 +9077,13 @@
             "description": "Approve loans in minutes instead of days with automated workflows.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-53f1700f8cf84854001da5caa2a5ee3ea56cda63-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "0412wv6jmz",
@@ -9041,7 +9096,13 @@
             "_key": "dmdy4sjy4l",
             "description": "Reduce manual intervention and improve efficiency across teams.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8b602edcd9a0fe1d89a3df61833bc568bda4deb3-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "igtpnnat2f",
@@ -9054,7 +9115,13 @@
             "_key": "6gql3kdctu",
             "description": "Leverage real-time data and analytics for smarter lending decisions.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f9657c737f4a88160a71ac98372291d7b5917877-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "c8vcxtgugj",
@@ -9067,7 +9134,13 @@
             "_key": "1ask1vothu",
             "description": "Simplified application journey with transparency and faster approvals.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e657d9454e07b30c6843fa64248069815f03b1b8-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dj1jgfmd84",
@@ -9104,25 +9177,49 @@
           {
             "_key": "3p4kanh13s",
             "description": "Combine multiple data sources to generate accurate credit insights.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f5222d84c1f45188885a3996e1dd69863aa21a64-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Data-Driven Underwriting"
           },
           {
             "_key": "278gbp0owi",
             "description": "Eliminate repetitive tasks and streamline decision-making processes.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a8984f9afad8985883f1f318cc4780b811fa369c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Workflow Automation"
           },
           {
             "_key": "pwxq1aeqb4",
             "description": "Connect with CRM, credit bureaus, eSign, bank APIs, and more.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bdcda43f28bc514b0d2613b773a160e243d2e4b0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Integration Ready"
           },
           {
             "_key": "r2u5n2zg56",
             "description": "Build flexible integrations and accelerate go-to-market.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2305bee3d1e8bc998aabd5ffb39f1a79ac8a87f0-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Open API Ecosystem"
           }
         ],
@@ -9169,7 +9266,13 @@
             "_key": "6c3ouumlzg",
             "description": "SaaS-based architecture ensures scalability and reduced infrastructure cost.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-911131f4c9d969ae5294851871caf011cf70ffd2-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Cloud-Native Platform"
           },
@@ -9177,7 +9280,13 @@
             "_key": "ry4cpamidd",
             "description": "Plug-and-play components to support different lending products.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-415ca2633ee6b33d7cb406fb4a20564ccd9a53d6-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Modular Architecture"
           },
@@ -9185,7 +9294,13 @@
             "_key": "pwpa80pbqq",
             "description": "Quickly customize workflows without heavy development effort.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-88d2a541ac7b0c584d9005081ce66623a8f874da-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Low-Code Configuration"
           },
@@ -9193,7 +9308,13 @@
             "_key": "q0cbfl482u",
             "description": "Handles growing loan volumes with auto-scaling and load balancing.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-85af8f21edf8954fd5fffc45a387909dd6da3332-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Scalability"
           }
@@ -9206,25 +9327,49 @@
           {
             "_key": "6nh7ghyxm5",
             "description": "Rule-based engine with bureau integration ensures accurate borrower evaluation.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8a052aca311920718bd1460cd965b3f0a569bd00-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Credit Assessment"
           },
           {
             "_key": "0h6p2860fh",
             "description": "Reduce manual data entry and speed up loan approvals.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d2b28698058612dbf32750cee4edfe4febdf6d8a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Automated Processing"
           },
           {
             "_key": "l7w8r51g9q",
             "description": "Identify credit risk early using data analytics and scoring models.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Risk Mitigation"
           },
           {
             "_key": "kr7608wu7",
             "description": "Analyze bank statements, income data, and financial history automatically.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-185323f97361819bfe695b48292424aed1cd066d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Financial Analysis"
           }
         ],
@@ -9266,7 +9411,13 @@
             "_key": "rdnsig398h",
             "description": "Combine KYC, banking data, credit bureau, and alternative data sources.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d4c347dd71e0901270319d1be58d7f5430d02271-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Data Integration"
           },
@@ -9274,7 +9425,13 @@
             "_key": "27867p3aoh",
             "description": "Automated eligibility checks and loan decisioning using predefined rules.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c4a90cc5f4015912081c6d154c40f02d0fafe14a-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Decision Engine"
           }
@@ -9315,7 +9472,13 @@
             "_key": "f3nzaooq5a",
             "description": "Digital portals with real-time updates, notifications, and transparency.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-eabafa005452761655301458f1037cb8b85e4ed6-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Borrower Experience"
           },
@@ -9323,7 +9486,13 @@
             "_key": "iz0k82bexy",
             "description": "Enable no-touch or low-touch approvals for faster turnaround.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b6dadafacb40cd305bd3cfe21c7a8250021b4527-1140x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Application Processing"
           }
@@ -9357,7 +9526,13 @@
             "_key": "p6py4sqkhg",
             "description": "AI-based OCR extracts key information from documents automatically.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-49da0d309aac1b6dd5c10ef9c55f79a8ab6ea4b7-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "OCR & Data Extraction"
           },
@@ -9365,7 +9540,13 @@
             "_key": "68diwnc94q",
             "description": "Centralized and secure document storage with easy access.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8f383e0ff897d33849f92714e6a3affb8d10f32a-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Secure Storage"
           },
@@ -9373,7 +9554,13 @@
             "_key": "jaknamuyrz",
             "description": "Automatically categorize documents like KYC, applications, sanction letters.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-917b89ecda66b287eb07a5f8636c1b228f6da8ab-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Document Classification"
           },
@@ -9381,7 +9568,13 @@
             "_key": "0tp0bx6puy",
             "description": "Reduce approval time with digitized document workflows.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3b68b28d3f4d1a6ea9cf2449af8265ffa45830a7-542x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Faster Processing"
           }
@@ -9396,25 +9589,49 @@
           {
             "_key": "eat3t54p64",
             "description": "Track loan performance, borrower behavior, and KPIs in real-time.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "BI & Reporting"
           },
           {
             "_key": "iwf2s95vt9",
             "description": "Use analytics to identify high-risk borrowers and optimize lending.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8ddfcd93de6355bec6e5ee3d7b22d8a2a56b62a6-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Predictive Insights"
           },
           {
             "_key": "xxzomtj5ul",
             "description": "Improve credit strategy using data-driven insights.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f5222d84c1f45188885a3996e1dd69863aa21a64-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Portfolio "
           },
           {
             "_key": "hnvrp1pzh2",
             "description": " Scale operations without increasing manual workload.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-65709f9f92df329b5b1f894cbd1422cd889bf99f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Business Growth"
           }
         ],
