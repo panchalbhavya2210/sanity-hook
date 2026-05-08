@@ -7069,22 +7069,31 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "7JFZabLQagH5TO1qrtpWMv",
+    "_rev": "x9AkaoQOe6dzdFl4eKSIWh",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "7JFZabLQagH5TO1qrtHdEE"
+        "rev": "7JFZabLQagH5TO1qrtpWMv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:19:15Z",
+    "_updatedAt": "2026-05-08T06:45:33Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-73af650d7f17c10df90b72450e24385900b3173e-1414x1344-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Bankai’s web-based e-NACH platform simplifies and automates the entire NACH lifecycle from file processing to reporting with seamless CBS integration, real-time updates, and full NPCI compliance.",
-        "title": "Smart Automation for All NACH Operations"
+        "title": "Smart Automation for All NACH Operations",
+        "variant": "split"
       },
       {
         "_key": "h01phfpk9g",
@@ -7144,7 +7153,13 @@
             "_key": "d5i25ooxo7",
             "description": "Downloading, validating, and uploading files manually increases effort and delays.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3a6e3e4f9bca53d20d076ad15ee3ca4764c55e75-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Manual File Handling"
           },
@@ -7152,7 +7167,13 @@
             "_key": "w3k4nx7aal",
             "description": "Manual validation leads to data inconsistencies and processing failures.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5dff7cef7a40cb5990abbf2b62d963904466e8bf-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Operational Errors"
           },
@@ -7160,7 +7181,13 @@
             "_key": "krsep4aeh9",
             "description": "Multiple tools and systems create inefficiencies and lack of control.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32e6338e9aab969d40f6b8a65e2c96b6f4a6e918-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fragmented Workflows"
           },
@@ -7168,7 +7195,13 @@
             "_key": "9vy2c2x8b6",
             "description": "Meeting NPCI standards becomes complex without automation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-52fe288d09b248b1d4b538b9b7eb363db9e0c7c2-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Compliance Risks"
           }
@@ -7202,7 +7235,13 @@
             "_key": "34se64ljax",
             "description": "Downloading, validating, and uploading files manually increases effort and delays.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-88552b8176fe3a61a22e1dbb8183d91f60ddbda5-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Manual File Handling"
           },
@@ -7210,7 +7249,13 @@
             "_key": "j99hg6r4ko",
             "description": "Manual validation leads to data inconsistencies and processing failures.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1a3fdaea8686de3b5f8a094cee94da00c6e91a73-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Operational Errors"
           },
@@ -7218,7 +7263,13 @@
             "_key": "1nu6s8nf36",
             "description": "Multiple tools and systems create inefficiencies and lack of control.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c7760ad6907e83c531456438f57cc7ed2813438f-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Fragmented Workflows"
           },
@@ -7226,7 +7277,13 @@
             "_key": "p5wu8ik232",
             "description": "Meeting NPCI standards becomes complex without automation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-72e449b4dbffe124e1eed6961aaa5ecb32f9e2e8-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Compliance Risks"
           }
@@ -7373,7 +7430,13 @@
             "description": "Manage all NACH operations through one web-based solution.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bb73af180d360c19103ea5327b693bf65a2ae9a6-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "86yvhpx5co",
@@ -7392,7 +7455,13 @@
             "description": "Seamless CBS integration enables faster turnaround.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5e6acb7484e7e76ee475f96453637e32669b53cf-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "17i8y9dc3e",
@@ -7411,7 +7480,13 @@
             "description": "Reduce manual effort and eliminate operational bottlenecks.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-535ef17834911d07cd7c3060c86e452588a86657-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "i5uhyc2w7y",
@@ -7430,7 +7505,13 @@
             "description": "Automated validation minimizes errors and rejections.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dca4dd9de55dee188fbfc6e3ecba1d747b0edd0a-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "pxjy9e35pi",
@@ -7449,7 +7530,13 @@
             "description": "Ensure adherence to NPCI standards and audit readiness.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6aba0016ae070a79d7b724b3ec544fefafb8adbc-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "sy9irfk35q",
@@ -7468,7 +7555,13 @@
             "description": "Adapt to growing transaction volumes effortlessly.",
             "heading": "EasyBankCore®",
             "id": 6,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0cb03cc538e1ecde4abda7b97dd86bfeb2ee43e4-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "9eqg4msx9r",
