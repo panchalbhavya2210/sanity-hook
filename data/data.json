@@ -15134,22 +15134,31 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "piiLNOj3u9Wq2zYwg4Qp8S",
+    "_rev": "x9AkaoQOe6dzdFl4eKUFzK",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "aeR9vTMsaQURTdDrE3hGfO"
+        "rev": "piiLNOj3u9Wq2zYwg4Qp8S"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:19:07Z",
+    "_updatedAt": "2026-05-08T07:02:28Z",
     "sections": [
       {
         "_key": "rx7muov8c",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-039dafd875ac655ebf12a74c6acb904615ed7ad8-1061x1008-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration—ensuring security, compliance, and operational efficiency.",
-        "title": "Secure, Automated & NPCI-Compliant File Signing"
+        "title": "Secure, Automated & NPCI-Compliant File Signing",
+        "variant": "split"
       },
       {
         "_key": "xnfen77i1w",
@@ -15159,28 +15168,52 @@
             "_key": "m56bf61xno",
             "description": "Manual file signing and verification delays daily operations.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1b668071088852cf22b7d97dfd59aa2c0e6881b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Slow Processing"
           },
           {
             "_key": "pb75nti935",
             "description": "Strict NPCI standards require secure and validated workflows.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Compliance Challenges"
           },
           {
             "_key": "jmedhqpioy",
             "description": "Weak signing methods expose sensitive financial data.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c35a69108c92c2feb08fe1a9378c1bdaadca6e20-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Security Risks"
           },
           {
             "_key": "6vuqwh012i",
             "description": "Managing bulk and individual files manually increases workload.",
             "hasList": false,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8e3169d9377701aa20cd1b1b85313e3efbd48c39-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Operational Complexity"
           }
         ],
@@ -15224,25 +15257,49 @@
           {
             "_key": "zsaud3txft",
             "description": "Digitally sign and verify files with strong cryptographic standards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e3757e58c59cf779673b2d20c62e515e0fbcfe03-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Secure Digital Signing & Verification"
           },
           {
             "_key": "vaxx43zhzf",
             "description": "Handle large volumes of files efficiently in a single workflow.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-66df72fea05e755eb7a0e6e0775e34e996d5efc3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Bulk Processing Support"
           },
           {
             "_key": "6cif8dsscy",
             "description": "Flexibility to sign and verify files one at a time when needed.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Individual File Signing"
           },
           {
             "_key": "5cwqy57krb",
             "description": "Uses 2048-bit RSA and SHA-256 algorithms for maximum security.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ad8cde0f7f72a67e2c18d9e4d7d4de7f7c9b7b21-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Advanced Cryptography"
           }
         ],
@@ -15270,7 +15327,13 @@
             "description": "Automatically exchange files with NPCI systems.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-68ea805b17cfa522af4051058f7ceacaaea862f2-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "t4u59mwnxg",
@@ -15300,7 +15363,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a9544e55de1fa8607a9094d22e7d601dec25a843-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "u8hqi7su2i",
@@ -15320,7 +15389,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4b51929651537fba00b213664c0d92aff1874715-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "1namgyogny",
@@ -15340,7 +15415,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3bea76205cc39508049262aad2e2d6644325dfcf-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "d2gazhva67",
@@ -15455,7 +15536,13 @@
             "_key": "f6fmf2wb7f",
             "description": "Fully aligned with NACH signing and encryption standards.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f4328d69df76f795408c74f93d422c1ea2d1ffd2-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "NPCI-Compliant Solution"
           },
@@ -15463,7 +15550,13 @@
             "_key": "0xhxl9c5wd",
             "description": "Successfully deployed across multiple financial institutions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2246ec40c3c8659439cec50aff46294429b76d1b-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Proven in Leading Banks"
           },
@@ -15471,7 +15564,13 @@
             "_key": "7ku8344nwn",
             "description": "Efficient handling of bulk file operations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d3cd258ead2eef9ebb37d1d1e24989331f4fa10d-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High-Speed Processing"
           },
@@ -15479,7 +15578,13 @@
             "_key": "uqzzbcjrf8",
             "description": "Automation minimizes human intervention and errors.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-39bf45a2be00e2328c6281c62e6ae9a88a8fef66-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Reduced Manual Work"
           }
