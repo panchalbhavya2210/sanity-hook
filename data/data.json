@@ -5384,15 +5384,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "x9AkaoQOe6dzdFl4eIUKXz",
+    "_rev": "vVaFl7ADmGgQzf5cZ41IUT",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "zQBhq3UsEZ740ykqkTwSrL"
+        "rev": "x9AkaoQOe6dzdFl4eIUKXz"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T11:53:28Z",
+    "_updatedAt": "2026-05-08T10:38:27Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -6138,7 +6138,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "credit-underwriting"
+      "current": "products/credit-underwriting"
     },
     "title": "Credit Underwriting"
   },
@@ -17813,15 +17813,15 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "j4WZNIGUzPsJcmnHbc7gsy",
+    "_rev": "vVaFl7ADmGgQzf5cZ41HbV",
     "_system": {
       "base": {
         "id": "risk-modeling",
-        "rev": "neBicO9iaKxCJYUMiElHRv"
+        "rev": "j4WZNIGUzPsJcmnHbc7gsy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T11:16:25Z",
+    "_updatedAt": "2026-05-08T10:38:23Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
@@ -18583,7 +18583,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "risk-modeling"
+      "current": "products/risk-based-modeling"
     },
     "title": "Risk Modeling"
   },
