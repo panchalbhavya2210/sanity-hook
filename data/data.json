@@ -8034,15 +8034,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "WY20wT53hxKtTStZN8q9Wu",
+    "_rev": "x9AkaoQOe6dzdFl4eKMa6o",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "ZcJhm7Cr2zfVlbDl97OxMh"
+        "rev": "WY20wT53hxKtTStZN8q9Wu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-28T06:37:29Z",
+    "_updatedAt": "2026-05-08T05:31:15Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -8098,31 +8098,58 @@
             "_key": "tj3vpj54hg",
             "description": "From loan creation to closure — manage disbursement, repayment, restructuring, and write-offs in one flow.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2e85da2139d4c0cb9d86af374f7f8e9b031f995f-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
+            "isReversed": true,
             "title": "End-to-End Lifecycle"
           },
           {
             "_key": "7k7trw4n91",
             "description": "Ready processes for disbursement, collections, NPA handling, and servicing reduce manual effort.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7457fc70780f098c1f4c9e3ffa4dc783f249bec1-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Preconfigured Workflows"
           },
           {
             "_key": "v3stosz8po",
             "description": "Track loan status, overdue accounts, and customer interactions through a centralized dashboard.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a5a68cf689e5b566943cc8d9f9f558ade68990c0-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Real-Time Visibility"
           },
           {
             "_key": "rvdfw931ld",
             "description": "Connect with CKYC, CIBIL, accounting systems, and APIs for seamless operations.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c590a5d6bf9aa3fece6696f006066d140166b5f9-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Integrated Ecosystem"
           }
@@ -8156,7 +8183,13 @@
             "_key": "b0c3nkf1xz",
             "description": "Personal, housing, education, vehicle, and consumer durable loans.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-896c04577f102941bd66cb4a45027b16d5e8eb10-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Retail Lending"
           },
@@ -8164,7 +8197,13 @@
             "_key": "mdu8t4gae3",
             "description": "SME, infrastructure, equipment, and channel finance solutions.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2b40e1d95e876bfe03b479b70579da1153c4016d-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Business Lending"
           },
@@ -8172,7 +8211,13 @@
             "_key": "faylax5n9w",
             "description": "Agriculture, gold loans, loan against securities, and empowerment schemes.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4aaf25c9158f2d52cc8eb051dfe09d0444227ae4-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Specialized Loans"
           },
@@ -8180,7 +8225,13 @@
             "_key": "vx7g8pa8sd",
             "description": "BNPL, micro-loans, and structured credit products.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-41b8c81418e13715b67d0d63721d654faf42fbe5-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "New-Age Lending"
           }
@@ -8195,7 +8246,13 @@
             "description": "Supports EMI, moratorium, scattered installments, and multiple repayment frequencies.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5fa2a47ad3a77cd3015c660786adbf6bb584a9ed-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "hi3hd0w37x",
@@ -8208,7 +8265,13 @@
             "_key": "rp2o4isrdq",
             "description": "XIRR-based calculations and configurable interest methods for accurate loan structuring.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-34494ae29a9306450b207096485b86dfd82832cc-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dhx7rc6c9c",
@@ -8221,7 +8284,13 @@
             "_key": "v7bi77htfn",
             "description": "Complete borrower timeline with DPD tracking and interaction history.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-277f7b99e1c032c54dc55d20ea8ca85978dea833-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ah24vdx892",
@@ -8234,7 +8303,13 @@
             "_key": "9sh9wharsf",
             "description": "Scheduled payouts, API-based disbursement, and voucher automation.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b978244dc16cb08d479540009ed200ea4f2cdec7-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "dk5eyjablh",
@@ -8247,7 +8322,13 @@
             "_key": "ma8y9vsdji",
             "description": "Built-in regulatory reporting and real-time data formats.",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-561ee820bade85bea37b2f1febc90f05353b9978-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "5pttxfnp7m",
@@ -8260,7 +8341,13 @@
             "_key": "6lmhc0ujy9",
             "description": "Track delinquency, overdue accounts, and risk patterns proactively.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-28bdc99b265f3903ec0835a43f0e16deb997a731-941x761-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "1k3o5ey1ls",
@@ -8297,25 +8384,49 @@
           {
             "_key": "ruhj5xbv8d",
             "description": "Mandates, SI, PDC, and auto-debit workflows for smooth collections.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1b668071088852cf22b7d97dfd59aa2c0e6881b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Collection Automation"
           },
           {
             "_key": "3dox4hjtge",
             "description": "Automated alerts via SMS, WhatsApp, and email for due payments and updates.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-69317e6583c42777efe2dc469105df58c34fd23f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Smart Notifications"
           },
           {
             "_key": "ofij3oa8oz",
             "description": "Secure portals for customers to manage loans independently.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-69949ac2267fc0a0e02fd4ff6e2c415746216855-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Borrower Self-Service"
           },
           {
             "_key": "zeg2r7eq8p",
             "description": "Rule-based engine with SMA classification and auto-provisioning.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-66df72fea05e755eb7a0e6e0775e34e996d5efc3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "NPA Management"
           }
         ],
@@ -8362,7 +8473,13 @@
             "_key": "j84k38c9so",
             "description": "Origination, disbursement, repayment, restructuring, and closure handled seamlessly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7162a808833a3f4754759f0d2e0de703d0275ceb-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Loan Lifecycle Management"
           },
@@ -8370,7 +8487,13 @@
             "_key": "n1nk941mkz",
             "description": "Monitor all transactions including failed, scheduled, and completed payments.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b3d80c4be8ef644e5d5e8090e6d3777fb432ec63-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Payment Tracking"
           },
@@ -8378,7 +8501,13 @@
             "_key": "6b4zf53q0x",
             "description": "Access full borrower history and documents instantly.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d080268db772a12ce8fd7ed5dc53bccfbc7dc3ec-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Customer Interaction Tracking"
           },
@@ -8386,7 +8515,13 @@
             "_key": "0r3txhqypf",
             "description": "100+ reports including balance sheet, P&L, and portfolio insights.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1673f972ec2df6af3ddbb944d278f0a35b9d8b3c-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Reporting & MIS"
           }
@@ -8399,25 +8534,49 @@
           {
             "_key": "utlvslzqw6",
             "description": "General ledger with flexible chart of accounts and reporting.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05786ce955e2c365f0f9ddf92c9e89c5dd1f068c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Real-Time Accounting"
           },
           {
             "_key": "1o1z80wcsv",
             "description": "Automated GST calculation and regulatory reporting.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a9cf409bda017668c2f3226af52a1218caa4c948-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "GST & Compliance"
           },
           {
             "_key": "pyx52xmw3c",
             "description": "Track inflows, outflows, and revenue with live dashboards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8a052aca311920718bd1460cd965b3f0a569bd00-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Cash Flow Planning"
           },
           {
             "_key": "18fcvwmpdb",
             "description": "Seamlessly integrates with external accounting software.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-446fffb7688720c73ee7035e18d555144c3e79a7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "System Integration"
           }
         ],
@@ -8473,7 +8632,13 @@
             "_key": "8s4j1x5azo",
             "description": "Automate repetitive tasks and reduce manual errors.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2beaf9772079624d1d3ef914f415ae2c032cb5c1-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Faster Operations"
           },
@@ -8481,7 +8646,13 @@
             "_key": "tl8n026x4t",
             "description": "Minimize operational overhead through automation.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e77980e8b5282defe1be8d9786a4f1b91fcbcc5d-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Lower Costs"
           },
@@ -8489,7 +8660,13 @@
             "_key": "yforb0xw09",
             "description": "Encryption, VAPT testing, and secure data handling.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5eca257205f77ffb2f86b4a7e16aefcff43b4a28-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Strong Security"
           },
@@ -8497,7 +8674,13 @@
             "_key": "k6wh2cw54q",
             "description": "Centralized data improves loan tracking and risk assessment.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-47b023183b5e1596be48e291e8c11ea6067a1510-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Better Decision Making"
           },
@@ -8505,7 +8688,13 @@
             "_key": "2tvp7ijmvq",
             "description": "Personalized lending experience with self-service access.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d4c517dd9e8872ee41aa954aa4b5dc95698724b9-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Customer Satisfaction"
           },
@@ -8513,7 +8702,13 @@
             "_key": "lt7bjym653",
             "description": "Handles growth with high performance and flexibility.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-42ee5e0bfd30f0b5435513c42ad5b537bd83cd5c-855x372-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Scalable Platform"
           }
@@ -8547,7 +8742,13 @@
             "_key": "rlh4wvr6qg",
             "description": "Hosted on Oracle Cloud with reduced CAPEX.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fd83c36ffb0e010e914f1c7e68c6905bdd6c500e-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Cloud-Ready Infrastructure"
           },
@@ -8555,7 +8756,13 @@
             "_key": "w4v0lp0rx9",
             "description": "DR/BCP enabled with real-time data replication.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6eb750bd77d47d4d6c7254cc8ef4e84a39f3c6c5-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "High Availability"
           },
@@ -8563,7 +8770,13 @@
             "_key": "uo9divwhju",
             "description": "Continuous integration and faster deployment cycles.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cafa76621c7f513ed0ec15dd6a03dd2b4e4fbc7b-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "DevOps Enabled"
           },
@@ -8571,7 +8784,13 @@
             "_key": "le4r95jm6v",
             "description": "End-to-end encryption and secure storage of sensitive data.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-14d58e6e63a850473d5c934d319b798ab0f021d1-407x246-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Monitoring & Data Security"
           }
