@@ -18415,15 +18415,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "xYdOegpFMyaIaw5eRqXQ6P",
+    "_rev": "xYdOegpFMyaIaw5eRqXntV",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "piiLNOj3u9Wq2zYwg4QZOC"
+        "rev": "xYdOegpFMyaIaw5eRqXQ6P"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T09:52:13Z",
+    "_updatedAt": "2026-05-08T10:00:02Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -18523,7 +18523,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Backed by experience, technology, and proven processes, we help you hire smarter and faster.",
           "subTitleClassName": "",
           "text": {
@@ -18546,7 +18545,13 @@
             "_key": "cghzonxdnc",
             "description": "Advanced sourcing strategies and a strong talent pool ensure quick access to the right candidates.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fd2d091aed2209a870acd137d91817011b7fb788-367x164-png",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "isReversed": true,
             "title": "Smart Sourcing"
@@ -18555,7 +18560,13 @@
             "_key": "2o57uyxu4r",
             "description": "15+ years of experience with 10,000+ successful placements across industries.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-40b1bb11f90ff7ba2b6eb986c6dd442d9a69a72f-367x164-png",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "isReversed": true,
             "title": "Proven Track Record"
@@ -18564,7 +18575,13 @@
             "_key": "violbxq6de",
             "description": "Modern recruitment tools and HR platforms for seamless hiring and workforce management.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-19ee8394dc9bb92faf856665f3300b91c0349133-367x164-png",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "isReversed": true,
             "title": "Technology-Driven Hiring"
@@ -18773,7 +18790,13 @@
             "description": "Reduce time-to-hire with efficient processes and ready talent pools.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b900fe748fff55c2617766373488c0a7a151bd14-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "i01v816eus",
@@ -18791,7 +18814,13 @@
             "_key": "oyxnr6cgdm",
             "description": "Optimize hiring budgets with flexible staffing models.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9c8486f259d860e555cf85c26e8496b251449466-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "sj41uxem7r",
@@ -18809,7 +18838,13 @@
             "_key": "hm2spkmtrx",
             "description": "Stay aligned with all legal and regulatory requirements.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cf5aabb1df54be1aca06a17fd1599c0a69c5b66a-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "4ewuru9afr",
@@ -18827,7 +18862,13 @@
             "_key": "9xjpjmjmv9",
             "description": "Adapt quickly to market changes with scalable workforce solutions.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cf2c611cb92861afd6837c050b41cf972754f36c-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "jdr58b0je5",
