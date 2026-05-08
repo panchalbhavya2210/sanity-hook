@@ -6536,20 +6536,27 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "piiLNOj3u9Wq2zYwg4QotM",
+    "_rev": "j4WZNIGUzPsJcmnHbcN3o6",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "aeR9vTMsaQURTdDrE3mmex"
+        "rev": "piiLNOj3u9Wq2zYwg4QotM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-04-16T11:19:00Z",
+    "_updatedAt": "2026-05-08T06:33:47Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
         "_type": "heroSection",
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-45b41e8d781d3e1782f41fc8a169c5897bc55692-1414x1344-webp",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents within EasyBankCore® — instantly, seamlessly, and with full legal compliance.",
         "title": "PDF Digital Signing Services"
       },
@@ -6600,7 +6607,13 @@
             "_key": "scxtyotom6",
             "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents — eliminating impersonation risks and creating a secure trust framework between parties.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9c2d80371a07b7f0db32c73ad93ae9fce84f3720-734x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Authentic"
           },
@@ -6608,7 +6621,13 @@
             "_key": "gdfijp4pmd",
             "description": "Once a document is digitally signed, any attempt to modify it breaks the cryptographic seal and alerts all parties of potential tampering. This end-to-end integrity check protects sensitive data and ensures version control.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-47310f399bb3fdd346c68552bdebc7edb38d8683-734x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Tamper-Proof"
           },
@@ -6616,7 +6635,13 @@
             "_key": "bnys29ycet",
             "description": "Recognized by Global Compliance Standards Digital signatures comply with international frameworks like the IT Act (India), eIDAS (EU), and ESIGN/UETA (US). They carry the same legal standing as handwritten signatures and are admissible in court.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-cd9b6c06c7aaf35b65d41e0e318291dce4e0b7ce-734x328-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Legally Valid"
           }
@@ -6631,49 +6656,97 @@
           {
             "_key": "fwbozqd7ka",
             "description": "Supports IT Act (India), eIDAS (EU), and global PKI standards.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c6b7311c2e34d92464913f6a5b62cb18daf4abcf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Legally Compliant"
           },
           {
             "_key": "adda6dc9rn",
             "description": "Based on PKI infra, encryption, and certified digital certificates.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4f9ddb53646fa9c4f02355ef7af71bd6f855d9f1-48x48-svg",
+                "_type": "reference"
+              }
+            },
             "title": "Strong Security"
           },
           {
             "_key": "i0hp29k4x2",
             "description": "Aadhaar eSign, USB Token, or Server-based signatures.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fce7c7b64c36e232b5bc695fc08e3333adf98676-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Multi-Mode Signing"
           },
           {
             "_key": "zcrs33ky4n",
             "description": "Full logs of every signing event for transparency and compliance.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f5bf9ca25d5632ee814eae1cee85c7517f93e04a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Audit Trail"
           },
           {
             "_key": "altoreyf0e",
             "description": "Instantly detects changes post-signing.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1061ab977740672c4aec36c16cad19520216414c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Tamper Detection"
           },
           {
             "_key": "qe836gour4",
             "description": "API-ready for banking apps, enterprise platforms, and workflow tools.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-446fffb7688720c73ee7035e18d555144c3e79a7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Easy Integration"
           },
           {
             "_key": "ol90o3da66",
             "description": "Keeps certificates up to date with automated renewal to ensure uninterrupted signing.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ae5187e3fa90f2c19a397d9c4e8dbcdf873a613-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Auto-Renewal"
           },
           {
             "_key": "ijnsgfji9v",
             "description": "Applies trusted third-party timestamps to each signature, ensuring validity",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3ddf0a12711c7e4c7a754279a1db7e860cd41c4f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Time Stamping"
           }
         ],
@@ -6701,7 +6774,13 @@
             "description": "Eliminate printing, scanning, and courier delays.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2d0a0d2f5d3cbe2b087835bacf23a91d750d3309-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ea270c102e5e",
@@ -6717,7 +6796,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1bda5b58725f5020083c4dddcea588f6c438699e-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "a083792a85c7",
@@ -6733,7 +6818,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bebd048aa244826a428bd0f1371f8078bfa6642d-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "410a28962cae",
@@ -6749,7 +6840,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a71ea40689c8f6bac0f4ab1e50e47f96e4b43770-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "ea2097c9cc98",
@@ -6765,7 +6862,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 5,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e5754a1e79e643d54bd178e9a11d1ce3c4070cbf-1254x1014-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "daec77e7578e",
@@ -6781,7 +6884,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "subTitle": "Enable document signing anytime, anywhere — while reducing costs and boosting compliance.",
           "text": {
             "title": [
               {
@@ -6847,7 +6950,13 @@
             "_key": "b3qrgjr1fe",
             "description": "Digitally sign loan agreements, account opening forms, statements, and fund transfers.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-956aa17f1d17e37e29a052e0cc050c2bd53f2c93-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Banking & Finance"
           },
@@ -6855,7 +6964,13 @@
             "_key": "o2ycnt03dr",
             "description": "Sign HR documents, vendor contracts, and NDAs with ease.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8f90cd78eebe5a7f913c17ce66f303df41e3140f-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Enterprises"
           },
@@ -6863,7 +6978,13 @@
             "_key": "qkm26egaii",
             "description": "Ensure compliance for official filings, legal documents, and approvals.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-18cc364c4d6ddef3ef756cbf51030e72bd0b8a12-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Government & Legal"
           },
@@ -6871,7 +6992,13 @@
             "_key": "164vm5syz8",
             "description": "Digitally sign patient consent forms, insurance claims, and medical records with full compliance and traceability.",
             "descriptionClassName": "",
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-9ae9fc072c33efbdc426232d5446caf3d6a5eedc-1136x496-webp",
+                "_type": "reference"
+              }
+            },
             "imageAlt": "",
             "title": "Healthcare & Insurance"
           }
