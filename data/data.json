@@ -20686,15 +20686,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "j9x8aXCnOL41Sub9FmttTC",
+    "_rev": "vVaFl7ADmGgQzf5cZA0mw1",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "j4WZNIGUzPsJcmnHbc0JFG"
+        "rev": "j9x8aXCnOL41Sub9FmttTC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T05:36:06Z",
+    "_updatedAt": "2026-05-11T11:15:55Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -20776,7 +20776,7 @@
         ],
         "id": "Banking That Travels to the Mobile Banking?",
         "isTextBlack": true,
-        "subTitleText": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
+        "subTitleText": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
         "titleParts": [
           {
             "_key": "yr7rt832wd",
