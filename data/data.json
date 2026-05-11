@@ -14792,15 +14792,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "xYdOegpFMyaIaw5eRruZTB",
+    "_rev": "vVaFl7ADmGgQzf5cZA3CzJ",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "vVaFl7ADmGgQzf5cZ44Yd7"
+        "rev": "xYdOegpFMyaIaw5eRruZTB"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-11T11:27:20Z",
+    "_updatedAt": "2026-05-11T11:28:28Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -15367,21 +15367,6 @@
           },
           "route": "/products/super-app",
           "title": "Super App"
-        },
-        {
-          "_key": "card1_deduped_1",
-          "buttonTitle": "Experience Omnichannel Layer",
-          "description": "Deliver seamless experiences across mobile, kiosk, tab, super app & internet banking—ensuring customers meet your bank anytime, anywhere, on any device.",
-          "image": {
-            "_type": "image",
-            "asset": {
-              "_ref": "image-21b946e1cd4a040f2d7a590611ba7c92fab42014-551x246-webp",
-              "_type": "reference"
-            }
-          },
-          "imageSrc": "/images/homepage/2.png",
-          "route": "/products",
-          "title": "Omnichannel Banking"
         },
         {
           "_key": "card3",
