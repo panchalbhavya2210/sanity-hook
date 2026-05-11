@@ -14792,15 +14792,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "vVaFl7ADmGgQzf5cZ44Yd7",
+    "_rev": "xYdOegpFMyaIaw5eRruZTB",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "48cQ74ab5BPcgD0vBD33Wc"
+        "rev": "vVaFl7ADmGgQzf5cZ44Yd7"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-08T11:04:16Z",
+    "_updatedAt": "2026-05-11T11:27:20Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -15293,9 +15293,80 @@
               "_type": "reference"
             }
           },
-          "imageSrc": "/images/homepage/1.png",
-          "route": "/products",
+          "route": "/products/core-banking",
           "title": "Digital Core Banking"
+        },
+        {
+          "_key": "bf980bf0756d",
+          "buttonTitle": "Experience easyTF",
+          "description": "Streamline global trade operations, manage liquidity, and automate workflows with a secure, scalable platform built for modern banking.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-6dafea9877e6afaa24fba7ab51bbfedafe1bda3b-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "route": "/products/core-banking",
+          "title": "easyTF"
+        },
+        {
+          "_key": "card2",
+          "buttonTitle": "Explore Financial Intelligence",
+          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "imageSrc": "/images/homepage/3.png",
+          "route": "/products/aml-kyc",
+          "title": "AI-Based Analytics"
+        },
+        {
+          "_key": "9779fdbdf528",
+          "buttonTitle": " Explore Mobile Banking",
+          "description": "Access everyday banking services like transfers, bill payments, account management, and notifications through a secure and intuitive mobile experience.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "imageSrc": "/images/homepage/3.png",
+          "route": "/products/omnichannel-banking",
+          "title": "Mobile Banking"
+        },
+        {
+          "_key": "0aff3ee9c10e",
+          "buttonTitle": "Explore Tab Banking",
+          "description": "Designed for relationship managers and branch-assisted journeys with larger-screen experiences for onboarding, servicing, and customer interactions.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "route": "/products/tab-banking-solutions-mobipro",
+          "title": "Tab Banking"
+        },
+        {
+          "_key": "2ac53b0f06cf",
+          "buttonTitle": "Explore Super App",
+          "description": "A unified ecosystem combining banking, payments, investments, lifestyle services, and digital experiences into one intelligent platform.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "route": "/products/super-app",
+          "title": "Super App"
         },
         {
           "_key": "card1_deduped_1",
@@ -15313,21 +15384,6 @@
           "title": "Omnichannel Banking"
         },
         {
-          "_key": "card2",
-          "buttonTitle": "Explore Financial Intelligence",
-          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
-          "image": {
-            "_type": "image",
-            "asset": {
-              "_ref": "image-fed849363b3e67c18a6d27567e87ad8b621b020a-551x246-webp",
-              "_type": "reference"
-            }
-          },
-          "imageSrc": "/images/homepage/3.png",
-          "route": "/products",
-          "title": "AI-Based Analytics"
-        },
-        {
           "_key": "card3",
           "buttonTitle": "Explore easyLOMS",
           "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
@@ -15339,7 +15395,7 @@
             }
           },
           "imageSrc": "/images/homepage/4.png",
-          "route": "/products",
+          "route": "/products/digital-lending/easy-los",
           "title": "Digital Lending Platform"
         },
         {
@@ -15354,7 +15410,7 @@
             }
           },
           "imageSrc": "/images/homepage/5.png",
-          "route": "/products",
+          "route": "/products/digi-x",
           "title": "Digi.X™"
         },
         {
@@ -15369,7 +15425,7 @@
             }
           },
           "imageSrc": "/images/homepage/6.png",
-          "route": "/products",
+          "route": "/products/hrms/easy-pay-check",
           "title": "People-First HR Tech"
         }
       ],
