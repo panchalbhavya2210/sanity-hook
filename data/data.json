@@ -19969,15 +19969,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "x9AkaoQOe6dzdFl4eHQpen",
+    "_rev": "xYdOegpFMyaIaw5eRrtsGT",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "j4WZNIGUzPsJcmnHbc1IDG"
+        "rev": "x9AkaoQOe6dzdFl4eHQpen"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T06:59:21Z",
+    "_updatedAt": "2026-05-11T11:10:32Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20375,7 +20375,7 @@
               "title": "Continuous engagement & monetization"
             }
           ],
-          "title": "After: EasyBankCore®"
+          "title": "Super App"
         },
         "bankingHeader": {
           "subTitle": "Legacy apps are limited. Super App unlocks a complete ecosystem.",
