@@ -3514,24 +3514,19 @@
   {
     "_createdAt": "2026-05-11T08:52:58Z",
     "_id": "careers-page",
-    "_rev": "xYdOegpFMyaIaw5eRrtFq1",
+    "_rev": "qRGsyocDEdQGWQXrgkBgzb",
     "_system": {
       "base": {
         "id": "careers-page",
-        "rev": "qRGsyocDEdQGWQXrgjlXNv"
+        "rev": "xYdOegpFMyaIaw5eRrtFq1"
       }
     },
     "_type": "careersPage",
-    "_updatedAt": "2026-05-11T10:59:49Z",
+    "_updatedAt": "2026-05-11T11:01:19Z",
     "featuredJobs": [
       {
         "_key": "vVaFl7ADmGgQzf5cZ9wyVx",
         "_ref": "career-job-scrum-master",
-        "_type": "reference"
-      },
-      {
-        "_key": "vVaFl7ADmGgQzf5cZ9wyaX",
-        "_ref": "career-job-react-developer",
         "_type": "reference"
       }
     ],
@@ -3539,13 +3534,17 @@
       "hero": {
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
+        "id": "heroSection",
         "image": {
           "_type": "image",
           "asset": {
             "_ref": "image-c152b39e44f969cb970ad24d34c3164a95088360-708x672-png",
             "_type": "reference"
           }
-        }
+        },
+        "subtitle": "Explore thousands of opportunities from top companies and take the next step in your career.",
+        "title": "Find the Right Job for Your Future",
+        "variant": "split"
       }
     }
   },
