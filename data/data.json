@@ -2792,15 +2792,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "xYdOegpFMyaIaw5eRrmT5p",
+    "_rev": "xYdOegpFMyaIaw5eRrmb9R",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "xYdOegpFMyaIaw5eRrklIr"
+        "rev": "xYdOegpFMyaIaw5eRrmT5p"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-11T08:29:47Z",
+    "_updatedAt": "2026-05-11T08:34:29Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -2816,7 +2816,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-11c19488fe8385982086a69f582dfb47f1e45c62-1062x1008-jpg",
+            "_ref": "image-1dadcd18d8d99d2f41f2961eafe2d8cd3b1dffe5-708x672-png",
             "_type": "reference"
           }
         },
