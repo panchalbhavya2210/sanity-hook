@@ -2790,6 +2790,278 @@
     "title": "Bankai Iam"
   },
   {
+    "_createdAt": "2026-05-11T08:52:57Z",
+    "_id": "career-job-product-manager",
+    "_rev": "qRGsyocDEdQGWQXrgjlWxD",
+    "_type": "careerJob",
+    "_updatedAt": "2026-05-11T08:52:57Z",
+    "aboutCompany": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "We build enterprise fintech products used by banks and financial institutions globally."
+          }
+        ]
+      }
+    ],
+    "applyLink": "https://example.com/jobs/product-manager",
+    "benefits": [
+      "Leadership opportunities",
+      "Hybrid work model",
+      "Annual bonuses"
+    ],
+    "compensation": "Senior-level compensation package with incentives.",
+    "department": "product",
+    "experienceLevel": "senior",
+    "isFeatured": false,
+    "jobId": "JR330",
+    "jobType": "full-time",
+    "location": "Mumbai",
+    "locationInfo": "Hybrid setup based in Mumbai.",
+    "publishedAt": "2026-05-11T08:52:53.431Z",
+    "qualifications": [
+      "5+ years product management experience",
+      "Experience in fintech domain preferred",
+      "Strong analytical mindset"
+    ],
+    "responsibilities": [
+      "Define product roadmap",
+      "Coordinate with engineering teams",
+      "Gather business requirements",
+      "Analyze product metrics"
+    ],
+    "roleOverview": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Own product lifecycle management and collaborate with stakeholders to deliver impactful solutions."
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "Product Strategy",
+      "Agile",
+      "Stakeholder Management",
+      "Analytics"
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "product-manager"
+    },
+    "summary": "Lead product strategy and execution for fintech and digital banking products.",
+    "title": "Product Manager"
+  },
+  {
+    "_createdAt": "2026-05-11T08:52:55Z",
+    "_id": "career-job-react-developer",
+    "_rev": "xYdOegpFMyaIaw5eRrn8yz",
+    "_type": "careerJob",
+    "_updatedAt": "2026-05-11T08:52:55Z",
+    "aboutCompany": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "Our engineering team builds next-generation banking and fintech products focused on scalability and performance."
+          }
+        ]
+      }
+    ],
+    "applyLink": "https://example.com/jobs/react-developer",
+    "benefits": [
+      "Remote flexibility",
+      "Health insurance",
+      "Performance bonuses"
+    ],
+    "compensation": "Competitive salary with yearly appraisal structure.",
+    "department": "engineering",
+    "experienceLevel": "mid",
+    "isFeatured": true,
+    "jobId": "JR105",
+    "jobType": "full-time",
+    "location": "Surat",
+    "locationInfo": "Work from Surat office with hybrid flexibility.",
+    "publishedAt": "2026-05-11T08:52:53.431Z",
+    "qualifications": [
+      "2+ years of frontend development experience",
+      "Strong understanding of React ecosystem",
+      "Experience with REST APIs"
+    ],
+    "responsibilities": [
+      "Develop reusable React components",
+      "Integrate APIs with frontend",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers"
+    ],
+    "roleOverview": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "You will work closely with UI/UX teams to develop high-quality web applications."
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "react-developer"
+    },
+    "summary": "Build scalable frontend applications using React, TypeScript, and modern web technologies.",
+    "title": "React Developer"
+  },
+  {
+    "_createdAt": "2026-05-11T08:52:53Z",
+    "_id": "career-job-scrum-master",
+    "_rev": "qRGsyocDEdQGWQXrgjlVf5",
+    "_type": "careerJob",
+    "_updatedAt": "2026-05-11T08:52:53Z",
+    "aboutCompany": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "BankAI powers the future of digital banking by helping financial institutions create seamless and customer-focused experiences."
+          }
+        ]
+      }
+    ],
+    "applyLink": "https://example.com/jobs/scrum-master-graduate",
+    "benefits": [
+      "Hybrid work environment",
+      "Learning support programs",
+      "Paid leaves",
+      "Career growth opportunities"
+    ],
+    "compensation": "Competitive salary package with performance incentives.",
+    "department": "engineering",
+    "experienceLevel": "graduate",
+    "isFeatured": true,
+    "jobId": "JR742",
+    "jobType": "full-time",
+    "location": "Ahmedabad",
+    "locationInfo": "Hybrid work model based in Ahmedabad, India.",
+    "publishedAt": "2026-05-11T08:52:53.430Z",
+    "qualifications": [
+      "Bachelor degree in Computer Science or related field",
+      "Understanding of Agile/Scrum principles",
+      "Good communication skills"
+    ],
+    "responsibilities": [
+      "Facilitate sprint planning and retrospectives",
+      "Support Agile and Scrum practices",
+      "Coordinate between product and engineering teams",
+      "Track sprint progress and blockers"
+    ],
+    "roleOverview": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "We are looking for a Graduate Scrum Master to support agile product development and improve collaboration across teams."
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "Agile Methodology",
+      "Scrum",
+      "Communication",
+      "JIRA",
+      "Team Collaboration"
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "scrum-master-graduate"
+    },
+    "summary": "Support agile product development and collaborate with cross-functional teams to deliver banking solutions efficiently.",
+    "title": "Scrum Master - Graduate"
+  },
+  {
+    "_createdAt": "2026-05-11T08:52:56Z",
+    "_id": "career-job-ui-ux-designer",
+    "_rev": "vVaFl7ADmGgQzf5cZ9SiN3",
+    "_type": "careerJob",
+    "_updatedAt": "2026-05-11T08:52:56Z",
+    "aboutCompany": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "We focus on creating intuitive banking experiences with a user-first design philosophy."
+          }
+        ]
+      }
+    ],
+    "applyLink": "https://example.com/jobs/ui-ux-designer",
+    "benefits": [
+      "Flexible working hours",
+      "Design learning budget",
+      "Team retreats"
+    ],
+    "compensation": "Salary based on experience and design expertise.",
+    "department": "design",
+    "experienceLevel": "mid",
+    "isFeatured": false,
+    "jobId": "JR210",
+    "jobType": "full-time",
+    "location": "Bangalore",
+    "locationInfo": "On-site collaboration required in Bangalore office.",
+    "publishedAt": "2026-05-11T08:52:53.431Z",
+    "qualifications": [
+      "Portfolio showcasing UI/UX work",
+      "Experience with Figma",
+      "Understanding of accessibility standards"
+    ],
+    "responsibilities": [
+      "Create wireframes and prototypes",
+      "Conduct user research",
+      "Design responsive UI systems",
+      "Collaborate with development teams"
+    ],
+    "roleOverview": [
+      {
+        "_type": "block",
+        "children": [
+          {
+            "_type": "span",
+            "text": "You will design responsive interfaces and collaborate with frontend developers."
+          }
+        ]
+      }
+    ],
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "UI Design",
+      "UX Research",
+      "Design Systems"
+    ],
+    "slug": {
+      "_type": "slug",
+      "current": "ui-ux-designer"
+    },
+    "summary": "Design modern and accessible user experiences for enterprise banking platforms.",
+    "title": "UI/UX Designer"
+  },
+  {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
     "_rev": "xYdOegpFMyaIaw5eRrmb9R",
@@ -3238,6 +3510,28 @@
       "current": "careers"
     },
     "title": "Careers"
+  },
+  {
+    "_createdAt": "2026-05-11T08:52:58Z",
+    "_id": "careers-page",
+    "_rev": "qRGsyocDEdQGWQXrgjlXNv",
+    "_type": "careersPage",
+    "_updatedAt": "2026-05-11T08:52:58Z",
+    "featuredJobs": [
+      {
+        "_ref": "career-job-scrum-master",
+        "_type": "reference"
+      },
+      {
+        "_ref": "career-job-react-developer",
+        "_type": "reference"
+      }
+    ],
+    "hero": {
+      "image": null,
+      "subtitle": "Explore thousands of opportunities from top companies and take the next step in your career.",
+      "title": "Find the Right Job for Your Future"
+    }
   },
   {
     "_createdAt": "2026-04-15T05:58:36Z",
