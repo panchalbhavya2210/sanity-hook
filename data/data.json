@@ -13104,15 +13104,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "x9AkaoQOe6dzdFl4eHb3ea",
+    "_rev": "ilmz0p0w86KFCECuhO0fHQ",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "aeR9vTMsaQURTdDrE3mkco"
+        "rev": "x9AkaoQOe6dzdFl4eHb3ea"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T07:43:41Z",
+    "_updatedAt": "2026-05-13T08:31:22Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13249,7 +13249,6 @@
           {
             "_key": "356rj094ig",
             "description": "Update contact and personal details",
-            "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
@@ -13257,7 +13256,7 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Profile Management"
           },
           {
@@ -13272,6 +13271,7 @@
               }
             },
             "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Dependent Information"
           },
           {
@@ -13286,6 +13286,7 @@
               }
             },
             "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Real-Time Updates"
           }
         ]
