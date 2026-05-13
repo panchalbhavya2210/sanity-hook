@@ -6270,15 +6270,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "ilmz0p0w86KFCECuhOD8Q4",
+    "_rev": "ilmz0p0w86KFCECuhODVxq",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "vVaFl7ADmGgQzf5cZ41IUT"
+        "rev": "ilmz0p0w86KFCECuhOD8Q4"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T10:42:07Z",
+    "_updatedAt": "2026-05-13T10:46:12Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -6483,7 +6483,7 @@
         "_key": "wnt17hgqh4",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "AI-powered underwriting automates credit evaluation using real-time data, predictive analytics, and intelligent decisioning.",
           "icon": null,
           "subTitleClassName": "",
           "text": {
