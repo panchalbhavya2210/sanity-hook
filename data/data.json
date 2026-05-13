@@ -2,20 +2,21 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "ilmz0p0w86KFCECuhNrqq6",
+    "_rev": "ZNIpBJ0WFANlheD2Wg6yHn",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "vVaFl7ADmGgQzf5cZA8zAH"
+        "rev": "ilmz0p0w86KFCECuhNrqq6"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-13T06:20:53Z",
+    "_updatedAt": "2026-05-13T09:12:02Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
         "label": "Products",
         "layout": "onlyLinks",
+        "menuType": "dropdown",
         "sections": [
           {
             "_key": "5f707df6-cc3e-4745-af98-63faee032583",
@@ -142,6 +143,7 @@
         "_key": "11be2c40-8f15-4dd6-ba2a-ae2a5d3ea92a",
         "label": "Xcelerators",
         "layout": "onlyLinks",
+        "menuType": "dropdown",
         "sections": [
           {
             "_key": "56495316-e4db-4140-b6cd-b4d2269c89a4",
@@ -284,8 +286,10 @@
       },
       {
         "_key": "3bcb8ae4-cf8a-44d3-9d66-c1447d833875",
+        "href": "/api-hub",
         "label": "API Hub",
         "layout": "withSideCard",
+        "menuType": "link",
         "promo": {
           "cta": "Explore easyTF",
           "description": "Secure scalable platform",
@@ -360,6 +364,7 @@
         "_key": "165eb48b-3a46-4b78-9f6d-e90c6339cb24",
         "label": "Services",
         "layout": "onlyLinks",
+        "menuType": "dropdown",
         "promo": {
           "cta": "Explore easyTF",
           "description": "Secure scalable platform",
@@ -422,6 +427,7 @@
         "_key": "496c8e53-0b63-4124-b7bb-e488fbf72262",
         "label": "Resources",
         "layout": "withSideCard",
+        "menuType": "dropdown",
         "promo": {
           "cta": "Explore easyTF",
           "description": "Secure scalable platform",
@@ -490,6 +496,7 @@
         "_key": "fa64b650-8ddc-4d54-9add-8790f8bd8459",
         "label": "Company",
         "layout": "withSideCard",
+        "menuType": "dropdown",
         "sections": [
           {
             "_key": "4055ba5d-d4c2-44b1-8bda-a59e29e33a70",
