@@ -13104,15 +13104,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "ilmz0p0w86KFCECuhO0fHQ",
+    "_rev": "UsfV9oDnxQRwUo5LZ4MeBs",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "x9AkaoQOe6dzdFl4eHb3ea"
+        "rev": "ilmz0p0w86KFCECuhO0fHQ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T08:31:22Z",
+    "_updatedAt": "2026-05-13T08:32:50Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13242,8 +13242,10 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles1",
         "isBgBlue": false,
+        "isBgLightBlue": true,
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
