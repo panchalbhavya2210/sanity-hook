@@ -17984,15 +17984,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "UsfV9oDnxQRwUo5LZ4Ff6f",
+    "_rev": "ZNIpBJ0WFANlheD2Wg1Mbf",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "ilmz0p0w86KFCECuhNwBgY"
+        "rev": "UsfV9oDnxQRwUo5LZ4Ff6f"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T07:29:08Z",
+    "_updatedAt": "2026-05-13T07:30:41Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18535,7 +18535,7 @@
         "bgColor": "bg-brand-600",
         "hasCardBackground": true,
         "id": "quickActionCardParent",
-        "isChild": false,
+        "isChild": true,
         "quickActionCard": [
           {
             "_key": "zz6dfy4t6a",
