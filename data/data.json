@@ -20158,15 +20158,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ilmz0p0w86KFCECuhO5cUu",
+    "_rev": "ZNIpBJ0WFANlheD2Wg8vip",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "ilmz0p0w86KFCECuhO4zoq"
+        "rev": "ilmz0p0w86KFCECuhO5cUu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T09:17:11Z",
+    "_updatedAt": "2026-05-13T09:44:05Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20286,7 +20286,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-37d2474754187bc820b5aea60a654d5dc501f59d-945x821-webp",
+                "_ref": "image-926941cccbe06f2b4adeaf6b623c36089bcdc28f-1260x1094-webp",
                 "_type": "reference"
               }
             }
@@ -20297,7 +20297,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3fead30f248db437f380256b14179e7ab7627124-945x821-webp",
+                "_ref": "image-5848a0253945d83f17f44c08b3ab7f3080783bf7-1260x1094-webp",
                 "_type": "reference"
               }
             }
@@ -20397,7 +20397,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a7f86d37c03555acd76c3f81abea98c9620857d5-941x821-webp",
+                "_ref": "image-938d13f88517b5e65b14a06951aa54d3ef51acb5-1260x1094-webp",
                 "_type": "reference"
               }
             }
@@ -20408,7 +20408,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-f29586204a3ef65ede5b4a77db263abde04c8d47-941x821-webp",
+                "_ref": "image-144b078eefeeaed2eb978c335ac67d5c4e1c4fe8-1260x1094-webp",
                 "_type": "reference"
               }
             }
@@ -20513,7 +20513,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-6466ad25839e9e792f9e37286b64c2b62a07f05c-945x821-webp",
+                "_ref": "image-db3ce51fa9c9fa4f8cd0cc79aeba0b8b342eb6c8-1254x1094-webp",
                 "_type": "reference"
               }
             }
@@ -20524,7 +20524,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-f29586204a3ef65ede5b4a77db263abde04c8d47-941x821-webp",
+                "_ref": "image-2ed5f9ac6d401d48e120ea7449eb6d476adb5193-1254x1094-webp",
                 "_type": "reference"
               }
             }
