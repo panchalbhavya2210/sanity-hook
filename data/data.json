@@ -13111,15 +13111,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "ilmz0p0w86KFCECuhO9RwM",
+    "_rev": "UsfV9oDnxQRwUo5LZ4ZTNt",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "ilmz0p0w86KFCECuhO95q2"
+        "rev": "ilmz0p0w86KFCECuhO9RwM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T10:02:28Z",
+    "_updatedAt": "2026-05-13T10:03:24Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13235,8 +13235,7 @@
         "_key": "qks0k80st0",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
-          "subTitle": "Employees can securely access and update their personal and professional details anytime.",
+          "description": "Employees can securely access and update their personal and professional details anytime.",
           "subTitleClassName": "",
           "text": {
             "title": [
