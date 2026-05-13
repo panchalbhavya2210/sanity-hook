@@ -602,15 +602,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "hbFHDleTVRD2fswKs1Gl0k",
+    "_rev": "UsfV9oDnxQRwUo5LZ4CIN8",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "j9x8aXCnOL41Sub9FnY6FK"
+        "rev": "hbFHDleTVRD2fswKs1Gl0k"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:38:17Z",
+    "_updatedAt": "2026-05-13T06:40:57Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -678,6 +678,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Slow Onboarding"
           },
           {
@@ -692,6 +693,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "High Operational Costs"
           },
           {
@@ -706,6 +708,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Compliance Risks"
           },
           {
@@ -720,6 +723,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Fragmented Systems"
           }
         ]
@@ -865,12 +869,12 @@
           {
             "_key": "yp0l4nkk75",
             "color": "text-brand-600",
-            "text": "Intelligent KYC Platform"
+            "text": "Intelligent "
           },
           {
             "_key": "okatqk3j6t",
             "color": "text-black",
-            "text": "Traditional "
+            "text": "KYC Platform"
           }
         ]
       },
@@ -878,9 +882,7 @@
         "_key": "c03kdq2w5w",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Advanced AI and ML models power every stage — from extraction to verification.",
-          "icon": null,
-          "subTitle": "",
+          "subTitle": "Advanced AI and ML models power every stage — from extraction to verification.",
           "subTitleClassName": "",
           "text": {
             "title": [
