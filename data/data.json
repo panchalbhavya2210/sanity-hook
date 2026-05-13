@@ -20158,15 +20158,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ilmz0p0w86KFCECuhO4zoq",
+    "_rev": "ilmz0p0w86KFCECuhO5cUu",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "ilmz0p0w86KFCECuhO493C"
+        "rev": "ilmz0p0w86KFCECuhO4zoq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T09:16:45Z",
+    "_updatedAt": "2026-05-13T09:17:11Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20862,7 +20862,7 @@
       }
     ],
     "seo": {
-      "description": "Digitally sign and verify NACH files with BankAI’s secure signing tool, built for NPCI compliance, automation, and high-volume banking operations.",
+      "description": "A unified digital platform that brings banking, payments, investments, and lifestyle services together — delivering one seamless experience for customers and businesses.",
       "image": null,
       "keywords": [
         "NACH signing tool",
@@ -20873,7 +20873,7 @@
       ],
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
-      "title": "NACH Signing Tool | BankAI",
+      "title": "Beyond Banking. One Super App. Infinite Possibilities",
       "url": "https://yourdomain.com/products/nach-signin-tool"
     },
     "slug": {
