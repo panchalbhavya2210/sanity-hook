@@ -13111,15 +13111,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "ilmz0p0w86KFCECuhO95q2",
+    "_rev": "ilmz0p0w86KFCECuhO9RwM",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "UsfV9oDnxQRwUo5LZ4MeBs"
+        "rev": "ilmz0p0w86KFCECuhO95q2"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T09:56:45Z",
+    "_updatedAt": "2026-05-13T10:02:28Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13788,6 +13788,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Expense Entry"
           },
           {
@@ -13802,6 +13803,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Transaction Records"
           },
           {
@@ -13816,6 +13818,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Faster Processing"
           }
         ]
