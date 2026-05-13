@@ -4059,15 +4059,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "hbFHDleTVRD2fswKs1GkIV",
+    "_rev": "ZNIpBJ0WFANlheD2WgEwhz",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "j9x8aXCnOL41Sub9Fp04H1"
+        "rev": "hbFHDleTVRD2fswKs1GkIV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:38:12Z",
+    "_updatedAt": "2026-05-13T11:25:07Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -4077,7 +4077,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-c23cc4729d1663610633da61f9f4b718570ac14c-708x672-webp",
+            "_ref": "image-1a053b550a46aec55497936a6591f04a01173da6-1062x1008-png",
             "_type": "reference"
           }
         },
@@ -4089,9 +4089,7 @@
         "_key": "i82uknk60m",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Modern customers expect instant, personalized, and seamless support — but legacy systems struggle to keep up.",
-          "icon": null,
-          "subTitle": "",
+          "subTitle": "Modern customers expect instant, personalized, and seamless support — but legacy systems struggle to keep up.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -4254,6 +4252,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -4270,6 +4269,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Conversational AI"
           },
           {
@@ -4284,6 +4284,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Multilingual Support"
           },
           {
@@ -4298,6 +4299,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Secure Interactions"
           },
           {
@@ -4312,6 +4314,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Cost Optimization"
           }
         ]
@@ -4371,6 +4374,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Designed to improve efficiency, engagement, and trust through intelligent automation.",
         "titleParts": [
           {
             "_key": "1ps08bn7pd",
@@ -4397,9 +4401,8 @@
         "_key": "7l0kosv68l",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Advanced AI and ML models power every stage — from extraction to verification.",
           "icon": null,
-          "subTitle": "",
+          "subTitle": "Designed to make banking interactions smooth, secure, and intuitive.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -4690,8 +4693,8 @@
             "title": [
               {
                 "_key": "dvr2b3ctqm",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Built on a Scalable AI Architecture"
               }
             ],
             "variant": "h1"
@@ -4780,7 +4783,7 @@
             "title": [
               {
                 "_key": "xd6uyzgsxw",
-                "color": "text-white",
+                "color": "text-black",
                 "text": "Banking, Reimagined Through Conversations"
               }
             ]
@@ -4803,6 +4806,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Human-Like Interaction"
           },
           {
@@ -4817,6 +4821,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Instant Service Delivery"
           },
           {
@@ -4831,6 +4836,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Secure & Reliable"
           },
           {
@@ -4845,6 +4851,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Accessible Anywhere"
           }
         ]
