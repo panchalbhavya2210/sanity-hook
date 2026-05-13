@@ -11665,15 +11665,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "x9AkaoQOe6dzdFl4eHtrEi",
+    "_rev": "ZNIpBJ0WFANlheD2WgAWUh",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "HrBj9Zx03wkqUmFRdtTQYd"
+        "rev": "x9AkaoQOe6dzdFl4eHtrEi"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T09:11:39Z",
+    "_updatedAt": "2026-05-13T10:18:13Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -11705,9 +11705,8 @@
         "_key": "12n1ozxyz8",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Centralize employee data and simplify HR operations with intuitive tools built for accuracy and control.",
           "icon": null,
-          "subTitle": "Centralize employee data and simplify HR operations with intuitive tools built for accuracy and control.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -11721,6 +11720,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -11896,6 +11896,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Eliminate repetitive manual work and improve accuracy with intelligent automation.",
         "titleParts": [
           {
             "_key": "f609a2hqv6",
@@ -11963,9 +11964,8 @@
         "_key": "celu9un4lp",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Help employees understand and manage taxes while ensuring compliance.",
           "icon": null,
-          "subTitle": "Help employees understand and manage taxes while ensuring compliance.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -11996,6 +11996,7 @@
               }
             },
             "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Tax Declarations"
           },
           {
@@ -12010,6 +12011,7 @@
               }
             },
             "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Investment Tracking"
           },
           {
@@ -12024,7 +12026,67 @@
               }
             },
             "imageAlt": "",
+            "isCardBgWhite": true,
             "title": "Transparent Tax View"
+          }
+        ]
+      },
+      {
+        "_key": "fw34xefim5",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "Empower employees with structured performance management and feedback systems.",
+          "text": {
+            "title": [
+              {
+                "_key": "njwlthv3y0",
+                "color": "",
+                "text": "Drive "
+              },
+              {
+                "_key": "cbyj1uevjb",
+                "color": "text-brand-600",
+                "text": "Performance"
+              },
+              {
+                "_key": "hcjuu0lqk1",
+                "color": "text-black",
+                "text": ", Build "
+              },
+              {
+                "_key": "s11ebp1mm8",
+                "color": "text-warning",
+                "text": "Growth"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "id": "quickActionCardParent2",
+        "isChild": false,
+        "isTextBlack": true,
+        "quickActionCard": [
+          {
+            "_key": "fgiifpuyu",
+            "description": "Define clear objectives and track progress throughout the year.",
+            "title": "Goal Setting"
+          },
+          {
+            "_key": "hggn7irg4b",
+            "description": "Enable regular feedback and performance discussions.",
+            "title": "Feedback System"
+          },
+          {
+            "_key": "gn3s7k0m0l",
+            "description": "Identify high performers and areas of improvement.",
+            "title": "Performance Tracking"
+          },
+          {
+            "_key": "g1x89do2ef",
+            "description": "Support career development and long-term engagement.",
+            "title": "Employee Growth"
           }
         ]
       },
@@ -12140,65 +12202,6 @@
             "variant": "h1"
           }
         }
-      },
-      {
-        "_key": "fw34xefim5",
-        "_type": "quickActionCardParentSection",
-        "actionCardHeader": {
-          "icon": null,
-          "subTitleText": "Empower employees with structured performance management and feedback systems.",
-          "text": {
-            "title": [
-              {
-                "_key": "njwlthv3y0",
-                "color": "",
-                "text": "Drive "
-              },
-              {
-                "_key": "cbyj1uevjb",
-                "color": "text-brand-600",
-                "text": "Performance"
-              },
-              {
-                "_key": "hcjuu0lqk1",
-                "color": "text-black",
-                "text": ", Build "
-              },
-              {
-                "_key": "s11ebp1mm8",
-                "color": "text-warning",
-                "text": "Growth"
-              }
-            ],
-            "variant": "h1"
-          }
-        },
-        "bgColor": "white",
-        "id": "quickActionCardParent2",
-        "isChild": false,
-        "isTextBlack": true,
-        "quickActionCard": [
-          {
-            "_key": "fgiifpuyu",
-            "description": "Define clear objectives and track progress throughout the year.",
-            "title": "Goal Setting"
-          },
-          {
-            "_key": "hggn7irg4b",
-            "description": "Enable regular feedback and performance discussions.",
-            "title": "Feedback System"
-          },
-          {
-            "_key": "gn3s7k0m0l",
-            "description": "Identify high performers and areas of improvement.",
-            "title": "Performance Tracking"
-          },
-          {
-            "_key": "g1x89do2ef",
-            "description": "Support career development and long-term engagement.",
-            "title": "Employee Growth"
-          }
-        ]
       },
       {
         "_key": "yfbye6czm2",
@@ -12388,6 +12391,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -12404,6 +12408,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Real-Time Insights"
           },
           {
@@ -12418,6 +12423,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Data-Driven Decisions"
           },
           {
@@ -12432,6 +12438,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "150+ Reports"
           }
         ]
@@ -12453,7 +12460,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -12461,9 +12468,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
+      "ogTitle": "HR & Payroll, Simplified",
+      "title": "HR & Payroll, Simplified",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
