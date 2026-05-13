@@ -13111,15 +13111,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "UsfV9oDnxQRwUo5LZ4MeBs",
+    "_rev": "ilmz0p0w86KFCECuhO95q2",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "ilmz0p0w86KFCECuhO0fHQ"
+        "rev": "UsfV9oDnxQRwUo5LZ4MeBs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T08:32:50Z",
+    "_updatedAt": "2026-05-13T09:56:45Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13139,7 +13139,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-6a34fc30c90f1dae0ce661ca18548d3e3bbc49ef-708x672-png",
+            "_ref": "image-c384593cde137bac94c0d89202d126ae637b373d-1062x1008-png",
             "_type": "reference"
           }
         },
@@ -13202,6 +13202,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Streamline HR operations and empower employees with self-service tools for daily tasks, communication, and productivity.",
         "titleParts": [
           {
             "_key": "6qy4oy02g5",
@@ -13266,6 +13267,7 @@
               }
             },
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Profile Management"
           },
           {
@@ -13281,6 +13283,7 @@
             },
             "imageAlt": "",
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Dependent Information"
           },
           {
@@ -13296,6 +13299,7 @@
             },
             "imageAlt": "",
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Real-Time Updates"
           }
         ]
@@ -13305,7 +13309,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Designed with usability in mind so even new field agents can onboard customers efficiently",
+          "subTitleText": "Manage leave requests, attendance records, and work hours in one place.",
           "text": {
             "title": [
               {
@@ -13460,6 +13464,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Keep employees informed with policies, documents, and compliance updates.",
         "titleParts": [
           {
             "_key": "s09j979u97",
@@ -13766,6 +13771,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -13841,7 +13847,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -13849,9 +13855,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
+      "ogTitle": "Empower Your Workforce with ESS",
+      "title": "Empower Your Workforce with ESS",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
