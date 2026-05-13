@@ -17984,15 +17984,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "x9AkaoQOe6dzdFl4eHFcAL",
+    "_rev": "ilmz0p0w86KFCECuhNwBgY",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "x9AkaoQOe6dzdFl4eHFWSU"
+        "rev": "x9AkaoQOe6dzdFl4eHFcAL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-07T05:12:56Z",
+    "_updatedAt": "2026-05-13T07:24:21Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18088,7 +18088,7 @@
         ],
         "id": "coreInfoSection",
         "isTextBlack": true,
-        "subTitleText": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. Here’s what you’re up against",
+        "subTitleText": "The Current Challenges: Despite demand, many banks struggle with outdated systems and complex integrations. ",
         "titleParts": [
           {
             "_key": "j6c8tbi6ou",
@@ -18644,27 +18644,6 @@
             ]
           },
           {
-            "_key": "6hrrk78ksa",
-            "description": "AI-driven budgeting and alerts for smarter money habits.",
-            "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
-            "heading": "EasyBankCore®",
-            "id": 2,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-463a87f9f539238a29ba89616ec29804f65460a5-627x547-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "8p05f2idyi",
-                "color": "",
-                "text": "Spending Analysis"
-              }
-            ]
-          },
-          {
             "_key": "if7438cpfx",
             "description": "Recharge, pay, and track all from one place.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
@@ -18690,14 +18669,13 @@
         "id": "platformCapabilities3",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
-          "subTitle": "The Importance of Mobile Banking. Mobile banking isn’t just convenient — it’s essential for modern financial life.",
+          "subTitle": "Deliver exceptional digital experiences and grow your customer base with confidence. Benefits of Bankai Mobile Banking Platform",
           "text": {
             "title": [
               {
                 "_key": "xgrvn7nbg7",
-                "color": "",
-                "text": "Smart Banking in Your Customer’s Pocket"
+                "color": "text-white",
+                "text": "Why Leading Banks Choose Bankai"
               }
             ],
             "variant": "h1"
@@ -18708,7 +18686,39 @@
         "_key": "qs0mqvy4ba",
         "_type": "contactCtaSection",
         "id": "contactCta",
-        "titleParts": []
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "titleParts": [
+          {
+            "_key": "aad184648e26",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Ready to "
+          },
+          {
+            "_key": "0ab9f3328f4b",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Transform "
+          },
+          {
+            "_key": "0e25a65b9c16",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Your "
+          },
+          {
+            "_key": "7b1466a0bbf8",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Banking "
+          },
+          {
+            "_key": "c7390b37f773",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Experience?"
+          }
+        ]
       }
     ],
     "seo": {
