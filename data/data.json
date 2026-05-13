@@ -9920,15 +9920,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "xYdOegpFMyaIaw5eRqYoHN",
+    "_rev": "UsfV9oDnxQRwUo5LZ4kzPF",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "x9AkaoQOe6dzdFl4eKMa6o"
+        "rev": "xYdOegpFMyaIaw5eRqYoHN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:38:07Z",
+    "_updatedAt": "2026-05-13T11:28:00Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -9953,16 +9953,15 @@
           }
         },
         "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
-        "title": "Loan Management & Servicing, Simplified",
+        "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
         "variant": "split"
       },
       {
         "_key": "sn0o9nnxt8",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Manage, monitor, and optimize every stage of lending through a unified system built for speed, accuracy, and scale.",
           "icon": null,
-          "subTitle": "Manage, monitor, and optimize every stage of lending through a unified system built for speed, accuracy, and scale.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -9976,6 +9975,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles1",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -10037,6 +10037,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Integrated Ecosystem"
           }
         ]
@@ -10335,9 +10336,8 @@
         "_key": "ss92fztgbe",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Business Functions: Operational, financial, and customer management in one system.",
           "icon": null,
-          "subTitle": "Business Functions: Operational, financial, and customer management in one system.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -10351,6 +10351,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles4",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -10367,6 +10368,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Loan Lifecycle Management"
           },
           {
@@ -10381,6 +10383,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Payment Tracking"
           },
           {
@@ -10395,6 +10398,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Customer Interaction Tracking"
           },
           {
@@ -10409,6 +10413,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Reporting & MIS"
           }
         ]
@@ -10468,6 +10473,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Stay compliant and financially accurate with built-in accounting.",
         "titleParts": [
           {
             "_key": "vo5cy0fodu",
@@ -10604,9 +10610,8 @@
         "_key": "knb35syuny",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Technology and infrastructure built for scale, speed, and reliability.",
           "icon": null,
-          "subTitle": "Technology and infrastructure built for scale, speed, and reliability.",
           "subTitleClassName": "",
           "text": {
             "title": [
