@@ -1138,15 +1138,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "UsfV9oDnxQRwUo5LZ4BMPz",
+    "_rev": "ilmz0p0w86KFCECuhNu9rE",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZNIpBJ0WFANlheD2WfycHf"
+        "rev": "UsfV9oDnxQRwUo5LZ4BMPz"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T06:34:00Z",
+    "_updatedAt": "2026-05-13T06:48:21Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1570,6 +1570,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Full Functionality"
           },
           {
@@ -1584,6 +1585,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Real-Time Testing"
           },
           {
@@ -1598,6 +1600,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Easy Deployment"
           }
         ]
