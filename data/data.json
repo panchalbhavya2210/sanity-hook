@@ -1136,15 +1136,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ZNIpBJ0WFANlheD2WfycHf",
+    "_rev": "UsfV9oDnxQRwUo5LZ4BMPz",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "xYdOegpFMyaIaw5eRqYf3V"
+        "rev": "ZNIpBJ0WFANlheD2WfycHf"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T06:30:43Z",
+    "_updatedAt": "2026-05-13T06:34:00Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1906,7 +1906,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "case-studies"
+      "current": "api-hub"
     },
     "title": "Api Hub"
   },
