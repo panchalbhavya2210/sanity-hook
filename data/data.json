@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "ZNIpBJ0WFANlheD2Wg6yHn",
+    "_rev": "ZNIpBJ0WFANlheD2WgE0Ux",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "ilmz0p0w86KFCECuhNrqq6"
+        "rev": "ZNIpBJ0WFANlheD2Wg6yHn"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-13T09:12:02Z",
+    "_updatedAt": "2026-05-13T11:13:38Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -68,7 +68,7 @@
               {
                 "_key": "2be7ba85-5688-4c9b-b2a2-42de6734021d",
                 "href": "/products/aml-kyc",
-                "label": "AML & KYC",
+                "label": " easyKYC",
                 "type": "link"
               },
               {
@@ -81,12 +81,6 @@
                 "_key": "8b0b467f-0ca4-4337-965e-69cd8964e0d8",
                 "href": "/products/credit-underwriting",
                 "label": "Credit Underwriting",
-                "type": "link"
-              },
-              {
-                "_key": "2181c552-5cbc-4809-850d-6f31950c8020",
-                "href": "#",
-                "label": "Mobile BI",
                 "type": "link"
               }
             ],
