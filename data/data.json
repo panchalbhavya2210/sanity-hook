@@ -20880,15 +20880,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "ilmz0p0w86KFCECuhOUYTA",
+    "_rev": "ilmz0p0w86KFCECuhOUx5Y",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "UsfV9oDnxQRwUo5LZ4KVWs"
+        "rev": "ilmz0p0w86KFCECuhOUYTA"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T13:17:17Z",
+    "_updatedAt": "2026-05-13T13:22:11Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -21518,7 +21518,7 @@
         "bgColor": "white",
         "hasCardBackground": true,
         "id": "Faster Turnaround",
-        "isChild": false,
+        "isChild": true,
         "quickActionCard": [
           {
             "_key": "ljuourp522",
