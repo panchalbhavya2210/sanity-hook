@@ -11665,15 +11665,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "ZNIpBJ0WFANlheD2WgAWUh",
+    "_rev": "ilmz0p0w86KFCECuhOAr9Q",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "x9AkaoQOe6dzdFl4eHtrEi"
+        "rev": "ZNIpBJ0WFANlheD2WgAWUh"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T10:18:13Z",
+    "_updatedAt": "2026-05-13T10:23:33Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -11997,6 +11997,7 @@
             },
             "imageAlt": "",
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Tax Declarations"
           },
           {
@@ -12012,6 +12013,7 @@
             },
             "imageAlt": "",
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Investment Tracking"
           },
           {
@@ -12027,6 +12029,7 @@
             },
             "imageAlt": "",
             "isCardBgWhite": true,
+            "isReversed": true,
             "title": "Transparent Tax View"
           }
         ]
