@@ -6270,15 +6270,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "vVaFl7ADmGgQzf5cZ41IUT",
+    "_rev": "ilmz0p0w86KFCECuhOD8Q4",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "x9AkaoQOe6dzdFl4eIUKXz"
+        "rev": "vVaFl7ADmGgQzf5cZ41IUT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:38:27Z",
+    "_updatedAt": "2026-05-13T10:42:07Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -6485,7 +6485,6 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "AI-powered underwriting automates credit evaluation using real-time data, predictive analytics, and intelligent decisioning.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -6499,6 +6498,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles2",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -6515,6 +6515,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "AI-Based Risk Analysis"
           },
           {
@@ -6529,6 +6530,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Real-Time Decisioning"
           },
           {
@@ -6543,6 +6545,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "End-to-End Automation"
           },
           {
@@ -6557,6 +6560,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Data-Driven Decisions"
           }
         ]
@@ -6616,6 +6620,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "A seamless pipeline that transforms raw borrower data into intelligent credit decisions.",
         "titleParts": [
           {
             "_key": "n9bizc5wyy",
@@ -6826,14 +6831,13 @@
         "id": "platformCapabilities1",
         "isTextBlack": true,
         "platformHeader": {
-          "icon": null,
           "subTitle": "Benefits Section: Transform underwriting into a fast, scalable, and intelligent system.",
           "text": {
             "title": [
               {
                 "_key": "j6r128ny12",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Impact on Your Lending Business"
               }
             ],
             "variant": "h1"
@@ -6914,9 +6918,8 @@
         "_key": "lbl2mwe3tg",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Move from reactive to proactive lending with intelligent automation.",
           "icon": null,
-          "subTitle": "Move from reactive to proactive lending with intelligent automation.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -6930,6 +6933,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -6946,6 +6950,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Risk Mitigation"
           },
           {
@@ -6960,6 +6965,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Responsible Lending"
           },
           {
@@ -6974,6 +6980,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Consistency"
           },
           {
@@ -6988,6 +6995,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Regulatory"
           }
         ]
