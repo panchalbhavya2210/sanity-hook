@@ -9920,15 +9920,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "UsfV9oDnxQRwUo5LZ4kzPF",
+    "_rev": "UsfV9oDnxQRwUo5LZ4m9hV",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "xYdOegpFMyaIaw5eRqYoHN"
+        "rev": "UsfV9oDnxQRwUo5LZ4kzPF"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T11:28:00Z",
+    "_updatedAt": "2026-05-13T11:35:08Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -10625,6 +10625,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles6",
         "isBgBlue": false,
         "isTextBlack": true,
