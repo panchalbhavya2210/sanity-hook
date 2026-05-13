@@ -16223,15 +16223,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "ilmz0p0w86KFCECuhOcLa8",
+    "_rev": "UsfV9oDnxQRwUo5LZ5GZmC",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "hbFHDleTVRD2fswKs17h9K"
+        "rev": "ilmz0p0w86KFCECuhOcLa8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T14:37:16Z",
+    "_updatedAt": "2026-05-13T14:37:50Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -16352,7 +16352,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Bankai’s Lift & Shift Migration Approach. From assessment to optimization, our Lift & Shift framework ensures smooth, secure cloud migration for Oracle Databases.",
+          "subTitleText": "Bankai’s Lift ‘n’ Shift Migration Approach. From assessment to optimization, our Lift ‘n’ Shift framework ensures smooth, secure cloud migration for Oracle Databases.",
           "text": {
             "title": [
               {
