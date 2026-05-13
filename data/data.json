@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "ZNIpBJ0WFANlheD2WgE0Ux",
+    "_rev": "UsfV9oDnxQRwUo5LZ5GxuA",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "ZNIpBJ0WFANlheD2Wg6yHn"
+        "rev": "ZNIpBJ0WFANlheD2WgE0Ux"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-13T11:13:38Z",
+    "_updatedAt": "2026-05-13T14:39:41Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -69,12 +69,6 @@
                 "_key": "2be7ba85-5688-4c9b-b2a2-42de6734021d",
                 "href": "/products/aml-kyc",
                 "label": " easyKYC",
-                "type": "link"
-              },
-              {
-                "_key": "f556d1e3-173e-4f4e-b300-0b155ad36b08",
-                "href": "/products/risk-based-modeling",
-                "label": "Risk Modelling",
                 "type": "link"
               },
               {
@@ -159,46 +153,6 @@
             ]
           },
           {
-            "_key": "6694e8cc-67b8-4435-8568-1e8d15e837f1",
-            "items": [
-              {
-                "_key": "b8366223-313d-498d-89cc-f66a64edc1e7",
-                "href": "#",
-                "image": {
-                  "_type": "image",
-                  "asset": {
-                    "_ref": "image-2a96f11ec3215f93398096a3f15dd462464a0c18-228x82-png",
-                    "_type": "reference"
-                  }
-                },
-                "label": "Modern UX meets robust banking technology.",
-                "type": "image",
-                "width": 159
-              }
-            ],
-            "title": ""
-          },
-          {
-            "_key": "eb3dcc57-a7a0-47e1-ace1-0c72f5cd63d2",
-            "items": [
-              {
-                "_key": "24050246-746c-4085-93b2-8308b8656dcd",
-                "href": "#",
-                "image": {
-                  "_type": "image",
-                  "asset": {
-                    "_ref": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
-                    "_type": "reference"
-                  }
-                },
-                "label": "An enterprise-grade net banking suite",
-                "type": "image",
-                "width": 159
-              }
-            ],
-            "title": ""
-          },
-          {
             "_key": "db75b754-2cc5-4348-9ae8-042cef2b6c7d",
             "items": [
               {
@@ -271,6 +225,13 @@
                 "_key": "109f1832-34e0-4445-baa7-e0abe4041990",
                 "href": "/xcelerators/others/easy-cts",
                 "label": "easyCTS",
+                "type": "link"
+              },
+              {
+                "_key": "aa79f0d8e9b6",
+                "_type": "item",
+                "href": "/products/easyTF",
+                "label": "easyTF",
                 "type": "link"
               }
             ],
