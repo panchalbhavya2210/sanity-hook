@@ -20158,15 +20158,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ilmz0p0w86KFCECuhO493C",
+    "_rev": "ilmz0p0w86KFCECuhO4zoq",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "ZNIpBJ0WFANlheD2Wg6NQd"
+        "rev": "ilmz0p0w86KFCECuhO493C"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T08:57:39Z",
+    "_updatedAt": "2026-05-13T09:16:45Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20175,7 +20175,7 @@
         "headingLogo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-a8de823dff683b2609474edf661439040a4c962f-366x46-svg",
+            "_ref": "image-279c6bf933efb6b0542b98cfd960fdf531b26a69-354x46-svg",
             "_type": "reference"
           }
         },
