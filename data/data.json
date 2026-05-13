@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "vVaFl7ADmGgQzf5cZA8zAH",
+    "_rev": "ilmz0p0w86KFCECuhNrqq6",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "xYdOegpFMyaIaw5eRrvpPB"
+        "rev": "vVaFl7ADmGgQzf5cZA8zAH"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-11T11:56:36Z",
+    "_updatedAt": "2026-05-13T06:20:53Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -160,8 +160,7 @@
                 "type": "image",
                 "width": 159
               }
-            ],
-            "title": "Digi X"
+            ]
           },
           {
             "_key": "6694e8cc-67b8-4435-8568-1e8d15e837f1",
@@ -436,7 +435,7 @@
             "items": [
               {
                 "_key": "1695e227-0cb9-419f-9d34-493e7b835a8e",
-                "href": "#",
+                "href": "/case-studies",
                 "label": "Deep dive into real solutions, client wins, and transformation journeys.",
                 "type": "linkWithHeader"
               }
@@ -533,7 +532,7 @@
             "items": [
               {
                 "_key": "5e368bfa-7dff-47ef-b250-e7248188a1b5",
-                "href": "#",
+                "href": "/openings",
                 "label": "Current Openings",
                 "type": "link"
               },
@@ -592,7 +591,7 @@
               "_type": "reference"
             }
           },
-          "link": "#",
+          "link": "/careers",
           "linkLabel": "Explore Bankai",
           "title": "Life at Bankai",
           "type": "careerSideCard"
