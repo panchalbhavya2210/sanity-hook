@@ -16223,15 +16223,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "hbFHDleTVRD2fswKs17h9K",
+    "_rev": "ilmz0p0w86KFCECuhOcLa8",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "piiLNOj3u9Wq2zYwg4Qq9M"
+        "rev": "hbFHDleTVRD2fswKs17h9K"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T09:19:04Z",
+    "_updatedAt": "2026-05-13T14:37:16Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -16303,7 +16303,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Lift n Shift Cloud approach"
+            "title": "Lift & Shift Cloud approach"
           }
         ],
         "id": "coreInfo",
@@ -16327,7 +16327,7 @@
           },
           {
             "_key": "rdlxh59867",
-            "text": "The Foundationfor Digital Agility "
+            "text": "The Foundation for Digital Agility "
           }
         ]
       },
@@ -16640,50 +16640,6 @@
         "text": "End-to-End Managed Services @ OCI"
       },
       {
-        "_key": "dodbo8s7w6",
-        "_type": "textCardSection",
-        "data": [
-          {
-            "_key": "4nnmrequh7",
-            "title": "EasyBankCore® Browser-based CBS Software Deployment at Oracle Cloud Infrastructure (OCI) - Primary & Disaster Recovery Data Centre for Head office and Branches. EasyBankCore® CBS Patch management & versioning synchronization on-going basis."
-          },
-          {
-            "_key": "ph8ger8q4z",
-            "title": "Implementing Hosted Infrastructure on VPS at Primary & Disaster Recovery Data Centre with logical security including IaaS & PaaS."
-          },
-          {
-            "_key": "3yk5ouk27d",
-            "title": "Primary, UAT, Disaster Recovery Data Centre: OS, Database, Application/Web Server Installation, Patching, Versioning @ OCI."
-          },
-          {
-            "_key": "rvi3qhap9g",
-            "title": "Managing / Monitoring Replication Link between Oracle Cloud Infrastructure (OCI) – Primary & Disaster Recovery Data Centre."
-          },
-          {
-            "_key": "jwntfl4tgl",
-            "title": "Failover Management: Unplanned Outage of Primary Data Centre."
-          },
-          {
-            "_key": "pgdz3y26kl",
-            "title": "LIVE DR Operations (Planned – whenever Bank gets connected with Disaster Recovery Data Centre, All Digital Channels will be (ENABLED) available to bank & Bank's Primary/Secondary Connectivity will be used to connect to DRS for Core Banking Operations.)"
-          },
-          {
-            "_key": "bmxk1qajht",
-            "title": "Data Replication with Recovery Point Objective (RPO) & Recovery Time Objective SLAs."
-          },
-          {
-            "_key": "kj7blu59ov",
-            "title": "Secured Block Chain Table Implementation for Audit Trail Log Tables"
-          },
-          {
-            "_key": "8gqkubjyb6",
-            "title": "Pro-Active Email Alerts & Server Resource Utilization Logs to Organization’s IT team."
-          }
-        ],
-        "id": "textSection",
-        "label": "View all 21 points"
-      },
-      {
         "_key": "1wsdcc4cvy",
         "_type": "bankingSuiteSection",
         "id": "bankingSuite12",
@@ -16729,6 +16685,50 @@
           }
         },
         "variant": "titleOnly"
+      },
+      {
+        "_key": "dodbo8s7w6",
+        "_type": "textCardSection",
+        "data": [
+          {
+            "_key": "4nnmrequh7",
+            "title": "Digital Banking Deployment at Oracle Cloud Infrastructure (OCI)- Primary & Disaster Recovery Data Centre for Head office and Branches. EasyBankCore® CBS Patch management & versioning synchronization on-going basis."
+          },
+          {
+            "_key": "ph8ger8q4z",
+            "title": "Implementing Hosted Infrastructure on VPS at Primary & Disaster Recovery Data Centre with logical security including IaaS & PaaS."
+          },
+          {
+            "_key": "3yk5ouk27d",
+            "title": "Primary, UAT, Disaster Recovery Data Centre: OS, Database, Application/Web Server Installation, Patching, Versioning @ OCI."
+          },
+          {
+            "_key": "rvi3qhap9g",
+            "title": "Managing / Monitoring Replication Link between Oracle Cloud Infrastructure (OCI) – Primary & Disaster Recovery Data Centre."
+          },
+          {
+            "_key": "jwntfl4tgl",
+            "title": "Failover Management: Unplanned Outage of Primary Data Centre."
+          },
+          {
+            "_key": "pgdz3y26kl",
+            "title": "LIVE DR Operations (Planned – whenever Bank gets connected with Disaster Recovery Data Centre, All Digital Channels will be (ENABLED) available to bank & Bank's Primary/Secondary Connectivity will be used to connect to DRS for Core Banking Operations.)"
+          },
+          {
+            "_key": "bmxk1qajht",
+            "title": "Data replication is implemented in accordance with defined Recovery Point Objective (RPO) and Recovery Time Objective (RTO), as per the agreed SLAs."
+          },
+          {
+            "_key": "kj7blu59ov",
+            "title": "Secured Block Chain Table Implementation for Audit Trail Log Tables"
+          },
+          {
+            "_key": "8gqkubjyb6",
+            "title": "Pro-Active Email Alerts & Server Resource Utilization Logs to Organization’s IT team."
+          }
+        ],
+        "id": "textSection",
+        "label": "View all 21 points"
       },
       {
         "_key": "pnyfvp7xln",
