@@ -4887,15 +4887,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "ZNIpBJ0WFANlheD2Wg0HQV",
+    "_rev": "ilmz0p0w86KFCECuhNvIaG",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "j9x8aXCnOL41Sub9Fms9Gy"
+        "rev": "ZNIpBJ0WFANlheD2Wg0HQV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T07:02:12Z",
+    "_updatedAt": "2026-05-13T07:10:41Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -5197,6 +5197,134 @@
         }
       },
       {
+        "_key": "76f925d893e6",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "text": {
+            "title": [
+              {
+                "_key": "bba3c549f047",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Massive "
+              },
+              {
+                "_key": "1845fce69bea",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Scalability"
+              }
+            ],
+            "variant": "h2"
+          }
+        },
+        "bgColor": "white",
+        "hasCardBackground": true,
+        "id": "Massive Scalability",
+        "isChild": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "quickActionCard": [
+          {
+            "_key": "54fa10c1f069",
+            "_type": "quickActionCard",
+            "description": "Financial Institutions as Active Clients (Globally)",
+            "title": "120+"
+          },
+          {
+            "_key": "0dedb670afca",
+            "_type": "quickActionCard",
+            "description": "Worth Amount of Banking Transaction Processed & Serviced by Our Platform",
+            "title": "₹ 32k Cr+"
+          },
+          {
+            "_key": "6d006ffde57f",
+            "_type": "quickActionCard",
+            "description": "Branches managed and operated on EasyBankCore® platform",
+            "title": "1425+"
+          },
+          {
+            "_key": "00fa2c648435",
+            "_type": "quickActionCard",
+            "description": "Regulatory & Security Audits Complied on yearly basis",
+            "title": "100+"
+          }
+        ]
+      },
+      {
+        "_key": "72701de940d1",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "text": {
+            "title": [
+              {
+                "_key": "7c78c61f258d",
+                "_type": "titlePart",
+                "color": "text-white",
+                "text": "Proprietary Data Sets Across All Existing Clients"
+              }
+            ],
+            "variant": "h2"
+          }
+        },
+        "bgColor": "brand",
+        "hasCardBackground": false,
+        "id": "Proprietary Data Sets Across All Existing Clients",
+        "isChild": false,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "d3c445ff8044",
+            "_type": "quickActionCard",
+            "description": "Total Active Customers",
+            "title": "1.5Cr+"
+          },
+          {
+            "_key": "6b449a5ce1d5",
+            "_type": "quickActionCard",
+            "description": "Total Active Deposit Accounts",
+            "title": "95L+"
+          },
+          {
+            "_key": "d394cba327ee",
+            "_type": "quickActionCard",
+            "description": "Daily Transaction Volume Count - Branch Banking",
+            "title": "7.5L+"
+          },
+          {
+            "_key": "1d269b451dcd",
+            "_type": "quickActionCard",
+            "description": "Daily Transaction Volume Count - Digital Banking",
+            "title": "15L+"
+          },
+          {
+            "_key": "1973930062a3",
+            "_type": "quickActionCard",
+            "description": "Total Active Accounts",
+            "title": "1.3Cr+"
+          },
+          {
+            "_key": "a18961e7468e",
+            "_type": "quickActionCard",
+            "description": "Total Active \u000bLoan Accounts",
+            "title": "7L+"
+          },
+          {
+            "_key": "42d0448befdc",
+            "_type": "quickActionCard",
+            "description": "Daily Transaction Volume Amount - Branch Banking",
+            "title": "₹ 8k Cr+"
+          },
+          {
+            "_key": "c4145bfb7c61",
+            "_type": "quickActionCard",
+            "description": "Daily Transaction Volume Amount - Digital Banking",
+            "title": "₹ 4.8k Cr+"
+          }
+        ]
+      },
+      {
         "_key": "yka2z1pjh3",
         "_type": "platformCapabilitiesSection",
         "capabilitesDetails": [
@@ -5421,7 +5549,25 @@
                 "_key": "77a3566aed3a",
                 "_type": "titlePart",
                 "color": "text-black",
-                "text": "Unified platform for compliance."
+                "text": "Unified "
+              },
+              {
+                "_key": "f4528a707ea7",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "platform "
+              },
+              {
+                "_key": "006c412a3151",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "for "
+              },
+              {
+                "_key": "85be91632845",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "compliance."
               }
             ],
             "variant": "h1"
