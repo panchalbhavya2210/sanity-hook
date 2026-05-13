@@ -20865,19 +20865,20 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "vVaFl7ADmGgQzf5cZA0mw1",
+    "_rev": "UsfV9oDnxQRwUo5LZ4KVWs",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "j9x8aXCnOL41Sub9FmttTC"
+        "rev": "vVaFl7ADmGgQzf5cZA0mw1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-11T11:15:55Z",
+    "_updatedAt": "2026-05-13T08:24:38Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "label": "Start Digital Onboarding"
         },
@@ -21470,32 +21471,34 @@
         "_key": "bbtmjs1s7o",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "titleParts": [
-            {
-              "_key": "ebcad6facf7f",
-              "_type": "titlePart",
-              "color": "text-black",
-              "text": "A "
-            },
-            {
-              "_key": "03230ce3fc9f",
-              "_type": "titlePart",
-              "color": "text-warning",
-              "text": "Strategic Advantage "
-            },
-            {
-              "_key": "7f0b2c44734f",
-              "_type": "titlePart",
-              "color": "text-black",
-              "text": "for "
-            },
-            {
-              "_key": "73745bd0f686",
-              "_type": "titlePart",
-              "color": "text-brand-600",
-              "text": "Digital Banking"
-            }
-          ]
+          "text": {
+            "title": [
+              {
+                "_key": "1c6fd699ac3c",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "A "
+              },
+              {
+                "_key": "220a48e9baaf",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Strategic Advantage "
+              },
+              {
+                "_key": "def5739910f4",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "for "
+              },
+              {
+                "_key": "2ea66a8c33ef",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Digital Banking"
+              }
+            ]
+          }
         },
         "bgColor": "white",
         "hasCardBackground": true,
