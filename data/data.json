@@ -609,15 +609,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "UsfV9oDnxQRwUo5LZ4CIN8",
+    "_rev": "ilmz0p0w86KFCECuhO6EJg",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "hbFHDleTVRD2fswKs1Gl0k"
+        "rev": "UsfV9oDnxQRwUo5LZ4CIN8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T06:40:57Z",
+    "_updatedAt": "2026-05-13T09:20:05Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -639,7 +639,7 @@
         "_key": "jwr2h5sc3o",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
+          "description": "Outdated, manual processes create inefficiencies, risks, and poor customer experiences.",
           "subTitle": "",
           "subTitleClassName": "",
           "text": {
@@ -741,7 +741,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "RAI enables instant onboarding, proactive compliance, and fraud prevention at scale.",
+          "subTitle": "AI enables instant onboarding, proactive compliance, and fraud prevention at scale.",
           "subTitleClassName": "",
           "text": {
             "title": [
