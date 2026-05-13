@@ -18771,15 +18771,15 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "vVaFl7ADmGgQzf5cZ41HbV",
+    "_rev": "ilmz0p0w86KFCECuhOBMDU",
     "_system": {
       "base": {
         "id": "risk-modeling",
-        "rev": "j4WZNIGUzPsJcmnHbc7gsy"
+        "rev": "vVaFl7ADmGgQzf5cZ41HbV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:38:23Z",
+    "_updatedAt": "2026-05-13T10:28:31Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
@@ -18804,8 +18804,7 @@
         "_key": "6octc05nfj",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
-          "subTitle": "Despite digital systems, lack of real-time intelligence leads to financial losses, compliance risks, and delayed action.",
+          "description": "Despite digital systems, lack of real-time intelligence leads to financial losses, compliance risks, and delayed action.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -18837,6 +18836,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Manual Monitoring"
           },
           {
@@ -18851,6 +18851,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Delayed Detection"
           },
           {
@@ -18865,6 +18866,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "No Real-Time Visibility"
           },
           {
@@ -18879,6 +18881,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Compliance Burden"
           }
         ]
@@ -18938,6 +18941,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Legacy fraud detection lacks speed, integration, and intelligence required for modern banking.",
         "titleParts": [
           {
             "_key": "jei67ew3wi",
@@ -19155,52 +19159,6 @@
                 "_key": "5ntz8irnpx",
                 "color": "text-black",
                 "text": "AI-Driven Fraud Analytics Platform"
-              }
-            ],
-            "variant": "h2"
-          }
-        }
-      },
-      {
-        "_key": "d3ky6or7ox",
-        "_type": "bankingSuiteSection",
-        "id": "bankingSuite10",
-        "isTextWhite": true,
-        "journeyCards": [
-          {
-            "_key": "cy554o3yhj",
-            "description": "Batch-based workflows delay approvals and increase turnaround time.",
-            "icon": null,
-            "title": "Slow Processing Cycles"
-          },
-          {
-            "_key": "1z5n23pyvf",
-            "description": "Multiple systems fail to provide a unified borrower view.",
-            "icon": null,
-            "title": "Disconnected Data Sources"
-          },
-          {
-            "_key": "ks7kmqrwhv",
-            "description": "Lack of AI leads to reactive, not proactive, risk assessment.",
-            "icon": null,
-            "title": "No Predictive Intelligence"
-          },
-          {
-            "_key": "i3y1sgcfjt",
-            "description": "Outdated scoring models fail to adapt to changing borrower behavior.",
-            "icon": null,
-            "title": "Static Risk Models"
-          }
-        ],
-        "journeyHeader": {
-          "icon": null,
-          "subTitle": "Traditional systems lack speed, intelligence, and adaptability needed for modern lending.",
-          "text": {
-            "title": [
-              {
-                "_key": "evznpdi2iz",
-                "color": "text-white",
-                "text": "System Gaps: Where Legacy Underwriting Breaks"
               }
             ],
             "variant": "h1"
@@ -19432,9 +19390,8 @@
         "_key": "e1pj6n715y",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Next-gen AI innovations will redefine how financial security is managed globally.",
           "icon": null,
-          "subTitle": "Next-gen AI innovations will redefine how financial security is managed globally.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -19448,6 +19405,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -19464,6 +19422,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Explainable Intelligence"
           },
           {
@@ -19478,6 +19437,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Advanced AI Models"
           },
           {
@@ -19492,6 +19452,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Cross-Border Intelligence"
           },
           {
@@ -19506,6 +19467,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Behavioral Biometrics"
           }
         ]
