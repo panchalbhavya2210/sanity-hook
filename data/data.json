@@ -20151,15 +20151,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ZNIpBJ0WFANlheD2Wg6NQd",
+    "_rev": "ilmz0p0w86KFCECuhO493C",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "xYdOegpFMyaIaw5eRrtsGT"
+        "rev": "ZNIpBJ0WFANlheD2Wg6NQd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T08:54:12Z",
+    "_updatedAt": "2026-05-13T08:57:39Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20777,7 +20777,7 @@
           "titleTextClassName": ""
         },
         "gridCols": 2,
-        "id": "articles5",
+        "id": "articles55",
         "isBgBlue": true,
         "isTextWhite": true,
         "mediaInfoCardData": [
