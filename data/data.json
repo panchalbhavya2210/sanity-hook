@@ -1136,15 +1136,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "xYdOegpFMyaIaw5eRqYf3V",
+    "_rev": "ZNIpBJ0WFANlheD2WfycHf",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZcJhm7Cr2zfVlbDl948Ryt"
+        "rev": "xYdOegpFMyaIaw5eRqYf3V"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T10:32:13Z",
+    "_updatedAt": "2026-05-13T06:30:43Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1220,6 +1220,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Why API Hub",
         "titleParts": [
           {
             "_key": "3gt0jgvymn",
@@ -1550,6 +1551,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles11",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -1817,43 +1819,6 @@
         ]
       },
       {
-        "_key": "2317b3ce5b40",
-        "_type": "productListSection",
-        "cards": [
-          {
-            "_key": "4064ce9e7cbc",
-            "_type": "productListCard",
-            "buttonTitle": "Start Free Trial",
-            "description": "Ideal for small teams and new projects. Access core features with generous usage limits at an entry-level price.",
-            "title": "Starter"
-          },
-          {
-            "_key": "f5b04b477ef8",
-            "_type": "productListCard",
-            "buttonTitle": "Choose",
-            "description": "Upgrade for advanced analytics, premium support, higher usage, and custom integration options. ",
-            "title": "Pro"
-          },
-          {
-            "_key": "9682141d8ffe",
-            "_type": "productListCard",
-            "buttonTitle": "Contact Sales",
-            "description": "Unlock unlimited potential with dedicated account management, custom solutions, and enterprise-grade reliability. ",
-            "title": "Enterprise"
-          }
-        ],
-        "headerSubTitleText": "Choose the perfect plan for your needs with flexible pricing designed to scale with your business.",
-        "id": "productList",
-        "titleParts": [
-          {
-            "_key": "82a13cced6eb",
-            "_type": "titlePart",
-            "color": "text-black",
-            "text": "Flexible Plans for Every Stage"
-          }
-        ]
-      },
-      {
         "_key": "af8b525ab287",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
@@ -1941,7 +1906,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "api-hub"
+      "current": "case-studies"
     },
     "title": "Api Hub"
   },
