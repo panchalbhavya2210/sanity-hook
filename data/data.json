@@ -20151,15 +20151,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "xYdOegpFMyaIaw5eRrtsGT",
+    "_rev": "ZNIpBJ0WFANlheD2Wg6NQd",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "x9AkaoQOe6dzdFl4eHQpen"
+        "rev": "xYdOegpFMyaIaw5eRrtsGT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-11T11:10:32Z",
+    "_updatedAt": "2026-05-13T08:54:12Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20168,7 +20168,7 @@
         "headingLogo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-b9d551795255513d0a891485d845cd079772d7d6-199x44-png",
+            "_ref": "image-a8de823dff683b2609474edf661439040a4c962f-366x46-svg",
             "_type": "reference"
           }
         },
@@ -20188,8 +20188,7 @@
         "_key": "9ou7bohxco",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
-          "subTitle": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
+          "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -20430,7 +20429,7 @@
           },
           "titleTextClassName": ""
         },
-        "gridCols": 4,
+        "gridCols": 2,
         "id": "articles5",
         "isBgBlue": true,
         "isTextWhite": true,
@@ -20557,6 +20556,13 @@
               "title": "Continuous engagement & monetization"
             }
           ],
+          "sideIcon": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-4c4855cd1b3ebe22904d9819c20a6b4028cfc725-32x31-svg",
+              "_type": "reference"
+            }
+          },
           "title": "Super App"
         },
         "bankingHeader": {
@@ -20606,7 +20612,6 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "Built with modern architecture to support growth, security, and flexibility.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -20637,6 +20642,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Modular Microservices"
           },
           {
@@ -20651,6 +20657,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "API-First Ecosystem"
           },
           {
@@ -20665,6 +20672,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "High Availability"
           },
           {
@@ -20679,6 +20687,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Security & Governance"
           }
         ]
@@ -20736,6 +20745,7 @@
             "title": "Platform-Led Growth"
           }
         ],
+        "headerSubtitle": "Transform your bank into a platform your customers live in.",
         "id": "bankingChallenges",
         "isTextBlack": true,
         "titleParts": [
@@ -20766,7 +20776,7 @@
           },
           "titleTextClassName": ""
         },
-        "gridCols": 4,
+        "gridCols": 2,
         "id": "articles5",
         "isBgBlue": true,
         "isTextWhite": true,
