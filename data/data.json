@@ -17810,15 +17810,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "x9AkaoQOe6dzdFl4eKUFzK",
+    "_rev": "FCaX7e7F3kXCkn0uFMT3Eq",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "piiLNOj3u9Wq2zYwg4Qp8S"
+        "rev": "x9AkaoQOe6dzdFl4eKUFzK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:02:28Z",
+    "_updatedAt": "2026-05-14T06:00:34Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -18122,8 +18122,38 @@
             "title": [
               {
                 "_key": "648bcwk9so",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Seamless "
+              },
+              {
+                "_key": "10b3297db586",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "File "
+              },
+              {
+                "_key": "38d06cd76fc8",
+                "_type": "titlePart",
+                "color": "text-yellow",
+                "text": "Exchange "
+              },
+              {
+                "_key": "bd22316c81c0",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "with "
+              },
+              {
+                "_key": "654cdf1a2345",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "NPCI "
+              },
+              {
+                "_key": "0b39539fd357",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Systems"
               }
             ],
             "variant": "h1"
@@ -18173,9 +18203,8 @@
         "_key": "aubkl4tqm9",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "A solution designed to simplify operations while ensuring security and compliance at every step.",
           "icon": null,
-          "subTitle": "",
+          "subTitle": "A solution designed to simplify operations while ensuring security and compliance at every step.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -18272,37 +18301,27 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Secure your file processing workflows with automated signing, faster processing, and full compliance.",
         "titleParts": [
           {
             "_key": "rwx85nl5ec",
-            "color": "",
-            "text": "Ready to "
+            "color": "text-brand-600",
+            "text": "Simplify "
           },
           {
             "_key": "ryjg25081j",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
+            "color": "text-black",
+            "text": "Your NACH File "
           },
           {
             "_key": "ik80v2re6m",
-            "color": "",
-            "text": "Your "
+            "color": "text-warning",
+            "text": "Signing "
           },
           {
             "_key": "nnnnvkgq1t",
-            "color": "text-[#EE6832]",
-            "text": "Banking "
-          },
-          {
-            "_key": "rh7fxll4x5",
-            "color": "text-brand-600",
-            "text": "Experience"
-          },
-          {
-            "_key": "6cvv810we6",
-            "color": "",
-            "text": "?"
+            "color": "text-black",
+            "text": "Today"
           }
         ]
       }
