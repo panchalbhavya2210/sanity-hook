@@ -4866,15 +4866,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "UsfV9oDnxQRwUo5LZ4EmWO",
+    "_rev": "XqgcJAHSz5e5kILtKCt38u",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "UsfV9oDnxQRwUo5LZ4Ehk1"
+        "rev": "UsfV9oDnxQRwUo5LZ4EmWO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T07:18:41Z",
+    "_updatedAt": "2026-05-14T08:24:32Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -4973,7 +4973,7 @@
             "src": {
               "_type": "image",
               "asset": {
-                "_ref": "image-4b231e714581cc8a79fcd6f45012f16d9b7a85c6-1911x890-png",
+                "_ref": "image-3398297520525b67f7508df82deb0e79448516fa-1280x610-png",
                 "_type": "reference"
               }
             }
@@ -4984,7 +4984,7 @@
             "src": {
               "_type": "image",
               "asset": {
-                "_ref": "image-5af4a188be8c186c9d62226336bfe67cdda0eb94-1911x890-png",
+                "_ref": "image-00e05967324944ebdad9de364aa69de26ada4430-1282x598-png",
                 "_type": "reference"
               }
             }
