@@ -18382,15 +18382,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "XqgcJAHSz5e5kILtKCtTQ6",
+    "_rev": "XqgcJAHSz5e5kILtKCtYRc",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "UsfV9oDnxQRwUo5LZ4IYLA"
+        "rev": "XqgcJAHSz5e5kILtKCtTQ6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:29:36Z",
+    "_updatedAt": "2026-05-14T08:30:12Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18868,7 +18868,7 @@
           {
             "_key": "3j0gkstotr",
             "description": "Prevents unauthorized logins.",
-            "title": "Device Binding & Geo Verification"
+            "title": "Silent Mobile Verification"
           }
         ],
         "bankingSolutionHeader": {
