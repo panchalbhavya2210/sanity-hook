@@ -8044,15 +8044,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "j9x8aXCnOL41Sub9Fp5M1D",
+    "_rev": "FCaX7e7F3kXCkn0uFMSVMD",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "j4WZNIGUzPsJcmnHbcN3o6"
+        "rev": "j9x8aXCnOL41Sub9Fp5M1D"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T06:36:02Z",
+    "_updatedAt": "2026-05-14T05:43:56Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -8062,7 +8062,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-45b41e8d781d3e1782f41fc8a169c5897bc55692-1414x1344-webp",
+            "_ref": "image-cec45c875bb27c4f327c6ff80ac2db6633d15825-707x672-png",
             "_type": "reference"
           }
         },
@@ -8110,6 +8110,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles1",
         "isTextBlack": true,
         "mediaInfoCardData": [
@@ -8125,6 +8126,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Authentic"
           },
           {
@@ -8139,6 +8141,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Tamper-Proof"
           },
           {
@@ -8153,6 +8156,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Legally Valid"
           }
         ]
