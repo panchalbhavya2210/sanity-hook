@@ -3491,9 +3491,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "GWOVDfiedfaJZayS3aq2sN",
+    "_rev": "FCaX7e7F3kXCkn0uFMe2Fu",
+    "_system": {
+      "base": {
+        "id": "case-studies",
+        "rev": "GWOVDfiedfaJZayS3aq2sN"
+      }
+    },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-04-15T06:16:52Z",
+    "_updatedAt": "2026-05-14T08:22:13Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
@@ -3528,7 +3534,6 @@
             "title": "30K"
           }
         ],
-        "logo": "/images/case-study/shri-mahila-sewa-bank.webp",
         "name": "Shri Mahila Sewa Sahakari Bank Ltd. ",
         "since": "Nov-2012",
         "takeaways": [
@@ -3631,7 +3636,6 @@
             "title": "7K"
           }
         ],
-        "logo": "/images/case-study/gsc-ard-bank.webp",
         "name": "The Gujarat State Co-Operative Agriculture and Rural Development Bank Ltd. (Kheti Bank)",
         "since": "2022",
         "takeaways": [
@@ -3704,7 +3708,6 @@
             "title": "135K"
           }
         ],
-        "logo": "/images/case-study/bombay-mercantile-co-op.webp",
         "name": "Bombay Mercantile Co-Operative Bank Ltd.",
         "since": "2017",
         "takeaways": [
@@ -3811,7 +3814,6 @@
             "title": "80K"
           }
         ],
-        "logo": "/images/case-study/ahmedabad-mercantile.webp",
         "name": "The Ahmedabad Mercantile Co-Operative Bank Ltd.",
         "since": "Nov-2010",
         "takeaways": [
@@ -3929,7 +3931,6 @@
             "title": "350K"
           }
         ],
-        "logo": "/images/case-study/varachha-co-op-bank.webp",
         "name": "The Varachha Co-Operative Bank Ltd.",
         "since": "Oct-2018",
         "takeaways": [
