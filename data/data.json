@@ -10688,15 +10688,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "FCaX7e7F3kXCkn0uFMRw7O",
+    "_rev": "6fCNpx7G4GCpNgpiNlXgeK",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "x9AkaoQOe6dzdFl4eKPKqY"
+        "rev": "FCaX7e7F3kXCkn0uFMRw7O"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:28:31Z",
+    "_updatedAt": "2026-05-14T05:36:26Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -11626,7 +11626,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -11634,9 +11634,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
+      "ogTitle": "Unleash New Opportunities in Lending",
+      "title": "Unleash New Opportunities in Lending",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
