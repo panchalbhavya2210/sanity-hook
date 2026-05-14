@@ -3498,15 +3498,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "XqgcJAHSz5e5kILtKCvz7W",
+    "_rev": "XqgcJAHSz5e5kILtKCxjdY",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "FCaX7e7F3kXCkn0uFMe2Fu"
+        "rev": "XqgcJAHSz5e5kILtKCvz7W"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-14T08:54:21Z",
+    "_updatedAt": "2026-05-14T09:03:12Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
@@ -3519,25 +3519,49 @@
           {
             "_key": "p18vis6iuz",
             "description": "Branches",
-            "icon": "/gifs/dummy.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "29"
           },
           {
             "_key": "0irse1qssx",
             "description": "Back Office Platform Users",
-            "icon": "/gifs/priority.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "400"
           },
           {
             "_key": "i7q5xk26m0",
             "description": "Banking Customers",
-            "icon": "/gifs/process.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "650K+"
           },
           {
             "_key": "abphhtg0cv",
             "description": "Transaction Count Per Day",
-            "icon": "/gifs/implementaion-smart.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "350K"
           }
         ],
@@ -3648,25 +3672,49 @@
           {
             "_key": "3cpyws43la",
             "description": "Branches",
-            "icon": "",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "36"
           },
           {
             "_key": "558sgoedzx",
             "description": "Back Office Platform Users",
-            "icon": "",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "350"
           },
           {
             "_key": "u72qe0ne93",
             "description": "Banking Customers",
-            "icon": "",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "200K"
           },
           {
             "_key": "rwqfw17rqr",
             "description": "Transaction Count Per Day",
-            "icon": "",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "80K"
           }
         ],
@@ -3772,25 +3820,49 @@
           {
             "_key": "cezspblcw1",
             "description": "Branches",
-            "icon": "/gifs/network.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "56"
           },
           {
             "_key": "ubjnto95hg",
             "description": "Back Office Platform Users",
-            "icon": "/gifs/team.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "800"
           },
           {
             "_key": "o94pphsm9h",
             "description": "Banking Customers",
-            "icon": "/gifs/customers.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "900K"
           },
           {
             "_key": "3vmwsagh6u",
             "description": "Transaction Count Per Day",
-            "icon": "/gifs/transactions.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "135K"
           }
         ],
@@ -3885,25 +3957,49 @@
           {
             "_key": "gsilgbb8np",
             "description": "Branches",
-            "icon": "/gifs/network.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "15"
           },
           {
             "_key": "6dmwdkak4z",
             "description": "Back Office Platform Users",
-            "icon": "/gifs/team.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "250"
           },
           {
             "_key": "15f3lw51us",
             "description": "Banking Customers",
-            "icon": "/gifs/customers.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "1100K"
           },
           {
             "_key": "xfzknrwznu",
             "description": "Transaction Count Per Day",
-            "icon": "/gifs/transactions.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "30K"
           }
         ],
@@ -3994,25 +4090,49 @@
           {
             "_key": "i4u8et4fjs",
             "description": "Branches",
-            "icon": "/gifs/network.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "199"
           },
           {
             "_key": "4livmpo2ke",
             "description": "Back Office Platform Users",
-            "icon": "/gifs/team.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "700"
           },
           {
             "_key": "8rhgvkwzum",
             "description": "Banking Customers",
-            "icon": "/gifs/customers.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "750K"
           },
           {
             "_key": "q6mbdsekj6",
             "description": "Transaction Count Per Day",
-            "icon": "/gifs/transactions.gif",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "7K"
           }
         ],
