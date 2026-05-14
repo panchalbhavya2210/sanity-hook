@@ -18382,15 +18382,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "UsfV9oDnxQRwUo5LZ4IYLA",
+    "_rev": "XqgcJAHSz5e5kILtKCtTQ6",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "ZNIpBJ0WFANlheD2Wg1Mbf"
+        "rev": "UsfV9oDnxQRwUo5LZ4IYLA"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T08:04:43Z",
+    "_updatedAt": "2026-05-14T08:29:36Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18883,7 +18883,7 @@
         "_key": "ejjy6wbb5k",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "Deliver exceptional digital experiences and grow your customer base with confidence. Benefits of Bankai Mobile Banking Platform",
+          "subTitle": "Deliver exceptional digital experiences and grow your customer base with confidence.",
           "text": {
             "title": [
               {
