@@ -5657,15 +5657,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "xYdOegpFMyaIaw5eRqVHm1",
+    "_rev": "XqgcJAHSz5e5kILtKCnbdc",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "xYdOegpFMyaIaw5eRqUtlV"
+        "rev": "xYdOegpFMyaIaw5eRqVHm1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T09:10:21Z",
+    "_updatedAt": "2026-05-14T07:02:43Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -5741,6 +5741,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Transition from legacy systems to agile, modular architecture — securely and at your pace.",
         "titleParts": [
           {
             "_key": "ic08xfo2bn",
@@ -5789,16 +5790,7 @@
         "_key": "ho1fpw3x1f",
         "_type": "bankingSuiteSection",
         "bankingHeader": {
-          "icon": null,
-          "subTitle": "Accelerate digital rollouts and meet market demands in real time.",
           "text": {
-            "title": [
-              {
-                "_key": "pod9qdo249",
-                "color": "text-white",
-                "text": "Rapid Deployment. Faster ROI."
-              }
-            ],
             "variant": "h1"
           }
         },
@@ -5855,14 +5847,13 @@
           }
         ],
         "journeyHeader": {
-          "icon": null,
-          "subTitle": "One Platform. All Solutions. A modular, future-ready platform that powers security, compliance, and customer delight—all in one app.",
+          "subTitle": "Accelerate digital rollouts and meet market demands in real time.",
           "text": {
             "title": [
               {
                 "_key": "zv03klhw9f",
                 "color": "text-white",
-                "text": "How Bankai Solves These Challenges"
+                "text": "Rapid Deployment. Faster ROI"
               }
             ],
             "variant": "h1"
@@ -5934,18 +5925,7 @@
         "_key": "l7ps1ymdb8",
         "_type": "bankingSuiteSection",
         "bankingHeader": {
-          "icon": null,
-          "subTitle": "Accelerate digital rollouts and meet market demands in real time.",
-          "text": {
-            "title": [
-              {
-                "_key": "cfapxdu2if",
-                "color": "text-white",
-                "text": "Smarter Core, Smarter Bank"
-              }
-            ],
-            "variant": "h1"
-          }
+          "icon": null
         },
         "id": "bankingSuite11",
         "isTextWhite": true,
@@ -5995,7 +5975,7 @@
               {
                 "_key": "vdxfdqmbgx",
                 "color": "text-white",
-                "text": "How Bankai Solves These Challenges"
+                "text": "Smarter Core, Smarter Bank"
               }
             ],
             "variant": "h1"
@@ -6152,7 +6132,7 @@
             "variant": "h1"
           }
         },
-        "bgColor": "bg-brand",
+        "bgColor": "transparent",
         "hasCardBackground": true,
         "id": "quickActionCardParent4",
         "isChild": false,
