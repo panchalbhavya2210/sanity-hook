@@ -13097,15 +13097,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "tsbJI2ExFL00L4m5NPrt02",
+    "_rev": "6fCNpx7G4GCpNgpiNlWxcO",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "tsbJI2ExFL00L4m5NPrqdi"
+        "rev": "tsbJI2ExFL00L4m5NPrt02"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:20:51Z",
+    "_updatedAt": "2026-05-14T05:22:28Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13269,20 +13269,15 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-eeb80e31736d774c32ba5f748d90524e1e1c99e9-627x507-webp",
+                "_ref": "image-52ff127a46c4b50f25c39798066e0fa4248d6c24-627x507-webp",
                 "_type": "reference"
               }
             },
             "titleParts": [
               {
                 "_key": "17s9cxcbmp",
-                "color": "text-brand-600",
-                "text": "Foreign Currency Exchange"
-              },
-              {
-                "_key": "78z7uobwzy",
                 "color": "text-black",
-                "text": ""
+                "text": "Foreign Currency Exchange"
               }
             ]
           },
@@ -13293,7 +13288,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-e23e4ad4b2b8c2bdabe2e8ced0db954dc7b2bd05-627x507-webp",
+                "_ref": "image-c6e642a9049e8641d71948f5029413cd19f32b51-627x507-webp",
                 "_type": "reference"
               }
             },
@@ -13312,7 +13307,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-c6e642a9049e8641d71948f5029413cd19f32b51-627x507-webp",
+                "_ref": "image-e23e4ad4b2b8c2bdabe2e8ced0db954dc7b2bd05-627x507-webp",
                 "_type": "reference"
               }
             },
@@ -13331,7 +13326,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-52ff127a46c4b50f25c39798066e0fa4248d6c24-627x507-webp",
+                "_ref": "image-eeb80e31736d774c32ba5f748d90524e1e1c99e9-627x507-webp",
                 "_type": "reference"
               }
             },
