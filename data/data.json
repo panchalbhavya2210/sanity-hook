@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "UsfV9oDnxQRwUo5LZ5GxuA",
+    "_rev": "6fCNpx7G4GCpNgpiNm0MPI",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "ZNIpBJ0WFANlheD2WgE0Ux"
+        "rev": "UsfV9oDnxQRwUo5LZ5GxuA"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-13T14:39:41Z",
+    "_updatedAt": "2026-05-14T10:02:26Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -396,7 +396,7 @@
             "items": [
               {
                 "_key": "1695e227-0cb9-419f-9d34-493e7b835a8e",
-                "href": "/case-studies",
+                "href": "/case-study",
                 "label": "Deep dive into real solutions, client wins, and transformation journeys.",
                 "type": "linkWithHeader"
               }
