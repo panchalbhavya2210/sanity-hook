@@ -21240,15 +21240,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "UsfV9oDnxQRwUo5LZ55VA2",
+    "_rev": "6fCNpx7G4GCpNgpiNlmMAe",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "ilmz0p0w86KFCECuhOUx5Y"
+        "rev": "UsfV9oDnxQRwUo5LZ55VA2"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T13:23:29Z",
+    "_updatedAt": "2026-05-14T08:28:02Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -21329,9 +21329,9 @@
             "title": "Mobility-First Platform"
           }
         ],
-        "headerSubtitle": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
         "id": "Banking That Travels to the Mobile Banking?",
         "isTextBlack": true,
+        "subTitleText": "Traditional onboarding requires paperwork, branch visits, and long processing cycles. MobiProPlus eliminates these barriers by enabling secure digital onboarding from anywhere.",
         "titleParts": [
           {
             "_key": "yr7rt832wd",
