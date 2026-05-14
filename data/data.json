@@ -564,20 +564,27 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "ilmz0p0w86KFCECuhO6EJg",
+    "_rev": "6fCNpx7G4GCpNgpiNlm59o",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "UsfV9oDnxQRwUo5LZ4CIN8"
+        "rev": "ilmz0p0w86KFCECuhO6EJg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T09:20:05Z",
+    "_updatedAt": "2026-05-14T08:26:53Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-e19c83b9e67b7520a99b81f0b10f651466bd898c-193x47-png",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
