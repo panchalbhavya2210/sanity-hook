@@ -9178,15 +9178,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "j4WZNIGUzPsJcmnHbcNmwy",
+    "_rev": "6fCNpx7G4GCpNgpiNlaw9s",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "x9AkaoQOe6dzdFl4eKWbFB"
+        "rev": "j4WZNIGUzPsJcmnHbcNmwy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:22:04Z",
+    "_updatedAt": "2026-05-14T06:10:27Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -9196,7 +9196,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-039dafd875ac655ebf12a74c6acb904615ed7ad8-1061x1008-png",
+            "_ref": "image-28451e9291b09d106c7c3b9f05406005ea1b062d-706x672-png",
             "_type": "reference"
           }
         },
@@ -9844,7 +9844,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Accelerate cheque processing and strengthen compliance with EasyCTS — the complete automation platform for banks.",
         "titleParts": [
           {
             "_key": "m1yijmzgu8",
@@ -9853,28 +9853,18 @@
           },
           {
             "_key": "w2evarii52",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
+            "color": "text-warning",
+            "text": "Modernize  "
           },
           {
             "_key": "f12ppwibrt",
-            "color": "",
-            "text": "Your "
+            "color": "text-black",
+            "text": "Cheque "
           },
           {
             "_key": "bkf79o6cej",
-            "color": "text-[#EE6832]",
-            "text": "Banking "
-          },
-          {
-            "_key": "s2tnqyzr49",
             "color": "text-brand-600",
-            "text": "Experience"
-          },
-          {
-            "_key": "ca04n32clz",
-            "color": "",
-            "text": "?"
+            "text": "Clearing?"
           }
         ]
       }
