@@ -16533,15 +16533,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "6fCNpx7G4GCpNgpiNliz0u",
+    "_rev": "6fCNpx7G4GCpNgpiNlj1ym",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "UsfV9oDnxQRwUo5LZ5GZmC"
+        "rev": "6fCNpx7G4GCpNgpiNliz0u"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T07:48:08Z",
+    "_updatedAt": "2026-05-14T07:48:38Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -17090,7 +17090,7 @@
           },
           {
             "_key": "4ts3nchq0n",
-            "description": "Onsite, offsite, offshore, and hybrid support options.s",
+            "description": "Onsite, offsite, offshore, and hybrid support options",
             "icon": {
               "_type": "image",
               "asset": {
