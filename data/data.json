@@ -3498,15 +3498,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "XqgcJAHSz5e5kILtKCxjdY",
+    "_rev": "XqgcJAHSz5e5kILtKCyIka",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "XqgcJAHSz5e5kILtKCvz7W"
+        "rev": "XqgcJAHSz5e5kILtKCxjdY"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-14T09:03:12Z",
+    "_updatedAt": "2026-05-14T09:09:43Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
@@ -4187,7 +4187,7 @@
         "theme": "light"
       }
     ],
-    "title": "Case Studies"
+    "title": "Case Study"
   },
   {
     "_createdAt": "2026-05-07T10:06:08Z",
