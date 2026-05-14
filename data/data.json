@@ -13097,22 +13097,24 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "6fCNpx7G4GCpNgpiNlW5c0",
+    "_rev": "tsbJI2ExFL00L4m5NPrd4M",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "tsbJI2ExFL00L4m5NPrFtY"
+        "rev": "6fCNpx7G4GCpNgpiNlW5c0"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:09:41Z",
+    "_updatedAt": "2026-05-14T05:12:13Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
         "subtitle": "Digitize and streamline import-export operations, remittances, compliance reporting, and trade finance workflows through a unified banking platform built for speed, accuracy, and global connectivity.",
-        "title": "Modern Trade Finance, Simplified"
+        "title": "Modern Trade Finance, Simplified",
+        "variant": "split"
       },
       {
         "_key": "99rjpvx7ql",
@@ -13169,6 +13171,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Manage trade finance activities efficiently with automation-driven workflows designed for banks and financial institutions.",
         "titleParts": [
           {
             "_key": "km3tzmzc4e",
