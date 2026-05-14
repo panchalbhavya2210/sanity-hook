@@ -13097,15 +13097,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "tsbJI2ExFL00L4m5NPrqdi",
+    "_rev": "tsbJI2ExFL00L4m5NPrt02",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "tsbJI2ExFL00L4m5NPrd4M"
+        "rev": "tsbJI2ExFL00L4m5NPrqdi"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:17:52Z",
+    "_updatedAt": "2026-05-14T05:20:51Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13354,8 +13354,8 @@
             "title": [
               {
                 "_key": "9b4lelxw0b",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Smarter Forex & Cross-Border Banking"
               }
             ],
             "variant": "h1"
