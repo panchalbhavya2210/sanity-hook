@@ -19872,15 +19872,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "FCaX7e7F3kXCkn0uFMdw92",
+    "_rev": "XqgcJAHSz5e5kILtKCsrsg",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "xYdOegpFMyaIaw5eRqXntV"
+        "rev": "FCaX7e7F3kXCkn0uFMdw92"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:19:25Z",
+    "_updatedAt": "2026-05-14T08:19:52Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -20483,7 +20483,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -20491,9 +20491,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
+      "ogTitle": "Built Smarter Teams with Bankai",
+      "title": "Built Smarter Teams with Bankai",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
