@@ -8581,15 +8581,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "x9AkaoQOe6dzdFl4eKSIWh",
+    "_rev": "FCaX7e7F3kXCkn0uFMSj8m",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "7JFZabLQagH5TO1qrtpWMv"
+        "rev": "x9AkaoQOe6dzdFl4eKSIWh"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T06:45:33Z",
+    "_updatedAt": "2026-05-14T05:53:57Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -8599,7 +8599,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-73af650d7f17c10df90b72450e24385900b3173e-1414x1344-webp",
+            "_ref": "image-f362a64d5d67002ac6a84ae9aee30e7bf965f7e4-707x672-png",
             "_type": "reference"
           }
         },
@@ -8725,7 +8725,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+          "subTitle": "A unified system that manages every stage of NACH operations through a single interface — improving efficiency, accuracy, and compliance.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -8745,7 +8745,7 @@
         "mediaInfoCardData": [
           {
             "_key": "34se64ljax",
-            "description": "Downloading, validating, and uploading files manually increases effort and delays.",
+            "description": "Handles file download, validation, processing, response, and reporting.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -8755,11 +8755,11 @@
               }
             },
             "imageAlt": "",
-            "title": "Manual File Handling"
+            "title": "Complete Lifecycle Automation"
           },
           {
             "_key": "j99hg6r4ko",
-            "description": "Manual validation leads to data inconsistencies and processing failures.",
+            "description": "Monitor all NACH activities from a single control center.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -8769,11 +8769,11 @@
               }
             },
             "imageAlt": "",
-            "title": "Operational Errors"
+            "title": "Unified Dashboard"
           },
           {
             "_key": "1nu6s8nf36",
-            "description": "Multiple tools and systems create inefficiencies and lack of control.",
+            "description": "Adapt processes based on bank-specific operational needs.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -8783,11 +8783,11 @@
               }
             },
             "imageAlt": "",
-            "title": "Fragmented Workflows"
+            "title": "Configurable Workflows"
           },
           {
             "_key": "p5wu8ik232",
-            "description": "Meeting NPCI standards becomes complex without automation.",
+            "description": "Maintain traceability for every transaction and file processed.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -8797,7 +8797,7 @@
               }
             },
             "imageAlt": "",
-            "title": "Compliance Risks"
+            "title": "Audit-Ready Records"
           }
         ]
       },
@@ -9098,8 +9098,26 @@
             "title": [
               {
                 "_key": "yqzhi52nf5",
-                "color": "",
-                "text": ""
+                "color": "text-brand-600",
+                "text": "Efficiency, "
+              },
+              {
+                "_key": "6d35c03863ba",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Accuracy, "
+              },
+              {
+                "_key": "5018c96fe7e5",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "and "
+              },
+              {
+                "_key": "fc3412a76769",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "Control "
               }
             ],
             "variant": "h1"
