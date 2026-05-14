@@ -13097,9 +13097,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "tsbJI2ExFL00L4m5NPrFtY",
+    "_rev": "6fCNpx7G4GCpNgpiNlW5c0",
+    "_system": {
+      "base": {
+        "id": "easy-tf",
+        "rev": "tsbJI2ExFL00L4m5NPrFtY"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:00:01Z",
+    "_updatedAt": "2026-05-14T05:09:41Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13115,25 +13121,49 @@
           {
             "_key": "vmpwmkksvl",
             "description": "Manage bill collection data digitally with real-time updates, simplified reconciliation, and reduced manual errors.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-fce7c7b64c36e232b5bc695fc08e3333adf98676-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Import & Export Bill Collection"
           },
           {
             "_key": "xrpfqg56lx",
             "description": "Issue, track, and manage LCs and BGs through automated workflows ensuring faster trade processing and compliance.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c863391bc719155c835340697da7d0fe96d26d59-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Letter of Credit & Bank Guarantee"
           },
           {
             "_key": "635ozv4d7u",
             "description": "Generate and transmit SWIFT payment instructions and trade messages securely through real-time integration.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-64c74b809a459efb27c758847843b1eea0cc7fe3-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "SWIFT Integration"
           },
           {
             "_key": "bp7hljc31q",
             "description": "Process international remittances with live tracking, faster settlements, and seamless transaction monitoring.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c9ec93c1d2e8596bd379603bb367d7ac88a15f82-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Inward & Outward Remittance"
           }
         ],
@@ -13156,25 +13186,49 @@
           {
             "_key": "cdssnb07wo",
             "description": "Automatically generate required compliance files for export-import monitoring and reporting workflows.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c37bae50297cc52cf74f71d854410f82d42a863c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "EDPMS / IDPMS Integration"
           },
           {
             "_key": "gng19u94w7",
             "description": "Integrated DGFT connectivity simplifies E-BRC generation and export documentation processes.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3c14884a414fe4f79b7a2325a4fe068c1e86c6fc-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "DGFT & E-BRC Support"
           },
           {
             "_key": "yup5ecnqhx",
             "description": "Automated validations and standardized workflows reduce errors and improve transaction accuracy.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-32521149592c1c22d2d549f6c128613cf12405db-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduced Operational Risk"
           },
           {
             "_key": "hbax3gcyhi",
             "description": "Digitized operations help banks accelerate approvals, reporting, and international trade transactions.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c6b7311c2e34d92464913f6a5b62cb18daf4abcf-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Transaction Processing"
           }
         ],
@@ -13202,7 +13256,13 @@
             "description": "Handle currency conversions in real time with accurate processing and competitive exchange rates.",
             "hasList": false,
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-eeb80e31736d774c32ba5f748d90524e1e1c99e9-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "17s9cxcbmp",
@@ -13220,7 +13280,13 @@
             "_key": "xivmc8twzn",
             "description": "Support businesses and individuals with fast, secure international transaction processing.",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e23e4ad4b2b8c2bdabe2e8ced0db954dc7b2bd05-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "tb6cvhgm1a",
@@ -13233,7 +13299,13 @@
             "_key": "73sr7hnx8e",
             "description": "Reduce manual work, simplify workflows, and enhance trade finance productivity across teams.",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c6e642a9049e8641d71948f5029413cd19f32b51-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "o6zz8jn4us",
@@ -13246,7 +13318,13 @@
             "_key": "kypi1b7egq",
             "description": "Designed to help banks stay agile, compliant, and competitive in a rapidly evolving financial ecosystem.",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-52ff127a46c4b50f25c39798066e0fa4248d6c24-627x507-webp",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "wsn28pkzhk",
@@ -13435,7 +13513,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "easy-tf"
+      "current": "products/easyTF"
     },
     "title": "Easy Tf"
   },
