@@ -9178,15 +9178,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "6fCNpx7G4GCpNgpiNlaw9s",
+    "_rev": "FCaX7e7F3kXCkn0uFMUmRv",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "j4WZNIGUzPsJcmnHbcNmwy"
+        "rev": "6fCNpx7G4GCpNgpiNlaw9s"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T06:10:27Z",
+    "_updatedAt": "2026-05-14T06:12:06Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -9864,7 +9864,13 @@
           {
             "_key": "bkf79o6cej",
             "color": "text-brand-600",
-            "text": "Clearing?"
+            "text": "Clearing"
+          },
+          {
+            "_key": "5c2e174a70b0",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "?"
           }
         ]
       }
