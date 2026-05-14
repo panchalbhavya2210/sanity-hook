@@ -10688,15 +10688,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "x9AkaoQOe6dzdFl4eKPKqY",
+    "_rev": "FCaX7e7F3kXCkn0uFMRw7O",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "ZcJhm7Cr2zfVlbDl97Mo5O"
+        "rev": "x9AkaoQOe6dzdFl4eKPKqY"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T06:11:50Z",
+    "_updatedAt": "2026-05-14T05:28:31Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -10728,9 +10728,8 @@
         "_key": "gdde0271wz",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Digitize and streamline the complete loan journey — from lead capture to disbursement — with automation, intelligence, and seamless integrations.",
           "icon": null,
-          "subTitle": "Digitize and streamline the complete loan journey — from lead capture to disbursement — with automation, intelligence, and seamless integrations.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -10761,6 +10760,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Digital Loan Origination"
           },
           {
@@ -10775,6 +10775,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Intelligent Decisioning"
           },
           {
@@ -10789,6 +10790,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Unified Platform"
           },
           {
@@ -10803,6 +10805,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Configurable Workflows"
           }
         ]
@@ -11013,8 +11016,8 @@
             "title": [
               {
                 "_key": "shtkrprljq",
-                "color": "",
-                "text": ""
+                "color": "text-black",
+                "text": "Why easyLOS"
               }
             ],
             "variant": "h1"
@@ -11095,9 +11098,8 @@
         "_key": "t0ems4xv9w",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Flexible, scalable, and designed to adapt to your business growth.",
           "icon": null,
-          "subTitle": "Flexible, scalable, and designed to adapt to your business growth.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -11111,6 +11113,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles4",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -11127,6 +11130,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Cloud-Native Platform"
           },
           {
@@ -11141,6 +11145,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Modular Architecture"
           },
           {
@@ -11155,6 +11160,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Low-Code Configuration"
           },
           {
@@ -11169,6 +11175,7 @@
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "High Scalability"
           }
         ]
@@ -11228,6 +11235,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Automate core processes to improve accuracy and reduce risk.",
         "titleParts": [
           {
             "_key": "mhabojkbak",
@@ -11240,9 +11248,8 @@
         "_key": "scowtaqdya",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "",
+          "description": "Bring multiple data sources together for better underwriting and decisioning.",
           "icon": null,
-          "subTitle": "Bring multiple data sources together for better underwriting and decisioning.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -11477,7 +11484,7 @@
           },
           {
             "_key": "hnvrp1pzh2",
-            "description": " Scale operations without increasing manual workload.",
+            "description": "Scale operations without increasing manual workload.",
             "icon": {
               "_type": "image",
               "asset": {
