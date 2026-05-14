@@ -13097,15 +13097,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "6fCNpx7G4GCpNgpiNlWxcO",
+    "_rev": "XqgcJAHSz5e5kILtKCi4X0",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "tsbJI2ExFL00L4m5NPrt02"
+        "rev": "6fCNpx7G4GCpNgpiNlWxcO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:22:28Z",
+    "_updatedAt": "2026-05-14T05:22:54Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13356,120 +13356,6 @@
             "variant": "h1"
           }
         }
-      },
-      {
-        "_key": "qwg47ns7bi",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "",
-          "icon": null,
-          "subTitle": "Manage trade finance activities efficiently with automation-driven workflows designed for banks and financial institutions.",
-          "subTitleClassName": "",
-          "text": {
-            "title": [
-              {
-                "_key": "b3ws55e85p",
-                "color": "text-whtie",
-                "text": "Built for Global Banking Operations"
-              }
-            ]
-          },
-          "titleTextClassName": ""
-        },
-        "id": "articles5",
-        "isBgBlue": true,
-        "isTextWhite": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "37pnsncl1u",
-            "description": "Customers wait too long even for simple requests like balance checks or card queries.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Slow Response Times"
-          },
-          {
-            "_key": "w8hnzcv6yk",
-            "description": "Limited multilingual support excludes large regional audiences from digital banking.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Language Barriers"
-          },
-          {
-            "_key": "gr747qjwgc",
-            "description": "Rule-based bots fail to understand real conversations and provide contextual responses.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Rigid Chatbots"
-          },
-          {
-            "_key": "qdjg02vxhv",
-            "description": "Disconnected systems across web, mobile, and messaging break user journeys.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Fragmented Experience"
-          }
-        ]
-      },
-      {
-        "_key": "ax9zjqxikv",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "A next-gen AI-powered chatbot that transforms banking interactions into seamless, conversational experiences.",
-          "icon": null,
-          "subTitle": "",
-          "subTitleClassName": "",
-          "text": {
-            "title": [
-              {
-                "_key": "pr1gkt99s3",
-                "color": "text-black",
-                "text": "Meet ENViA – Your Intelligent Banking Assistant"
-              }
-            ]
-          },
-          "titleTextClassName": ""
-        },
-        "id": "articles5",
-        "isBgBlue": false,
-        "isTextBlack": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "nnf0vevmim",
-            "description": "Understands natural language and responds like a human assistant.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Conversational AI"
-          },
-          {
-            "_key": "pbk2b9lof5",
-            "description": "Engages users in multiple regional languages for inclusive banking.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Multilingual Support"
-          },
-          {
-            "_key": "hk6ajkjte3",
-            "description": "Handles account-related services with safe authentication flows.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Secure Interactions"
-          },
-          {
-            "_key": "35bp0vaz0x",
-            "description": "Reduces operational costs by automating customer support.",
-            "descriptionClassName": "",
-            "image": null,
-            "imageAlt": "",
-            "title": "Cost Optimization"
-          }
-        ]
       },
       {
         "_key": "f48sgn73po",
