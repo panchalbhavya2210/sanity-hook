@@ -16551,15 +16551,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "6fCNpx7G4GCpNgpiNlkhSu",
+    "_rev": "XqgcJAHSz5e5kILtKCtnkU",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "6fCNpx7G4GCpNgpiNljBQG"
+        "rev": "6fCNpx7G4GCpNgpiNlkhSu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:05:45Z",
+    "_updatedAt": "2026-05-14T08:34:36Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -16631,7 +16631,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Lift & Shift Cloud approach"
+            "title": "Lift 'n' Shift Cloud approach"
           }
         ],
         "id": "coreInfo",
