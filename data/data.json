@@ -16533,15 +16533,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "UsfV9oDnxQRwUo5LZ5GZmC",
+    "_rev": "6fCNpx7G4GCpNgpiNliz0u",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "ilmz0p0w86KFCECuhOcLa8"
+        "rev": "UsfV9oDnxQRwUo5LZ5GZmC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T14:37:50Z",
+    "_updatedAt": "2026-05-14T07:48:08Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -16555,7 +16555,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Leverage Bankai’s proven OCI migration and managed services to modernize your infrastructure, minimize risk, and unlock the full potential of Oracle Cloud—securely, efficiently, and at scale.",
+        "subtitle": "Transform your legacy banking systems into secure, scalable platform. Leverage Bankai’s proven Oracle Cloud Infrastructure (OCI) migration skills and managed services to modernize your infrastructure, minimize risk, and unlock the full potential of Oracle Cloud—securely, efficiently, and at scale. Unlock agility, innovation, and intelligence without compromising continuity.",
         "title": "Accelerate Oracle Cloud Migration with Confidence",
         "variant": "split"
       },
@@ -16726,7 +16726,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Lift & Shift"
+            "title": "Lift ‘n’ Shift"
           },
           {
             "_key": "a4tuenm0xn",
@@ -16760,7 +16760,7 @@
         "capabilitesDetails": [
           {
             "_key": "zqfv53faly",
-            "description": "Rapid deployment with minimal disruption, allowing your organization to access cloud benefits and innovations faster.",
+            "description": "Delivers elastic resource provisioning with seamless horizontal and vertical scalability, enabling real-time adaptation to dynamic workload and business demands.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "hasList": false,
             "heading": "EasyBankCore®",
@@ -16797,7 +16797,7 @@
           },
           {
             "_key": "o8c297k0sg",
-            "description": "Rapid deployment with minimal disruption, allowing your organization to access cloud benefits and innovations faster.",
+            "description": "Experience faster cloud transformation with minimal operational impact.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "id": 2,
             "image": {
@@ -16997,6 +16997,24 @@
         "variant": "titleOnly"
       },
       {
+        "_key": "975cdac3ead6",
+        "_type": "sectionHeaderSection",
+        "id": "header",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": false,
+        "isTitleOnly": true,
+        "subTitleText": "Our 21-point managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
+        "titleParts": [
+          {
+            "_key": "64e6c6999f79",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "End-to-End Managed Services"
+          }
+        ]
+      },
+      {
         "_key": "dodbo8s7w6",
         "_type": "textCardSection",
         "data": [
@@ -17099,41 +17117,30 @@
         }
       },
       {
+        "_key": "837ae77f392b",
+        "_type": "imageSection",
+        "fullImageAlt": "Awards",
+        "fullImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-437cf2205e45a126056664d12eacbf450e74908a-1285x175-png",
+            "_type": "reference"
+          }
+        },
+        "hasFullImage": true,
+        "isBgBlue": true
+      },
+      {
         "_key": "5ttuzzdrb4",
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Transform to future-ready Cloud Services with Bankai.",
         "titleParts": [
           {
             "_key": "owpf48pt54",
-            "color": "",
-            "text": "Ready to "
-          },
-          {
-            "_key": "lflqpcmgug",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
-          },
-          {
-            "_key": "f5j62lnvt6",
-            "color": "",
-            "text": "Your "
-          },
-          {
-            "_key": "3ineieq86h",
-            "color": "text-[#EE6832]",
-            "text": "Banking "
-          },
-          {
-            "_key": "q2hss6umu5",
-            "color": "text-brand-600",
-            "text": "Experience"
-          },
-          {
-            "_key": "zosi38b5vb",
-            "color": "",
-            "text": "?"
+            "color": "text-black",
+            "text": "Ready to leverage our unparalleled OCI Migration Services?"
           }
         ]
       }
