@@ -12486,15 +12486,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "x9AkaoQOe6dzdFl4eKYi6v",
+    "_rev": "6fCNpx7G4GCpNgpiNlbSXw",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "piiLNOj3u9Wq2zYwg4QnyK"
+        "rev": "x9AkaoQOe6dzdFl4eKYi6v"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:35:15Z",
+    "_updatedAt": "2026-05-14T06:21:54Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -12606,6 +12606,7 @@
         "capabilitesDetails": [
           {
             "_key": "v202baxgfk",
+            "description": "Automation eliminates repetitive tasks.",
             "heading": "EasyBankCore®",
             "id": 1,
             "image": {
@@ -12635,7 +12636,7 @@
           },
           {
             "_key": "uv472dzmsr",
-            "description": " Minimize reconciliation errors across systems.",
+            "description": "Minimize reconciliation errors across systems.",
             "heading": "EasyBankCore®",
             "id": 2,
             "image": {
@@ -13063,37 +13064,32 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Automate, simplify, and scale your reconciliation workflows with EasyRecon.",
         "titleParts": [
           {
             "_key": "3arkkq0wb6",
-            "color": "",
-            "text": "Ready to "
+            "color": "text-black",
+            "text": "Take "
           },
           {
             "_key": "iaciggu0r3",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
+            "color": "text-warning",
+            "text": "Control "
           },
           {
             "_key": "3uyx1pahuy",
-            "color": "",
-            "text": "Your "
+            "color": "text-black",
+            "text": "of Your  "
           },
           {
             "_key": "gewyqs82hs",
-            "color": "text-[#EE6832]",
-            "text": "Banking "
+            "color": "text-brand-600",
+            "text": "Reconciliation "
           },
           {
             "_key": "yxv9dp1dy2",
-            "color": "text-brand-600",
-            "text": "Experience"
-          },
-          {
-            "_key": "rvhooukh60",
-            "color": "",
-            "text": "?"
+            "color": "text-black",
+            "text": "Process"
           }
         ]
       }
