@@ -15936,15 +15936,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "FCaX7e7F3kXCkn0uFMdRj6",
+    "_rev": "6fCNpx7G4GCpNgpiNll6uK",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "FCaX7e7F3kXCkn0uFMdHL1"
+        "rev": "FCaX7e7F3kXCkn0uFMdRj6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:10:52Z",
+    "_updatedAt": "2026-05-14T08:12:02Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -16375,7 +16375,14 @@
           }
         },
         "imageWidth": 1280,
-        "isImageFullWidth": false
+        "isImageFullWidth": false,
+        "mobileImageSource": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-37d9c1bc175869ee5e2375b15794a1d9fca0b3f7-345x1178-png",
+            "_type": "reference"
+          }
+        }
       },
       {
         "_key": "qsv9kmw3y8",
