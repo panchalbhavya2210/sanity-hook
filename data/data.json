@@ -15936,19 +15936,20 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "xYdOegpFMyaIaw5eRqWuVB",
+    "_rev": "XqgcJAHSz5e5kILtKCrVYw",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "hbFHDleTVRD2fswKs18PKv"
+        "rev": "xYdOegpFMyaIaw5eRqWuVB"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T09:42:24Z",
+    "_updatedAt": "2026-05-14T07:55:32Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "id": "hero",
         "image": {
           "_type": "image",
@@ -16071,7 +16072,8 @@
             "variant": "h1"
           }
         },
-        "bgColor": "bg-brand",
+        "bgColor": "white",
+        "hasCardBackground": true,
         "id": "quickActionCardParent8",
         "isTextWhite": true,
         "quickActionCard": [
@@ -16250,7 +16252,8 @@
             "variant": "h1"
           }
         },
-        "bgColor": "bg-brand",
+        "bgColor": "white",
+        "hasCardBackground": true,
         "id": "quickActionCardParent7",
         "isTextWhite": true,
         "quickActionCard": [
