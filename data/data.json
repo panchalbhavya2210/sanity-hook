@@ -13095,6 +13095,351 @@
     "title": "Easy Recon"
   },
   {
+    "_createdAt": "2026-05-14T05:00:01Z",
+    "_id": "easy-tf",
+    "_rev": "tsbJI2ExFL00L4m5NPrFtY",
+    "_type": "productPages",
+    "_updatedAt": "2026-05-14T05:00:01Z",
+    "sections": [
+      {
+        "_key": "u5ig7lv42c",
+        "_type": "heroSection",
+        "id": "hero",
+        "subtitle": "Digitize and streamline import-export operations, remittances, compliance reporting, and trade finance workflows through a unified banking platform built for speed, accuracy, and global connectivity.",
+        "title": "Modern Trade Finance, Simplified"
+      },
+      {
+        "_key": "99rjpvx7ql",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "vmpwmkksvl",
+            "description": "Manage bill collection data digitally with real-time updates, simplified reconciliation, and reduced manual errors.",
+            "icon": null,
+            "title": "Import & Export Bill Collection"
+          },
+          {
+            "_key": "xrpfqg56lx",
+            "description": "Issue, track, and manage LCs and BGs through automated workflows ensuring faster trade processing and compliance.",
+            "icon": null,
+            "title": "Letter of Credit & Bank Guarantee"
+          },
+          {
+            "_key": "635ozv4d7u",
+            "description": "Generate and transmit SWIFT payment instructions and trade messages securely through real-time integration.",
+            "icon": null,
+            "title": "SWIFT Integration"
+          },
+          {
+            "_key": "bp7hljc31q",
+            "description": "Process international remittances with live tracking, faster settlements, and seamless transaction monitoring.",
+            "icon": null,
+            "title": "Inward & Outward Remittance"
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "titleParts": [
+          {
+            "_key": "km3tzmzc4e",
+            "color": "text-black",
+            "text": "Built for Global Banking Operations"
+          }
+        ]
+      },
+      {
+        "_key": "5laorwf28m",
+        "_type": "bankingSuiteSection",
+        "id": "bankingSuite10",
+        "isTextWhite": true,
+        "journeyCards": [
+          {
+            "_key": "cdssnb07wo",
+            "description": "Automatically generate required compliance files for export-import monitoring and reporting workflows.",
+            "icon": null,
+            "title": "EDPMS / IDPMS Integration"
+          },
+          {
+            "_key": "gng19u94w7",
+            "description": "Integrated DGFT connectivity simplifies E-BRC generation and export documentation processes.",
+            "icon": null,
+            "title": "DGFT & E-BRC Support"
+          },
+          {
+            "_key": "yup5ecnqhx",
+            "description": "Automated validations and standardized workflows reduce errors and improve transaction accuracy.",
+            "icon": null,
+            "title": "Reduced Operational Risk"
+          },
+          {
+            "_key": "hbax3gcyhi",
+            "description": "Digitized operations help banks accelerate approvals, reporting, and international trade transactions.",
+            "icon": null,
+            "title": "Faster Transaction Processing"
+          }
+        ],
+        "journeyHeader": {
+          "icon": null,
+          "subTitle": "Ensure regulatory compliance while staying connected with essential banking and trade ecosystems.",
+          "text": {
+            "title": [
+              {
+                "_key": "2ldupc1sxc",
+                "color": "text-white",
+                "text": "Compliance-Ready. Globally Connected."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "nsjk93u3df",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "myqrbwjap7",
+            "description": "Handle currency conversions in real time with accurate processing and competitive exchange rates.",
+            "hasList": false,
+            "id": 1,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "17s9cxcbmp",
+                "color": "text-brand-600",
+                "text": "Foreign Currency Exchange"
+              },
+              {
+                "_key": "78z7uobwzy",
+                "color": "text-black",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "_key": "xivmc8twzn",
+            "description": "Support businesses and individuals with fast, secure international transaction processing.",
+            "id": 2,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "tb6cvhgm1a",
+                "color": "text-black",
+                "text": "Cross-Border Payment Enablement"
+              }
+            ]
+          },
+          {
+            "_key": "73sr7hnx8e",
+            "description": "Reduce manual work, simplify workflows, and enhance trade finance productivity across teams.",
+            "id": 3,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "o6zz8jn4us",
+                "color": "text-black",
+                "text": "Improved Operational Efficiency"
+              }
+            ]
+          },
+          {
+            "_key": "kypi1b7egq",
+            "description": "Designed to help banks stay agile, compliant, and competitive in a rapidly evolving financial ecosystem.",
+            "id": 4,
+            "image": null,
+            "titleParts": [
+              {
+                "_key": "wsn28pkzhk",
+                "color": "text-black",
+                "text": "Built for Modern Financial Institutions"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "platformCapabilities1",
+        "isTextBlack": true,
+        "platformHeader": {
+          "icon": null,
+          "subTitle": "Enable secure, real-time foreign exchange and remittance operations while improving operational efficiency.",
+          "text": {
+            "title": [
+              {
+                "_key": "9b4lelxw0b",
+                "color": "",
+                "text": ""
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "qwg47ns7bi",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "",
+          "icon": null,
+          "subTitle": "Manage trade finance activities efficiently with automation-driven workflows designed for banks and financial institutions.",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "b3ws55e85p",
+                "color": "text-whtie",
+                "text": "Built for Global Banking Operations"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": true,
+        "isTextWhite": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "37pnsncl1u",
+            "description": "Customers wait too long even for simple requests like balance checks or card queries.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Slow Response Times"
+          },
+          {
+            "_key": "w8hnzcv6yk",
+            "description": "Limited multilingual support excludes large regional audiences from digital banking.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Language Barriers"
+          },
+          {
+            "_key": "gr747qjwgc",
+            "description": "Rule-based bots fail to understand real conversations and provide contextual responses.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Rigid Chatbots"
+          },
+          {
+            "_key": "qdjg02vxhv",
+            "description": "Disconnected systems across web, mobile, and messaging break user journeys.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Fragmented Experience"
+          }
+        ]
+      },
+      {
+        "_key": "ax9zjqxikv",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "A next-gen AI-powered chatbot that transforms banking interactions into seamless, conversational experiences.",
+          "icon": null,
+          "subTitle": "",
+          "subTitleClassName": "",
+          "text": {
+            "title": [
+              {
+                "_key": "pr1gkt99s3",
+                "color": "text-black",
+                "text": "Meet ENViA – Your Intelligent Banking Assistant"
+              }
+            ]
+          },
+          "titleTextClassName": ""
+        },
+        "id": "articles5",
+        "isBgBlue": false,
+        "isTextBlack": true,
+        "mediaInfoCardData": [
+          {
+            "_key": "nnf0vevmim",
+            "description": "Understands natural language and responds like a human assistant.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Conversational AI"
+          },
+          {
+            "_key": "pbk2b9lof5",
+            "description": "Engages users in multiple regional languages for inclusive banking.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Multilingual Support"
+          },
+          {
+            "_key": "hk6ajkjte3",
+            "description": "Handles account-related services with safe authentication flows.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Secure Interactions"
+          },
+          {
+            "_key": "35bp0vaz0x",
+            "description": "Reduces operational costs by automating customer support.",
+            "descriptionClassName": "",
+            "image": null,
+            "imageAlt": "",
+            "title": "Cost Optimization"
+          }
+        ]
+      },
+      {
+        "_key": "f48sgn73po",
+        "_type": "contactCtaSection",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "id": "contactCTA",
+        "subText": "Validate faster, translate smarter, and operate with complete confidence",
+        "titleParts": [
+          {
+            "_key": "9zlwooq4p2",
+            "color": "text-black",
+            "text": "Make Every "
+          },
+          {
+            "_key": "5jlh8xs66y",
+            "color": "text-brand-600",
+            "text": "Financial "
+          },
+          {
+            "_key": "ofon7xw9q5",
+            "color": "text-black",
+            "text": "Message "
+          },
+          {
+            "_key": "eeohjyt18k",
+            "color": "text-warning",
+            "text": "Count"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "description": "Digitize and streamline import-export operations, remittances, compliance reporting, and trade finance workflows through a unified banking platform built for speed, accuracy, and global connectivity.",
+      "image": null,
+      "keywords": [
+        "NACH signing tool",
+        "digital signature",
+        "NPCI compliance",
+        "banking automation",
+        "file signing"
+      ],
+      "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
+      "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
+      "title": "Modern Trade Finance, Simplified",
+      "url": "https://yourdomain.com/products/nach-signin-tool"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "easy-tf"
+    },
+    "title": "Easy Tf"
+  },
+  {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
     "_rev": "UsfV9oDnxQRwUo5LZ4ZTNt",
