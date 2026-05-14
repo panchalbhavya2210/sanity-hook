@@ -5657,15 +5657,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "6fCNpx7G4GCpNgpiNleVno",
+    "_rev": "FCaX7e7F3kXCkn0uFMd6Cd",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "XqgcJAHSz5e5kILtKCnbdc"
+        "rev": "6fCNpx7G4GCpNgpiNleVno"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T07:03:23Z",
+    "_updatedAt": "2026-05-14T08:04:57Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -6132,7 +6132,7 @@
             "variant": "h1"
           }
         },
-        "bgColor": "white",
+        "bgColor": "brand",
         "hasCardBackground": true,
         "id": "quickActionCardParent4",
         "isChild": false,
