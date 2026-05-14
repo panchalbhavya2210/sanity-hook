@@ -1107,22 +1107,24 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "6fCNpx7G4GCpNgpiNloOzY",
+    "_rev": "XqgcJAHSz5e5kILtKCzYCE",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "UsfV9oDnxQRwUo5LZ4Cssq"
+        "rev": "6fCNpx7G4GCpNgpiNloOzY"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:49:03Z",
+    "_updatedAt": "2026-05-14T09:20:22Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
-          "label": "Explore Core Modernization"
+          "href": "https://bankaiapihub.aiplservices.com/",
+          "label": "Login to our Marketplace",
+          "variant": "primary"
         },
         "id": "hero",
         "image": {
