@@ -17180,15 +17180,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "vVaFl7ADmGgQzf5cZ48X69",
+    "_rev": "XqgcJAHSz5e5kILtKCmRH4",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "vVaFl7ADmGgQzf5cZ41kZ7"
+        "rev": "vVaFl7ADmGgQzf5cZ48X69"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T11:31:14Z",
+    "_updatedAt": "2026-05-14T06:44:29Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -17270,9 +17270,9 @@
             "title": "Learning Curve"
           }
         ],
-        "headerSubtitle": "The Solution",
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "The Solution",
         "titleParts": [
           {
             "_key": "n3xyj261tm",
@@ -17473,7 +17473,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-383671d2f16fa57f00b8514c5aa7a61532ef6f85-2880x1394-webp",
+            "_ref": "image-ff6c6ae072d265adddbd922e3357d9c3d6fe0bce-1440x697-jpg",
             "_type": "reference"
           }
         },
@@ -17813,7 +17813,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "description": "Validate. Translate. Automate. All in one unified platform.",
       "image": null,
       "keywords": [
         "cheque clearing",
@@ -17822,16 +17822,16 @@
         "digital cheque clearing",
         "banking reconciliation"
       ],
-      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
-      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
-      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "ogDescription": "Validate. Translate. Automate. All in one unified platform.",
+      "ogTitle": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
+      "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
       "url": "https://yourdomain.com/products/easy-cts"
     },
     "slug": {
       "_type": "slug",
       "current": "xcelerators/plugins/mt-to-mx-conversion"
     },
-    "title": "Mt To Mx Conversion"
+    "title": "MXCelerate"
   },
   {
     "_createdAt": "2026-04-16T04:45:06Z",
