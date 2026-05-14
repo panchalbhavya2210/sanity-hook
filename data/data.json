@@ -1107,15 +1107,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "UsfV9oDnxQRwUo5LZ4Cssq",
+    "_rev": "6fCNpx7G4GCpNgpiNloOzY",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ilmz0p0w86KFCECuhNu9rE"
+        "rev": "UsfV9oDnxQRwUo5LZ4Cssq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T06:55:11Z",
+    "_updatedAt": "2026-05-14T08:49:03Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1316,7 +1316,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-52b82146a76abbf0ed0e7661c93e99db20ea8f42-1140x496-webp",
+                "_ref": "image-8296b7863799ac3d2267ba3d5f5614012e688640-553x256-svg",
                 "_type": "reference"
               }
             },
@@ -1330,7 +1330,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-244995e8f713bdd099471eab14b0b7a4841ce1dc-1140x496-webp",
+                "_ref": "image-ec35b979a588a403eac5353ca75ae364d552699c-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1344,7 +1344,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-2a84654385aef06ef92d2e2518cf762f1bdbe276-1140x496-webp",
+                "_ref": "image-629428acf16429e6778058fd490a1b5f0b7b940a-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1358,7 +1358,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d6dae3202a88f1609f5f5fca77ae8c706e16e557-1140x496-webp",
+                "_ref": "image-bb456e857421ad7bcf7c1c12b3269e9ead045d4f-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1451,7 +1451,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-4001012ef797c1a85a3579526748d02253295ea5-1140x496-webp",
+                "_ref": "image-2c3bbd5db85a0500608fe3c3bc0c0519c4af39b1-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1465,7 +1465,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-0d3a9b46538d741faffb785066b01966a14774fa-1140x496-webp",
+                "_ref": "image-0cae65b8840b725d0dce50cd2ba569918d3e27ef-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1479,7 +1479,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-93d2fa287801323040f42c51e562822473107564-1140x496-webp",
+                "_ref": "image-295b06bdbfb40467064b21302542e13a8e43e99d-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1493,7 +1493,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-b21d1703017fe305850fb16e7b2c81e36824fbec-1140x496-webp",
+                "_ref": "image-5e73fd47787c8ddbfc7aa6877e11082a62464116-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1534,7 +1534,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-14aa84751aae22059e8fbf524690ec642ef65898-734x328-webp",
+                "_ref": "image-6dc2428da6e8024e272d1b5b00c531248763721b-329x165-svg",
                 "_type": "reference"
               }
             },
@@ -1549,7 +1549,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3f4066d194c349d9f052e4d871a981a05555cc8c-734x328-webp",
+                "_ref": "image-5d3c2e9c1cc28bed3bb3aeff1d30c67eb91df254-329x165-svg",
                 "_type": "reference"
               }
             },
@@ -1564,7 +1564,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-826e04f9e4dc526e305428d275b4d164dcdff259-734x328-webp",
+                "_ref": "image-534d1eb9c567d49056a092e041843660aa6c793d-329x165-svg",
                 "_type": "reference"
               }
             },
@@ -1586,7 +1586,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d95dabff415b04b6c4c6df6b746baee493aa6d8b-1254x1014-webp",
+                "_ref": "image-ced383a4f010fd0f97134562848c6491ed46df38-597x519-svg",
                 "_type": "reference"
               }
             },
@@ -1605,7 +1605,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-baffd55aee83a30c8735a046b7b2e3fbf386cf6f-1254x1014-webp",
+                "_ref": "image-df41d4a498fd560d2351482f266c97c766700b63-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1624,7 +1624,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-db1d43c3eee9ab1c611a6e482930a75985a227f2-1254x1014-webp",
+                "_ref": "image-de1804a0bdd3f6f8068feecd2bec785267526410-597x519-svg",
                 "_type": "reference"
               }
             },
@@ -1643,7 +1643,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-41c5f4b11e878860ef0c7c09ef849fd422826c51-1254x1014-webp",
+                "_ref": "image-62a89e049a79561fc8b8e45956d63b2cfedad474-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1662,7 +1662,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-23d7039ebac81deaee2f9e595bb04af3ee613021-1254x1014-webp",
+                "_ref": "image-b4db89d637230644d907b5a4afc6fc7a57e47174-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1670,7 +1670,7 @@
               {
                 "_key": "vthqwki8i8",
                 "color": "text-black",
-                "text": "Graceful Retiremen"
+                "text": "Graceful Retirement"
               }
             ]
           },
@@ -1681,7 +1681,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-fbc0da65b9d9a8a7299649997b486a9ac215c4bb-1254x1014-webp",
+                "_ref": "image-87265e222c7a5f2ed58de36c9a548b05a1aac183-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1741,7 +1741,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-f4581e4f1d68bb8e407119c788ef9d17e2a048b3-1140x496-webp",
+                "_ref": "image-4d39b8b3ae62c8cc9080d73ddcda192e52ccee30-451x225-svg",
                 "_type": "reference"
               }
             },
@@ -1755,7 +1755,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3014fcb6c9f1dc4265870da6285f900e902140de-1140x496-webp",
+                "_ref": "image-7f265213e108426c5be9ea4803a7a207c111e07a-451x225-svg",
                 "_type": "reference"
               }
             },
@@ -1769,7 +1769,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a8e97d66a859ee0ba5778a0bbf5f2047829ef230-1140x496-webp",
+                "_ref": "image-dbe88376f5359b9f12d4bcdedc71376d4c49d3c5-451x225-svg",
                 "_type": "reference"
               }
             },
@@ -1783,7 +1783,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-6c03ce1e7441f7ad353ab1bccf739b1f6b9f9c9e-1140x496-webp",
+                "_ref": "image-d3546772f1ecaedb67112a85d66ec4ba88773217-451x225-svg",
                 "_type": "reference"
               }
             },
