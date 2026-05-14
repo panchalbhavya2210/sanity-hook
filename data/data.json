@@ -1880,25 +1880,32 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "x9AkaoQOe6dzdFl4eKbP9P",
+    "_rev": "XqgcJAHSz5e5kILtKClsRw",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "piiLNOj3u9Wq2zYwg4IFPI"
+        "rev": "x9AkaoQOe6dzdFl4eKbP9P"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T08:00:27Z",
+    "_updatedAt": "2026-05-14T06:33:19Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
         "_type": "heroSection",
         "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-e8ee56c43f736704a6d959f681c46cfa2bbc47b3-554x165-jpg",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-98f7bd2ad8c6c038d01e726a9a7c57b447ff62d1-1056x1008-png",
+            "_ref": "image-9dbe17d3c6e9570eff2d3fafad0a575f8ae781d7-1062x1008-png",
             "_type": "reference"
           }
         },
@@ -1965,6 +1972,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Bankai IAM provides a centralized system to authenticate, authorize, and monitor every access request in real time.",
         "titleParts": [
           {
             "_key": "hdqop34n7w",
@@ -2080,7 +2088,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
+          "subTitleText": "Core Features",
           "text": {
             "title": [
               {
@@ -2273,6 +2281,7 @@
         ],
         "id": "coreInfo1",
         "isTextBlack": true,
+        "subTitleText": "Integration & Ecosystem",
         "titleParts": [
           {
             "_key": "3tej70xy9a",
@@ -2700,7 +2709,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "description": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
       "image": null,
       "keywords": [
         "cheque clearing",
@@ -2709,9 +2718,9 @@
         "digital cheque clearing",
         "banking reconciliation"
       ],
-      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
-      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
-      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "ogDescription": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
+      "ogTitle": "Redefining Identity & Access for the Modern Enterprise",
+      "title": "Redefining Identity & Access for the Modern Enterprise",
       "url": "https://yourdomain.com/products/easy-cts"
     },
     "slug": {
