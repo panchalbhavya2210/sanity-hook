@@ -14679,15 +14679,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "x9AkaoQOe6dzdFl4eKZhWb",
+    "_rev": "XqgcJAHSz5e5kILtKClk4k",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "piiLNOj3u9Wq2zYwg4Ql8C"
+        "rev": "x9AkaoQOe6dzdFl4eKZhWb"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-08T07:45:41Z",
+    "_updatedAt": "2026-05-14T06:27:23Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -14764,6 +14764,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "FormulaGenie bridges the gap between Excel and modern applications by converting formulas into APIs in one click",
         "titleParts": [
           {
             "_key": "bjcqzlrb8p",
@@ -15163,25 +15164,49 @@
           {
             "_key": "ooe2sbabqr",
             "description": "Eliminate rewriting of formulas into code.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-542c5969b04e249a51c3f69e90a9e1c5b00ba2bd-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Save Development Time"
           },
           {
             "_key": "8nurixdimn",
             "description": "Lower dependency on backend developers.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05786ce955e2c365f0f9ddf92c9e89c5dd1f068c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Reduce Costs"
           },
           {
             "_key": "gpyc2k23cf",
             "description": "Launch features quickly",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e127ea1ecc257a3d5bef3e224de7675468ab6fb7-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Faster Go-to-Market"
           },
           {
             "_key": "z06k6n1zsp",
             "description": "Let analysts directly power applications.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1c9ef6885b2107a57f7412b2f9437497978ccbed-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "title": "Empower Business Teams"
           }
         ],
