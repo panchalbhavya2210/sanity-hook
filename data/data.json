@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "6fCNpx7G4GCpNgpiNm0MPI",
+    "_rev": "6fCNpx7G4GCpNgpiNpfJ3w",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "UsfV9oDnxQRwUo5LZ5GxuA"
+        "rev": "6fCNpx7G4GCpNgpiNm0MPI"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-14T10:02:26Z",
+    "_updatedAt": "2026-05-15T06:44:36Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -94,12 +94,6 @@
                 "href": "/products/digital-lending/easy-lms",
                 "label": "LMS",
                 "type": "link"
-              },
-              {
-                "_key": "4f4a10da-7127-4320-b3d3-83369caaa919",
-                "href": "#",
-                "label": "LOMS",
-                "type": "link"
               }
             ],
             "title": "Digital Lending"
@@ -164,13 +158,7 @@
               {
                 "_key": "16593eaa-e881-4d55-918f-215fd84c77d7",
                 "href": "/xcelerators/plugins/mt-to-mx-conversion",
-                "label": "Mt to MX Conversion",
-                "type": "link"
-              },
-              {
-                "_key": "98709e77-2820-4a0a-8da3-207a31ea6e40",
-                "href": "/xcelerators/plugins/credit-bureau-as-service",
-                "label": "Credit Bureau as Service",
+                "label": "MXCelerate",
                 "type": "link"
               },
               {
@@ -494,20 +482,14 @@
             "items": [
               {
                 "_key": "5e368bfa-7dff-47ef-b250-e7248188a1b5",
-                "href": "/openings",
-                "label": "Current Openings",
+                "href": "/careers",
+                "label": "Growth & Culture",
                 "type": "link"
               },
               {
                 "_key": "441d090b-4661-428f-b0eb-6b79c94d48a8",
-                "href": "#",
-                "label": "Internship Programs",
-                "type": "link"
-              },
-              {
-                "_key": "da009a84-932d-4df8-ac44-47d6756da653",
-                "href": "#",
-                "label": "DEI Statement",
+                "href": "/openings",
+                "label": "Current Openings",
                 "type": "link"
               }
             ],
@@ -516,12 +498,6 @@
           {
             "_key": "8aeddaee-a342-42ee-a73e-d7fc2ddf6be3",
             "items": [
-              {
-                "_key": "25bb4b2a-f481-4dd1-bfd1-1ac9ceddeaaa",
-                "href": "#",
-                "label": "General Contact",
-                "type": "link"
-              },
               {
                 "_key": "9d2554ba-9af6-472b-80e3-a0ff65151b99",
                 "href": "#",
