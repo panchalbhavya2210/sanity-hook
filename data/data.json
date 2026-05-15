@@ -14346,15 +14346,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "hbFHDleTVRD2fswKs1KeCW",
+    "_rev": "FCaX7e7F3kXCkn0uFQ2B8h",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "2LL9JC6EMX15mEdNnsGpfe"
+        "rev": "hbFHDleTVRD2fswKs1KeCW"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-08T11:17:15Z",
+    "_updatedAt": "2026-05-15T05:23:19Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14392,7 +14392,8 @@
                 "_type": "reference"
               }
             },
-            "type": "image",
+            "label": "EasyBankCore®",
+            "type": "link",
             "width": 172
           },
           {
@@ -14510,13 +14511,14 @@
                 "_type": "reference"
               }
             },
-            "type": "image",
+            "label": "Next Gen Solution",
+            "type": "header",
             "width": 115
           },
           {
             "_key": "e7aa8acd-0911-49dd-8cee-975fcea9bccc",
             "alt": "Mobipro",
-            "href": "/products/tab-banking-solutions-mobipro",
+            "href": "/products/digi-x",
             "icon": {
               "_type": "image",
               "asset": {
@@ -14524,22 +14526,9 @@
                 "_type": "reference"
               }
             },
-            "type": "image",
+            "label": "DiGi.XTM",
+            "type": "link",
             "width": 114
-          },
-          {
-            "_key": "0c57817f-2656-47b5-adda-faa4dd4eaa72",
-            "alt": "EasyNetPro",
-            "href": "#",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-3d3571786fab9c4375b42c22d2f91375a6f9b606-262x90-jpg",
-                "_type": "reference"
-              }
-            },
-            "type": "image",
-            "width": 131
           },
           {
             "_key": "0d1956cc-a219-402f-ae38-3101a2937ccc",
