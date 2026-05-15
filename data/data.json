@@ -14346,15 +14346,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "XqgcJAHSz5e5kILtKFiUua",
+    "_rev": "6fCNpx7G4GCpNgpiNpbzUm",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "FCaX7e7F3kXCkn0uFQ2B8h"
+        "rev": "XqgcJAHSz5e5kILtKFiUua"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-15T05:39:48Z",
+    "_updatedAt": "2026-05-15T06:03:53Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14414,12 +14414,6 @@
             "type": "link"
           },
           {
-            "_key": "d9b140b0-4439-4996-9d47-448824e35a36",
-            "href": "#",
-            "label": "Internet Banking",
-            "type": "link"
-          },
-          {
             "_key": "fa36a8bf-8d19-4539-9c4a-3c1f9a1fbb41",
             "href": "/products/super-app",
             "label": "Super App",
@@ -14432,26 +14426,14 @@
           },
           {
             "_key": "db604155-ab06-48af-84b6-7556ada8c802",
-            "href": "#",
-            "label": "AML & KYC",
-            "type": "link"
-          },
-          {
-            "_key": "27c07b4a-43f1-41bb-b08a-2cbfc17512e3",
-            "href": "/products/risk-based-modelling",
-            "label": "Risk Modelling",
+            "href": "/products/aml-kyc",
+            "label": "easyKYC",
             "type": "link"
           },
           {
             "_key": "39ff68c8-430a-4edd-9adf-c0adee06b0e7",
             "href": "/products/credit-underwriting",
             "label": "Credit Underwriting",
-            "type": "link"
-          },
-          {
-            "_key": "5c3b5ad5-6adb-4784-99a2-6c25d2a0dd4d",
-            "href": "#",
-            "label": "Mobile.BI",
             "type": "link"
           },
           {
@@ -14469,12 +14451,6 @@
             "_key": "f16fdf7d-c7d0-4159-a9bc-e4bb7683e380",
             "href": "/products/digital-lending/easy-lms",
             "label": "LMS",
-            "type": "link"
-          },
-          {
-            "_key": "ae771b78-ca2f-441f-a7c3-5c4c50c28dde",
-            "href": "#",
-            "label": "LOMS",
             "type": "link"
           },
           {
@@ -14544,18 +14520,12 @@
           {
             "_key": "e93827c5-b7be-4a32-91a3-d9208d78d51e",
             "href": "/xcelerators/plugins/mt-to-mx-conversion",
-            "label": "Mt to MX Conversion",
-            "type": "link"
-          },
-          {
-            "_key": "4fdb9038-d542-4eac-be08-9a205173d194",
-            "href": "#",
-            "label": "Credit Bureau as Service",
+            "label": "MXcelerate",
             "type": "link"
           },
           {
             "_key": "4c64ec88-315f-41ac-be8d-293e7a59c5b1",
-            "href": "#",
+            "href": "/xcelerators/plugins/bankai-iam",
             "label": "Bankai IAM",
             "type": "link"
           },
@@ -14588,12 +14558,6 @@
             "type": "header"
           },
           {
-            "_key": "6f584fe9-aff6-4152-92cd-d9b46847b6ad",
-            "href": "/products/easy-cts",
-            "label": "easyAudit",
-            "type": "link"
-          },
-          {
             "_key": "d76b8f0b-4891-4934-9b4a-9351e856602c",
             "href": "/xcelerators/others/easy-recon",
             "label": "easyRecon",
@@ -14603,6 +14567,13 @@
             "_key": "b8bd7c18-7fa8-4b0b-ade9-4a4661bce968",
             "href": "/xcelerators/others/easy-cts",
             "label": "easyCTS",
+            "type": "link"
+          },
+          {
+            "_key": "844dda37d9e3",
+            "_type": "item",
+            "href": "/products/easyTF",
+            "label": "easyTF",
             "type": "link"
           }
         ],
@@ -14627,12 +14598,6 @@
             "_key": "266fd282-4b9f-459a-a051-324dac939333",
             "href": "https://bankaiapihub.aiplservices.com",
             "label": "Login to Market Place",
-            "type": "link"
-          },
-          {
-            "_key": "6f5d877c-215a-49b1-8200-1a12ea03ad99",
-            "href": "#",
-            "label": "Sandbox / Test Environment",
             "type": "link"
           }
         ],
@@ -14686,14 +14651,21 @@
           {
             "_key": "582e8031-bb28-4391-abd6-869795517afc",
             "href": "#",
-            "label": "Videos & Webinars",
+            "label": "Videos / Webinars",
             "type": "headerLink"
           },
           {
             "_key": "c366d30d-6531-4b41-aa71-0376770a261e",
             "href": "#",
-            "label": "Events & Announcements",
+            "label": "Events & Announcement ",
             "type": "headerLink"
+          },
+          {
+            "_key": "14eccd7d2d83",
+            "_type": "item",
+            "href": "#",
+            "label": "Join Our Seminar",
+            "type": "link"
           }
         ],
         "title": "Resources"
@@ -14705,7 +14677,7 @@
             "_key": "6668f70e-5be2-49ae-b263-442b6bc2f0fd",
             "href": "#",
             "label": "About Us",
-            "type": "link"
+            "type": "header"
           },
           {
             "_key": "32ffbcd8-4bac-4a07-9e86-ceefe24b0f94",
@@ -14744,32 +14716,20 @@
           },
           {
             "_key": "20887def-bedc-43bc-ac13-90fe418a8782",
-            "href": "#",
-            "label": "Current Openings",
+            "href": "/careers",
+            "label": "Growth & Culture",
             "type": "link"
           },
           {
             "_key": "69c8e7af-797a-41c8-aca8-0fe716a85b81",
-            "href": "#",
-            "label": "Internship Programs",
-            "type": "link"
-          },
-          {
-            "_key": "432452ea-6ecc-4e78-a5b4-fdb4fb14b3e2",
-            "href": "#",
-            "label": "DEI Statement",
+            "href": "/openings",
+            "label": "Current Openings",
             "type": "link"
           },
           {
             "_key": "e38ba0fc-8687-4216-b801-7a31e87e5440",
             "label": "Contact",
             "type": "header"
-          },
-          {
-            "_key": "22820672-1c07-4b8d-bfb4-8cd247c04ba1",
-            "href": "#",
-            "label": "General Contact",
-            "type": "link"
           },
           {
             "_key": "3f00a8c5-6ff3-4b9f-bbc7-cfa390c1de92",
