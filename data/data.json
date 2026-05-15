@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "6fCNpx7G4GCpNgpiNpfJ3w",
+    "_rev": "FCaX7e7F3kXCkn0uFQDff3",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "6fCNpx7G4GCpNgpiNm0MPI"
+        "rev": "6fCNpx7G4GCpNgpiNpfJ3w"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-15T06:44:36Z",
+    "_updatedAt": "2026-05-15T08:00:35Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -197,12 +197,6 @@
           {
             "_key": "82ed34d2-8c1a-4f10-98a5-148480300f4b",
             "items": [
-              {
-                "_key": "d5a433c1-8f0b-40b8-b89e-a72b49fe3499",
-                "href": "/xcelerators/others/easy-cts",
-                "label": "easyAudit",
-                "type": "link"
-              },
               {
                 "_key": "5a27b732-f0a4-4525-b68e-fff84f0bc67a",
                 "href": "/xcelerators/others/easy-recon",
@@ -10029,15 +10023,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "UsfV9oDnxQRwUo5LZ4m9hV",
+    "_rev": "FCaX7e7F3kXCkn0uFQEPQN",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "UsfV9oDnxQRwUo5LZ4kzPF"
+        "rev": "UsfV9oDnxQRwUo5LZ4m9hV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T11:35:08Z",
+    "_updatedAt": "2026-05-15T08:05:16Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -10062,7 +10056,7 @@
           }
         },
         "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
-        "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
+        "title": "Loan Management & Servicing, Simplified",
         "variant": "split"
       },
       {
@@ -10814,7 +10808,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
       "image": null,
       "keywords": [
         "core modernization",
@@ -10822,9 +10816,9 @@
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
+      "ogTitle": "Loan Management & Servicing, Simplified",
+      "title": "Loan Management & Servicing, Simplified",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
@@ -14758,15 +14752,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "XqgcJAHSz5e5kILtKClk4k",
+    "_rev": "FCaX7e7F3kXCkn0uFQEidi",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "x9AkaoQOe6dzdFl4eKZhWb"
+        "rev": "XqgcJAHSz5e5kILtKClk4k"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T06:27:23Z",
+    "_updatedAt": "2026-05-15T08:06:37Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -15341,7 +15335,7 @@
       }
     ],
     "seo": {
-      "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
+      "description": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
       "image": null,
       "keywords": [
         "cheque clearing",
@@ -15350,9 +15344,9 @@
         "digital cheque clearing",
         "banking reconciliation"
       ],
-      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
-      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
-      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "ogDescription": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
+      "ogTitle": "Execute Excel Formulas at Scale",
+      "title": "Execute Excel Formulas at Scale",
       "url": "https://yourdomain.com/products/easy-cts"
     },
     "slug": {
