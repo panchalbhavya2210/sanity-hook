@@ -18452,15 +18452,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "XqgcJAHSz5e5kILtKCtYRc",
+    "_rev": "sD1F1NPyCZWsgmsPafqXmj",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "XqgcJAHSz5e5kILtKCtTQ6"
+        "rev": "XqgcJAHSz5e5kILtKCtYRc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:30:12Z",
+    "_updatedAt": "2026-05-15T12:26:52Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18473,7 +18473,7 @@
         "headingLogo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-649bfcf63556da9c412ab48a7b364838deb52c6a-226x81-png",
+            "_ref": "image-942b76073fc8b66d502ea688348c115ccc44ee16-242x89-png",
             "_type": "reference"
           }
         },
