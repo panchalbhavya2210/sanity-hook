@@ -7125,15 +7125,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "FCaX7e7F3kXCkn0uFMSRcg",
+    "_rev": "XqgcJAHSz5e5kILtKGCVo8",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "xYdOegpFMyaIaw5eRqUuLd"
+        "rev": "FCaX7e7F3kXCkn0uFMSRcg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:41:43Z",
+    "_updatedAt": "2026-05-15T10:12:23Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7242,7 +7242,7 @@
             "title": "Speed Up Go-to-Market Strategy"
           }
         ],
-        "headerSubtitle": "DiGi.X  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
+        "headerSubtitle": "DiGi.XTM  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
         "id": "coreInfo",
         "isTextBlack": true,
         "logo": {
@@ -7329,7 +7329,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. DiGi.X redefines banking at every level.",
+          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. Digi.X™ redefines banking at every level.",
           "text": {
             "title": [
               {
@@ -7346,7 +7346,18 @@
         "_key": "sevmp75n28",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions."
+          "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions.",
+          "text": {
+            "title": [
+              {
+                "_key": "68b177a4dc5e",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Business Payoffs That Drive Growth"
+              }
+            ],
+            "variant": "h1"
+          }
         },
         "bgColor": "white",
         "id": "quickActionCardParent",
@@ -7798,7 +7809,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "subTitle": "DiGi.XTM ensures banks can scale faster, stay compliant, and serve smarter.",
           "text": {
             "title": [
               {
@@ -7816,7 +7827,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "DiGi.X is powered by AI and Machine Learning for contextual engagement and predictive automation.",
+          "subTitleText": "DiGi.XTM is powered by AI and Machine Learning for contextual engagement and predictive automation.",
           "text": {
             "title": [
               {
