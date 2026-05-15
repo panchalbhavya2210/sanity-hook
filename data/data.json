@@ -14346,15 +14346,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "FCaX7e7F3kXCkn0uFQ2B8h",
+    "_rev": "XqgcJAHSz5e5kILtKFiUua",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "hbFHDleTVRD2fswKs1KeCW"
+        "rev": "FCaX7e7F3kXCkn0uFQ2B8h"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-15T05:23:19Z",
+    "_updatedAt": "2026-05-15T05:39:48Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14614,19 +14614,19 @@
           {
             "_key": "328f8849-7947-4bdd-b862-1e53a465c4bc",
             "href": "#",
-            "label": "Introduction to Developer Portal",
-            "type": "link"
+            "label": "Explore",
+            "type": "header"
           },
           {
             "_key": "11bf8ebe-dfa2-467d-8479-965eb3edfc9b",
-            "href": "#",
-            "label": "API Documentation & Categories",
+            "href": "/api-hub",
+            "label": "API Hub",
             "type": "link"
           },
           {
             "_key": "266fd282-4b9f-459a-a051-324dac939333",
-            "href": "#",
-            "label": "Partner Integrations",
+            "href": "https://bankaiapihub.aiplservices.com",
+            "label": "Login to Market Place",
             "type": "link"
           },
           {
@@ -14645,25 +14645,25 @@
             "_key": "b9f00698-309b-451d-b81e-69fb431c5916",
             "href": "/services/managed-cloud-services",
             "label": "Managed Cloud Services",
-            "type": "link"
+            "type": "headerLink"
           },
           {
             "_key": "2dfeab79-8615-4643-afe8-bf0a67be9321",
             "href": "/services/core-modernization",
             "label": "Core Modernization",
-            "type": "link"
+            "type": "headerLink"
           },
           {
             "_key": "89bd35ec-0df1-40cc-9e1a-558619998753",
-            "href": "#",
-            "label": "Data Migration",
-            "type": "link"
+            "href": "/services/imps-upi-switch-services",
+            "label": "IMPS/UPI Switch",
+            "type": "headerLink"
           },
           {
             "_key": "606d0c46-3a7f-4e2d-a617-a2ea2fb6dc1f",
             "href": "/services/staff-augmentation",
             "label": "Staff Augmentation",
-            "type": "link"
+            "type": "headerLink"
           }
         ],
         "title": "Services"
@@ -14673,27 +14673,27 @@
         "items": [
           {
             "_key": "15557b9c-d6ce-47ad-984b-89dad119ee59",
-            "href": "#",
+            "href": "/case-study",
             "label": "Our Recent Case Studies",
-            "type": "link"
+            "type": "headerLink"
           },
           {
             "_key": "0fa37f97-a0d9-464d-871e-20c214eda74b",
             "href": "#",
             "label": "Whitepapers / eBooks",
-            "type": "link"
+            "type": "headerLink"
           },
           {
             "_key": "582e8031-bb28-4391-abd6-869795517afc",
             "href": "#",
             "label": "Videos & Webinars",
-            "type": "link"
+            "type": "headerLink"
           },
           {
             "_key": "c366d30d-6531-4b41-aa71-0376770a261e",
             "href": "#",
             "label": "Events & Announcements",
-            "type": "link"
+            "type": "headerLink"
           }
         ],
         "title": "Resources"
