@@ -1077,15 +1077,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "XqgcJAHSz5e5kILtKCzYCE",
+    "_rev": "6fCNpx7G4GCpNgpiNpoBoi",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "6fCNpx7G4GCpNgpiNloOzY"
+        "rev": "XqgcJAHSz5e5kILtKCzYCE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T09:20:22Z",
+    "_updatedAt": "2026-05-15T08:07:32Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1838,16 +1838,16 @@
       }
     ],
     "seo": {
-      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "description": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
       "keywords": [
         "core modernization",
         "legacy core banking",
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogDescription": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
+      "ogTitle": "Empowering Seamless API Connectivity",
+      "title": "Empowering Seamless API Connectivity",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
@@ -2983,15 +2983,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "xYdOegpFMyaIaw5eRrmb9R",
+    "_rev": "6fCNpx7G4GCpNgpiNpoaK4",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "xYdOegpFMyaIaw5eRrmT5p"
+        "rev": "xYdOegpFMyaIaw5eRrmb9R"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-11T08:34:29Z",
+    "_updatedAt": "2026-05-15T08:10:40Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -2999,7 +2999,7 @@
         "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "_type": "ctaButton",
-          "href": "/careers-opening",
+          "href": "/openings",
           "label": "Search Current Openings",
           "variant": "primary"
         },
