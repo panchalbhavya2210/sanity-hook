@@ -14320,15 +14320,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "XqgcJAHSz5e5kILtKFtRRa",
+    "_rev": "sD1F1NPyCZWsgmsPafpB2m",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "6fCNpx7G4GCpNgpiNpf4T6"
+        "rev": "XqgcJAHSz5e5kILtKFtRRa"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-15T08:12:17Z",
+    "_updatedAt": "2026-05-15T12:16:13Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14655,31 +14655,31 @@
           },
           {
             "_key": "32ffbcd8-4bac-4a07-9e86-ceefe24b0f94",
-            "href": "#",
+            "href": "/coming-soon",
             "label": "Overview",
             "type": "link"
           },
           {
             "_key": "b627aee4-ad55-418f-8e99-78bf097cbe0c",
-            "href": "#",
+            "href": "/coming-soon",
             "label": "Leadership Team",
             "type": "link"
           },
           {
             "_key": "e9a9fcd4-b411-4daf-8ad9-d95f9ed862c8",
-            "href": "#",
+            "href": "/coming-soon",
             "label": "Global Centers",
             "type": "link"
           },
           {
             "_key": "725c3ff5-3688-47c4-afdb-31925e5b3b62",
-            "href": "#",
+            "href": "/coming-soon",
             "label": "Partners & Alliances",
             "type": "link"
           },
           {
             "_key": "58839f61-37b1-426f-9df6-b7e2c6a70ca6",
-            "href": "#",
+            "href": "/coming-soon",
             "label": "Quality & Certifications",
             "type": "link"
           },
