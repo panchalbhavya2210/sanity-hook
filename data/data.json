@@ -14346,15 +14346,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "6fCNpx7G4GCpNgpiNpbzUm",
+    "_rev": "6fCNpx7G4GCpNgpiNpf4T6",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "XqgcJAHSz5e5kILtKFiUua"
+        "rev": "6fCNpx7G4GCpNgpiNpbzUm"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-15T06:03:53Z",
+    "_updatedAt": "2026-05-15T06:41:48Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14665,7 +14665,7 @@
             "_type": "item",
             "href": "#",
             "label": "Join Our Seminar",
-            "type": "link"
+            "type": "headerLink"
           }
         ],
         "title": "Resources"
