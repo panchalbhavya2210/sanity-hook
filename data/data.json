@@ -14316,15 +14316,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "6fCNpx7G4GCpNgpiNpf4T6",
+    "_rev": "XqgcJAHSz5e5kILtKFtRRa",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "6fCNpx7G4GCpNgpiNpbzUm"
+        "rev": "6fCNpx7G4GCpNgpiNpf4T6"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-15T06:41:48Z",
+    "_updatedAt": "2026-05-15T08:12:17Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14703,19 +14703,19 @@
           },
           {
             "_key": "3f00a8c5-6ff3-4b9f-bbc7-cfa390c1de92",
-            "href": "#",
+            "href": "/contact-us#demo",
             "label": "Demo Request",
             "type": "link"
           },
           {
             "_key": "67a09a12-de27-48a9-ae9b-3ce273c38fc8",
-            "href": "#",
+            "href": "/contact-us#demo",
             "label": "Sales Inquiries",
             "type": "link"
           },
           {
             "_key": "4e32229c-f211-41ad-921f-00fdde1b1b98",
-            "href": "#",
+            "href": "/contact-us#office-location",
             "label": "Office Locations",
             "type": "link"
           }
