@@ -17219,15 +17219,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "XqgcJAHSz5e5kILtKCmRH4",
+    "_rev": "X2D1vuonOS7HWiudGdo6XI",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "vVaFl7ADmGgQzf5cZ48X69"
+        "rev": "XqgcJAHSz5e5kILtKCmRH4"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T06:44:29Z",
+    "_updatedAt": "2026-05-18T10:34:28Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -17614,7 +17614,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "Why Choose MTMXConverter",
+          "subTitle": "Why Choose MXcelerate",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -17821,7 +17821,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Build a zero-trust foundation with Bankai IAM and scale securely across your digital ecosystem.",
+        "subText": "Validate faster, translate smarter, and operate with complete confidence",
         "titleParts": [
           {
             "_key": "29l9mlm6ma",
@@ -17868,7 +17868,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "xcelerators/plugins/mt-to-mx-conversion"
+      "current": "xcelerators/plugins/mxcelerate"
     },
     "title": "MXCelerate"
   },
