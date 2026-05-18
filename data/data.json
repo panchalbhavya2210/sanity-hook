@@ -18445,15 +18445,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "sD1F1NPyCZWsgmsPafqXmj",
+    "_rev": "auT5k97NiJTCPU02gx0e1h",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "XqgcJAHSz5e5kILtKCtYRc"
+        "rev": "sD1F1NPyCZWsgmsPafqXmj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-15T12:26:52Z",
+    "_updatedAt": "2026-05-18T09:58:40Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18639,7 +18639,7 @@
           },
           {
             "_key": "hkldjg6j1h",
-            "description": "Includes E2E encryption, device binding, GEO tagging, OTP, and fraud detection.",
+            "description": "Includes E2E encryption, device binding, GEO tagging, SMV, and fraud detection.",
             "icon": {
               "_type": "image",
               "asset": {
