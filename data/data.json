@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "X2D1vuonOS7HWiudGdl4Bc",
+    "_rev": "X2D1vuonOS7HWiudGdoAcK",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "amfhqoC5YtDxa8ySIdhwa6"
+        "rev": "X2D1vuonOS7HWiudGdl4Bc"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-18T10:12:15Z",
+    "_updatedAt": "2026-05-18T10:34:52Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -157,7 +157,7 @@
               },
               {
                 "_key": "16593eaa-e881-4d55-918f-215fd84c77d7",
-                "href": "/xcelerators/plugins/mt-to-mx-conversion",
+                "href": "/xcelerators/plugins/mxcelerate",
                 "label": "MXCelerate",
                 "type": "link"
               },
