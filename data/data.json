@@ -1070,15 +1070,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "6fCNpx7G4GCpNgpiNpoBoi",
+    "_rev": "auT5k97NiJTCPU02gwylCZ",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "XqgcJAHSz5e5kILtKCzYCE"
+        "rev": "6fCNpx7G4GCpNgpiNpoBoi"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-15T08:07:32Z",
+    "_updatedAt": "2026-05-18T09:45:18Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1425,7 +1425,7 @@
           },
           {
             "_key": "9worg6lbbv",
-            "description": "Built for speed & ease",
+            "description": "Deploy, manage, and scale your API services with speed and reliability.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -1435,7 +1435,7 @@
               }
             },
             "imageAlt": "",
-            "title": "Developer First"
+            "title": "Publish API Services Instantly"
           },
           {
             "_key": "cgbphzlf06",
@@ -1545,7 +1545,7 @@
         "capabilitesDetails": [
           {
             "_key": "yjdegsoab9",
-            "description": "Launch new APIs in minutes with intuitive onboarding, smart templates, and instant validation—get to market faster than ever.",
+            "description": "Build, configure, and publish API services seamlessly with a developer-friendly      \t    workflow.",
             "hasList": false,
             "id": 1,
             "image": {
@@ -1559,7 +1559,7 @@
               {
                 "_key": "r0s6vza6r9",
                 "color": "",
-                "text": "Effortless Creation"
+                "text": " Create & Launch API Services Faster"
               }
             ]
           },
@@ -1584,7 +1584,7 @@
           },
           {
             "_key": "ut77y4mnev",
-            "description": "Leverage real-time analytics, instant feedback, and collaborative tools to optimize your APIs, squash bugs, and add features—all without disrupting your consumers.",
+            "description": "Track logs, monitor performance, and troubleshoot API services instantly with live execution insights.",
             "id": 3,
             "image": {
               "_type": "image",
@@ -1597,7 +1597,7 @@
               {
                 "_key": "589dyqet9j",
                 "color": "text-black",
-                "text": "Continuous Improvement "
+                "text": "Real-Time API Monitoring"
               }
             ]
           },
@@ -1622,7 +1622,7 @@
           },
           {
             "_key": "ig5t7x0ol1",
-            "description": "Wind down APIs with scheduled deprecation, migration guidance, and transparent communication—ensuring a smooth transition for all consumers.",
+            "description": "Easily manage active, draft, and deprecated API states while ensuring a smooth experience for developers and consumers.",
             "id": 5,
             "image": {
               "_type": "image",
@@ -1635,13 +1635,13 @@
               {
                 "_key": "vthqwki8i8",
                 "color": "text-black",
-                "text": "Graceful Retirement"
+                "text": "Seamless API Lifecycle Management"
               }
             ]
           },
           {
             "_key": "8uctdgpqbu",
-            "description": "Access expert support, best practice guides, and proactive lifecycle recommendations to maximize your platform’s impact.",
+            "description": "Help developers explore, understand, and access API services with a seamless onboarding experience. ",
             "id": 4,
             "image": {
               "_type": "image",
@@ -1654,7 +1654,7 @@
               {
                 "_key": "1u668rosn2",
                 "color": "text-black",
-                "text": "Human Touch"
+                "text": "Guided API Discovery"
               }
             ]
           }
