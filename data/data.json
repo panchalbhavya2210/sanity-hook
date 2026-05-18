@@ -1040,15 +1040,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "X2D1vuonOS7HWiudGdhM1Y",
+    "_rev": "ihDi4X4FCp9Y5sY9HYV0rf",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "auT5k97NiJTCPU02gwylCZ"
+        "rev": "X2D1vuonOS7HWiudGdhM1Y"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T09:54:01Z",
+    "_updatedAt": "2026-05-18T11:50:10Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1573,7 +1573,7 @@
           },
           {
             "_key": "mz9xzjdv91",
-            "description": "Support multiple API releases with clear visibility, flexible transitions, and uninterrupted consumer access. ",
+            "description": "Support multiple API releases with clear visibility, flexible transitions, and uninterrupted consumer access.",
             "id": 4,
             "image": {
               "_type": "image",
@@ -1671,12 +1671,12 @@
         "mediaInfoCardData": [
           {
             "_key": "c488c8a1ccb5",
-            "description": "Track response times, error rates, latency, and throughput—all visualized for quick decision-making.",
+            "description": "Track your API activity in real time from successful requests to response speed and failures so you can quickly spot trends, fix issues, and keep performance running smoothly.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-4d39b8b3ae62c8cc9080d73ddcda192e52ccee30-451x225-svg",
+                "_ref": "image-d68d84585b281759596269924238236403e428f8-520x260-svg",
                 "_type": "reference"
               }
             },
@@ -1685,7 +1685,7 @@
           },
           {
             "_key": "b602573c2d98",
-            "description": "Dig into traffic patterns, user behavior, and request volumes. Discover trends, optimize resources, and spot opportunities for growth.",
+            "description": "Advanced Usage Analytics gives you real-time insights into API traffic, response trends, service performance, and user activity to help improve monitoring, reliability, and scalability.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -1699,7 +1699,7 @@
           },
           {
             "_key": "3ed0efd27b5e",
-            "description": "Set custom thresholds and get instant alerts—keeping your team proactive and minimizing downtime.",
+            "description": "Stay informed with smart alerts and real-time notifications for API failures, unusual activity, performance issues, and critical events so you can respond faster and keep your systems running smoothly.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -1731,7 +1731,7 @@
         "_key": "af8b525ab287",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "subTitleText": "• Transparent pricing—no hidden fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
+          "subTitleText": "• Transparent Pricing, No Hidden Fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
           "text": {
             "title": [
               {
