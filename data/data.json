@@ -1070,15 +1070,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "auT5k97NiJTCPU02gwylCZ",
+    "_rev": "X2D1vuonOS7HWiudGdhM1Y",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "6fCNpx7G4GCpNgpiNpoBoi"
+        "rev": "auT5k97NiJTCPU02gwylCZ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T09:45:18Z",
+    "_updatedAt": "2026-05-18T09:54:01Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1603,7 +1603,7 @@
           },
           {
             "_key": "mz9xzjdv91",
-            "description": "Seamlessly support multiple API versions, sunset outdated endpoints, and communicate changes to users clearly—keeping integrations robust and reliable.",
+            "description": "Support multiple API releases with clear visibility, flexible transitions, and uninterrupted consumer access. ",
             "id": 4,
             "image": {
               "_type": "image",
