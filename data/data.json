@@ -15362,15 +15362,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "amfhqoC5YtDxa8ySIditsS",
+    "_rev": "auT5k97NiJTCPU02gwxUOz",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "XqgcJAHSz5e5kILtKD3M3a"
+        "rev": "amfhqoC5YtDxa8ySIditsS"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-15T12:26:11Z",
+    "_updatedAt": "2026-05-18T09:33:44Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -15854,7 +15854,7 @@
       "cards": [
         {
           "_key": "card1",
-          "buttonTitle": "Explore Intelligent Core",
+          "buttonTitle": "Explore EasyBankCore™",
           "description": "Build the Digital Backbone for tomorrow's banks with a Scalable, Secured, Cloud-Native, Unified all-in-one platform to accelerate & future-proof your banking business.",
           "image": {
             "_type": "image",
@@ -15878,12 +15878,12 @@
             }
           },
           "route": "/products/easyTF",
-          "title": "easyTF"
+          "title": "Digital Trade Finance"
         },
         {
           "_key": "card2",
-          "buttonTitle": "Explore Financial Intelligence",
-          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
+          "buttonTitle": "Explore easyKYC",
+          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling , predictive analytics , risk classification to enterprise chatbot.",
           "image": {
             "_type": "image",
             "asset": {
@@ -15893,11 +15893,11 @@
           },
           "imageSrc": "/images/homepage/3.png",
           "route": "/products/aml-kyc",
-          "title": "AI-Based Analytics"
+          "title": "AI-Based eKYC"
         },
         {
           "_key": "9779fdbdf528",
-          "buttonTitle": " Explore Mobile Banking",
+          "buttonTitle": "Explore MobiPro",
           "description": "Access everyday banking services like transfers, bill payments, account management, and notifications through a secure and intuitive mobile experience.",
           "image": {
             "_type": "image",
@@ -15912,7 +15912,7 @@
         },
         {
           "_key": "0aff3ee9c10e",
-          "buttonTitle": "Explore Tab Banking",
+          "buttonTitle": "Explore MobiPro+",
           "description": "Designed for relationship managers and branch-assisted journeys with larger-screen experiences for onboarding, servicing, and customer interactions.",
           "image": {
             "_type": "image",
@@ -15926,7 +15926,7 @@
         },
         {
           "_key": "2ac53b0f06cf",
-          "buttonTitle": "Explore Super App",
+          "buttonTitle": "Explore Bankai SuperApp",
           "description": "A unified ecosystem combining banking, payments, investments, lifestyle services, and digital experiences into one intelligent platform.",
           "image": {
             "_type": "image",
@@ -15940,7 +15940,7 @@
         },
         {
           "_key": "card3",
-          "buttonTitle": "Explore easyLOMS",
+          "buttonTitle": "Explore easyLOS",
           "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
           "image": {
             "_type": "image",
@@ -15966,11 +15966,11 @@
           },
           "imageSrc": "/images/homepage/5.png",
           "route": "/products/digi-x",
-          "title": "Digi.X™"
+          "title": "Digital First Channels"
         },
         {
           "_key": "card5",
-          "buttonTitle": "Explore HR Suite",
+          "buttonTitle": "Explore easyPaypack",
           "description": "Empower your workforce with intuitive self-service portals and payroll automation, designed to align employee experiences with business agility.",
           "image": {
             "_type": "image",
@@ -15991,7 +15991,7 @@
           "_type": "reference"
         }
       },
-      "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights",
+      "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights.",
       "titleParts": [
         {
           "_key": "pt1",
