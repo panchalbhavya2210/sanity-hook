@@ -16594,15 +16594,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "LaHK0uYKHTB6MWRH7EkjyJ",
+    "_rev": "LaHK0uYKHTB6MWRH7Eko00",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "FCaX7e7F3kXCkn0uFMfDNj"
+        "rev": "LaHK0uYKHTB6MWRH7EkjyJ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T11:59:25Z",
+    "_updatedAt": "2026-05-18T12:00:03Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -17079,7 +17079,7 @@
           },
           {
             "_key": "3yk5ouk27d",
-            "title": "Primary, UAT, Disaster Recovery Data Centre: OS, Database, Application/Web Server Installation, Patching, Versioning @ OCI."
+            "title": "Primary, UAT, and Disaster Recovery Data Centre Setup: OS, Database, Application/Web Server Installation, Patching, and Version Management on Oracle Cloud Infrastructure. "
           },
           {
             "_key": "rvi3qhap9g",
