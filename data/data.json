@@ -13208,15 +13208,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "kASO4urNESeuuyiE2LPDAU",
+    "_rev": "Dtz5j1oaWW6Cl3KegHyYRr",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "Dtz5j1oaWW6Cl3KegHyIED"
+        "rev": "kASO4urNESeuuyiE2LPDAU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T09:58:23Z",
+    "_updatedAt": "2026-05-19T09:58:49Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13338,7 +13338,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Reduced Operational  Risk"
+            "title": "Reduced Operational Risk"
           },
           {
             "_key": "hbax3gcyhi",
