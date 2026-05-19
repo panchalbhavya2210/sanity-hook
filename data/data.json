@@ -1040,15 +1040,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "kASO4urNESeuuyiE2LIhCT",
+    "_rev": "kASO4urNESeuuyiE2LIkYk",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ihDi4X4FCp9Y5sY9HYV0rf"
+        "rev": "kASO4urNESeuuyiE2LIhCT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T05:28:40Z",
+    "_updatedAt": "2026-05-19T05:32:29Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1699,7 +1699,7 @@
           },
           {
             "_key": "3ed0efd27b5e",
-            "description": "Stay informed with smart alerts and real-time notifications for API failures, unusual activity, performance issues, and critical events so you can respond faster and keep your systems running smoothly.",
+            "description": "Stay informed with smart alerts and real-time notifications for API failures, unusual activity, performance issues, and critical events so you can respond faster and keep your systems running smoothly",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
