@@ -14718,15 +14718,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "Dtz5j1oaWW6Cl3KegHU3kJ",
+    "_rev": "kASO4urNESeuuyiE2LMcwa",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "FCaX7e7F3kXCkn0uFQEidi"
+        "rev": "Dtz5j1oaWW6Cl3KegHU3kJ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T06:35:44Z",
+    "_updatedAt": "2026-05-19T08:19:48Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -14963,7 +14963,7 @@
           },
           {
             "_key": "jal2ew0pb2",
-            "description": "Easily update Excel-based logic and access refreshed API results instantly. ",
+            "description": "Configure Excel input/output mappings directly within the application.",
             "title": "Simplified Maintenance"
           },
           {
