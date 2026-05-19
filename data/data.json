@@ -16592,15 +16592,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "LaHK0uYKHTB6MWRH7Eko00",
+    "_rev": "Dtz5j1oaWW6Cl3KegHo8RR",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "LaHK0uYKHTB6MWRH7EkjyJ"
+        "rev": "LaHK0uYKHTB6MWRH7Eko00"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T12:00:03Z",
+    "_updatedAt": "2026-05-19T08:43:58Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -17053,7 +17053,7 @@
         "isTextBlack": true,
         "isTextWhite": false,
         "isTitleOnly": true,
-        "subTitleText": "Our 21-point managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
+        "subTitleText": "Our managed service suite supports Oracle Cloud operations with 24/7 monitoring, DR readiness, cybersecurity, and multi-environment control.",
         "titleParts": [
           {
             "_key": "64e6c6999f79",
