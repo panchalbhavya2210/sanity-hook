@@ -14718,15 +14718,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "kASO4urNESeuuyiE2LMcwa",
+    "_rev": "kASO4urNESeuuyiE2LMeGL",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "Dtz5j1oaWW6Cl3KegHU3kJ"
+        "rev": "kASO4urNESeuuyiE2LMcwa"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T08:19:48Z",
+    "_updatedAt": "2026-05-19T08:20:38Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -15213,7 +15213,7 @@
           },
           {
             "_key": "8nurixdimn",
-            "description": "Easily update Excel-based logic and access refreshed API results instantly. ",
+            "description": "Confidential calculations remain securely within encoded Excel spreadsheets and are executed through APIs.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -15221,7 +15221,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Reduce Costs"
+            "title": "Reduced Implementation Timeline"
           },
           {
             "_key": "gpyc2k23cf",
