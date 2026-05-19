@@ -1040,15 +1040,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ihDi4X4FCp9Y5sY9HYV0rf",
+    "_rev": "kASO4urNESeuuyiE2LIhCT",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "X2D1vuonOS7HWiudGdhM1Y"
+        "rev": "ihDi4X4FCp9Y5sY9HYV0rf"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T11:50:10Z",
+    "_updatedAt": "2026-05-19T05:28:40Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1690,7 +1690,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-7f265213e108426c5be9ea4803a7a207c111e07a-451x225-svg",
+                "_ref": "image-a19b93aa99aa30a6b970ceea128d5c384cb3e210-520x260-svg",
                 "_type": "reference"
               }
             },
@@ -1704,7 +1704,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-dbe88376f5359b9f12d4bcdedc71376d4c49d3c5-451x225-svg",
+                "_ref": "image-ed7db82b79dc69b2133759106dbbff3e5b1dbef4-522x260-svg",
                 "_type": "reference"
               }
             },
