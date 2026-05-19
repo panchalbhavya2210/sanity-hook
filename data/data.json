@@ -3425,15 +3425,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "XqgcJAHSz5e5kILtKCyIka",
+    "_rev": "Dtz5j1oaWW6Cl3KegHx46c",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "XqgcJAHSz5e5kILtKCxjdY"
+        "rev": "XqgcJAHSz5e5kILtKCyIka"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-14T09:09:43Z",
+    "_updatedAt": "2026-05-19T09:48:43Z",
     "slug": {
       "_type": "slug",
       "current": "case-studies"
@@ -3586,8 +3586,8 @@
           }
         ],
         "testimonial": {
-          "author": "Mr. Avani Kumar Jain",
-          "role": "CEO",
+          "author": "Paresh Kelawala",
+          "role": "AGM IT & CISO",
           "text": "Bankai went above and beyond to solve Digital Core Banking Solution migration in a timely manner. Kudos to your team for the hard work & commitment , and I really appreciate it. Thank you team Bankai  for helping us move forward in offering innovative digital banking services to our customers."
         },
         "theme": "light"
