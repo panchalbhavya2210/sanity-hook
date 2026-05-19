@@ -20529,15 +20529,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "kASO4urNESeuuyiE2LR6iI",
+    "_rev": "kASO4urNESeuuyiE2LRWXR",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "ZNIpBJ0WFANlheD2Wg97lv"
+        "rev": "kASO4urNESeuuyiE2LR6iI"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T11:05:32Z",
+    "_updatedAt": "2026-05-19T11:16:29Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20818,7 +20818,7 @@
             }
           }
         ],
-        "isBgBlue": true
+        "isBgBlue": false
       },
       {
         "_key": "ohq03xtpmp",
