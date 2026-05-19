@@ -14718,15 +14718,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "FCaX7e7F3kXCkn0uFQEidi",
+    "_rev": "Dtz5j1oaWW6Cl3KegHU3kJ",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "XqgcJAHSz5e5kILtKClk4k"
+        "rev": "FCaX7e7F3kXCkn0uFQEidi"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-15T08:06:37Z",
+    "_updatedAt": "2026-05-19T06:35:44Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -14750,7 +14750,7 @@
         "features": [
           {
             "_key": "1vhegfuhsj",
-            "description": "Convert Excel formulas into APIs without coding.",
+            "description": "Wrap Excel-based logic into managed APIs—no engineering overhead",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -14759,11 +14759,11 @@
                 "_type": "reference"
               }
             },
-            "title": "Zero-Code Formula Translation"
+            "title": "Turn Excel Logic into Managed APIs"
           },
           {
             "_key": "gb7e95594u",
-            "description": "Launch APIs in seconds instead of weeks.",
+            "description": "Configure input/output mappings and calculate Excel formulas instantly via APIs.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -14803,7 +14803,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "FormulaGenie bridges the gap between Excel and modern applications by converting formulas into APIs in one click",
+        "subTitleText": "FormulaGenie bridges Excel and modern applications by securely evaluating Excel formulas through APIs in one click.",
         "titleParts": [
           {
             "_key": "bjcqzlrb8p",
@@ -14913,7 +14913,6 @@
         "_key": "157vmvlfsf",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "subTitleText": "Advanced processing capabilities eliminate manual work and enable faster reconciliation cycles.",
           "titleParts": [
             {
               "_key": "1437fd7b3f8a",
@@ -14954,8 +14953,8 @@
         "quickActionCard": [
           {
             "_key": "1ijyoa3orv",
-            "description": "Convert formulas into working APIs instantly.",
-            "title": "One-Click API Generation"
+            "description": "Transform Excel formulas into instant real-time calculations. ",
+            "title": "One-Click Excel Spreadsheet Calculation"
           },
           {
             "_key": "2trgyhvstu",
@@ -14964,7 +14963,7 @@
           },
           {
             "_key": "jal2ew0pb2",
-            "description": "Update Excel → API auto-syncs without redeployment.",
+            "description": "Easily update Excel-based logic and access refreshed API results instantly. ",
             "title": "Simplified Maintenance"
           },
           {
@@ -15214,7 +15213,7 @@
           },
           {
             "_key": "8nurixdimn",
-            "description": "Lower dependency on backend developers.",
+            "description": "Easily update Excel-based logic and access refreshed API results instantly. ",
             "icon": {
               "_type": "image",
               "asset": {
