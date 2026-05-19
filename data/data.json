@@ -13208,15 +13208,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "XqgcJAHSz5e5kILtKCi4X0",
+    "_rev": "Dtz5j1oaWW6Cl3KegHyIED",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "6fCNpx7G4GCpNgpiNlWxcO"
+        "rev": "XqgcJAHSz5e5kILtKCi4X0"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:22:54Z",
+    "_updatedAt": "2026-05-19T09:56:51Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13473,27 +13473,12 @@
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "contactCTA",
-        "subText": "Validate faster, translate smarter, and operate with complete confidence",
+        "subText": "Deliver faster, compliant, and scalable trade finance operations for global banking and corporate clients.",
         "titleParts": [
           {
             "_key": "9zlwooq4p2",
             "color": "text-black",
-            "text": "Make Every "
-          },
-          {
-            "_key": "5jlh8xs66y",
-            "color": "text-brand-600",
-            "text": "Financial "
-          },
-          {
-            "_key": "ofon7xw9q5",
-            "color": "text-black",
-            "text": "Message "
-          },
-          {
-            "_key": "eeohjyt18k",
-            "color": "text-warning",
-            "text": "Count"
+            "text": "Unified platform for modern trade finance operations."
           }
         ]
       }
