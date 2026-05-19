@@ -20529,15 +20529,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ZNIpBJ0WFANlheD2Wg97lv",
+    "_rev": "kASO4urNESeuuyiE2LR6iI",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "ZNIpBJ0WFANlheD2Wg8vip"
+        "rev": "ZNIpBJ0WFANlheD2Wg97lv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T09:47:53Z",
+    "_updatedAt": "2026-05-19T11:05:32Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20566,7 +20566,7 @@
         "_key": "9ou7bohxco",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
+          "description": "Enables users to seamlessly manage balances, transactions, statements, and multiple accounts through a single unified platform.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -20601,7 +20601,7 @@
           },
           {
             "_key": "pduj5vxlqe",
-            "description": "Apply, manage, block/unblock cards, set limits, and generate virtual cards instantly — all from one interface.",
+            "description": "Enables fast, secure, and seamless digital payments. Users can conveniently perform P2P transfers, Merchant QR payments, mobile recharges, and Utility bill payments anytime, anywhere.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20611,11 +20611,11 @@
               }
             },
             "isReversed": true,
-            "title": "Card Services"
+            "title": "Digital Payments"
           },
           {
             "_key": "vi5mazo52r",
-            "description": "Open FDs/RDs, explore pre-approved loans, and track EMIs with built-in calculators for smarter decisions.",
+            "description": "Delivers seamless credit solutions with configurable payment terms and repayment tenures. Users can easily manage personal and business loans through one unified platform.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20626,11 +20626,11 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Deposits & Loans"
+            "title": "Loans & Credit"
           },
           {
             "_key": "g51aqvv4u9",
-            "description": "Pay utility bills, recharge services, and manage recurring payments through integrated BBPS system.",
+            "description": "Designed to deliver a unified rewards ecosystem with cashback offers, referral rewards, loyalty benefits, and exclusive shopping discounts.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20641,7 +20641,7 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Bill Payments"
+            "title": " Rewards & Cashback*"
           }
         ]
       },
@@ -20697,7 +20697,7 @@
         "mediaInfoCardData": [
           {
             "_key": "x4ny1fc30m",
-            "description": "Invest in mutual funds, SIPs, equities, bonds, and insurance, all with real-time tracking and insights.",
+            "description": "Delivers smart investment solutions with real-time analytics and seamless wealth management. Users can invest in Mutual Funds, SIPs, IPOs, and Digital Gold through one unified platform.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20708,11 +20708,11 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Investments"
+            "title": "Investment*"
           },
           {
             "_key": "dcojrsxscy",
-            "description": "Discover and invest in IPOs directly from the app without external platforms.",
+            "description": "Delivers integrated insurance solutions for complete financial protection and security. Users can seamlessly manage Health, Vehicle, Travel, and Life Insurance through one unified platform.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20723,11 +20723,11 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "IPO Access"
+            "title": "Insurance Marketplace*"
           },
           {
             "_key": "5bfxy7viyg",
-            "description": "Book travel, shop online, and access lifestyle services within the banking app.",
+            "description": "Delivers integrated lifestyle and travel experiences through one unified platform. Users can seamlessly explore premium shopping offers, hotel bookings, trips, travel deals, and entertainment services.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20738,11 +20738,11 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Lifestyle & Shopping"
+            "title": "Lifestyle shopping*"
           },
           {
             "_key": "ufcffar39v",
-            "description": "Manage business accounts, merchant services, and trade workflows for SMEs and enterprises.",
+            "description": "Offers a range of smart free tools, including Credit Score Check, Gold Price Alerts, Expense Tracking, Flight & Train Status, and Traffic Challan Monitoring, all in one place.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -20752,7 +20752,7 @@
               }
             },
             "isReversed": true,
-            "title": "Business & SME"
+            "title": " Free Smart Utility Tools*"
           }
         ]
       },
@@ -20786,89 +20786,6 @@
           }
         ],
         "isBgBlue": false
-      },
-      {
-        "_key": "n7rfj6dxmy",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "",
-          "icon": null,
-          "subTitle": "Move beyond transactions to personalized, data-driven engagement.",
-          "subTitleClassName": "",
-          "text": {
-            "title": [
-              {
-                "_key": "0bksphammz",
-                "color": "",
-                "text": "Designed for Intelligent Banking Experiences"
-              }
-            ],
-            "variant": "h1"
-          },
-          "titleTextClassName": ""
-        },
-        "gridCols": 2,
-        "id": "articles5",
-        "isBgBlue": true,
-        "isTextWhite": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "fi6bnp7gik",
-            "description": "Deliver contextual recommendations based on user behavior and financial patterns.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-fd34a112eb20f3bfc54f294dafedfc4cb818cddf-855x372-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Personalized Journeys"
-          },
-          {
-            "_key": "lja18l2l2k",
-            "description": "Track spending, investments, and financial health with intelligent dashboards.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-8f3f8a3fb0a29215695882e77592203f43832f05-855x372-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Real-Time Insights"
-          },
-          {
-            "_key": "om1kf9k594",
-            "description": "Enable secure, frictionless login using fingerprint and face authentication.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-87c7a6780300b1c25f18d6a35b44a5dca2a70fbc-855x372-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Biometric Access"
-          },
-          {
-            "_key": "j3p9z0pzha",
-            "description": "Optimized UI ensures smooth, lag-free experience across devices.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-bc2713569b448d40020c72c9ad9e5bae02725ba3-855x372-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Fast Performance"
-          }
-        ]
       },
       {
         "_key": "37el9ib1m5",
