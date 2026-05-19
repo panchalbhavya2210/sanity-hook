@@ -1040,15 +1040,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "kASO4urNESeuuyiE2LIkYk",
+    "_rev": "kASO4urNESeuuyiE2LIlMs",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "kASO4urNESeuuyiE2LIhCT"
+        "rev": "kASO4urNESeuuyiE2LIkYk"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T05:32:29Z",
+    "_updatedAt": "2026-05-19T05:33:38Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1694,7 +1694,6 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
             "title": "Advanced Usage Analytic"
           },
           {
