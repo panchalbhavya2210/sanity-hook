@@ -1822,15 +1822,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "DCWbTK12JtlZX1Got0zb9l",
+    "_rev": "PKmHYrFFn1rTZi0wbSbt5m",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "XqgcJAHSz5e5kILtKClsRw"
+        "rev": "DCWbTK12JtlZX1Got0zb9l"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T09:36:42Z",
+    "_updatedAt": "2026-05-19T05:25:10Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -1962,12 +1962,12 @@
         "mediaInfoCardData": [
           {
             "_key": "uvzs27k4vh",
-            "description": "Maintain user profiles, roles, and credentials in a unified directory.",
+            "description": "Manage user profiles, groups, roles, and access from a unified platform.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ea536579ef027d267fe4fa82ed61e8e8e51c7565-1140x496-webp",
+                "_ref": "image-cf5c92233c722200621986e360f2f7a46a7078c6-1496x704-png",
                 "_type": "reference"
               }
             },
@@ -1976,12 +1976,12 @@
           },
           {
             "_key": "srjjwzjihr",
-            "description": "Add OTP, TOTP, or device-based verification for stronger security.",
+            "description": "Add OTP based verification for stronger and more secure authentication.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-beb76fb40c1c9c9cff34f284e262db2eb2257402-1140x496-webp",
+                "_ref": "image-4a8491dd3b792435347e3ea0b7917c4935acee11-1919x907-png",
                 "_type": "reference"
               }
             },
@@ -1990,12 +1990,12 @@
           },
           {
             "_key": "8rj08y6fvn",
-            "description": "Grant permissions based on roles, departments, and hierarchy.",
+            "description": "Control user access and permissions through role based access management.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-8460940a8578f63d2c99b1ee7bb74bfca01e36bc-1140x496-webp",
+                "_ref": "image-d3bf194444b981a93a36262bd286a7b23bd89704-1184x603-png",
                 "_type": "reference"
               }
             },
@@ -2004,17 +2004,17 @@
           },
           {
             "_key": "ckogmmp2u9",
-            "description": "Ensure the right access at the right time — every time.",
+            "description": "Manage secure access across connected enterprise applications.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-b7819002e69d1b4111c15f5a628d6898d6559793-1140x496-webp",
+                "_ref": "image-9d1b137ffa74a150696249e0e57272d7ce4c1526-1180x768-png",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
-            "title": "Automated Authorization"
+            "title": "Application Access Control"
           }
         ]
       },
@@ -2072,8 +2072,8 @@
           },
           {
             "_key": "8nszcq2xz2",
-            "description": "Adaptive security based on behavior and risk signals.",
-            "title": "AI-Driven Authentication"
+            "description": "Easily configure system settings and manage email templates.",
+            "title": "Configuration & Email Templates"
           },
           {
             "_key": "jxe0bfhzjk",
@@ -2189,7 +2189,7 @@
           },
           {
             "_key": "5q5yj1nar6",
-            "description": "Real-time alerts for access activities.",
+            "description": "Integrate external systems using user lifecycle event triggers.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -2202,7 +2202,7 @@
           },
           {
             "_key": "fypmkk15up",
-            "description": "Automate user provisioning and lifecycle management.",
+            "description": "Enable secure access across connected enterprise applications.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -2211,7 +2211,7 @@
                 "_type": "reference"
               }
             },
-            "title": "SCIM Integration"
+            "title": "Multi Application Access"
           }
         ],
         "id": "coreInfo1",
