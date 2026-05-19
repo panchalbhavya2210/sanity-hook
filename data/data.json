@@ -16592,15 +16592,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "Dtz5j1oaWW6Cl3KegHo8RR",
+    "_rev": "Dtz5j1oaWW6Cl3KegHoEeM",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "LaHK0uYKHTB6MWRH7Eko00"
+        "rev": "Dtz5j1oaWW6Cl3KegHo8RR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T08:43:58Z",
+    "_updatedAt": "2026-05-19T08:45:35Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -17089,7 +17089,7 @@
           },
           {
             "_key": "pgdz3y26kl",
-            "title": "LIVE DR Operations (Planned – whenever Bank gets connected with Disaster Recovery Data Centre, All Digital Channels will be (ENABLED) available to bank & Bank's Primary/Secondary Connectivity will be used to connect to DRS for Core Banking Operations.)"
+            "title": "LIVE DR Operations (Planned – whenever Bank gets connected with Disaster Recovery Site (DRS), All Digital Channels will be (ENABLED) available to bank & Bank's Primary/Secondary Connectivity will be used to connect to DRS for Core Banking Operations.)"
           },
           {
             "_key": "bmxk1qajht",
