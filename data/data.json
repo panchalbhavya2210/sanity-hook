@@ -13522,15 +13522,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "UsfV9oDnxQRwUo5LZ4ZTNt",
+    "_rev": "PKmHYrFFn1rTZi0wbT1Itm",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "ilmz0p0w86KFCECuhO9RwM"
+        "rev": "UsfV9oDnxQRwUo5LZ4ZTNt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-13T10:03:24Z",
+    "_updatedAt": "2026-05-19T07:51:16Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -14137,7 +14137,7 @@
           },
           {
             "_key": "noa41l6bjt",
-            "description": "Smooth salary processing",
+            "description": "Streamline your operations with Payroll integration",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -14218,7 +14218,7 @@
           },
           {
             "_key": "jtzkueu3io",
-            "description": "No manual approvals required",
+            "description": "Zero touch administration",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -14239,7 +14239,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Drive user engagement with modern, secured and scalable mobile and web application.",
         "titleParts": [
           {
             "_key": "7e00xkc5vt",
