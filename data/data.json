@@ -10796,15 +10796,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "6fCNpx7G4GCpNgpiNlXgeK",
+    "_rev": "kASO4urNESeuuyiE2LJNxw",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "FCaX7e7F3kXCkn0uFMRw7O"
+        "rev": "6fCNpx7G4GCpNgpiNlXgeK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T05:36:26Z",
+    "_updatedAt": "2026-05-19T06:09:35Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -10931,7 +10931,7 @@
               {
                 "_key": "vylgzoewcg",
                 "color": "",
-                "text": "From Application to Disbursement"
+                "text": "From Sourcing to Disbursement"
               }
             ],
             "variant": "h1"
