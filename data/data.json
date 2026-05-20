@@ -20529,15 +20529,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "kASO4urNESeuuyiE2LRWXR",
+    "_rev": "kASO4urNESeuuyiE2LvNvy",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "kASO4urNESeuuyiE2LR6iI"
+        "rev": "kASO4urNESeuuyiE2LRWXR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T11:16:29Z",
+    "_updatedAt": "2026-05-20T06:06:46Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20780,39 +20780,6 @@
               "_type": "image",
               "asset": {
                 "_ref": "image-144b078eefeeaed2eb978c335ac67d5c4e1c4fe8-1260x1094-webp",
-                "_type": "reference"
-              }
-            }
-          }
-        ],
-        "isBgBlue": false
-      },
-      {
-        "_key": "37el9ib1m5",
-        "_type": "imageSection",
-        "fullImageAlt": "picsum",
-        "fullImageSource": null,
-        "hasFullImage": false,
-        "id": "imageSection4",
-        "imageSource": [
-          {
-            "_key": "se9onlp9hg",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-db3ce51fa9c9fa4f8cd0cc79aeba0b8b342eb6c8-1254x1094-webp",
-                "_type": "reference"
-              }
-            }
-          },
-          {
-            "_key": "0cmu4lcjr3",
-            "imageAlt": "Fina Bright Application Showcase",
-            "imageLink": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-2ed5f9ac6d401d48e120ea7449eb6d476adb5193-1254x1094-webp",
                 "_type": "reference"
               }
             }
