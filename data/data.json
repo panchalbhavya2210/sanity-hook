@@ -20529,15 +20529,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "kASO4urNESeuuyiE2Lw5CT",
+    "_rev": "PKmHYrFFn1rTZi0wbWqgBm",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "kASO4urNESeuuyiE2LvNvy"
+        "rev": "kASO4urNESeuuyiE2Lw5CT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-20T07:02:55Z",
+    "_updatedAt": "2026-05-20T07:03:30Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20566,7 +20566,7 @@
         "_key": "9ou7bohxco",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Enables users to seamlessly manage balances, transactions, statements, and multiple accounts through a single unified platform.",
+          "description": "Replace fragmented banking journeys with one unified super app that simplifies everything your users need.",
           "subTitleClassName": "",
           "text": {
             "title": [
