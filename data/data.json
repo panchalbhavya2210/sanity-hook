@@ -14703,15 +14703,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "kASO4urNESeuuyiE2LMeGL",
+    "_rev": "GaUXHZ2ZYmBv5oOnYID3Mf",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "kASO4urNESeuuyiE2LMcwa"
+        "rev": "kASO4urNESeuuyiE2LMeGL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T08:20:38Z",
+    "_updatedAt": "2026-05-20T11:46:06Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -15222,7 +15222,7 @@
           },
           {
             "_key": "z06k6n1zsp",
-            "description": "Let analysts directly power applications.",
+            "description": "Utilize Excel formula power directly in applications.",
             "icon": {
               "_type": "image",
               "asset": {
