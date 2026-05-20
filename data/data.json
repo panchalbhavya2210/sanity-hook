@@ -20529,15 +20529,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "kASO4urNESeuuyiE2LvNvy",
+    "_rev": "kASO4urNESeuuyiE2Lw5CT",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "kASO4urNESeuuyiE2LRWXR"
+        "rev": "kASO4urNESeuuyiE2LvNvy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-20T06:06:46Z",
+    "_updatedAt": "2026-05-20T07:02:55Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20587,7 +20587,7 @@
         "mediaInfoCardData": [
           {
             "_key": "7mkgrtrg13",
-            "description": "Manage balances, transactions, statements, and multiple accounts with full control anytime, anywhere. Supports NEFT, RTGS, IMPS, and UPI for seamless transfers.",
+            "description": "Enables users to seamlessly manage balances, transactions, statements, and multiple accounts through a single unified platform.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
