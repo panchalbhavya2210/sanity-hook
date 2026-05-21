@@ -1821,15 +1821,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "PKmHYrFFn1rTZi0wbSbt5m",
+    "_rev": "wirPkNS5nbxpFCQN7jiqw8",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "DCWbTK12JtlZX1Got0zb9l"
+        "rev": "PKmHYrFFn1rTZi0wbSbt5m"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T05:25:10Z",
+    "_updatedAt": "2026-05-21T11:41:47Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -1966,7 +1966,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-cf5c92233c722200621986e360f2f7a46a7078c6-1496x704-png",
+                "_ref": "image-4d3095cf9326a49b205690e43b35c49c5a6658fe-943x612-png",
                 "_type": "reference"
               }
             },
@@ -1980,7 +1980,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-4a8491dd3b792435347e3ea0b7917c4935acee11-1919x907-png",
+                "_ref": "image-e643dac9455ac13f562d8a46d86b9c173d06f312-904x728-png",
                 "_type": "reference"
               }
             },
@@ -1994,7 +1994,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d3bf194444b981a93a36262bd286a7b23bd89704-1184x603-png",
+                "_ref": "image-37801cb42b02de7eb5e7b26d2f1a60176ba8d308-841x662-png",
                 "_type": "reference"
               }
             },
@@ -2008,7 +2008,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-9d1b137ffa74a150696249e0e57272d7ce4c1526-1180x768-png",
+                "_ref": "image-1f5c10a4a446b968bfa217dd7a5869ad923a1265-854x730-png",
                 "_type": "reference"
               }
             },
