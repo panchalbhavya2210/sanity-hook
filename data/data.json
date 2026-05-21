@@ -21140,15 +21140,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "FCaX7e7F3kXCkn0uFMefhj",
+    "_rev": "AG9fsTEKMjBVehljAhZy1e",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "6fCNpx7G4GCpNgpiNlmMAe"
+        "rev": "FCaX7e7F3kXCkn0uFMefhj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-14T08:28:36Z",
+    "_updatedAt": "2026-05-21T04:43:21Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -21280,7 +21280,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-406a8e0a9d5df88837fc7d74bcf06126349f6939-627x507-webp",
+                "_ref": "image-cc6b60633a1bfbbc956acae404fc91c1aadae97f-2560x1600-svg",
                 "_type": "reference"
               }
             },
@@ -21311,7 +21311,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-769a3ee591fd8c8d798e9b2c11909348c34d1f73-627x507-webp",
+                "_ref": "image-e64fcba21c5a1f228e627e22256decb939a6f8e8-2560x1600-svg",
                 "_type": "reference"
               }
             },
@@ -21347,7 +21347,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d5ef429e1c857e66a33258f37a4e9f433d031d7f-627x507-webp",
+                "_ref": "image-30f745801f4fe88584d97301ac04ff43c812af61-2560x1600-png",
                 "_type": "reference"
               }
             },
@@ -21371,14 +21371,16 @@
             "features": [
               "Deposit and withdraw funds",
               "Request cheque books or debit cards",
-              "Fetch mini or detailed statements"
+              "Fetch mini or detailed statements",
+              "Receipt Printing & Downloads"
             ],
+            "hasList": true,
             "heading": "EasyBankCore®",
             "id": 4,
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3f322d6f3b54816fe387296afd856a0e7d99ca39-627x507-webp",
+                "_ref": "image-22fd8ac846ad06e2c0b72ee352fe98c2a8d2bfdd-2560x1600-png",
                 "_type": "reference"
               }
             },
