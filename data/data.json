@@ -18413,15 +18413,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "auT5k97NiJTCPU02gx0e1h",
+    "_rev": "hrnksYmqFilVkLbtuywGmy",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "sD1F1NPyCZWsgmsPafqXmj"
+        "rev": "auT5k97NiJTCPU02gx0e1h"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-18T09:58:40Z",
+    "_updatedAt": "2026-05-21T11:01:20Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18627,7 +18627,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Customer-Centric "
+            "title": "Customer Centric "
           },
           {
             "_key": "87pmv9p5w8",
