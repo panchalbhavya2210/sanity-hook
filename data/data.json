@@ -3425,18 +3425,19 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "jiTD4CUAQ1as8FLtN7K0lE",
+    "_rev": "AG9fsTEKMjBVehljAhnIgI",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "Dtz5j1oaWW6Cl3KegHx46c"
+        "rev": "jiTD4CUAQ1as8FLtN7K0lE"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-21T06:29:24Z",
+    "_updatedAt": "2026-05-21T06:30:35Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
+      "id": "1",
       "image": {
         "_type": "image",
         "asset": {
