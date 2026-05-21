@@ -1040,15 +1040,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "kASO4urNESeuuyiE2LIlMs",
+    "_rev": "GaUXHZ2ZYmBv5oOnYJWK7A",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "kASO4urNESeuuyiE2LIkYk"
+        "rev": "kASO4urNESeuuyiE2LIlMs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T05:33:38Z",
+    "_updatedAt": "2026-05-21T04:37:41Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1758,7 +1758,7 @@
           {
             "_key": "775d14394d99",
             "_type": "quickActionCard",
-            "description": "Pay only for what you use—perfect for unpredictable traffic or seasonal scaling.\n",
+            "description": "Pay only for what you use, perfect for unpredictable traffic or seasonal scaling.",
             "title": "Usage-Based Pricing"
           },
           {
