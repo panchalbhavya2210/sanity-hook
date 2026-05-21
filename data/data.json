@@ -14282,15 +14282,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "auT5k97NiJTCPU02gx753L",
+    "_rev": "ShHy5YORmAMZYID1a4pMes",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "sD1F1NPyCZWsgmsPafpB2m"
+        "rev": "auT5k97NiJTCPU02gx753L"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-18T10:35:13Z",
+    "_updatedAt": "2026-05-21T11:55:59Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14628,24 +14628,6 @@
             "type": "link"
           },
           {
-            "_key": "e9a9fcd4-b411-4daf-8ad9-d95f9ed862c8",
-            "href": "/coming-soon",
-            "label": "Global Centers",
-            "type": "link"
-          },
-          {
-            "_key": "725c3ff5-3688-47c4-afdb-31925e5b3b62",
-            "href": "/coming-soon",
-            "label": "Partners & Alliances",
-            "type": "link"
-          },
-          {
-            "_key": "58839f61-37b1-426f-9df6-b7e2c6a70ca6",
-            "href": "/coming-soon",
-            "label": "Quality & Certifications",
-            "type": "link"
-          },
-          {
             "_key": "c43c7831-d0bd-4f3b-bf82-d2d52e869f9e",
             "label": "Careers",
             "type": "header"
@@ -14671,18 +14653,6 @@
             "_key": "3f00a8c5-6ff3-4b9f-bbc7-cfa390c1de92",
             "href": "/contact-us#demo",
             "label": "Demo Request",
-            "type": "link"
-          },
-          {
-            "_key": "67a09a12-de27-48a9-ae9b-3ce273c38fc8",
-            "href": "/contact-us#demo",
-            "label": "Sales Inquiries",
-            "type": "link"
-          },
-          {
-            "_key": "4e32229c-f211-41ad-921f-00fdde1b1b98",
-            "href": "/contact-us#office-location",
-            "label": "Office Locations",
             "type": "link"
           }
         ],
