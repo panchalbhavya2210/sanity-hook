@@ -13522,15 +13522,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "PKmHYrFFn1rTZi0wbT1Itm",
+    "_rev": "hrnksYmqFilVkLbtuyvSjE",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "UsfV9oDnxQRwUo5LZ4ZTNt"
+        "rev": "PKmHYrFFn1rTZi0wbT1Itm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-19T07:51:16Z",
+    "_updatedAt": "2026-05-21T10:56:17Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13555,7 +13555,7 @@
           }
         },
         "subtitle": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
-        "title": "Empower Your Workforce with ESS",
+        "title": "Empower Your Workforce with Employee Self Service (ESS)",
         "variant": "split"
       },
       {
