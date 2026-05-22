@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-05-22T04:34:44Z",
     "_id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
-    "_rev": "wirPkNS5nbxpFCQN7ljbRW",
+    "_rev": "hrnksYmqFilVkLbtv2ME4C",
     "_system": {
       "base": {
         "id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
-        "rev": "wirPkNS5nbxpFCQN7liWJZ"
+        "rev": "wirPkNS5nbxpFCQN7ljbRW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-22T04:45:49Z",
+    "_updatedAt": "2026-05-22T04:47:45Z",
     "sections": [
       {
         "_key": "d829b3987ab4",
@@ -607,12 +607,13 @@
         "isImageSquare": false,
         "isTextBlack": true,
         "platformHeader": {
+          "subTitle": "International Cap",
           "text": {
             "title": [
               {
                 "_key": "307015f67aeb",
                 "_type": "titlePart",
-                "color": "text-white",
+                "color": "text-black",
                 "text": "International Cap"
               }
             ],
