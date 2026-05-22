@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-05-22T04:34:44Z",
     "_id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
-    "_rev": "hrnksYmqFilVkLbtv2ME4C",
+    "_rev": "ShHy5YORmAMZYID1a6VNGM",
     "_system": {
       "base": {
         "id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
-        "rev": "wirPkNS5nbxpFCQN7ljbRW"
+        "rev": "hrnksYmqFilVkLbtv2ME4C"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-22T04:47:45Z",
+    "_updatedAt": "2026-05-22T04:51:43Z",
     "sections": [
       {
         "_key": "d829b3987ab4",
@@ -620,6 +620,37 @@
             "variant": "h1"
           }
         }
+      },
+      {
+        "_key": "5f2bfb74fc6b",
+        "_type": "imageSection",
+        "hasFullImage": false,
+        "id": "Image",
+        "imageSource": [
+          {
+            "_key": "0ce9df61645f",
+            "_type": "imageItem",
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2ed5f9ac6d401d48e120ea7449eb6d476adb5193-1254x1094-webp",
+                "_type": "reference"
+              }
+            }
+          },
+          {
+            "_key": "d292dc48d119",
+            "_type": "imageItem",
+            "imageLink": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-db3ce51fa9c9fa4f8cd0cc79aeba0b8b342eb6c8-1254x1094-webp",
+                "_type": "reference"
+              }
+            }
+          }
+        ],
+        "isBgBlue": false
       }
     ],
     "seo": {
