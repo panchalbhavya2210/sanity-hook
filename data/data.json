@@ -497,9 +497,15 @@
   {
     "_createdAt": "2026-05-22T04:34:44Z",
     "_id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
-    "_rev": "wirPkNS5nbxpFCQN7liWJZ",
+    "_rev": "wirPkNS5nbxpFCQN7ljbRW",
+    "_system": {
+      "base": {
+        "id": "853307a2-e1e1-40f3-87a7-1cc3a364303b",
+        "rev": "wirPkNS5nbxpFCQN7liWJZ"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-05-22T04:37:02Z",
+    "_updatedAt": "2026-05-22T04:45:49Z",
     "sections": [
       {
         "_key": "d829b3987ab4",
@@ -568,6 +574,51 @@
             "text": "Banking"
           }
         ]
+      },
+      {
+        "_key": "cfc1646a3125",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "ca924a3b721e",
+            "_type": "capabilityCard",
+            "description": "International Banking Is viable option",
+            "hasList": false,
+            "id": 12,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-df41d4a498fd560d2351482f266c97c766700b63-598x519-svg",
+                "_type": "reference"
+              }
+            },
+            "titleParts": [
+              {
+                "_key": "ad7d14815546",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "International Cap"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "International Cap",
+        "isImageSquare": false,
+        "isTextBlack": true,
+        "platformHeader": {
+          "text": {
+            "title": [
+              {
+                "_key": "307015f67aeb",
+                "_type": "titlePart",
+                "color": "text-white",
+                "text": "International Cap"
+              }
+            ],
+            "variant": "h1"
+          }
+        }
       }
     ],
     "seo": {
