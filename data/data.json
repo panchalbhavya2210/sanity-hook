@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "X2D1vuonOS7HWiudGdoAcK",
+    "_rev": "esrm3FzpSsBxdj5DsRnBla",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "X2D1vuonOS7HWiudGdl4Bc"
+        "rev": "X2D1vuonOS7HWiudGdoAcK"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-18T10:34:52Z",
+    "_updatedAt": "2026-05-27T07:41:30Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -489,7 +489,8 @@
           "link": "/careers",
           "linkLabel": "Explore Bankai",
           "title": "Life at Bankai",
-          "type": "careerSideCard"
+          "type": "careerSideCard",
+          "videoUrl": "https://player.vimeo.com/video/1195880966"
         }
       }
     ]
