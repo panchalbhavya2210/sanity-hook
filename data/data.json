@@ -7098,15 +7098,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "iVRXhNms3s13DdCWkoInb7",
+    "_rev": "pxJrmRwHgUHMzCHp2A6fDQ",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "esrm3FzpSsBxdj5DsRpOsO"
+        "rev": "iVRXhNms3s13DdCWkoInb7"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T08:25:30Z",
+    "_updatedAt": "2026-05-27T08:25:49Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7800,7 +7800,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "DiGi.XTM is powered by AI and Machine Learning for contextual engagement and predictive automation.",
+          "subTitleText": "Digi.X™ is powered by AI and Machine Learning for contextual engagement and predictive automation.",
           "text": {
             "title": [
               {
