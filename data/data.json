@@ -7098,15 +7098,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "esrm3FzpSsBxdj5DsRpOsO",
+    "_rev": "iVRXhNms3s13DdCWkoInb7",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "pxJrmRwHgUHMzCHp2A6bLL"
+        "rev": "esrm3FzpSsBxdj5DsRpOsO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T08:23:48Z",
+    "_updatedAt": "2026-05-27T08:25:30Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7782,7 +7782,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "DiGi.XTM ensures banks can scale faster, stay compliant, and serve smarter.",
+          "subTitle": "Digi.X™ ensures banks can scale faster, stay compliant, and serve smarter.",
           "text": {
             "title": [
               {
