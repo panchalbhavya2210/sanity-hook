@@ -15312,15 +15312,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "ytRaKqe6kB37kV4lkki9Ww",
+    "_rev": "w1UkPMGrV11kcoz0w1pPkw",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "w1UkPMGrV11kcoz0w1i91S"
+        "rev": "ytRaKqe6kB37kV4lkki9Ww"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-27T10:47:28Z",
+    "_updatedAt": "2026-05-27T11:14:21Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -15364,7 +15364,7 @@
               "_type": "reference"
             }
           },
-          "title": "The Varachha Co-Operative Bank Ltd."
+          "title": "Test"
         },
         {
           "_key": "partner2",
