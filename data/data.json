@@ -7098,15 +7098,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "pxJrmRwHgUHMzCHp2A6YLm",
+    "_rev": "pxJrmRwHgUHMzCHp2A6bLL",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "XqgcJAHSz5e5kILtKGCVo8"
+        "rev": "pxJrmRwHgUHMzCHp2A6YLm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T08:21:31Z",
+    "_updatedAt": "2026-05-27T08:22:50Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -8064,7 +8064,7 @@
                 "points": [
                   "Transaction Alerts",
                   "E-Statement",
-                  "Schedule Notifications"
+                  "Schedule Notification & Reminder"
                 ],
                 "title": "Email Service"
               }
