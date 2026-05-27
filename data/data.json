@@ -7098,15 +7098,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "XqgcJAHSz5e5kILtKGCVo8",
+    "_rev": "pxJrmRwHgUHMzCHp2A6YLm",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "FCaX7e7F3kXCkn0uFMSRcg"
+        "rev": "XqgcJAHSz5e5kILtKGCVo8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-15T10:12:23Z",
+    "_updatedAt": "2026-05-27T08:21:31Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7215,7 +7215,7 @@
             "title": "Speed Up Go-to-Market Strategy"
           }
         ],
-        "headerSubtitle": "DiGi.XTM  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
+        "headerSubtitle": "Digi.X™ is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more. ",
         "id": "coreInfo",
         "isTextBlack": true,
         "logo": {
