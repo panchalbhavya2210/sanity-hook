@@ -9756,15 +9756,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "tYwdV2ldLdzJB4kwq0Qj2W",
+    "_rev": "tYwdV2ldLdzJB4kwq0QjTO",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "UAjCtlAuHSg7wG7TzGHBxS"
+        "rev": "tYwdV2ldLdzJB4kwq0Qj2W"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:47:05Z",
+    "_updatedAt": "2026-05-29T17:48:03Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -10035,7 +10035,7 @@
               {
                 "_key": "dzyysdpm3g",
                 "description": "Supports Credit, Debit, APB mapper, Mandates, and ECS transactions.",
-                "title": "Comprehensive File Processing"
+                "title": "Comprehensive File Processing."
               },
               {
                 "_key": "ef67x8mxsu",
