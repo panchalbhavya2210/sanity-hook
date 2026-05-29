@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "UAjCtlAuHSg7wG7TzGGRLp",
+    "_rev": "tYwdV2ldLdzJB4kwq0QS80",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "bM4Vn6Xhr0kQ8myfj7x8Ps"
+        "rev": "UAjCtlAuHSg7wG7TzGGRLp"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:25:00Z",
+    "_updatedAt": "2026-05-29T17:25:38Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -8882,7 +8882,36 @@
           {
             "_key": "8ey6ru3wc9",
             "description": "Personalize experiences based on user patterns",
-            "title": "Behavior Analytics"
+            "richTitle": [
+              {
+                "_key": "775af4003d0b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ac23257a52d0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Behavior "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "39723e7408b1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ac23257a52d0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analytics"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "reimhokxhi",
