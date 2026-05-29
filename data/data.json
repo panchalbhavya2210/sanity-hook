@@ -21330,15 +21330,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzFqkQX",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "FCaX7e7F3kXCkn0uFMefhj"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T10:23:28Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -21380,6 +21380,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "7c665582ea2c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8162db2e8dbb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Paperless "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "56c6daa33cdc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8162db2e8dbb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Banking"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Paperless Banking"
           },
           {
@@ -21650,6 +21680,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "7c352c5deef0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f0fdb6846a98",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Offline Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "22b11269553e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f0fdb6846a98",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Capture"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Offline Data Capture"
           },
           {
@@ -21662,6 +21722,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "8ac34b50aa69",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "62f62e4a9be9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure API "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "de4de400c083",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "62f62e4a9be9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Secure API Integration"
           },
           {
@@ -21674,6 +21764,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "7ad239396c72",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "805cba537457",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Instant "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d6961fc4fa25",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "805cba537457",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Validation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Instant Validation"
           }
         ],
