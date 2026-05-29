@@ -10841,15 +10841,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "bM4Vn6Xhr0kQ8myfj74O82",
+    "_rev": "bM4Vn6Xhr0kQ8myfj74wtg",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj74O82"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T12:05:46Z",
+    "_updatedAt": "2026-05-29T12:12:50Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -11713,7 +11713,36 @@
                 "_type": "reference"
               }
             },
-            "title": "GST & Compliance"
+            "richTitle": [
+              {
+                "_key": "c1d3b75ed0bb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b2a792adea00",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GST & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "daf369d082e3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b2a792adea00",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "pyx52xmw3c",
@@ -11725,7 +11754,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Cash Flow Planning"
+            "richTitle": [
+              {
+                "_key": "9bf23f035be3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8a3d0917291a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cash Flow "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4e762dec4705",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8a3d0917291a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Planning"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "18fcvwmpdb",
@@ -11737,7 +11795,36 @@
                 "_type": "reference"
               }
             },
-            "title": "System Integration"
+            "richTitle": [
+              {
+                "_key": "ae505b5a643a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9f5843dbb2ea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "System "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "70432f066866",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9f5843dbb2ea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
