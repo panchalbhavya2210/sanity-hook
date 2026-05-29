@@ -4973,15 +4973,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "6Ve24x03wtxZRW0gROC8Kx",
+    "_rev": "l3zaQZqN25lNFUvbrO2o7x",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "EFHYLTHACXrOGoIbamlLk3"
+        "rev": "6Ve24x03wtxZRW0gROClYN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T08:16:45Z",
+    "_updatedAt": "2026-05-29T08:33:09Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -5066,7 +5066,7 @@
                     "_key": "a668fb748287",
                     "_type": "span",
                     "marks": [],
-                    "text": "Overlay & "
+                    "text": "Overlay & Aggregate "
                   }
                 ],
                 "markDefs": [],
@@ -5080,7 +5080,7 @@
                     "_key": "a668fb748287",
                     "_type": "span",
                     "marks": [],
-                    "text": "Aggregate Seamlessly "
+                    "text": "Seamlessly "
                   }
                 ],
                 "markDefs": [],
