@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "tYwdV2ldLdzJB4kwq0PkZC",
+    "_rev": "bM4Vn6Xhr0kQ8myfj7uGee",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "piiLNOj3u9Wq2zYwg4JBRM"
+        "rev": "tYwdV2ldLdzJB4kwq0PkZC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:01:21Z",
+    "_updatedAt": "2026-05-29T17:07:32Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7951,7 +7951,36 @@
               "Self-Service Kiosks",
               "IVR"
             ],
-            "title": "Omni-Channel Access"
+            "richTitle": [
+              {
+                "_key": "8186c7b878a7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1e21ff3c4858",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Omni-Channel "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1dc814e046e2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1e21ff3c4858",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Access"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "oinapt2601",
@@ -7966,7 +7995,36 @@
               "Cards",
               "Cheque Truncation"
             ],
-            "title": "Integrated with Payment Systems"
+            "richTitle": [
+              {
+                "_key": "c37c6a60f01f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3869adc893ed",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integrated with "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5855be30b42e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3869adc893ed",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Payment Systems"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "0vxowuum9p",
@@ -7979,7 +8037,36 @@
               "Cloud Native",
               "API-first"
             ],
-            "title": "Tech Stack of the Future"
+            "richTitle": [
+              {
+                "_key": "246eadca8004",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "02df5df9be52",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Tech Stack of "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "635b00609bb1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "02df5df9be52",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "the Future"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jo7rg39zqo",
@@ -7992,7 +8079,36 @@
               "High ROI",
               "Quick Integrations"
             ],
-            "title": "Speed Up Go-to-Market Strategy"
+            "richTitle": [
+              {
+                "_key": "20a2f758650f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6fcde4203eca",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Speed Up Go-to-"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7c968bffe936",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6fcde4203eca",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Market Strategy"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "headerSubtitle": "DiGi.X  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
@@ -8033,27 +8149,143 @@
         "journeyCards": [
           {
             "_key": "4cxro36420",
-            "description": "Your bank anywhere, anytime, no branch limitations.",
+            "description": "Elevate customer experience by offering what they need through their choice of channels",
             "icon": null,
-            "title": "Your Bank Anytime, Anywhere"
+            "richTitle": [
+              {
+                "_key": "8ead659edebb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2de960b34bcd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Engaging & Intuitive "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "124bea69758a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2de960b34bcd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Customer Experience."
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "hbuxayyrv6",
             "description": "Save time, paper, and overhead costs.",
             "icon": null,
-            "title": "Cost-Effectiveness"
+            "richTitle": [
+              {
+                "_key": "ab1915bf91df",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e0a117052538",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cost-Effectiveness"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1e4dfa560041",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "da72fa677976",
+                    "_type": "span",
+                    "marks": [],
+                    "text": ""
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "sxs2bxpf7b",
             "description": "Empower rural and unbanked communities.",
             "icon": null,
-            "title": "Financial Inclusion"
+            "richTitle": [
+              {
+                "_key": "c13b1c5e0ed0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5e74d6ee61d6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Financial "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "caeab18f5f1c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5e74d6ee61d6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Inclusion"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "g522augv5l",
             "description": "Smarter service, secure transactions, easyonboarding.",
             "icon": null,
-            "title": "AI + Blockchain"
+            "richTitle": [
+              {
+                "_key": "c72db5ffab8c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8227ef138657",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "AI + "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "9d2be4d474b2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8227ef138657",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Blockchain"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -8121,7 +8353,7 @@
           {
             "_key": "pu0gx45mjf",
             "description": "Highly configurable to adapt to changing regulatory and message format configurations. Achieve standard bank-grade NFRs, adherence to cloud, cybersecurity standards, and regulatory compliance.",
-            "title": "Regulatory & Security"
+            "title": "Regulatory Compliance & Security Standards"
           }
         ]
       },
@@ -8134,11 +8366,12 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-dfb076c2da687c69aced69038ffb1d75e8f35be2-2879x1380-png",
+            "_ref": "image-202519aa445f03339ec58c76c1910b67b12befed-2879x1380-jpg",
             "_type": "reference"
           }
         },
-        "imageWidth": 767
+        "imageWidth": 767,
+        "isImageFullWidth": true
       },
       {
         "_key": "3it0q7gcce",
