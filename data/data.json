@@ -4356,15 +4356,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzFustO",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "hbFHDleTVRD2fswKs1GkIV"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T11:53:30Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -4477,6 +4477,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "a1ceadf4a93d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d5710e39448d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "No AI Intent "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b7c5f7005e75",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d5710e39448d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Detection"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "No AI Intent Detection"
           },
           {
@@ -4489,6 +4519,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "7e02420319fc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3631c28305ac",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "No Learning "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6ac6ffa4ceb8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3631c28305ac",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Mechanism"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "No Learning Mechanism"
           },
           {
@@ -4501,6 +4561,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "77f00f8e9955",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8ac87beaa399",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Weak "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "a98d792d88cc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8ac87beaa399",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integrations"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Weak Integrations"
           },
           {
@@ -4513,7 +4603,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Inefficient Authentication"
+            "richTitle": [
+              {
+                "_key": "6ea4ad873a14",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e882ca28502d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Inefficient "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b97ba76ab7a8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e882ca28502d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Authentication"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -4666,7 +4785,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Process Automation"
+            "richTitle": [
+              {
+                "_key": "f0abc092a435",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c71b1de5c919",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Process "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "9160e28484e8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c71b1de5c919",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Automation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -5050,7 +5198,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Higher Engagement"
+            "richTitle": [
+              {
+                "_key": "e1b92534a540",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "be5e5020f988",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Higher "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2209bea1e6c1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "be5e5020f988",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Engagement"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -5104,7 +5281,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Human-Like Interaction"
+            "richTitle": [
+              {
+                "_key": "4e8d7321dbf9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0ad5c62c7a98",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Human-Like "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6170c045917a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0ad5c62c7a98",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Interaction"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "2vdk87vjlj",
@@ -5119,7 +5325,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Instant Service Delivery"
+            "richTitle": [
+              {
+                "_key": "8004b89fc3c7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0a3444b8a328",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Instant Service "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e54c70a65dfc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0a3444b8a328",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Delivery"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "60jkfz0qwf",
@@ -5134,7 +5369,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Secure & Reliable"
+            "richTitle": [
+              {
+                "_key": "4c7002ede0e6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "02881def8b6d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "58a68fde6c30",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "02881def8b6d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reliable"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "9c9lmlxjcc",
@@ -5149,7 +5413,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Accessible Anywhere"
+            "richTitle": [
+              {
+                "_key": "d8be0ebc42cb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "75f96b8d5ea7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Accessible "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "0a898ba131ff",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "75f96b8d5ea7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Anywhere"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
