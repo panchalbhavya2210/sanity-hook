@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bM4Vn6Xhr0kQ8myfj7x8Ps",
+    "_rev": "UAjCtlAuHSg7wG7TzGGRLp",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "tYwdV2ldLdzJB4kwq0Q4w8"
+        "rev": "bM4Vn6Xhr0kQ8myfj7x8Ps"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:22:32Z",
+    "_updatedAt": "2026-05-29T17:25:00Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -8701,7 +8701,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-28b2ec5867732090f01f139f7178ed57793a9ad7-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "hjvffhyqjo",
@@ -8721,7 +8727,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-071a8728e0d2aa3d379ba14baa73fabd96c63475-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "zyhjfl63e6",
@@ -8741,7 +8753,13 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-59116de0bf87c2e81041ae2301409e75e684aed7-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "edlu3xknf1",
@@ -8771,7 +8789,13 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": null,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-815bf0dcb50ce49de84b7f37c8efb0a8dc9f1e74-627x507-png",
+                "_type": "reference"
+              }
+            },
             "titleParts": [
               {
                 "_key": "g59jmkrgc9",
