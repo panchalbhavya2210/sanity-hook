@@ -4356,15 +4356,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "UAjCtlAuHSg7wG7TzFustO",
+    "_rev": "tYwdV2ldLdzJB4kwq0IPD8",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "UAjCtlAuHSg7wG7TzFustO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:53:30Z",
+    "_updatedAt": "2026-05-29T11:57:02Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -5264,6 +5264,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
