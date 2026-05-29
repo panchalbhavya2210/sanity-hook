@@ -18416,15 +18416,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "hrnksYmqFilVkLbtuywGmy",
+    "_rev": "EFHYLTHACXrOGoIbamm9PA",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "auT5k97NiJTCPU02gx0e1h"
+        "rev": "hrnksYmqFilVkLbtuywGmy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-21T11:01:20Z",
+    "_updatedAt": "2026-05-29T08:47:56Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18479,6 +18479,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "a4b2c8901e98",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2bf7d65d5c3b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Technology "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7351a460de9d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2bf7d65d5c3b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Technology Integration"
           },
           {
@@ -18491,6 +18521,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "07642c53fc24",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f6dd9a7e93fb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regulatory "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2e3b01c046a5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f6dd9a7e93fb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Regulatory Compliance"
           },
           {
@@ -18503,6 +18563,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "00f56c4046e5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a93d8960629f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cybersecurity "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "673baed94f22",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a93d8960629f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Risks"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Cybersecurity Risks"
           },
           {
@@ -18515,6 +18605,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "f2182a689092",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "818286e80e3d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "18d93b5206c0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "818286e80e3d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Privacy"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Data Privacy"
           }
         ],
