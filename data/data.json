@@ -9756,15 +9756,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "UAjCtlAuHSg7wG7TzGHBxS",
+    "_rev": "tYwdV2ldLdzJB4kwq0Qj2W",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "tYwdV2ldLdzJB4kwq0QhK8"
+        "rev": "UAjCtlAuHSg7wG7TzGHBxS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:45:48Z",
+    "_updatedAt": "2026-05-29T17:47:05Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -9981,7 +9981,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Key Features.",
+          "subTitleText": "Key Features",
           "text": {
             "title": [
               {
