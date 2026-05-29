@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "tYwdV2ldLdzJB4kwq0Q4w8",
+    "_rev": "bM4Vn6Xhr0kQ8myfj7x8Ps",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "bM4Vn6Xhr0kQ8myfj7uGee"
+        "rev": "tYwdV2ldLdzJB4kwq0Q4w8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:11:24Z",
+    "_updatedAt": "2026-05-29T17:22:32Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -8430,42 +8430,90 @@
           {
             "_key": "ob1foescrg",
             "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-483a9ce1c7ed6a799b58c1d0fd255c15a1a64fbb-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4f53xwnnwu",
             "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a7cb8284700b6d6eaf8873f19721df8674e586c3-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "b8p5cu0l68",
             "description": "Built for Cloud with Cybersecurity @ Core",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0f2c42d9e471e05fddced42e0e67901a089ea4b5-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4jtbxv9wlc",
             "description": "DevOps ensures easy maintenance & upgrades",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1fe5d3178565b5daac88fa7f7119f341698a7464-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "f4mqi8qj45",
             "description": "Elevate Cross & Upsellin",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-483a9ce1c7ed6a799b58c1d0fd255c15a1a64fbb-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "225xv2w0ms",
             "description": "Easy Account Aggregator & Fintech Integration",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a7cb8284700b6d6eaf8873f19721df8674e586c3-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "4ll8wh9xcs",
             "description": "API-First enables easy integrations with CBS & Central Payment Systems",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0f2c42d9e471e05fddced42e0e67901a089ea4b5-48x48-svg",
+                "_type": "reference"
+              }
+            }
           },
           {
             "_key": "vtjcf9o1iy",
             "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
-            "icon": null
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1fe5d3178565b5daac88fa7f7119f341698a7464-48x48-svg",
+                "_type": "reference"
+              }
+            }
           }
         ],
         "journeyHeader": {
@@ -8489,54 +8537,114 @@
           "backOffice": [
             {
               "_key": "4ny3zwsycx",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-0f1514ba6b9f50baf2e4f380df281e6ba9286c51-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Core Banking"
             },
             {
               "_key": "cxa0du2xhd",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-64d0b00531b55f92a5e4af97e176abc88e906f75-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Payments"
             }
           ],
           "channels": [
             {
               "_key": "215sj6pen1",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-f3be5e322cefaf9517c7274de909626888bab99e-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Mobile"
             },
             {
               "_key": "edriiowrlr",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-a21667d32379d251ce5a82318c6004f3b864025f-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Internet"
             },
             {
               "_key": "8mimcwqmhq",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-3fc16b7e57c4bc9fdfd421604a9c422dc3bef186-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Call Center"
             },
             {
               "_key": "dcn7z6bpyn",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-33f13960ccacd3c63d154d7325f602262bace88e-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Branch"
             },
             {
               "_key": "5j0hra4kaz",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-4a7de93312d6fe399d1f34ebbda23c978629b258-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Agent"
             },
             {
               "_key": "m2j2rku9fk",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-f9d701e743f9caeaa7cd9b2d25d66781b610f316-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "ATM"
             },
             {
               "_key": "wohe5wzcy",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-a97173501f665032fc242982f34581263918250e-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "API"
             },
             {
               "_key": "1lps9k0s9q",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-a97173501f665032fc242982f34581263918250e-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Kiosk"
             }
           ],
@@ -8544,17 +8652,35 @@
           "frontOffice": [
             {
               "_key": "wbuhu0iyta",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-cb4584fdd1f7297d537a8f0df1bf3989c097c973-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Marketing"
             },
             {
               "_key": "i9tp8y713g",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-af7cbb7f8d1c15fee0fcb9fea4701a5042a062a2-42x43-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Sales"
             },
             {
               "_key": "535mrwmiv6",
-              "icon": null,
+              "icon": {
+                "_type": "image",
+                "asset": {
+                  "_ref": "image-c114c4629a4408758c0ed0556ff7903065af3d78-48x48-svg",
+                  "_type": "reference"
+                }
+              },
               "label": "Services"
             }
           ],
