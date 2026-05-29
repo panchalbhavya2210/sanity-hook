@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0PkZC",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "pxJrmRwHgUHMzCHp2A6fDQ"
+        "rev": "piiLNOj3u9Wq2zYwg4JBRM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T17:01:21Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7927,7 +7927,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-90befa32a072515318e6fa2791747f18e3c84d38-708x672-png",
+            "_ref": "image-17773914db9ff48cc9a0abd00b52ca766f57d972-1474x1390-webp",
             "_type": "reference"
           }
         },
@@ -7942,13 +7942,7 @@
           {
             "_key": "k89gcs4t96",
             "hasList": true,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "listData": [
               "Mobile",
               "Internet",
@@ -7962,13 +7956,7 @@
           {
             "_key": "oinapt2601",
             "hasList": true,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-e261ce8260a87f2593e09e915a50569f6278007f-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "listData": [
               "UPI",
               "IMPS",
@@ -7983,13 +7971,7 @@
           {
             "_key": "0vxowuum9p",
             "hasList": true,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-bcf39baf184823b51215bf51c8561e003521556d-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "listData": [
               "Built on AI ",
               "Blockchain",
@@ -8002,13 +7984,7 @@
           {
             "_key": "jo7rg39zqo",
             "hasList": true,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-bcf39baf184823b51215bf51c8561e003521556d-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "listData": [
               "Rapid Deployment",
               "Low Risk",
@@ -8019,7 +7995,7 @@
             "title": "Speed Up Go-to-Market Strategy"
           }
         ],
-        "headerSubtitle": "Digi.X™ is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more. ",
+        "headerSubtitle": "DiGi.X  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
         "id": "coreInfo",
         "isTextBlack": true,
         "logo": {
@@ -8058,55 +8034,31 @@
           {
             "_key": "4cxro36420",
             "description": "Your bank anywhere, anytime, no branch limitations.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ef3fd230e1da28ecb2768ee433f33242fcd7b46a-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "title": "Your Bank Anytime, Anywhere"
           },
           {
             "_key": "hbuxayyrv6",
             "description": "Save time, paper, and overhead costs.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ef3fd230e1da28ecb2768ee433f33242fcd7b46a-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "title": "Cost-Effectiveness"
           },
           {
             "_key": "sxs2bxpf7b",
             "description": "Empower rural and unbanked communities.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-5550564ea724f45f66595bd247fb58cf3bc0c2af-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "title": "Financial Inclusion"
           },
           {
             "_key": "g522augv5l",
             "description": "Smarter service, secure transactions, easyonboarding.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-92c38253e2038a026c597ca5c9d1a218f6a0b35c-600x600-gif",
-                "_type": "reference"
-              }
-            },
+            "icon": null,
             "title": "AI + Blockchain"
           }
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. Digi.X™ redefines banking at every level.",
+          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. DiGi.X redefines banking at every level.",
           "text": {
             "title": [
               {
@@ -8123,11 +8075,12 @@
         "_key": "sevmp75n28",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
+          "icon": null,
           "subTitleText": "Unlock operational excellence with scalable, secure, and future-ready payment solutions.",
           "text": {
             "title": [
               {
-                "_key": "68b177a4dc5e",
+                "_key": "2ea1bc1d3597",
                 "_type": "titlePart",
                 "color": "text-black",
                 "text": "Business Payoffs That Drive Growth"
@@ -8196,90 +8149,42 @@
           {
             "_key": "ob1foescrg",
             "description": "Retain Existing & On Board New Customers with Digital Banking Experience",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c8e2f706124982ab0eb928b0c9a4c5d07c796e37-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "4f53xwnnwu",
             "description": "Adhere to Regulatory Compliance & Ensure Go-to-Market strategy",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-f3531a2acabeb3840ff5b3a0d2c92a7bb287a1e3-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "b8p5cu0l68",
             "description": "Built for Cloud with Cybersecurity @ Core",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-787abe27155d7a5d2bfbf8cc14495c14af183aa2-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "4jtbxv9wlc",
             "description": "DevOps ensures easy maintenance & upgrades",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-27d9b9bc7035f3836368aa9a60773fd8fb43e980-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "f4mqi8qj45",
             "description": "Elevate Cross & Upsellin",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c8e2f706124982ab0eb928b0c9a4c5d07c796e37-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "225xv2w0ms",
             "description": "Easy Account Aggregator & Fintech Integration",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-f3531a2acabeb3840ff5b3a0d2c92a7bb287a1e3-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "4ll8wh9xcs",
             "description": "API-First enables easy integrations with CBS & Central Payment Systems",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-787abe27155d7a5d2bfbf8cc14495c14af183aa2-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           },
           {
             "_key": "vtjcf9o1iy",
             "description": "Instil Confidence in customers by offering cutting-edge Digital Banking Solutions in crowded competitive market",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-27d9b9bc7035f3836368aa9a60773fd8fb43e980-48x48-png",
-                "_type": "reference"
-              }
-            }
+            "icon": null
           }
         ],
         "journeyHeader": {
@@ -8303,114 +8208,54 @@
           "backOffice": [
             {
               "_key": "4ny3zwsycx",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-ed1c862c232473c7da43739a4be878ceae303b8d-42x44-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Core Banking"
             },
             {
               "_key": "cxa0du2xhd",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-089546b047ed9c8a4364fa776c74155edf3dc424-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Payments"
             }
           ],
           "channels": [
             {
               "_key": "215sj6pen1",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-b55ee49f70d3ac171f2e4d76530d48ad24822a17-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Mobile"
             },
             {
               "_key": "edriiowrlr",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-79dfd8523e89491f82250386e606c6b6dd02e1ce-42x43-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Internet"
             },
             {
               "_key": "8mimcwqmhq",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-b6bc802fd8ee2f21f31464037a34a04cc432c769-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Call Center"
             },
             {
               "_key": "dcn7z6bpyn",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-cd9e71b335fbf581b3e254c61c6192a104cbd903-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Branch"
             },
             {
               "_key": "5j0hra4kaz",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-0c3d56c860e186f8a3dfb0e4e3ad87081b59a8ba-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Agent"
             },
             {
               "_key": "m2j2rku9fk",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-450aff8bb22af2457bbcf6b66d762f277065ea35-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "ATM"
             },
             {
               "_key": "wohe5wzcy",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-25a21557744597f5f5d206a3b0a1814a8265d8a4-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "API"
             },
             {
               "_key": "1lps9k0s9q",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-25a21557744597f5f5d206a3b0a1814a8265d8a4-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Kiosk"
             }
           ],
@@ -8418,35 +8263,17 @@
           "frontOffice": [
             {
               "_key": "wbuhu0iyta",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-bfd973e106a410b0235afabbef02c5c82e24a65c-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Marketing"
             },
             {
               "_key": "i9tp8y713g",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-05fdb31a196c0dd1cd6b46e717eea9fb6c1886cd-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Sales"
             },
             {
               "_key": "535mrwmiv6",
-              "icon": {
-                "_type": "image",
-                "asset": {
-                  "_ref": "image-3c7cb1629f71bc7cf4542ba53341d34b8a7eb319-48x48-png",
-                  "_type": "reference"
-                }
-              },
+              "icon": null,
               "label": "Services"
             }
           ],
@@ -8467,13 +8294,7 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 1,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-40723c33d8c496ed1b588cdffbfee65bb5c5e939-627x507-jpg",
-                "_type": "reference"
-              }
-            },
+            "image": null,
             "titleParts": [
               {
                 "_key": "hjvffhyqjo",
@@ -8493,13 +8314,7 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 2,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-5afef8e0c73f6b0190ea95214d4154c57e3b12bb-627x507-jpg",
-                "_type": "reference"
-              }
-            },
+            "image": null,
             "titleParts": [
               {
                 "_key": "zyhjfl63e6",
@@ -8519,13 +8334,7 @@
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-8088aa1d581c653bf6dd267a99f24b640b0163c0-627x507-jpg",
-                "_type": "reference"
-              }
-            },
+            "image": null,
             "titleParts": [
               {
                 "_key": "edlu3xknf1",
@@ -8555,13 +8364,7 @@
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-48ef1cf62c63324359cc1a586d4b2258f5e8817f-627x507-jpg",
-                "_type": "reference"
-              }
-            },
+            "image": null,
             "titleParts": [
               {
                 "_key": "g59jmkrgc9",
@@ -8586,7 +8389,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "Digi.X™ ensures banks can scale faster, stay compliant, and serve smarter.",
+          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
           "text": {
             "title": [
               {
@@ -8604,7 +8407,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Digi.X™ is powered by AI and Machine Learning for contextual engagement and predictive automation.",
+          "subTitleText": "DiGi.X is powered by AI and Machine Learning for contextual engagement and predictive automation.",
           "text": {
             "title": [
               {
@@ -8648,36 +8451,6 @@
           {
             "_key": "8ey6ru3wc9",
             "description": "Personalize experiences based on user patterns",
-            "richTitle": [
-              {
-                "_key": "811b24391cfc",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "37174b5ca358",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Behavior "
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              },
-              {
-                "_key": "61413ea78930",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "37174b5ca358",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Analytics"
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              }
-            ],
             "title": "Behavior Analytics"
           },
           {
@@ -8898,7 +8671,7 @@
                 "points": [
                   "Transaction Alerts",
                   "E-Statement",
-                  "Schedule Notification & Reminder"
+                  "Schedule Notifications"
                 ],
                 "title": "Email Service"
               }
@@ -8928,7 +8701,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Adopt secure, customer-friendly, and future-ready Digital banking gamut with Bankai.",
+        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
         "titleParts": [
           {
             "_key": "bgy5sk44ir",
