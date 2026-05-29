@@ -20218,15 +20218,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj80OxU",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "x9AkaoQOe6dzdFl4eKUFzK"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T17:52:50Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -20259,7 +20259,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Slow Processing"
+            "richTitle": [
+              {
+                "_key": "f9c7762cb2d7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fc36f59c52b2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Slow "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2959d0095d0b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fc36f59c52b2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "pb75nti935",
@@ -20272,7 +20301,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Compliance Challenges"
+            "richTitle": [
+              {
+                "_key": "d902882794ed",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d13143b50dc2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e434c75fc7fb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d13143b50dc2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Challenges"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jmedhqpioy",
@@ -20285,7 +20343,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Security Risks"
+            "richTitle": [
+              {
+                "_key": "a99521a4d983",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bc565baddcef",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Security "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "962d5136f4f9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bc565baddcef",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Risks"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "6vuqwh012i",
@@ -20298,7 +20385,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Operational Complexity"
+            "richTitle": [
+              {
+                "_key": "57a4bb8ce26d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "efd226c08e5a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "95f3c13208f4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "efd226c08e5a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Complexity"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "headerSubtitle": "Handling NACH files manually increases the risk of errors, delays, and compliance issues—especially with high transaction volumes.",
