@@ -9756,15 +9756,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzGHBxS",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "x9AkaoQOe6dzdFl4eKSIWh"
+        "rev": "tYwdV2ldLdzJB4kwq0QhK8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T17:45:48Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -9981,7 +9981,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Key Features",
+          "subTitleText": "Key Features.",
           "text": {
             "title": [
               {
@@ -10045,6 +10045,36 @@
               {
                 "_key": "dm3hguh9na",
                 "description": "Aligned with encryption standards and file format requirements.",
+                "richTitle": [
+                  {
+                    "_key": "23273a5e190c",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "37f41eb3b5fa",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "NPCI "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "97fe35b223a5",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "37f41eb3b5fa",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Compliance"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ],
                 "title": "NPCI Compliance"
               },
               {
@@ -10056,7 +10086,7 @@
           },
           {
             "_key": "5j51nmj95j",
-            "groupTitle": "Automation",
+            "groupTitle": "Automation ",
             "items": [
               {
                 "_key": "yofkw0rrwk",
