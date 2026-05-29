@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj6zQxt",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "ilmz0p0w86KFCECuhO6EJg"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T11:27:29Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -581,7 +581,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Slow Onboarding"
+            "richTitle": [
+              {
+                "_key": "e28964c8864e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "926e27796a0f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Slow "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "29172bf06992",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "926e27796a0f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Onboarding"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "hhpknrw5rc",
@@ -596,7 +625,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "High Operational Costs"
+            "richTitle": [
+              {
+                "_key": "fb93b1fbd0ce",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7fd4dd2ccad1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c2549530c86e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7fd4dd2ccad1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Costs"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "u52y7zym44",
@@ -611,7 +669,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Compliance Risks"
+            "richTitle": [
+              {
+                "_key": "3cbde033dd17",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "67e9273452aa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e88625ad1e35",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "67e9273452aa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Risks"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "c2o8ko6eto",
@@ -626,7 +713,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Fragmented Systems"
+            "richTitle": [
+              {
+                "_key": "b14237c900a8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f27ce3aa7954",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Fragmented "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "24bc81ce3aaa",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f27ce3aa7954",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Systems"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -737,7 +853,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Real-Time Validation"
+            "richTitle": [
+              {
+                "_key": "131a65b3ee51",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3b99bd795b41",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Real-Time "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c28f9aa941a2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3b99bd795b41",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Validation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "so0vwvhy2q",
@@ -749,7 +894,36 @@
                 "_type": "reference"
               }
             },
-            "title": "AI Decision Engine"
+            "richTitle": [
+              {
+                "_key": "f91610dd87ee",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5283c2a6b71c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "AI Decision "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "547f36706d06",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5283c2a6b71c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Engine"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "0x6y9td07j",
@@ -761,7 +935,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Continuous Monitoring"
+            "richTitle": [
+              {
+                "_key": "ff0423192ac3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8bdc7dc22c2a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Continuous "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e0b4e85ba37d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8bdc7dc22c2a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Monitoring"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
