@@ -6578,15 +6578,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzFuErR",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "ilmz0p0w86KFCECuhOD8Q4"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T11:34:21Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -6769,7 +6769,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Static Risk Models"
+            "richTitle": [
+              {
+                "_key": "18929dd1f35f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d2b5907c5514",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Static Risk "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "154cedfa311e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d2b5907c5514",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Models"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -6824,7 +6853,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "AI-Based Risk Analysis"
+            "richTitle": [
+              {
+                "_key": "4222f0125cba",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f1a3a8af1528",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "AI-Based Risk "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2eb495e17c10",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f1a3a8af1528",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "y5meelmvai",
@@ -6839,7 +6897,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Real-Time Decisioning"
+            "richTitle": [
+              {
+                "_key": "57a412a64278",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c7d429f4ce8b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Real-Time "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b0f2f69ada34",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c7d429f4ce8b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Decisioning"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "1yksurwgq6",
@@ -6854,7 +6941,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "End-to-End Automation"
+            "richTitle": [
+              {
+                "_key": "6dec4cb69b28",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eeebd439865e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "End-to-End "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "247ceb6bf9f0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eeebd439865e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Automation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "kw5tqnfhrp",
@@ -6869,7 +6985,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Data-Driven Decisions"
+            "richTitle": [
+              {
+                "_key": "c298c9d16887",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "611d4812b7f8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Data-Driven "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "72cd4361728b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "611d4812b7f8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Decisions"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -7168,7 +7313,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Predictive Intelligence"
+            "richTitle": [
+              {
+                "_key": "937461c73d6e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d52897243424",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Predictive "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "208bb656b213",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d52897243424",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Intelligence"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ynftpu7c4b",
@@ -7180,7 +7354,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Adaptive Models"
+            "richTitle": [
+              {
+                "_key": "e71200d18e24",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2df00129aa89",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Adaptive "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "cdd131f2c34d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2df00129aa89",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Models"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "j2php2iwij",
@@ -7192,7 +7395,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Scenario Simulation"
+            "richTitle": [
+              {
+                "_key": "166dfe39bf5d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3af621b519e5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Scenario "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f3a99b6c7ebc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3af621b519e5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Simulation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "l3c8brhn25",
@@ -7204,7 +7436,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Continuous Compliance"
+            "richTitle": [
+              {
+                "_key": "c375b28483ed",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d7d6f480f51e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Continuous "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6022dab45a85",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d7d6f480f51e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
