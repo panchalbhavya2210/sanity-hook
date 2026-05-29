@@ -9756,15 +9756,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "UAjCtlAuHSg7wG7TzGHLm6",
+    "_rev": "UAjCtlAuHSg7wG7TzGHNsj",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "UAjCtlAuHSg7wG7TzGHEl9"
+        "rev": "UAjCtlAuHSg7wG7TzGHLm6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:50:46Z",
+    "_updatedAt": "2026-05-29T17:51:16Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -10090,7 +10090,36 @@
               {
                 "_key": "yofkw0rrwk",
                 "description": "Fetch NACH files directly from NPCI portals (H2H).",
-                "title": "Auto File Download"
+                "richTitle": [
+                  {
+                    "_key": "d9ae05d56c78",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "3afeaa17253c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Auto File "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "e230eb138d8d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "3afeaa17253c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Download"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ]
               },
               {
                 "_key": "reueado5a8",
