@@ -21330,15 +21330,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "UAjCtlAuHSg7wG7TzFqsRD",
+    "_rev": "bM4Vn6Xhr0kQ8myfj6rig3",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "UAjCtlAuHSg7wG7TzFqkQX"
+        "rev": "UAjCtlAuHSg7wG7TzFqsRD"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T10:26:18Z",
+    "_updatedAt": "2026-05-29T10:34:33Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -22214,21 +22214,27 @@
         "quickActionCard": [
           {
             "_key": "ljuourp522",
-            "description": "Onboard customers in minutes instead of days.",
+            "description": "Adapt workflows to bank policies and product catalogs.",
             "icon": null,
-            "title": "Faster Turnaround Time"
+            "title": "Highly Configurable"
           },
           {
             "_key": "l7l9gsegmi",
-            "description": "Reduce paperwork, branches, and manual effort.",
+            "description": "Geo-tagging, audit logs, and timestamp traceability.",
             "icon": null,
-            "title": "Lower Operational Cost"
+            "title": "Built-in Compliance"
           },
           {
             "_key": "utdad1t2hg",
-            "description": "Deliver digital banking services anywhere.",
+            "description": "Secure APIs and device authentication.",
             "icon": null,
-            "title": "Better Customer Experience"
+            "title": "Strong Encryption"
+          },
+          {
+            "_key": "028080ace899",
+            "_type": "quickActionCard",
+            "description": "Ready modules for faster implementation.",
+            "title": "Rapid Deployment"
           }
         ]
       },
