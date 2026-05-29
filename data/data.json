@@ -20719,15 +20719,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "UAjCtlAuHSg7wG7TzFsYKE",
+    "_rev": "tYwdV2ldLdzJB4kwq0Heey",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "UAjCtlAuHSg7wG7TzFsYKE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T10:58:14Z",
+    "_updatedAt": "2026-05-29T11:03:55Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -20787,7 +20787,36 @@
               }
             },
             "isReversed": true,
-            "title": "Smart Banking"
+            "richTitle": [
+              {
+                "_key": "c1cdfe060a4b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6db865022f71",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Smart "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "af1d86ecda80",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6db865022f71",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Banking"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "pduj5vxlqe",
@@ -20801,7 +20830,36 @@
               }
             },
             "isReversed": true,
-            "title": "Digital Payments"
+            "richTitle": [
+              {
+                "_key": "af25b6d4d76b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a85503c31eea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Digital "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e00bcc65d26e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a85503c31eea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Payments"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "vi5mazo52r",
@@ -20816,7 +20874,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Loans & Credit"
+            "richTitle": [
+              {
+                "_key": "4f420d25e6f2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bba6fdd8bf73",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Loans & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "309bbac93d7e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bba6fdd8bf73",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Credit"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "g51aqvv4u9",
@@ -20831,7 +20918,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": " Rewards & Cashback*"
+            "richTitle": [
+              {
+                "_key": "c61ef93a4294",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0faca248c898",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Rewards & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5546858e40c7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0faca248c898",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cashback*"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -20913,7 +21029,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Insurance Marketplace*"
+            "richTitle": [
+              {
+                "_key": "e51eaa49b82d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "066d39980ad4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Insurance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "74747bee318f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "066d39980ad4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Marketplace*"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "5bfxy7viyg",
@@ -20928,7 +21073,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Lifestyle shopping*"
+            "richTitle": [
+              {
+                "_key": "342764d510f8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dd0f15622170",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Lifestyle "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "75d06e60bdec",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dd0f15622170",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "shopping*"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ufcffar39v",
@@ -20942,7 +21116,36 @@
               }
             },
             "isReversed": true,
-            "title": " Free Smart Utility Tools*"
+            "richTitle": [
+              {
+                "_key": "d577eeefe39b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2a33df8b5729",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Free Smart "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "cdfb66fa538f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2a33df8b5729",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Utility Tools*"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -21125,7 +21328,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Modular Microservices"
+            "richTitle": [
+              {
+                "_key": "1aa2c4789dc3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b5468ced1d76",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Modular "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "29b99b4f80de",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b5468ced1d76",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Microservices"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "v1egiijg1l",
@@ -21140,7 +21372,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "API-First Ecosystem"
+            "richTitle": [
+              {
+                "_key": "4278e4abd0de",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f433389b281e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API-First "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "179ef0a65888",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f433389b281e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ecosystem"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ygcvx0vue2",
@@ -21155,7 +21416,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "High Availability"
+            "richTitle": [
+              {
+                "_key": "9082716a750a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e9e7ae4b2eb5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e2844050f02c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e9e7ae4b2eb5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Availability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "d053dyhr20",
@@ -21170,7 +21460,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Security & Governance"
+            "richTitle": [
+              {
+                "_key": "b9820fb3c029",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c469c87f0ee4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Security & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d9067d692269",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "c469c87f0ee4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Governance"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -21188,7 +21507,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Higher Engagement"
+            "richTitle": [
+              {
+                "_key": "5517f61d46cb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f4f1130f0b94",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Higher "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5dd067eef8ff",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f4f1130f0b94",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Engagement"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "g0jkc45vqy",
@@ -21200,7 +21548,36 @@
                 "_type": "reference"
               }
             },
-            "title": "New Revenue Streams"
+            "richTitle": [
+              {
+                "_key": "ff418febe931",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "84a0310efeb5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "New Revenue "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ce4abf2825a2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "84a0310efeb5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Streams"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "z61kpi8jly",
@@ -21212,7 +21589,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Faster Go-To-Market"
+            "richTitle": [
+              {
+                "_key": "a7edc3c4a3be",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1f46df7d2cd6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Faster "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "11c226f583fa",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1f46df7d2cd6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Go-To-Market"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "2nu4fzhtg3",
@@ -21224,7 +21630,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Platform-Led Growth"
+            "richTitle": [
+              {
+                "_key": "65f1a15f9040",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "86450e38a73e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Platform-"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5931d4fe5c75",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "86450e38a73e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Led Growth"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "headerSubtitle": "Transform your bank into a platform your customers live in.",
