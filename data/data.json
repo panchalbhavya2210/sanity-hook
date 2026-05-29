@@ -13601,15 +13601,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0Hhtg",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "PKmHYrFFn1rTZi0wbT1Itm"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T11:10:04Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -13651,7 +13651,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Centralized Access"
+            "richTitle": [
+              {
+                "_key": "f772f87d95fe",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ed6ea63a5e28",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Centralized "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2e40ba41ffb7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ed6ea63a5e28",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Access"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "20hh13rsp1",
@@ -13663,7 +13692,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Self-Service Experience"
+            "richTitle": [
+              {
+                "_key": "91e2c2577664",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "be1ca4a4c397",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Self-Service "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6e4a6c1b9fdd",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "be1ca4a4c397",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Experience"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "j4esaxc1sl",
@@ -13675,7 +13733,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Secure & Compliant"
+            "richTitle": [
+              {
+                "_key": "5b80fa32e5a2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6521565da440",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "cad445962a2a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6521565da440",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliant"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8u86i6n3ox",
@@ -13687,7 +13774,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Improved Efficiency"
+            "richTitle": [
+              {
+                "_key": "9d73ff063b70",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "27619e5432d5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Improved "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f3db3c9b6c55",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "27619e5432d5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Efficiency"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
