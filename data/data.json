@@ -7902,15 +7902,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "bM4Vn6Xhr0kQ8myfj7uGee",
+    "_rev": "tYwdV2ldLdzJB4kwq0Q4w8",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "tYwdV2ldLdzJB4kwq0PkZC"
+        "rev": "bM4Vn6Xhr0kQ8myfj7uGee"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:07:32Z",
+    "_updatedAt": "2026-05-29T17:11:24Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -7942,7 +7942,13 @@
           {
             "_key": "k89gcs4t96",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5a7382b276c6869c6effa432cca5b74b12974e46-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Mobile",
               "Internet",
@@ -7985,7 +7991,13 @@
           {
             "_key": "oinapt2601",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e261ce8260a87f2593e09e915a50569f6278007f-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "UPI",
               "IMPS",
@@ -8029,7 +8041,13 @@
           {
             "_key": "0vxowuum9p",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bcf39baf184823b51215bf51c8561e003521556d-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Built on AI ",
               "Blockchain",
@@ -8071,7 +8089,13 @@
           {
             "_key": "jo7rg39zqo",
             "hasList": true,
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e6dea03c43cbc22dae65c4e12533b9c052e6e96b-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "listData": [
               "Rapid Deployment",
               "Low Risk",
@@ -8150,7 +8174,13 @@
           {
             "_key": "4cxro36420",
             "description": "Elevate customer experience by offering what they need through their choice of channels",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ef3fd230e1da28ecb2768ee433f33242fcd7b46a-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "richTitle": [
               {
                 "_key": "8ead659edebb",
@@ -8185,7 +8215,13 @@
           {
             "_key": "hbuxayyrv6",
             "description": "Save time, paper, and overhead costs.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1394a8312df46b7bafe6dd957e394d8168f83c57-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "richTitle": [
               {
                 "_key": "ab1915bf91df",
@@ -8220,7 +8256,13 @@
           {
             "_key": "sxs2bxpf7b",
             "description": "Empower rural and unbanked communities.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5550564ea724f45f66595bd247fb58cf3bc0c2af-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "richTitle": [
               {
                 "_key": "c13b1c5e0ed0",
@@ -8255,7 +8297,13 @@
           {
             "_key": "g522augv5l",
             "description": "Smarter service, secure transactions, easyonboarding.",
-            "icon": null,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-92c38253e2038a026c597ca5c9d1a218f6a0b35c-600x600-gif",
+                "_type": "reference"
+              }
+            },
             "richTitle": [
               {
                 "_key": "c72db5ffab8c",
