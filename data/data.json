@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj7s3bU",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "esrm3FzpSsBxdj5DsRnBla"
+        "rev": "2LL9JC6EMX15mEdNnsJplu"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T16:54:51Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -136,7 +136,7 @@
                 "image": {
                   "_type": "image",
                   "asset": {
-                    "_ref": "image-9c12a529ebda1480b2206be9eb60b91cd94096c8-164x83-png",
+                    "_ref": "image-36918621ca0915ca5c2fdde71bb28c97c46072cd-164x83-svg",
                     "_type": "reference"
                   }
                 },
@@ -144,7 +144,8 @@
                 "type": "image",
                 "width": 159
               }
-            ]
+            ],
+            "title": ""
           },
           {
             "_key": "db75b754-2cc5-4348-9ae8-042cef2b6c7d",
@@ -198,6 +199,12 @@
             "_key": "82ed34d2-8c1a-4f10-98a5-148480300f4b",
             "items": [
               {
+                "_key": "d5a433c1-8f0b-40b8-b89e-a72b49fe3499",
+                "href": "/xcelerators/others/easy-cts",
+                "label": "easyAudit",
+                "type": "link"
+              },
+              {
                 "_key": "5a27b732-f0a4-4525-b68e-fff84f0bc67a",
                 "href": "/xcelerators/others/easy-recon",
                 "label": "easyRecon",
@@ -207,13 +214,6 @@
                 "_key": "109f1832-34e0-4445-baa7-e0abe4041990",
                 "href": "/xcelerators/others/easy-cts",
                 "label": "easyCTS",
-                "type": "link"
-              },
-              {
-                "_key": "aa79f0d8e9b6",
-                "_type": "item",
-                "href": "/products/easyTF",
-                "label": "easyTF",
                 "type": "link"
               }
             ],
@@ -227,13 +227,6 @@
         "label": "API Hub",
         "layout": "withSideCard",
         "menuType": "link",
-        "promo": {
-          "cta": "Explore easyTF",
-          "description": "Secure scalable platform",
-          "image": "/images/banner-promo.webp",
-          "title": "Trade Finance & Treasury",
-          "type": "banner"
-        },
         "sections": [
           {
             "_key": "25c94ea2-0aab-4eb9-b352-167d82845a47",
@@ -351,7 +344,7 @@
             "items": [
               {
                 "_key": "3643a13a-1ef9-4d67-8eb1-e38c89518d92",
-                "href": "/services/staff-augmentation",
+                "href": "#",
                 "label": "Access domain experts to scale your team, boost delivery speed, and support mission-critical needs.",
                 "type": "linkWithHeader"
               }
@@ -365,6 +358,13 @@
         "label": "Resources",
         "layout": "withSideCard",
         "menuType": "dropdown",
+        "promo": {
+          "cta": "Explore easyTF",
+          "description": "Secure scalable platform",
+          "image": "/images/banner-promo.webp",
+          "title": "Trade Finance & Treasury",
+          "type": "banner"
+        },
         "sections": [
           {
             "_key": "cfd12a32-b5cf-4f96-8214-6e32af64c7ee",
@@ -383,7 +383,7 @@
             "items": [
               {
                 "_key": "153dfdb6-282d-493d-b930-510f0fbc51ff",
-                "href": "/coming-soon",
+                "href": "#",
                 "label": "Comprehensive insights, technical breakdowns, research, strategies, trends, best practices.",
                 "type": "linkWithHeader"
               }
@@ -395,7 +395,7 @@
             "items": [
               {
                 "_key": "8057102d-1009-40d8-ab64-423092fec39d",
-                "href": "/coming-soon",
+                "href": "#",
                 "label": "Visual learning through demos, tutorials, industry talks, and expert panels.",
                 "type": "linkWithHeader"
               }
@@ -407,7 +407,7 @@
             "items": [
               {
                 "_key": "34e195bd-702b-47d0-b740-00a9dbef6116",
-                "href": "/coming-soon",
+                "href": "#",
                 "label": "Stay updated on launches, webinars, product releases, and keynote sessions.",
                 "type": "linkWithHeader"
               }
@@ -438,7 +438,7 @@
                 "type": "link"
               },
               {
-                "_key": "16a991ca-f67f-4101-929e-354d6b6200a3",
+                "_key": "eec088f4-02fb-4f31-a427-ae41a78cbc8c",
                 "href": "/coming-soon",
                 "label": "Leadership Team",
                 "type": "link"
@@ -456,7 +456,7 @@
                 "type": "link"
               },
               {
-                "_key": "441d090b-4661-428f-b0eb-6b79c94d48a8",
+                "_key": "da009a84-932d-4df8-ac44-47d6756da653",
                 "href": "/openings",
                 "label": "Current Openings",
                 "type": "link"
@@ -486,10 +486,10 @@
               "_type": "reference"
             }
           },
+          "link": "#",
           "linkLabel": "Explore Bankai",
           "title": "Life at Bankai",
-          "type": "careerSideCard",
-          "videoUrl": "https://player.vimeo.com/video/1195880966"
+          "type": "careerSideCard"
         }
       }
     ]
