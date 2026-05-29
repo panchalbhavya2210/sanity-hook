@@ -10841,15 +10841,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj74O82",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "UsfV9oDnxQRwUo5LZ4m9hV"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T12:05:46Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -10914,7 +10914,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "End-to-End Lifecycle"
+            "richTitle": [
+              {
+                "_key": "1cc9fe2cde81",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fd9354e6ab0c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "End-to-End "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3d143bbf2884",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fd9354e6ab0c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Lifecycle"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "7k7trw4n91",
@@ -10929,7 +10958,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Preconfigured Workflows"
+            "richTitle": [
+              {
+                "_key": "ca9688642f33",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68772c3c8eba",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Preconfigured "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "a2a02b25bbb1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68772c3c8eba",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Workflows"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "v3stosz8po",
@@ -10944,7 +11002,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Real-Time Visibility"
+            "richTitle": [
+              {
+                "_key": "104331663425",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "57cf072a841b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Real-Time "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c1449c7ee782",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "57cf072a841b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Visibility"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "rvdfw931ld",
@@ -10959,7 +11046,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Integrated Ecosystem"
+            "richTitle": [
+              {
+                "_key": "b80df1c6f119",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fd9a8ba48c51",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integrated "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e94f3fc37de4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fd9a8ba48c51",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ecosystem"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -11199,7 +11315,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Collection Automation"
+            "richTitle": [
+              {
+                "_key": "d598da9e5ea1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e79c257ad067",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Collection "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "73e81fabf5b6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e79c257ad067",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Automation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "3dox4hjtge",
@@ -11211,7 +11356,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Smart Notifications"
+            "richTitle": [
+              {
+                "_key": "ffcf1e0065c9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6281d1f30d5c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Smart "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d11395c4f243",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6281d1f30d5c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Notifications"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ofij3oa8oz",
@@ -11223,7 +11397,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Borrower Self-Service"
+            "richTitle": [
+              {
+                "_key": "d55ce287255b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "51cfcd813bdb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Borrower "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5dc654e5d0a3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "51cfcd813bdb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Self-Service"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "zeg2r7eq8p",
@@ -11235,7 +11438,36 @@
                 "_type": "reference"
               }
             },
-            "title": "NPA Management"
+            "richTitle": [
+              {
+                "_key": "cf35e5eb59d2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1e0d330ed2bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "NPA "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ad275c26ad60",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1e0d330ed2bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Management"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -11290,7 +11522,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Loan Lifecycle Management"
+            "richTitle": [
+              {
+                "_key": "920fe6ae6fcf",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "53ef3a74a90c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Loan Lifecycle "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "956210c3b904",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "53ef3a74a90c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Management"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "n1nk941mkz",
@@ -11305,7 +11566,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Payment Tracking"
+            "richTitle": [
+              {
+                "_key": "060c8a52a9ed",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "27a178a320ef",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Payment "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c7259a6d5df4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "27a178a320ef",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Tracking"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "6b4zf53q0x",
@@ -11320,7 +11610,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Customer Interaction Tracking"
+            "richTitle": [
+              {
+                "_key": "439378200b10",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dc11b3ea1b64",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Customer Interaction "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f1356fe901df",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dc11b3ea1b64",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Tracking"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "0r3txhqypf",
@@ -11335,7 +11654,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Reporting & MIS"
+            "richTitle": [
+              {
+                "_key": "c5b0b4d9a542",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "991d7ee8b339",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reporting & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b864f8a09b4a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "991d7ee8b339",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "MIS"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -11563,7 +11911,36 @@
               }
             },
             "imageAlt": "",
-            "title": "Cloud-Ready Infrastructure"
+            "richTitle": [
+              {
+                "_key": "4abce65b08ac",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8aa8ca0c79d1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cloud-Ready"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7257a783472c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8aa8ca0c79d1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Infrastructure"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "w4v0lp0rx9",
@@ -11577,7 +11954,36 @@
               }
             },
             "imageAlt": "",
-            "title": "High Availability"
+            "richTitle": [
+              {
+                "_key": "051d349cebd0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "127a72c152a8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b685796af63b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "127a72c152a8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Availability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "uo9divwhju",
@@ -11591,7 +11997,36 @@
               }
             },
             "imageAlt": "",
-            "title": "DevOps Enabled"
+            "richTitle": [
+              {
+                "_key": "bf7cbb865c9b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8491bb2ac388",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "DevOps "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d62fe6301c03",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8491bb2ac388",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Enabled"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "le4r95jm6v",
@@ -11605,7 +12040,36 @@
               }
             },
             "imageAlt": "",
-            "title": "Monitoring & Data Security"
+            "richTitle": [
+              {
+                "_key": "b66de88631f5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b2455489d985",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Monitoring & Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3af7f555131d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b2455489d985",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Security"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
