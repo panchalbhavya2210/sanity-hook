@@ -18462,15 +18462,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzFqNo4",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "hrnksYmqFilVkLbtuywGmy"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T10:08:59Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -18719,22 +18719,22 @@
         "imageSource": [
           {
             "_key": "7nn7iwf7h7",
-            "imageAlt": "Fina Bright Application Showcase",
+            "imageAlt": "Omnichannel Banking 1",
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-dc25eb407d6fcfd99b005d46e13ae39bfc6cd6bb-1260x944-webp",
+                "_ref": "image-2e2320ef34443991458c81135a19ed680c99faca-630x472-webp",
                 "_type": "reference"
               }
             }
           },
           {
             "_key": "5myjhyrddv",
-            "imageAlt": "Fina Bright Application Showcase",
+            "imageAlt": "Omnichannel Banking 2",
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d8806c0a5d35a8b1f7484dfa3aa1df559d0035e1-1260x944-webp",
+                "_ref": "image-0649647053119b10add047f81ba88558dc8d6841-630x472-webp",
                 "_type": "reference"
               }
             }
