@@ -2,7 +2,7 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "pxJrmRwHgUHMzCHp2A5cUC",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
@@ -10,7 +10,7 @@
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-27T07:46:04Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -497,7 +497,7 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "6fCNpx7G4GCpNgpiNlm59o",
     "_system": {
       "base": {
         "id": "aml-kyc",
@@ -505,7 +505,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T08:26:53Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -1040,7 +1040,7 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "pxJrmRwHgUHMzCHp2A1iQX",
     "_system": {
       "base": {
         "id": "api-hub",
@@ -1048,7 +1048,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-27T04:41:40Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1824,7 +1824,7 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "esrm3FzpSsBxdj5DsRkQ01",
     "_system": {
       "base": {
         "id": "bankai-iam",
@@ -1832,7 +1832,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-27T06:29:00Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -2669,16 +2669,14 @@
   {
     "_createdAt": "2026-05-11T08:52:57Z",
     "_id": "career-job-product-manager",
-    "_rev": "ytRaKqe6kB37kV4lkkXteI",
+    "_rev": "qRGsyocDEdQGWQXrgjlWxD",
     "_type": "careerJob",
     "_updatedAt": "2026-05-11T08:52:57Z",
     "aboutCompany": [
       {
-        "_key": "vx1qudlu",
         "_type": "block",
         "children": [
           {
-            "_key": "3ntugau0",
             "_type": "span",
             "text": "We build enterprise fintech products used by banks and financial institutions globally."
           }
@@ -2713,11 +2711,9 @@
     ],
     "roleOverview": [
       {
-        "_key": "9wqpcjnr",
         "_type": "block",
         "children": [
           {
-            "_key": "ys0h2vgc",
             "_type": "span",
             "text": "Own product lifecycle management and collaborate with stakeholders to deliver impactful solutions."
           }
@@ -2740,16 +2736,14 @@
   {
     "_createdAt": "2026-05-11T08:52:55Z",
     "_id": "career-job-react-developer",
-    "_rev": "ytRaKqe6kB37kV4lkkXteI",
+    "_rev": "xYdOegpFMyaIaw5eRrn8yz",
     "_type": "careerJob",
     "_updatedAt": "2026-05-11T08:52:55Z",
     "aboutCompany": [
       {
-        "_key": "v25stc7t",
         "_type": "block",
         "children": [
           {
-            "_key": "rghde276",
             "_type": "span",
             "text": "Our engineering team builds next-generation banking and fintech products focused on scalability and performance."
           }
@@ -2784,11 +2778,9 @@
     ],
     "roleOverview": [
       {
-        "_key": "5k2pcwag",
         "_type": "block",
         "children": [
           {
-            "_key": "zcj2n9yi",
             "_type": "span",
             "text": "You will work closely with UI/UX teams to develop high-quality web applications."
           }
@@ -2812,16 +2804,14 @@
   {
     "_createdAt": "2026-05-11T08:52:53Z",
     "_id": "career-job-scrum-master",
-    "_rev": "ytRaKqe6kB37kV4lkkXteI",
+    "_rev": "qRGsyocDEdQGWQXrgjlVf5",
     "_type": "careerJob",
     "_updatedAt": "2026-05-11T08:52:53Z",
     "aboutCompany": [
       {
-        "_key": "c5784359",
         "_type": "block",
         "children": [
           {
-            "_key": "carhibf5",
             "_type": "span",
             "text": "BankAI powers the future of digital banking by helping financial institutions create seamless and customer-focused experiences."
           }
@@ -2857,11 +2847,9 @@
     ],
     "roleOverview": [
       {
-        "_key": "m0xdihr9",
         "_type": "block",
         "children": [
           {
-            "_key": "1dmakf5y",
             "_type": "span",
             "text": "We are looking for a Graduate Scrum Master to support agile product development and improve collaboration across teams."
           }
@@ -2885,16 +2873,14 @@
   {
     "_createdAt": "2026-05-11T08:52:56Z",
     "_id": "career-job-ui-ux-designer",
-    "_rev": "ytRaKqe6kB37kV4lkkXteI",
+    "_rev": "vVaFl7ADmGgQzf5cZ9SiN3",
     "_type": "careerJob",
     "_updatedAt": "2026-05-11T08:52:56Z",
     "aboutCompany": [
       {
-        "_key": "bj2cl8vv",
         "_type": "block",
         "children": [
           {
-            "_key": "z660kpwc",
             "_type": "span",
             "text": "We focus on creating intuitive banking experiences with a user-first design philosophy."
           }
@@ -2929,11 +2915,9 @@
     ],
     "roleOverview": [
       {
-        "_key": "08sxw38k",
         "_type": "block",
         "children": [
           {
-            "_key": "xaegy6e1",
             "_type": "span",
             "text": "You will design responsive interfaces and collaborate with frontend developers."
           }
@@ -2957,7 +2941,7 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "6fCNpx7G4GCpNgpiNpoaK4",
     "_system": {
       "base": {
         "id": "careers",
@@ -2965,7 +2949,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-15T08:10:40Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -3407,7 +3391,7 @@
   {
     "_createdAt": "2026-05-11T08:52:58Z",
     "_id": "careers-page",
-    "_rev": "ytRaKqe6kB37kV4lkkbR2U",
+    "_rev": "qRGsyocDEdQGWQXrgkBgzb",
     "_system": {
       "base": {
         "id": "careers-page",
@@ -3415,7 +3399,7 @@
       }
     },
     "_type": "careersPage",
-    "_updatedAt": "2026-05-27T10:20:44Z",
+    "_updatedAt": "2026-05-11T11:01:19Z",
     "featuredJobs": [
       {
         "_key": "vVaFl7ADmGgQzf5cZ9wyVx",
@@ -3444,7 +3428,7 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "AG9fsTEKMjBVehljAhnIgI",
     "_system": {
       "base": {
         "id": "case-studies",
@@ -3452,7 +3436,7 @@
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-21T06:30:35Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -4153,7 +4137,7 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "ZNIpBJ0WFANlheD2WgEwhz",
     "_system": {
       "base": {
         "id": "chat-bot",
@@ -4161,7 +4145,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-13T11:25:07Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -4989,15 +4973,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "6Ve24x03wtxZRW0gROC8Kx",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "LaHK0uYKHTB6MWRH7EdEye"
+        "rev": "EFHYLTHACXrOGoIbamlLk3"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-29T08:16:45Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -5073,6 +5057,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "ad5259d08680",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a668fb748287",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Overlay & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4b4dd6d1e299",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a668fb748287",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Aggregate Seamlessly "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Overlay & Aggregate Seamlessly"
           },
           {
@@ -5781,7 +5795,7 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "Dtz5j1oaWW6Cl3KegHPy9Z",
     "_system": {
       "base": {
         "id": "core-modernization",
@@ -5789,7 +5803,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-19T05:47:07Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -6345,7 +6359,7 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "ilmz0p0w86KFCECuhODVxq",
     "_system": {
       "base": {
         "id": "credit-underwriting",
@@ -6353,7 +6367,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-13T10:46:12Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -7114,7 +7128,7 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "pxJrmRwHgUHMzCHp2A6fDQ",
     "_system": {
       "base": {
         "id": "digi-x",
@@ -7122,7 +7136,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-27T08:25:49Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -8168,7 +8182,7 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "FCaX7e7F3kXCkn0uFMSVMD",
     "_system": {
       "base": {
         "id": "digital-signing",
@@ -8176,7 +8190,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T05:43:56Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -8705,7 +8719,7 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "FCaX7e7F3kXCkn0uFMSj8m",
     "_system": {
       "base": {
         "id": "e-nach",
@@ -8713,7 +8727,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T05:53:57Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -9302,7 +9316,7 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "FCaX7e7F3kXCkn0uFMUmRv",
     "_system": {
       "base": {
         "id": "easy-cts",
@@ -9310,7 +9324,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T06:12:06Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -10023,7 +10037,7 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "FCaX7e7F3kXCkn0uFQEPQN",
     "_system": {
       "base": {
         "id": "easy-lms",
@@ -10031,7 +10045,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-15T08:05:16Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -10830,7 +10844,7 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "kASO4urNESeuuyiE2LJNxw",
     "_system": {
       "base": {
         "id": "easy-los",
@@ -10838,7 +10852,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-19T06:09:35Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -11790,7 +11804,7 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "ilmz0p0w86KFCECuhOAr9Q",
     "_system": {
       "base": {
         "id": "easy-pay-check",
@@ -11798,7 +11812,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-13T10:23:33Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -12610,7 +12624,7 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "6fCNpx7G4GCpNgpiNlbSXw",
     "_system": {
       "base": {
         "id": "easy-recon",
@@ -12618,7 +12632,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T06:21:54Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -13242,7 +13256,7 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "Dtz5j1oaWW6Cl3KegHyYRr",
     "_system": {
       "base": {
         "id": "easy-tf",
@@ -13250,7 +13264,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-19T09:58:49Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -13541,7 +13555,7 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "hrnksYmqFilVkLbtuyvSjE",
     "_system": {
       "base": {
         "id": "employee-self-service",
@@ -13549,7 +13563,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-21T10:56:17Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -14301,7 +14315,7 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "ShHy5YORmAMZYID1a4pMes",
     "_system": {
       "base": {
         "id": "footer-main",
@@ -14309,7 +14323,7 @@
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-21T11:55:59Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -14707,7 +14721,7 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "GaUXHZ2ZYmBv5oOnYID3Mf",
     "_system": {
       "base": {
         "id": "formula-genie",
@@ -14715,7 +14729,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-20T11:46:06Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -15312,15 +15326,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "w1UkPMGrV11kcoz0w1pUqU",
+    "_rev": "kASO4urNESeuuyiE2LLrQJ",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "w1UkPMGrV11kcoz0w1pPkw"
+        "rev": "auT5k97NiJTCPU02gwxUOz"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-27T11:15:37Z",
+    "_updatedAt": "2026-05-19T08:02:29Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -15804,7 +15818,7 @@
       "cards": [
         {
           "_key": "card1",
-          "buttonTitle": "Explore Intelligent Core",
+          "buttonTitle": "Explore EasyBankCore®",
           "description": "Build the Digital Backbone for tomorrow's banks with a Scalable, Secured, Cloud-Native, Unified all-in-one platform to accelerate & future-proof your banking business.",
           "image": {
             "_type": "image",
@@ -15813,14 +15827,13 @@
               "_type": "reference"
             }
           },
-          "imageSrc": "/images/homepage/1.png",
-          "route": "/products",
+          "route": "/products/core-banking",
           "title": "Digital Core Banking"
         },
         {
-          "_key": "card1_deduped_1",
-          "buttonTitle": "Experience Omnichannel Layer",
-          "description": "Deliver seamless experiences across mobile, kiosk, tab, super app & internet banking—ensuring customers meet your bank anytime, anywhere, on any device.",
+          "_key": "bf980bf0756d",
+          "buttonTitle": "Experience easyTF",
+          "description": "Streamline global trade operations, manage liquidity, and automate workflows with a secure, scalable platform built for modern banking.",
           "image": {
             "_type": "image",
             "asset": {
@@ -15828,14 +15841,13 @@
               "_type": "reference"
             }
           },
-          "imageSrc": "/images/homepage/2.png",
-          "route": "/products",
-          "title": "Omnichannel Banking"
+          "route": "/products/easyTF",
+          "title": "Digital Trade Finance"
         },
         {
           "_key": "card2",
-          "buttonTitle": "Explore Financial Intelligence",
-          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling to predictive analytics and mobile BI dashboards.",
+          "buttonTitle": "Explore easyKYC",
+          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling , predictive analytics , risk classification to enterprise chatbot.",
           "image": {
             "_type": "image",
             "asset": {
@@ -15844,12 +15856,55 @@
             }
           },
           "imageSrc": "/images/homepage/3.png",
-          "route": "/products",
-          "title": "AI-Based Analytics"
+          "route": "/products/aml-kyc",
+          "title": "AI-Based eKYC"
+        },
+        {
+          "_key": "9779fdbdf528",
+          "buttonTitle": "Explore MobiPro",
+          "description": "Access everyday banking services like transfers, bill payments, account management, and notifications through a secure and intuitive mobile experience.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-d9db95c6c3cada549a0f02ce623dfc6cb78a3a36-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "imageSrc": "/images/homepage/3.png",
+          "route": "/products/omnichannel-banking",
+          "title": "Mobile Banking"
+        },
+        {
+          "_key": "0aff3ee9c10e",
+          "buttonTitle": "Explore MobiPro+",
+          "description": "Designed for relationship managers and branch-assisted journeys with larger-screen experiences for onboarding, servicing, and customer interactions.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-8a63be767bd5c82c2d09e628ed42fcb85722d51b-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "route": "/products/tab-banking-solutions-mobipro",
+          "title": "Tab Banking"
+        },
+        {
+          "_key": "2ac53b0f06cf",
+          "buttonTitle": "Explore Bankai SuperApp",
+          "description": "A unified ecosystem combining banking, payments, investments, lifestyle services, and digital experiences into one intelligent platform.",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-0d71956e015bc9804ba9cc51d1e52d6a71ee8f89-551x246-webp",
+              "_type": "reference"
+            }
+          },
+          "route": "/products/super-app",
+          "title": "Super App"
         },
         {
           "_key": "card3",
-          "buttonTitle": "Explore easyLOMS",
+          "buttonTitle": "Explore easyLOS",
           "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
           "image": {
             "_type": "image",
@@ -15859,7 +15914,7 @@
             }
           },
           "imageSrc": "/images/homepage/4.png",
-          "route": "/products",
+          "route": "/products/digital-lending/easy-los",
           "title": "Digital Lending Platform"
         },
         {
@@ -15874,12 +15929,12 @@
             }
           },
           "imageSrc": "/images/homepage/5.png",
-          "route": "/products",
-          "title": "Digi.X™"
+          "route": "/products/digi-x",
+          "title": "Digital First Channels"
         },
         {
           "_key": "card5",
-          "buttonTitle": "Explore HR Suite",
+          "buttonTitle": "Explore easyPaypack",
           "description": "Empower your workforce with intuitive self-service portals and payroll automation, designed to align employee experiences with business agility.",
           "image": {
             "_type": "image",
@@ -15889,7 +15944,7 @@
             }
           },
           "imageSrc": "/images/homepage/6.png",
-          "route": "/products",
+          "route": "/products/hrms/easy-pay-check",
           "title": "People-First HR Tech"
         }
       ],
@@ -15900,7 +15955,7 @@
           "_type": "reference"
         }
       },
-      "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights",
+      "headerSubTitleText": "Ready to evolve your digital banking, connect every channel, and automate insights.",
       "titleParts": [
         {
           "_key": "pt1",
@@ -15933,7 +15988,7 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "6fCNpx7G4GCpNgpiNll6uK",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
@@ -15941,7 +15996,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T08:12:02Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -16540,7 +16595,7 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "Dtz5j1oaWW6Cl3KegHoEeM",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
@@ -16548,7 +16603,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-19T08:45:35Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -17165,7 +17220,7 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "X2D1vuonOS7HWiudGdo6XI",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
@@ -17173,7 +17228,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-18T10:34:28Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -17821,7 +17876,7 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "FCaX7e7F3kXCkn0uFMT3Eq",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
@@ -17829,7 +17884,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T06:00:34Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -18361,7 +18416,7 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "hrnksYmqFilVkLbtuywGmy",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
@@ -18369,7 +18424,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-21T11:01:20Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -19120,7 +19175,7 @@
   {
     "_createdAt": "2026-05-02T08:07:55Z",
     "_id": "risk-modeling",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "ilmz0p0w86KFCECuhOBMDU",
     "_system": {
       "base": {
         "id": "risk-modeling",
@@ -19128,7 +19183,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-13T10:28:31Z",
     "sections": [
       {
         "_key": "ub8mzuh6f2",
@@ -19859,7 +19914,7 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "XqgcJAHSz5e5kILtKCsrsg",
     "_system": {
       "base": {
         "id": "staff-augmentation",
@@ -19867,7 +19922,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-14T08:19:52Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -20492,7 +20547,7 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "PKmHYrFFn1rTZi0wbWqgBm",
     "_system": {
       "base": {
         "id": "super-app",
@@ -20500,7 +20555,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-20T07:03:30Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -21103,7 +21158,7 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "ytRaKqe6kB37kV4lkkbOAo",
+    "_rev": "AG9fsTEKMjBVehljAhZy1e",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
@@ -21111,7 +21166,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-27T10:20:43Z",
+    "_updatedAt": "2026-05-21T04:43:21Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
