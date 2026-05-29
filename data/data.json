@@ -20218,15 +20218,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "bM4Vn6Xhr0kQ8myfj80OxU",
+    "_rev": "tYwdV2ldLdzJB4kwq0QqaI",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj80OxU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:52:50Z",
+    "_updatedAt": "2026-05-29T17:55:49Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -20852,7 +20852,6 @@
     ],
     "seo": {
       "description": "Digitally sign and verify NACH files with BankAI’s secure signing tool, built for NPCI compliance, automation, and high-volume banking operations.",
-      "image": null,
       "keywords": [
         "NACH signing tool",
         "digital signature",
