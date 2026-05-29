@@ -18462,15 +18462,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "UAjCtlAuHSg7wG7TzFqY6r",
+    "_rev": "tYwdV2ldLdzJB4kwq0GevE",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "UAjCtlAuHSg7wG7TzFqNo4"
+        "rev": "UAjCtlAuHSg7wG7TzFqY6r"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T10:14:57Z",
+    "_updatedAt": "2026-05-29T10:18:28Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -19227,7 +19227,7 @@
           },
           {
             "_key": "sumsiibq84",
-            "description": "Connect siloed systems - from core to CRM to fintech - through plug-and-play integrations that eliminate complexity. Streamline operations with a standardized API layer and pre-built connectors that reduce time-to-market and lower risk. Future-proof your architecture while staying agile. Build faster, launch smarter, and scale without limits.",
+            "description": "Fully digital onboarding with e-KYC from within the app.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "heading": "EasyBankCore®",
             "id": 3,
