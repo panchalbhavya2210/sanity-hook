@@ -21330,15 +21330,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "UAjCtlAuHSg7wG7TzFqkQX",
+    "_rev": "UAjCtlAuHSg7wG7TzFqsRD",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "UAjCtlAuHSg7wG7TzFqkQX"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T10:23:28Z",
+    "_updatedAt": "2026-05-29T10:26:18Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -21851,21 +21851,141 @@
           {
             "_key": "zifdkpnmz7",
             "description": "Step-by-step screens simplify onboarding.",
+            "richTitle": [
+              {
+                "_key": "3679bfef366b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "64d8a09cc383",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Guided "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8cfbebf0b99c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "64d8a09cc383",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Workflows"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Guided Workflows"
           },
           {
             "_key": "gjgu1e6po9",
             "description": "Secure permissions based on agent roles.",
+            "richTitle": [
+              {
+                "_key": "370a95ef145a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3ef31a4206d9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Role-Based "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "0056bd85feb0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3ef31a4206d9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Access"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Role-Based Access"
           },
           {
             "_key": "s79uwlz6sj",
             "description": "Supports multiple languages for diverse regions.",
+            "richTitle": [
+              {
+                "_key": "4782352867a5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e398558b0a05",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Multilingual "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "377f17ce3fcf",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e398558b0a05",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Interface"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Multilingual Interface"
           },
           {
             "_key": "58b9zc9kbn",
             "description": "Intuitive UI ensures quick adoption.",
+            "richTitle": [
+              {
+                "_key": "8c470e63974a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "91cb77b5df68",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Minimal Training "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3d8460b32cea",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "91cb77b5df68",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Required"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "Minimal Training Required"
           }
         ]
