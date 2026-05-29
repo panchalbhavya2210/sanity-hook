@@ -9756,15 +9756,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "UAjCtlAuHSg7wG7TzGHEl9",
+    "_rev": "UAjCtlAuHSg7wG7TzGHLm6",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "tYwdV2ldLdzJB4kwq0QjTO"
+        "rev": "UAjCtlAuHSg7wG7TzGHEl9"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:48:59Z",
+    "_updatedAt": "2026-05-29T17:50:46Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -10105,7 +10105,36 @@
               {
                 "_key": "w3my2gup19",
                 "description": "Maintain secure storage of processed files for audits.",
-                "title": "Auto Archival"
+                "richTitle": [
+                  {
+                    "_key": "d680e5cb5a0f",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "e3e32b71c67a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Auto "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "bc5d2e09b40e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "e3e32b71c67a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Archival"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ]
               }
             ]
           },
@@ -10126,7 +10155,36 @@
               {
                 "_key": "igzrgcx1z2",
                 "description": "Notify customers and stakeholders instantly.",
-                "title": "Real-Time Alerts"
+                "richTitle": [
+                  {
+                    "_key": "effb1ced3bcc",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "31621a4489ab",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Real-Time "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "45b8f1405106",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "31621a4489ab",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Alerts"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ]
               },
               {
                 "_key": "pnl8uva2eh",
