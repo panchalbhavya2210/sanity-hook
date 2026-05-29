@@ -12199,15 +12199,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzFw5lk",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "6fCNpx7G4GCpNgpiNlXgeK"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-29T12:19:58Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -12272,7 +12272,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Digital Loan Origination"
+            "richTitle": [
+              {
+                "_key": "1ef9ce7ede53",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a85e6c37416e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Digital Loan "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1fa7f7604fc6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a85e6c37416e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Origination"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "7pwzg07jmx",
@@ -12287,7 +12316,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Intelligent Decisioning"
+            "richTitle": [
+              {
+                "_key": "2764fcb1a466",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cc5443e157dd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Intelligent "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7dc587560c62",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cc5443e157dd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Decisioning"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "plslndttla",
@@ -12302,7 +12360,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Unified Platform"
+            "richTitle": [
+              {
+                "_key": "895ae39ff3de",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d8247fe1ac1c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Unified "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e483c8000be5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d8247fe1ac1c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Platform"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "kro9pm7zam",
@@ -12317,7 +12404,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Configurable Workflows"
+            "richTitle": [
+              {
+                "_key": "be4821f71061",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ce8197ad13db",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Configurable "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "34ba0106b673",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ce8197ad13db",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Workflows"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -12575,7 +12691,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Integration Ready"
+            "richTitle": [
+              {
+                "_key": "75931f4f177f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dd413ae136aa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "77a6abf827d9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dd413ae136aa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ready"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "r2u5n2zg56",
@@ -12587,7 +12732,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Open API Ecosystem"
+            "richTitle": [
+              {
+                "_key": "e3d9c6ae87d1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e22abc60dc53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Open API "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ebcda52c6645",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e22abc60dc53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ecosystem"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -12642,7 +12816,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Cloud-Native Platform"
+            "richTitle": [
+              {
+                "_key": "06167950a7f3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5871ffec151b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cloud-Native "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5539b5b09a78",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5871ffec151b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Platform"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ry4cpamidd",
@@ -12657,7 +12860,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Modular Architecture"
+            "richTitle": [
+              {
+                "_key": "e574c4065d38",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dc816dd53ddb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Modular "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8c0068702094",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "dc816dd53ddb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Architecture"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "pwpa80pbqq",
@@ -12672,7 +12904,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Low-Code Configuration"
+            "richTitle": [
+              {
+                "_key": "1b8a458a4538",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7bd10a7c4bf3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Low-Code "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e8051b7f1298",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7bd10a7c4bf3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Configuration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "q0cbfl482u",
@@ -12687,7 +12948,36 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "High Scalability"
+            "richTitle": [
+              {
+                "_key": "526b24df6a57",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd10103d1bac",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "75f1b52a0272",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd10103d1bac",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Scalability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -12705,7 +12995,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Credit Assessment"
+            "richTitle": [
+              {
+                "_key": "0f6d87e90dbf",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "36bd0fafe3b9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Credit "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1a4f19659f0a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "36bd0fafe3b9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Assessment"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "0h6p2860fh",
@@ -12717,7 +13036,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Automated Processing"
+            "richTitle": [
+              {
+                "_key": "4a25010d7061",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ca513cb68387",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Automated "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2f6f198f0191",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ca513cb68387",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "l7w8r51g9q",
@@ -12729,7 +13077,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Risk Mitigation"
+            "richTitle": [
+              {
+                "_key": "970a1615c4f0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fb9fbab338c6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Risk "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "84477b98f6f6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fb9fbab338c6",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Mitigation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "kr7608wu7",
@@ -12741,7 +13118,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Financial Analysis"
+            "richTitle": [
+              {
+                "_key": "c7540412b15f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68dbc2af65b4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Financial "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c3f647a71b26",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68dbc2af65b4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -12905,7 +13311,36 @@
               }
             },
             "imageAlt": "",
-            "title": "OCR & Data Extraction"
+            "richTitle": [
+              {
+                "_key": "e5aed325b27b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d2bbeca4ce0b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "OCR & Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f6a99de8a86b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d2bbeca4ce0b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Extraction"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "68diwnc94q",
@@ -12919,7 +13354,36 @@
               }
             },
             "imageAlt": "",
-            "title": "Secure Storage"
+            "richTitle": [
+              {
+                "_key": "9c85deaa70ef",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9c942abb74bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e17c33ebeb34",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9c942abb74bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Storage"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jaknamuyrz",
@@ -12933,7 +13397,36 @@
               }
             },
             "imageAlt": "",
-            "title": "Document Classification"
+            "richTitle": [
+              {
+                "_key": "79bc381fb573",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd1311a9affc",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Document "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "73df6ea5a257",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd1311a9affc",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Classification"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "0tp0bx6puy",
@@ -12947,7 +13440,36 @@
               }
             },
             "imageAlt": "",
-            "title": "Faster Processing"
+            "richTitle": [
+              {
+                "_key": "289caf00dce5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "25d298d4bea1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Faster "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6a7f65916485",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "25d298d4bea1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
