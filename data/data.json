@@ -20824,15 +20824,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "tYwdV2ldLdzJB4kwq0e1Wy",
+    "_rev": "tYwdV2ldLdzJB4kwq0nKj4",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "tYwdV2ldLdzJB4kwq0e1Wy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T09:04:36Z",
+    "_updatedAt": "2026-05-30T17:35:57Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -21186,7 +21186,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-5d9e88503eb56b5bd37a260bbc7e826c39be696e-941x821-jpg",
+                "_ref": "image-57fee5d826fb6992d4ab304bcf6301a80916810d-627x547-jpg",
                 "_type": "reference"
               }
             },
