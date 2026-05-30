@@ -10469,15 +10469,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9OFdF",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9OJQP",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj9OFdF"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:13:44Z",
+    "_updatedAt": "2026-05-30T07:14:17Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -11151,22 +11151,138 @@
           {
             "_key": "ku90zz6hrj",
             "description": "Dual authorization ensures accountability and fraud prevention.",
-            "title": "Maker–Checker Workflow"
+            "richTitle": [
+              {
+                "_key": "01fda2f49b10",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b0cc10da44e1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Maker–Checker "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "652f8a234191",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b0cc10da44e1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Workflow"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "2u6rmda5ju",
             "description": "Validate transactions before posting to CBS.",
-            "title": "Officer Confirmation"
+            "richTitle": [
+              {
+                "_key": "ca9533e4c64b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "21ea9d27a85c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Officer "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e728fc2a54e8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "21ea9d27a85c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Confirmation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "37037x99xp",
             "description": "Return suspicious or incorrect items with reasons.",
-            "title": "Exception Handling"
+            "richTitle": [
+              {
+                "_key": "46358ffcb438",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5eae0416f574",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Exception "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f4eab324b623",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5eae0416f574",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Handling"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "zu6wwo1pb1",
             "description": "Approved items are automatically posted to CBS.",
-            "title": "Secure Posting to CBS"
+            "richTitle": [
+              {
+                "_key": "c2285cf94460",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "61dbe31b3aea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure Posting "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1273d2569441",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "61dbe31b3aea",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "to CBS"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
