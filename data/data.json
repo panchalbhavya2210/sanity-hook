@@ -24413,15 +24413,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9wFc3",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "FCaX7e7F3kXCkn0uFMdw92"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T12:14:18Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -24456,7 +24456,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Permanent Hiring"
+            "richTitle": [
+              {
+                "_key": "5f06287c4288",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6a38ab12ee63",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Permanent "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7f181e14606f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6a38ab12ee63",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Hiring"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "v9mh9oth1r",
@@ -24468,7 +24497,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Contractual Hiring"
+            "richTitle": [
+              {
+                "_key": "c8da54439d9c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "afe23ecca03b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Contractual "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4322e049709e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "afe23ecca03b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Hiring"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "676ehkrvgw",
@@ -24480,7 +24538,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Temporary Staffing"
+            "richTitle": [
+              {
+                "_key": "45b640d13091",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ae27eb09f713",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Temporary "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "17f081bf1cb8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ae27eb09f713",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Staffing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "i1jrcpn90x",
@@ -24492,7 +24579,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Recruitment Process Outsourcing (RPO)"
+            "richTitle": [
+              {
+                "_key": "67d86590540c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0df52e7fc878",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Recruitment Process "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e9d10b0269d1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0df52e7fc878",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Outsourcing (RPO)"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -24631,22 +24747,138 @@
           {
             "_key": "nu6fzok9gc",
             "description": "We act as the official employer, managing contracts, payroll, and documentation.",
-            "title": "Employer of Record"
+            "richTitle": [
+              {
+                "_key": "b21eda0bee84",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "77e8a598d814",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Employer of "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ba3be2392df5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "77e8a598d814",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Record"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "iy2jkhh4go",
             "description": "Complete handling of ESIC, EPF, taxation, and statutory requirements.",
-            "title": "Compliance Management"
+            "richTitle": [
+              {
+                "_key": "1339f1b4e761",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "31fe65f29b47",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Compliance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "16fe88bf6070",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "31fe65f29b47",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Management"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "mnea76s157",
             "description": "Quick onboarding of skilled professionals for project-based needs.",
-            "title": "Faster Deployment"
+            "richTitle": [
+              {
+                "_key": "6cc4c4bfb146",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2a783c40e9a7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Faster "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1abdd67e0152",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2a783c40e9a7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Deployment"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "3zw16a5d4z",
             "description": "Reduce fixed costs and avoid long-term employee liabilities.",
-            "title": "Cost Optimization"
+            "richTitle": [
+              {
+                "_key": "0a306b036133",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5f82e6e4838e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cost "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6b742c8b3dbc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5f82e6e4838e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Optimization"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -24746,7 +24978,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Talent Mapping"
+            "richTitle": [
+              {
+                "_key": "d0151083e149",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "89f8a51727bb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Talent "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "72983bbb018d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "89f8a51727bb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Mapping"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "bt66b7zxja",
@@ -24758,7 +25019,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Screening & Evaluation"
+            "richTitle": [
+              {
+                "_key": "79fe211e7f09",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "45fdc0825f10",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Screening & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6dd25cccc41e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "45fdc0825f10",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Evaluation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "s5a350xv68",
@@ -24770,7 +25060,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Offer & Onboarding"
+            "richTitle": [
+              {
+                "_key": "709a8c0412cc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f4d6feaa3eb9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Offer & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d8116c250012",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f4d6feaa3eb9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Onboarding"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
