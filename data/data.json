@@ -10469,15 +10469,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9OFdF",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "6fCNpx7G4GCpNgpiNlaw9s"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T07:13:44Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -10510,7 +10510,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Slow Clearing Cycles"
+            "richTitle": [
+              {
+                "_key": "35daaf2ad96d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "35083eddfaa7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Slow Clearing "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4b83ec43ad7a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "35083eddfaa7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cycles"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "b5xxs37kda",
@@ -10523,7 +10552,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Operational Errors"
+            "richTitle": [
+              {
+                "_key": "f09a23a615d1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "aa7d7831600c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d68d6243d6c5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "aa7d7831600c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Errors"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "kngbu7sqek",
@@ -10536,7 +10594,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Higher Operational Costs"
+            "richTitle": [
+              {
+                "_key": "f675972b9680",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "26375bb1df9b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Higher Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2d6ce2648de8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "26375bb1df9b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Costs"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "vwvvlvzq7g",
@@ -10549,7 +10636,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Limited Transparency"
+            "richTitle": [
+              {
+                "_key": "83a3fe1eefc5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "600f017cc26c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Limited "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3dd1f578625c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "600f017cc26c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Transparency"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -10599,7 +10715,36 @@
                 "_type": "reference"
               }
             },
-            "title": "CBS Integration"
+            "richTitle": [
+              {
+                "_key": "c7541fd3da46",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f6162957a280",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "CBS "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3e5da529eb44",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f6162957a280",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8138n5j543",
@@ -10611,7 +10756,36 @@
                 "_type": "reference"
               }
             },
-            "title": "CHI / Sponsor Bank Connectivity"
+            "richTitle": [
+              {
+                "_key": "43ab04828a0e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fbd88fe2ec23",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "CHI / Sponsor Bank "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b5d00577d8fe",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fbd88fe2ec23",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Connectivity"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "hqkwfvx6mk",
@@ -10623,7 +10797,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Automated File Handling"
+            "richTitle": [
+              {
+                "_key": "eba3f9397790",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cc000633425a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Automated File "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "9f9671edd4c8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cc000633425a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Handling"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8k68ynvtps",
@@ -10635,7 +10838,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Secure Data Transmission"
+            "richTitle": [
+              {
+                "_key": "0abe98498bd4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4fbb62ca8447",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Secure Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3c81fc26aba9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4fbb62ca8447",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Transmission"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -10723,7 +10955,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Auto File Download"
+            "richTitle": [
+              {
+                "_key": "9724b4259aaa",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7c45abdcfc5f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Auto File "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "67ff56ecb035",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7c45abdcfc5f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Download"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "9bwmex3ug5",
@@ -10735,7 +10996,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Data Conversion"
+            "richTitle": [
+              {
+                "_key": "f899e533e4aa",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2daf0b3047e1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2f6fbeb671a6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2daf0b3047e1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Conversion"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "omh36guue6",
@@ -10747,7 +11037,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Continuous Clearing Support"
+            "richTitle": [
+              {
+                "_key": "e38ae677a442",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b491bc6db33a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Continuous "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ee447ab94d71",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b491bc6db33a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Clearing Support"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "9y0jgdrf8j",
@@ -10759,7 +11078,22 @@
                 "_type": "reference"
               }
             },
-            "title": "Account Lookup & Signature Verification"
+            "richTitle": [
+              {
+                "_key": "8cf09a536eaf",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7a8cb545861e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Account Lookup & Signature Verification"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
