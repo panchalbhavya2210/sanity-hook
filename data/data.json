@@ -1243,36 +1243,27 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzGxp7j",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "GaUXHZ2ZYmBv5oOnYJWK7A"
+        "rev": "ZcJhm7Cr2zfVlbDl948Ryt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T12:04:35Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
         "_type": "heroSection",
-        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
-          "href": "https://bankaiapihub.aiplservices.com/",
-          "label": "Login to our Marketplace",
-          "variant": "primary"
+          "_type": "ctaButton",
+          "href": "https://bankaiapihub.aiplservices.com",
+          "label": "Login to our Marketplace"
         },
         "id": "hero",
-        "image": {
-          "_type": "image",
-          "asset": {
-            "_ref": "image-3950b97fec1fa64a35de3aa13194e752622ecf7e-1062x1008-png",
-            "_type": "reference"
-          }
-        },
         "subtitle": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
-        "title": "Empowering Seamless API Connectivity",
-        "variant": "split"
+        "title": "Empowering Seamless API Connectivity"
       },
       {
         "_key": "ma6fxen0wt",
@@ -1327,9 +1318,9 @@
             "title": "Scalable Infra"
           }
         ],
+        "headerSubtitle": "Why API Hub",
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Why API Hub",
         "titleParts": [
           {
             "_key": "3gt0jgvymn",
@@ -1393,7 +1384,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Usage Analytics"
+            "richTitle": [
+              {
+                "_key": "f4153c129f85",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1cd8a1983ec8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Usage "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "57ac50ad76a9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1cd8a1983ec8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analytics"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "b1yhm6a7qg",
@@ -1405,7 +1425,36 @@
                 "_type": "reference"
               }
             },
-            "title": "API Explorer"
+            "richTitle": [
+              {
+                "_key": "2616bbc543ee",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f135d3e19341",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e74c70df1238",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f135d3e19341",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Explorer"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -1454,7 +1503,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-8296b7863799ac3d2267ba3d5f5614012e688640-553x256-svg",
+                "_ref": "image-8053458a1d049881936021747b91a498b2fc4aae-553x256-svg",
                 "_type": "reference"
               }
             },
@@ -1468,7 +1517,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ec35b979a588a403eac5353ca75ae364d552699c-512x256-svg",
+                "_ref": "image-e71207cb0666c3f7f1a8b858705e64ec743b01a6-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1482,7 +1531,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-629428acf16429e6778058fd490a1b5f0b7b940a-512x256-svg",
+                "_ref": "image-d3615c93c27a6cb5877df4ee6c5dfb69d4479e9a-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1496,7 +1545,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-bb456e857421ad7bcf7c1c12b3269e9ead045d4f-512x256-svg",
+                "_ref": "image-34d963768f6127b6537df88aef2feabc7994dcbd-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1564,6 +1613,7 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
+          "icon": null,
           "subTitle": "The Future of API Management",
           "subTitleClassName": "",
           "text": {
@@ -1589,7 +1639,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-2c3bbd5db85a0500608fe3c3bc0c0519c4af39b1-512x256-svg",
+                "_ref": "image-d10c071e65bc05befa96f9d2774701528587626b-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1603,7 +1653,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-0cae65b8840b725d0dce50cd2ba569918d3e27ef-512x256-svg",
+                "_ref": "image-889ea55fdb3554db208dfe89082e002b3b63608d-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1617,7 +1667,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-295b06bdbfb40467064b21302542e13a8e43e99d-512x256-svg",
+                "_ref": "image-d70cecdb4a7be2d386f5f39f075d6bf8b299461c-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1631,7 +1681,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-5e73fd47787c8ddbfc7aa6877e11082a62464116-512x256-svg",
+                "_ref": "image-bf4da90f9ac11e5a33d8dac4e94633d663a75a48-512x256-svg",
                 "_type": "reference"
               }
             },
@@ -1660,7 +1710,6 @@
           },
           "titleTextClassName": ""
         },
-        "gridCols": 3,
         "id": "articles11",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -1672,12 +1721,11 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-6dc2428da6e8024e272d1b5b00c531248763721b-329x165-svg",
+                "_ref": "image-7828f7880b0c0a80edc31f92bc8c4b941f5a5403-329x165-svg",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
-            "isReversed": true,
             "title": "Full Functionality"
           },
           {
@@ -1687,28 +1735,26 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-5d3c2e9c1cc28bed3bb3aeff1d30c67eb91df254-329x165-svg",
+                "_ref": "image-f4f4661ad3cccd3e9c61fd9db1d159660568e8d4-329x165-svg",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
-            "isReversed": true,
             "title": "Real-Time Testing"
           },
           {
             "_key": "4uul7g06l8",
-            "description": "Access and test APIs instantly without complex setup",
+            "description": "Switch to production fast",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-534d1eb9c567d49056a092e041843660aa6c793d-329x165-svg",
+                "_ref": "image-c4c9712ddda60c15870fede7a904e27c3234fcd3-329x165-svg",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
-            "isReversed": true,
-            "title": "Instant API Access"
+            "title": "Easy Deployment"
           }
         ]
       },
@@ -1718,21 +1764,21 @@
         "capabilitesDetails": [
           {
             "_key": "yjdegsoab9",
-            "description": "Build, configure, and publish API services seamlessly with a developer-friendly      \t    workflow.",
+            "description": "Build, configure, and publish API services seamlessly with a developer-friendly workflow.",
             "hasList": false,
             "id": 1,
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ced383a4f010fd0f97134562848c6491ed46df38-597x519-svg",
+                "_ref": "image-9ada0c9eeaefc931fed58b38ea16ff18b0a87a93-597x519-svg",
                 "_type": "reference"
               }
             },
             "titleParts": [
               {
                 "_key": "r0s6vza6r9",
-                "color": "",
-                "text": " Create & Launch API Services Faster"
+                "color": "text-black",
+                "text": "Create & Launch API Services Faster"
               }
             ]
           },
@@ -1743,7 +1789,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-df41d4a498fd560d2351482f266c97c766700b63-598x519-svg",
+                "_ref": "image-2af22324b222fbbc47b169c5572c06e0c710224c-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1762,7 +1808,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-de1804a0bdd3f6f8068feecd2bec785267526410-597x519-svg",
+                "_ref": "image-fb3bb71cdd6025186aa3359636632b7c3a683076-597x519-svg",
                 "_type": "reference"
               }
             },
@@ -1770,7 +1816,7 @@
               {
                 "_key": "589dyqet9j",
                 "color": "text-black",
-                "text": "Real-Time API Monitoring"
+                "text": " Real-Time API Monitoring"
               }
             ]
           },
@@ -1781,7 +1827,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-62a89e049a79561fc8b8e45956d63b2cfedad474-598x519-svg",
+                "_ref": "image-3727492977866e4958fa2c25d05cfab36ba269e2-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1800,7 +1846,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-b4db89d637230644d907b5a4afc6fc7a57e47174-598x519-svg",
+                "_ref": "image-8f84d066a2f0dc48b617331f531a77949bcd8da6-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1814,12 +1860,12 @@
           },
           {
             "_key": "8uctdgpqbu",
-            "description": "Help developers explore, understand, and access API services with a seamless onboarding experience. ",
+            "description": "Help developers explore, understand, and access API services with a seamless onboarding experience.",
             "id": 4,
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-87265e222c7a5f2ed58de36c9a548b05a1aac183-598x519-svg",
+                "_ref": "image-946e35499f69d386ce90b6f24c24367ad05688e2-598x519-svg",
                 "_type": "reference"
               }
             },
@@ -1854,6 +1900,7 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
+          "icon": null,
           "subTitle": "The Future of API Management",
           "subTitleClassName": "Monitoring & Analytics",
           "text": {
@@ -1879,7 +1926,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d68d84585b281759596269924238236403e428f8-520x260-svg",
+                "_ref": "image-55fe6df54e231a4075562140240ed188fb3f9ebf-520x260-svg",
                 "_type": "reference"
               }
             },
@@ -1893,10 +1940,11 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a19b93aa99aa30a6b970ceea128d5c384cb3e210-520x260-svg",
+                "_ref": "image-7ae3eec9f369560173400a046d2c9f85e219af96-520x260-svg",
                 "_type": "reference"
               }
             },
+            "imageAlt": "",
             "title": "Advanced Usage Analytic"
           },
           {
@@ -1906,7 +1954,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ed7db82b79dc69b2133759106dbbff3e5b1dbef4-522x260-svg",
+                "_ref": "image-cc3d5a4765f9fa7f495ba998173bdee68121e762-522x260-svg",
                 "_type": "reference"
               }
             },
@@ -1920,7 +1968,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d3546772f1ecaedb67112a85d66ec4ba88773217-451x225-svg",
+                "_ref": "image-5d937cadd673e9c8ae77707cc7c1617d34f384e5-451x225-svg",
                 "_type": "reference"
               }
             },
@@ -1933,7 +1981,7 @@
         "_key": "af8b525ab287",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "subTitleText": "• Transparent Pricing, No Hidden Fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
+          "subTitleText": "• Transparent pricing—no hidden fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
           "text": {
             "title": [
               {
@@ -1961,7 +2009,7 @@
           {
             "_key": "775d14394d99",
             "_type": "quickActionCard",
-            "description": "Pay only for what you use, perfect for unpredictable traffic or seasonal scaling.",
+            "description": "Pay only for what you use—perfect for unpredictable traffic or seasonal scaling.\n",
             "title": "Usage-Based Pricing"
           },
           {
@@ -1975,47 +2023,44 @@
       {
         "_key": "1q6ve3uios",
         "_type": "contactCtaSection",
-        "description": "Manage APIs efficiently with centralized governance, intelligent analytics, and enterprise-grade scalability.",
+        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
         "titleParts": [
           {
             "_key": "y8pmcn30bh",
             "color": "text-brand-600",
-            "text": "Unlock "
+            "text": "Unlock Faster Integrations "
           },
           {
-            "_key": "877b682de05e",
-            "_type": "titlePart",
-            "color": "text-brand-600",
-            "text": "Faster Integrations "
-          },
-          {
-            "_key": "02a0c541b76e",
-            "_type": "titlePart",
+            "_key": "gpzlhnscyn",
             "color": "text-black",
             "text": "With "
           },
           {
-            "_key": "c3b41980ac34",
-            "_type": "titlePart",
+            "_key": "1xccgt4se4",
             "color": "text-warning",
             "text": "One API Platform"
+          },
+          {
+            "_key": "f8dhzrbeeg",
+            "color": "text-warning",
+            "text": "Partner"
           }
         ]
       }
     ],
     "seo": {
-      "description": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
+      "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
       "keywords": [
         "core modernization",
         "legacy core banking",
         "cloud banking transformation",
         "API-first banking"
       ],
-      "ogDescription": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
-      "ogTitle": "Empowering Seamless API Connectivity",
-      "title": "Empowering Seamless API Connectivity",
+      "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
+      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
+      "title": "Core Modernization Consulting | BankAI",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
