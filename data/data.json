@@ -17977,15 +17977,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0cdRW",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "kASO4urNESeuuyiE2LMeGL"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T07:27:50Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -18031,7 +18031,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Instant Deployment"
+            "richTitle": [
+              {
+                "_key": "45310bd5f4b4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0607f9f354bb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Instant "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c41a507035f6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0607f9f354bb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Deployment"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "4jxqtd23f5",
@@ -18044,7 +18073,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Reusable Logic"
+            "richTitle": [
+              {
+                "_key": "88a2482cdae6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f63fc1780f9a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reusable "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "24a85b1605e6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f63fc1780f9a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Logic"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "baeduk21cm",
@@ -18057,7 +18115,36 @@
                 "_type": "reference"
               }
             },
-            "title": "API-Ready Architecture"
+            "richTitle": [
+              {
+                "_key": "c2da369fe26b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a148113b7ac8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API-Ready "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "0b2d182fab51",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a148113b7ac8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Architecture"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -18213,22 +18300,138 @@
           {
             "_key": "1ijyoa3orv",
             "description": "Transform Excel formulas into instant real-time calculations. ",
-            "title": "One-Click Excel Spreadsheet Calculation"
+            "richTitle": [
+              {
+                "_key": "9fb578f58722",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "132bdc4406f5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "One-Click Excel "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4a1513d4051d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "132bdc4406f5",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Spreadsheet Calculation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "2trgyhvstu",
             "description": "Connect APIs to web, mobile, or enterprise systems easily.",
-            "title": "Effortless Integration"
+            "richTitle": [
+              {
+                "_key": "2e8c7ede30fc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "14e3637f74ff",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Effortless "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "24c432595301",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "14e3637f74ff",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jal2ew0pb2",
             "description": "Configure Excel input/output mappings directly within the application.",
-            "title": "Simplified Maintenance"
+            "richTitle": [
+              {
+                "_key": "652fa5a34661",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "23c27ef54f87",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Simplified "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "35c689c8af4a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "23c27ef54f87",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Maintenance"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "fduecvr9gi",
             "description": "Eliminate need for custom development teams.",
-            "title": "No Backend Dependency"
+            "richTitle": [
+              {
+                "_key": "83bd913615be",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d4ae39152283",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "No Backend "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ee47f880c99d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d4ae39152283",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Dependency"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -18248,7 +18451,36 @@
                 "_type": "reference"
               }
             },
-            "title": "REST API Support"
+            "richTitle": [
+              {
+                "_key": "8a9159d9e2af",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a2db3a867cc0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "REST API "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "a29583ea61ea",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a2db3a867cc0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Support"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "yhfoo65p2x",
@@ -18260,7 +18492,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Multi-Platform Integration"
+            "richTitle": [
+              {
+                "_key": "ef8612de0703",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b85a68f48b36",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Multi-Platform "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "750e152ee601",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b85a68f48b36",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "myuo8390d6",
@@ -18272,7 +18533,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Instant Response Execution"
+            "richTitle": [
+              {
+                "_key": "e15524f708d0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "54f538d25fde",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Instant Response "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "06deed84b81b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "54f538d25fde",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Execution"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "2puzwetu73",
@@ -18284,7 +18574,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Plug-and-Play Setup"
+            "richTitle": [
+              {
+                "_key": "780c16220216",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f294e63b9317",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Plug-and-Play "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "0a8653ae7880",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f294e63b9317",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Setup"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -18468,7 +18787,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Save Development Time"
+            "richTitle": [
+              {
+                "_key": "6a6df883af89",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5677fd0e3744",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Save Development "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "587e5ceea3de",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5677fd0e3744",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Time"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8nurixdimn",
@@ -18480,7 +18828,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Reduced Implementation Timeline"
+            "richTitle": [
+              {
+                "_key": "42c258b3a270",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ae1cf9a79474",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reduced Implementation "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "aab7a42fde43",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ae1cf9a79474",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Timeline"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "gpyc2k23cf",
@@ -18492,7 +18869,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Faster Go-to-Market"
+            "richTitle": [
+              {
+                "_key": "7b250972d660",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0d17326ac702",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Faster "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "22e713f36814",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0d17326ac702",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Go-to-Market"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "z06k6n1zsp",
@@ -18504,7 +18910,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Empower Business Teams"
+            "richTitle": [
+              {
+                "_key": "4ecd048f3699",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5d6dc3063ddf",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Empower Business "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "88eed9368bd6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5d6dc3063ddf",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Teams"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
