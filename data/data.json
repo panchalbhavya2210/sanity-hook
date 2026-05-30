@@ -20576,15 +20576,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0e1Wy",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "Dtz5j1oaWW6Cl3KegHo8RR"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T09:04:36Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -20630,7 +20630,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Speed of Migration"
+            "richTitle": [
+              {
+                "_key": "e24577b95307",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "76871c909a53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Speed of "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2a795134324f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "76871c909a53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Migration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "lyhckh6d6w",
