@@ -19969,15 +19969,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0eAXE",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "FCaX7e7F3kXCkn0uFMdRj6"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T09:11:54Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20010,7 +20010,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Too Many Vendors"
+            "richTitle": [
+              {
+                "_key": "db4975e9d27b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7afff83ce60e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Too Many "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "da9a92252ef2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7afff83ce60e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Vendors"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "wjnwl5l16z",
@@ -20023,7 +20052,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Longer Downtimes"
+            "richTitle": [
+              {
+                "_key": "20180da40b43",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "185b28e06ebb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Longer "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "bd6ba1dba1ac",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "185b28e06ebb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Downtimes"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "gxys1lnymg",
@@ -20036,7 +20094,36 @@
                 "_type": "reference"
               }
             },
-            "title": "High Maintenance Costs"
+            "richTitle": [
+              {
+                "_key": "ba741688e6db",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5680038dce1c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High Maintenance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "422000830968",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5680038dce1c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Costs"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "pal2nvxv6y",
@@ -20049,7 +20136,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Lack of Integration"
+            "richTitle": [
+              {
+                "_key": "ebeae676f349",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "940d2d7bf9d8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Lack of "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "a478068d9911",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "940d2d7bf9d8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -20144,7 +20260,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Bank-Grade Security"
+            "richTitle": [
+              {
+                "_key": "f20566c551ed",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6050925b0657",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Bank-Grade "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "308b64987633",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6050925b0657",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Security"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "tiryg3q4co",
@@ -20243,12 +20388,70 @@
           {
             "_key": "zbj0zculez",
             "description": "One agreement for CBS + Switch.",
-            "title": "Simplified Contracts"
+            "richTitle": [
+              {
+                "_key": "f4389c0e3c5e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "70f7e1342fdb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Simplified "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f4b147a1b901",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "70f7e1342fdb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Contracts"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "s422ttnsry",
             "description": "Future upgrades and features under one vision.",
-            "title": "Unified Roadmap"
+            "richTitle": [
+              {
+                "_key": "05b1a07e5214",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6fe96c62fa75",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Unified "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d0bd799730af",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "6fe96c62fa75",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Roadmap"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
