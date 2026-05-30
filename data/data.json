@@ -13304,15 +13304,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "UAjCtlAuHSg7wG7TzFw5lk",
+    "_rev": "UAjCtlAuHSg7wG7TzHEEcw",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "UAjCtlAuHSg7wG7TzFw5lk"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T12:19:58Z",
+    "_updatedAt": "2026-05-30T17:31:51Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -13602,7 +13602,7 @@
         "fullImageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-632596e6044f63b942279d746d38e7a45453c4e1-1926x450-webp",
+            "_ref": "image-9fd6f82935d178d57faf929742069ea4edaee710-1284x300-svg",
             "_type": "reference"
           }
         },
