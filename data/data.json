@@ -16454,15 +16454,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9YmaG",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "kASO4urNESeuuyiE2LPDAU"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T08:59:59Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -16518,7 +16518,36 @@
                 "_type": "reference"
               }
             },
-            "title": "SWIFT Integration"
+            "richTitle": [
+              {
+                "_key": "8ee73fd23044",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0b60479059ec",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "SWIFT "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "9b97a680818a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0b60479059ec",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "bp7hljc31q",
