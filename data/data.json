@@ -6366,15 +6366,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "UAjCtlAuHSg7wG7TzGqAyS",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "FCaX7e7F3kXCkn0uFMd6Cd"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T09:03:24Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -6433,7 +6433,36 @@
                 "_type": "reference"
               }
             },
-            "title": "API-First Enablement"
+            "richTitle": [
+              {
+                "_key": "033c556c1ff6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "90e8a58f2d0a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API-First "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3ca1f450d33c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "90e8a58f2d0a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Enablement"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "7zurff8qoa",
@@ -6528,7 +6557,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Regulatory Ready"
+            "richTitle": [
+              {
+                "_key": "3ded10ac82bc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d701c6c2584e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regulatory "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "920702c0da54",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d701c6c2584e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ready"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "1h5mg6y5j4",
@@ -6540,7 +6598,36 @@
                 "_type": "reference"
               }
             },
-            "title": "AI-Powered Insights"
+            "richTitle": [
+              {
+                "_key": "cc0430a9e07e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68f61a46b3e0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "AI-Powered "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "396d47e49dc7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "68f61a46b3e0",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Insights"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "gkasmcggsq",
@@ -6552,7 +6639,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Increased Efficiency"
+            "richTitle": [
+              {
+                "_key": "5a5685429465",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "142fd41cd82d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Increased "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "bfd11481d68b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "142fd41cd82d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Efficiency"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -6614,19 +6730,106 @@
             "_key": "efcn3o70kf",
             "description": "Data replication across geographies for resilience.",
             "icon": null,
-            "title": "Change Management Built-In"
+            "richTitle": [
+              {
+                "_key": "ee2f5cf9bc4a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b8c72c0191f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Change Management "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "3952ff3087ee",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b8c72c0191f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Built-In"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8geqwi7xl6",
             "description": "Built-in cloud-native protection and compliance.",
             "icon": null,
-            "title": "Fortified Cloud Security"
+            "richTitle": [
+              {
+                "_key": "2647a1fd7208",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3486ecf4eeec",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Fortified Cloud "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "719ed5c784f7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3486ecf4eeec",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Security"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "1fe0zax51k",
             "description": "Auto-scaling resources to optimize cost and performance.",
             "icon": null,
-            "title": "Elastic Scalability"
+            "richTitle": [
+              {
+                "_key": "61b60cf0b903",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ed66fff593f3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Elastic "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6f5142d19f53",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "ed66fff593f3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Scalability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
