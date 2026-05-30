@@ -2027,15 +2027,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "tYwdV2ldLdzJB4kwq0cPZ6",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9PrxG",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "tYwdV2ldLdzJB4kwq0cPZ6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:09:48Z",
+    "_updatedAt": "2026-05-30T07:30:05Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -2107,7 +2107,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Complete Visibility"
+            "richTitle": [
+              {
+                "_key": "2f3e0620fe9a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9601d9756992",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Complete "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d5982abafa28",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9601d9756992",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Visibility"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -2403,7 +2432,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Webhooks & Events"
+            "richTitle": [
+              {
+                "_key": "ce78cc19b584",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "563496174065",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Webhooks & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "acc845762ad7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "563496174065",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Events"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "fypmkk15up",
