@@ -2027,15 +2027,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq0cPZ6",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "wirPkNS5nbxpFCQN7jiqw8"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T07:09:48Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -2045,7 +2045,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-9dbe17d3c6e9570eff2d3fafad0a575f8ae781d7-1062x1008-png",
+            "_ref": "image-70799c88140ef5e71a8adeb1e382e180539922b0-704x672-png",
             "_type": "reference"
           }
         },
