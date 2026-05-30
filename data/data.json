@@ -15300,15 +15300,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "bM4Vn6Xhr0kQ8myfj9OjX6",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "x9AkaoQOe6dzdFl4eKYi6v"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-05-30T07:18:52Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -15341,7 +15341,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Multiple Data Sources"
+            "richTitle": [
+              {
+                "_key": "012f383ab2d4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bd7e1682d73c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Multiple Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "fdee6b9597b5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bd7e1682d73c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Sources"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "yg2u69l1hb",
@@ -15354,7 +15383,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Manual Processing Delays"
+            "richTitle": [
+              {
+                "_key": "99bc18fb10c3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e4d2e00a7fb7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Manual Processing "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "eb7402df3923",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e4d2e00a7fb7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Delays"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ere76m76ck",
@@ -15367,7 +15425,36 @@
                 "_type": "reference"
               }
             },
-            "title": "High Operational Risk"
+            "richTitle": [
+              {
+                "_key": "833a07f19299",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4d3ccecd57d8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "56747d1c5bee",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4d3ccecd57d8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Risk"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "etngn8q3yz",
@@ -15380,7 +15467,36 @@
                 "_type": "reference"
               }
             },
-            "title": " Limited Visibility"
+            "richTitle": [
+              {
+                "_key": "f17d479ed155",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "36cead8e2337",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Limited "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e66ee2707feb",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "36cead8e2337",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Visibility"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
@@ -15684,7 +15800,36 @@
                 "_type": "reference"
               }
             },
-            "title": "User Roles & Access"
+            "richTitle": [
+              {
+                "_key": "3bbaf88a76bc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eeb9435b67be",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "User Roles & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "69aad48c392e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eeb9435b67be",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Access"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "p74fg047e7",
@@ -15696,7 +15841,36 @@
                 "_type": "reference"
               }
             },
-            "title": "System Parameters"
+            "richTitle": [
+              {
+                "_key": "261b67a279df",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a4602414f856",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "System "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "60a826c62f54",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a4602414f856",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Parameters"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "6rh2kpz055",
@@ -15708,7 +15882,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Account Mapping"
+            "richTitle": [
+              {
+                "_key": "72ad67ceb2c2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9fba1a14cd53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Account "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7bd5d7e4f972",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9fba1a14cd53",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Mapping"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ldj82jzf6i",
@@ -15720,7 +15923,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Terminal & Balance Management"
+            "richTitle": [
+              {
+                "_key": "855b47bca7ac",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8d2cf08896d9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Terminal & Balance "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "4f9084e54350",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8d2cf08896d9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Management"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
@@ -15783,22 +16015,138 @@
           {
             "_key": "xihak2vlgh",
             "description": "Upload entire folders instead of individual files.",
-            "title": "Bulk File Import"
+            "richTitle": [
+              {
+                "_key": "bbc253fc6395",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "da85eafa02fa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Bulk File "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e9bd0e8672d0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "da85eafa02fa",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Import"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jzvj7sj5yw",
             "description": "Automatically categorize and process different file types.",
-            "title": "Auto File Detection"
+            "richTitle": [
+              {
+                "_key": "7f30d1e9fcb5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b765cb7c62f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Auto File "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "387f30ed0f30",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b765cb7c62f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Detection"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "mqe70rzs7v",
             "description": "Run reconciliation for past data whenever required.",
-            "title": "Backdated Reconciliation"
+            "richTitle": [
+              {
+                "_key": "e9412d811f6c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bab0a219975f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Backdated "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "369c8030bc61",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bab0a219975f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reconciliation"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "770c824l5s",
             "description": "Visual dashboards provide clear reconciliation insights.",
-            "title": "Graphical Insights"
+            "richTitle": [
+              {
+                "_key": "b15569fb7ca1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7652f3ca5fa2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Graphical "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "b38459134e52",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7652f3ca5fa2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Insights"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -15818,7 +16166,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Reconciliation Reports"
+            "richTitle": [
+              {
+                "_key": "520dadacaab3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "440432b791cd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reconciliation "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f4f1c0ba8f49",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "440432b791cd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reports"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "67cjy7tdf2",
@@ -15830,7 +16207,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Timeout Transaction "
+            "richTitle": [
+              {
+                "_key": "0c462feef60e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fdf94ea7f297",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Timeout "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "62cb5e05acad",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "fdf94ea7f297",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Transaction"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "g1v89uknqf",
@@ -15842,7 +16248,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Adjustment Reports"
+            "richTitle": [
+              {
+                "_key": "f301d2a91ca7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b0c5191981a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Adjustment "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f9464d111340",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1b0c5191981a",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reports"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "yswt5cb7jo",
@@ -15854,7 +16289,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Downloadable Reports"
+            "richTitle": [
+              {
+                "_key": "7936be4bddf4",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd259cc9a62c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Downloadable "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "deb08a378cde",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "cd259cc9a62c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reports"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "journeyHeader": {
