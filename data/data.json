@@ -1243,27 +1243,36 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "UAjCtlAuHSg7wG7TzGxp7j",
+    "_rev": "tYwdV2ldLdzJB4kwq1RNfk",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "ZcJhm7Cr2zfVlbDl948Ryt"
+        "rev": "UAjCtlAuHSg7wG7TzGxp7j"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T12:04:35Z",
+    "_updatedAt": "2026-06-01T05:48:59Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
         "cta": {
           "_type": "ctaButton",
           "href": "https://bankaiapihub.aiplservices.com",
           "label": "Login to our Marketplace"
         },
         "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-59efedbc333e647214217375c350245d253ab0a2-708x672-png",
+            "_type": "reference"
+          }
+        },
         "subtitle": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
-        "title": "Empowering Seamless API Connectivity"
+        "title": "Empowering Seamless API Connectivity",
+        "variant": "split"
       },
       {
         "_key": "ma6fxen0wt",
