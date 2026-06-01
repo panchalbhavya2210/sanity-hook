@@ -3759,19 +3759,18 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq1RRzu",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "jiTD4CUAQ1as8FLtN7K0lE"
+        "rev": "GWOVDfiedfaJZayS3aq2sN"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-06-01T05:57:51Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
-      "id": "1",
       "image": {
         "_type": "image",
         "asset": {
@@ -3783,9 +3782,16 @@
       "title": "Designing the Future of Banking",
       "variant": "split"
     },
+    "seo": {
+      "_type": "seoObject",
+      "description": "From legacy systems to modern digital experiences, explore how we transform banking products into intuitive, scalable, and customer-first platforms.",
+      "ogDescription": "From legacy systems to modern digital experiences, explore how we transform banking products into intuitive, scalable, and customer-first platforms.",
+      "ogTitle": "Designing the Future of Banking",
+      "title": "Designing the Future of Banking"
+    },
     "slug": {
       "_type": "slug",
-      "current": "case-studies"
+      "current": "case-study"
     },
     "studies": [
       {
@@ -3844,7 +3850,7 @@
         "logo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-20e0d60f46edd88fd9c212a6fb058a8dbfb2c0d9-512x512-png",
+            "_ref": "image-a50ce580794e2d33e88ef6b2f335770f0e7e20c0-512x512-png",
             "_type": "reference"
           }
         },
@@ -3997,7 +4003,7 @@
         "logo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-55d958e2e54b8554767e0ed72364fd2d8f7d7345-146x126-png",
+            "_ref": "image-cde62e2dfded59c25cdce403a3d064f3958c23d1-146x126-png",
             "_type": "reference"
           }
         },
@@ -4145,7 +4151,7 @@
         "logo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-ec5cface46d148efd8890b1553134ac14209d240-200x200-png",
+            "_ref": "image-e8e08fd572f601b0454c3f07c6fe9f9695a6a920-200x200-png",
             "_type": "reference"
           }
         },
@@ -4282,7 +4288,7 @@
         "logo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-148d1402699ce7c4b55785bfd11b162a37509818-200x200-png",
+            "_ref": "image-9991f902e6a452aa610ad1daf86f8fced982c25d-200x200-png",
             "_type": "reference"
           }
         },
@@ -4415,7 +4421,7 @@
         "logo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-033adb788c4ad24dfbc7b8d432e4eb695cb05136-225x225-png",
+            "_ref": "image-11ade33a3a2c769fab1c15ad97f55e4710aa088c-225x225-png",
             "_type": "reference"
           }
         },
@@ -4463,7 +4469,7 @@
         "theme": "light"
       }
     ],
-    "title": "Case Study"
+    "title": "Case Studies"
   },
   {
     "_createdAt": "2026-05-07T10:06:08Z",
