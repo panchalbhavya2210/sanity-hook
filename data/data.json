@@ -1243,15 +1243,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "tYwdV2ldLdzJB4kwq1RSbk",
+    "_rev": "tYwdV2ldLdzJB4kwq1RVpu",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "tYwdV2ldLdzJB4kwq1RNfk"
+        "rev": "UAjCtlAuHSg7wG7TzIupGO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-01T05:59:44Z",
+    "_updatedAt": "2026-06-01T06:01:11Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -1719,6 +1719,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 3,
         "id": "articles11",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -1990,7 +1991,7 @@
         "_key": "af8b525ab287",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "subTitleText": "• Transparent pricing—no hidden fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
+          "subTitleText": "• Transparent Pricing, No Hidden Fees\n• Volume discounts and bundled options for partners\n• Upgrade/downgrade anytime as your business evolves",
           "text": {
             "title": [
               {
