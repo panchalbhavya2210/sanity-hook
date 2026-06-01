@@ -21501,19 +21501,27 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "tYwdV2ldLdzJB4kwq1R8mG",
+    "_rev": "UAjCtlAuHSg7wG7TzJUk8f",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "7JFZabLQagH5TO1qrtpGGP"
+        "rev": "tYwdV2ldLdzJB4kwq1R8mG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-01T04:53:38Z",
+    "_updatedAt": "2026-06-01T13:14:36Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
         "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "headingLogo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-0e340315c7ace65c5c7e670f2594364bd5b8ca62-1030x306-jpg",
+            "_type": "reference"
+          }
+        },
         "id": "hero",
         "image": {
           "_type": "image",
@@ -21523,7 +21531,8 @@
           }
         },
         "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
-        "title": "Validate. Translate. Automate Financial Messages — Instantly"
+        "title": "Validate. Translate. Automate Financial Messages — Instantly",
+        "variant": "split"
       },
       {
         "_key": "v1sci0rnoh",
