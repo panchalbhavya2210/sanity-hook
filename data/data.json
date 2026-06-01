@@ -21478,27 +21478,19 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "tYwdV2ldLdzJB4kwq1R8mG",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "XqgcJAHSz5e5kILtKCmRH4"
+        "rev": "7JFZabLQagH5TO1qrtpGGP"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-06-01T04:53:38Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
         "_type": "heroSection",
-        "backgroundColor": "bg-[#006DFF1A]",
-        "headingLogo": {
-          "_type": "image",
-          "asset": {
-            "_ref": "image-e8ee56c43f736704a6d959f681c46cfa2bbc47b3-554x165-jpg",
-            "_type": "reference"
-          }
-        },
         "id": "hero",
         "image": {
           "_type": "image",
@@ -21508,8 +21500,7 @@
           }
         },
         "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
-        "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
-        "variant": "split"
+        "title": "Validate. Translate. Automate Financial Messages — Instantly"
       },
       {
         "_key": "v1sci0rnoh",
@@ -21568,9 +21559,9 @@
             "title": "Learning Curve"
           }
         ],
+        "headerSubtitle": "The Solution",
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "The Solution",
         "titleParts": [
           {
             "_key": "n3xyj261tm",
@@ -21603,7 +21594,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-305cbac4d26059816674b1051925f96d713c2d9f-2880x1194-png",
+            "_ref": "image-708ddbd34345d687e8792ac99e3244416af4def9-2880x1194-webp",
             "_type": "reference"
           }
         },
@@ -21638,7 +21629,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Fintech Platforms"
+            "richTitle": [
+              {
+                "_key": "9146bfd6a467",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9466b3d08cf7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Fintech "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "401524867c28",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9466b3d08cf7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Platforms"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "e91wzoapvo",
@@ -21650,7 +21670,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Developers & QA Teams"
+            "richTitle": [
+              {
+                "_key": "9c23776429d7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f73eaa1361bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Developers & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f0a7a855359b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f73eaa1361bd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "QA Teams"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "r55bfnhccy",
@@ -21711,7 +21760,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d002640b474601a1df61ba26c2f445693001791c-1140x496-webp",
+                "_ref": "image-399b9b703b94e65b965b9f63e025094a53566600-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21725,7 +21774,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-25e64a865ca7a8a528d84bf6a394707330fc6168-1140x496-webp",
+                "_ref": "image-ddb0c7527487765381276800753bfd3bf13ebd01-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21739,7 +21788,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-db196da481d4c8025966e2d69a7c5d5f8cab5815-1140x496-webp",
+                "_ref": "image-3769accb3d5dcf58b1992a366b02fe60616d415b-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21753,7 +21802,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3ebe2e9e61890101dffbcca10bcc7ec582c3f2af-1140x496-webp",
+                "_ref": "image-21c72346c5e2d7239114f6b63b210904baf08e8c-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21771,7 +21820,7 @@
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-ff6c6ae072d265adddbd922e3357d9c3d6fe0bce-1440x697-jpg",
+            "_ref": "image-383671d2f16fa57f00b8514c5aa7a61532ef6f85-2880x1394-webp",
             "_type": "reference"
           }
         },
@@ -21813,12 +21862,70 @@
           {
             "_key": "5yfeddu9qg",
             "description": "Accelerate development and reduce debugging time.",
-            "title": "Real-Time Feedback"
+            "richTitle": [
+              {
+                "_key": "00c72c5ecffe",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "873fd1cb56eb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Real-Time "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "7d147049d759",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "873fd1cb56eb",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Feedback"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "d6dw5lr2nl",
             "description": "Manage returns, replies, and edge cases automatically.",
-            "title": "Exception Handling"
+            "richTitle": [
+              {
+                "_key": "85adf48fe9b2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "53b7e58ddf24",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Exception "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ffb0c88085d9",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "53b7e58ddf24",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Handling"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
@@ -21826,7 +21933,6 @@
         "_key": "axzga6jo38",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
-          "icon": null,
           "subTitleText": "Business Impact",
           "text": {
             "title": [
@@ -21840,7 +21946,6 @@
           }
         },
         "bgColor": "bg-brand-600",
-        "hasParentContainer": true,
         "id": "quickActionCardParent6",
         "isChild": false,
         "isTextWhite": true,
@@ -21848,12 +21953,70 @@
           {
             "_key": "ub2huz0q76",
             "description": "Reduce delays caused by manual validation.",
-            "title": "Faster Processing"
+            "richTitle": [
+              {
+                "_key": "489c593e7e3e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4052d09f7214",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Faster "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "6776e1679924",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "4052d09f7214",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "xuosmz5ig3",
             "description": "Minimize manual effort and rework.",
-            "title": "Lower Operational Costs"
+            "richTitle": [
+              {
+                "_key": "c18d555e1d8b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "710f40ce7d6e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Lower "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "361207d5f6bf",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "710f40ce7d6e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Operational Costs"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ee08u3ykcr",
@@ -21872,7 +22035,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Why Choose MXcelerate",
           "subTitleClassName": "",
           "text": {
@@ -21898,7 +22060,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-960ae58f7326350ab6639ac373aeb305e5330c0a-1140x496-webp",
+                "_ref": "image-8f5757d6ee1df1fdc6f17ed3e6fc8ec1b634a5ab-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21912,7 +22074,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ba5ef018d077bd4ad54b8046d7b3536de430bc50-1140x496-webp",
+                "_ref": "image-e627d5279ff6c2bffad1ef1a465cfe393128d8aa-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21926,7 +22088,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ad97a8b75cea487e14544020355eddaa28d3c2f9-1140x496-webp",
+                "_ref": "image-6420bc9a843e84c85741652ea2ed901f7ee34c07-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21940,7 +22102,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-0037dc3830888479f4d42ec4f85cb49751f95270-1140x496-webp",
+                "_ref": "image-ebc23b17b8bc3b38c6c24991624b4b85bc792338-1140x496-webp",
                 "_type": "reference"
               }
             },
@@ -21961,7 +22123,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-2d98bb9429e09cae7258b12081927e4cfbc8b75f-1254x1014-webp",
+                "_ref": "image-25e157103697cae7526637fcfb01ca276a599fd2-1254x1014-webp",
                 "_type": "reference"
               }
             },
@@ -21987,7 +22149,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-757f6f56297535498e2e67a5130f14af3554213b-1254x1014-webp",
+                "_ref": "image-f9e28b273cc3f24f4858e7c11977f06c471c178c-1254x1014-webp",
                 "_type": "reference"
               }
             },
@@ -22013,7 +22175,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-3f40086dd297296d8bc664545f87c71fa24c5fb7-1254x1014-webp",
+                "_ref": "image-fd0f2b1c4dbd8116ead361f67ba412fee4e9ccb9-1254x1014-webp",
                 "_type": "reference"
               }
             },
@@ -22039,7 +22201,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-8d8613826b9dab51f4a6fbcd6f625a7ceb7ee8ce-1254x1014-webp",
+                "_ref": "image-554d4544dd42ba750e4b5eeddc6dc5356b6b3043-1254x1014-webp",
                 "_type": "reference"
               }
             },
@@ -22077,7 +22239,6 @@
       {
         "_key": "6wb6yqk85p",
         "_type": "contactCtaSection",
-        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
         "subText": "Validate faster, translate smarter, and operate with complete confidence",
@@ -22111,7 +22272,7 @@
       }
     ],
     "seo": {
-      "description": "Validate. Translate. Automate. All in one unified platform.",
+      "description": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
       "image": null,
       "keywords": [
         "cheque clearing",
@@ -22120,7 +22281,7 @@
         "digital cheque clearing",
         "banking reconciliation"
       ],
-      "ogDescription": "Validate. Translate. Automate. All in one unified platform.",
+      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
       "ogTitle": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
       "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
       "url": "https://yourdomain.com/products/easy-cts"
@@ -22129,7 +22290,7 @@
       "_type": "slug",
       "current": "xcelerators/plugins/mxcelerate"
     },
-    "title": "MXCelerate"
+    "title": "MX Celerate"
   },
   {
     "_createdAt": "2026-04-16T04:45:06Z",
