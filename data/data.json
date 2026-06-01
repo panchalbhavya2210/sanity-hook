@@ -1243,15 +1243,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "tYwdV2ldLdzJB4kwq1RVpu",
+    "_rev": "UAjCtlAuHSg7wG7TzIuvBs",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "UAjCtlAuHSg7wG7TzIupGO"
+        "rev": "tYwdV2ldLdzJB4kwq1RVpu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-01T06:01:11Z",
+    "_updatedAt": "2026-06-01T06:01:43Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -2069,8 +2069,8 @@
         "API-first banking"
       ],
       "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
-      "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
-      "title": "Core Modernization Consulting | BankAI",
+      "ogTitle": "API Hub",
+      "title": "API Hub",
       "url": "https://yourdomain.com/products/core-modernization"
     },
     "slug": {
