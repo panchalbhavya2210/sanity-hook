@@ -18092,15 +18092,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "zdDSdhTDV24lASLsPdIzwq",
+    "_rev": "Af0w24d1UBF0wdCcQLs8hl",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "zdDSdhTDV24lASLsPdIzwq"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-02T06:57:14Z",
+    "_updatedAt": "2026-06-02T08:49:47Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -18248,7 +18248,7 @@
                 "_type": "reference"
               }
             },
-            "label": "Digi.X™",
+            "label": "Digi.X",
             "type": "link",
             "width": 114
           },
@@ -18386,31 +18386,6 @@
             "_key": "15557b9c-d6ce-47ad-984b-89dad119ee59",
             "href": "/case-study",
             "label": "Our Recent Case Studies",
-            "type": "headerLink"
-          },
-          {
-            "_key": "0fa37f97-a0d9-464d-871e-20c214eda74b",
-            "href": "#",
-            "label": "Whitepapers / eBooks",
-            "type": "headerLink"
-          },
-          {
-            "_key": "582e8031-bb28-4391-abd6-869795517afc",
-            "href": "#",
-            "label": "Videos / Webinars",
-            "type": "headerLink"
-          },
-          {
-            "_key": "c366d30d-6531-4b41-aa71-0376770a261e",
-            "href": "#",
-            "label": "Events & Announcement ",
-            "type": "headerLink"
-          },
-          {
-            "_key": "14eccd7d2d83",
-            "_type": "item",
-            "href": "#",
-            "label": "Join Our Seminar",
             "type": "headerLink"
           }
         ],
