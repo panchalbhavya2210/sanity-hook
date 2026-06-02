@@ -20200,15 +20200,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "zdDSdhTDV24lASLsPdLll6",
+    "_rev": "6XauXwCqdfjH3lSp8m2OO2",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "Af0w24d1UBF0wdCcQLnO54"
+        "rev": "zdDSdhTDV24lASLsPdLll6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T07:27:43Z",
+    "_updatedAt": "2026-06-02T07:29:04Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20602,9 +20602,7 @@
                   {
                     "_key": "7734341b42bb",
                     "_type": "span",
-                    "marks": [
-                      "strong"
-                    ],
+                    "marks": [],
                     "text": "Integrated "
                   }
                 ],
@@ -20618,9 +20616,7 @@
                   {
                     "_key": "7734341b42bb",
                     "_type": "span",
-                    "marks": [
-                      "strong"
-                    ],
+                    "marks": [],
                     "text": "Payment Hub"
                   }
                 ],
