@@ -20200,15 +20200,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "Af0w24d1UBF0wdCcQLnO54",
+    "_rev": "zdDSdhTDV24lASLsPdLll6",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "tYwdV2ldLdzJB4kwq0eAXE"
+        "rev": "Af0w24d1UBF0wdCcQLnO54"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T07:26:20Z",
+    "_updatedAt": "2026-06-02T07:27:43Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20225,204 +20225,6 @@
         "subtitle": "NPCI-Compliant IMPS & UPI Switching Platform for Banks & Fintechs.Secure, unified, and always-on payment infrastructure delivering speed, control, and seamless operations.",
         "title": "Powering the Future of Instant Digital Payments",
         "variant": "split"
-      },
-      {
-        "_key": "l273co1btq",
-        "_type": "coreInfoSection",
-        "features": [
-          {
-            "_key": "ogi9kypsoy",
-            "description": "Unify core banking, switching, and payment rails on a single OCI-powered infrastructure for faster innovation and simplified operations ",
-            "hasList": false,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-11707ed50def19f91bb9f44a7cbc7fadce8ce959-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "richTitle": [
-              {
-                "_key": "444ff47c490e",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "7734341b42bb",
-                    "_type": "span",
-                    "marks": [
-                      "strong"
-                    ],
-                    "text": "Integrated "
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              },
-              {
-                "_key": "292caa32d0d7",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "7734341b42bb",
-                    "_type": "span",
-                    "marks": [
-                      "strong"
-                    ],
-                    "text": "Payment Hub"
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              }
-            ]
-          },
-          {
-            "_key": "wjnwl5l16z",
-            "description": "Active-active architecture, automated failovers, and proactive edge monitoring ensure uninterrupted 24x7x365 payment availability with minimal transaction latency. ",
-            "hasList": false,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-05786ce955e2c365f0f9ddf92c9e89c5dd1f068c-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "richTitle": [
-              {
-                "_key": "74e874891993",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "9dc069e6c740",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Bulletproof "
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              },
-              {
-                "_key": "c0fcfeae7b7b",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "9dc069e6c740",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Availability"
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              }
-            ]
-          },
-          {
-            "_key": "gxys1lnymg",
-            "description": "Consolidate payment operations under a single resilient infrastructure to reduce maintenance overhead, vendor management complexity, and long-term operational costs. ",
-            "hasList": false,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "richTitle": [
-              {
-                "_key": "84e3767e5aba",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "b27e06ab8760",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Drastically "
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              },
-              {
-                "_key": "ad01dfc667a3",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "b27e06ab8760",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Reduce TCO"
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              }
-            ]
-          },
-          {
-            "_key": "pal2nvxv6y",
-            "description": "Integrate CBS, digital channels, third-party APIs, and NPCI ecosystems through standards-compliant APIs and messaging frameworks. ",
-            "hasList": false,
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-dbc18bb3dad79b7e41766d873e308e8521b884f4-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "richTitle": [
-              {
-                "_key": "20fd8afb5f6e",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "efbaec8193c7",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Seamless "
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              },
-              {
-                "_key": "1245c98380e2",
-                "_type": "block",
-                "children": [
-                  {
-                    "_key": "efbaec8193c7",
-                    "_type": "span",
-                    "marks": [],
-                    "text": "Integration"
-                  }
-                ],
-                "markDefs": [],
-                "style": "normal"
-              }
-            ]
-          }
-        ],
-        "id": "coreInfo",
-        "isTextBlack": true,
-        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
-        "titleParts": [
-          {
-            "_key": "ucdevua6y9",
-            "color": "text-black",
-            "text": "One Unified Rail. "
-          },
-          {
-            "_key": "iimy8zzfit",
-            "color": "text-brand-600",
-            "text": "Zero Bottlenecks. "
-          },
-          {
-            "_key": "220v9vf2sm",
-            "color": "text-warning",
-            "text": "Infinite Scale."
-          }
-        ]
       },
       {
         "_key": "hdln44255s",
@@ -20682,6 +20484,300 @@
         ]
       },
       {
+        "_key": "0b6zom1a8h",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "icon": null,
+          "subTitleText": "A single switch, many outcomes—speed, savings, security, and scale.",
+          "text": {
+            "title": [
+              {
+                "_key": "s3v9x54vvi",
+                "color": "text-white",
+                "text": "Transform Your Bank’s Payments with Bankai SaaS"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "bgColor": "brand",
+        "hasCardBackground": true,
+        "id": "quickActionCardParent7",
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "es0kk5e6ht",
+            "description": "A single unified partner for seamless NPCI integration, end-to-end security, and 24x7 dedicated enterprise support.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c33930822db5a3a02dbed931275fb761b5943bef-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Single Vendor Accountability"
+          },
+          {
+            "_key": "e8v5tuvivz",
+            "description": "Ensure operational continuity with a high-availability, active-active deployment architecture designed for minimal disruption.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ebfa6cdc9c6892cf5282a1a0f1a55a6d3b42ebc9-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Reduced Downtime"
+          },
+          {
+            "_key": "f3b6nihy03",
+            "description": "Unified CBS and switch orchestration under a single, modern ecosystem removes architectural silos to ensure lightning-fast transaction routing and effortless system maintenance.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Operational Efficiency"
+          },
+          {
+            "_key": "4rjqzth33c",
+            "description": "Lower your operational complexity and TCO with a centralized switching platform and pre-built banking connectors.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-92cf8df000185d772c164557b835853be0992e17-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Cost Savings"
+          },
+          {
+            "_key": "xrtiqsry0t",
+            "description": "Stay fully compliant with NPCI specifications and comprehensive audit trails.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Regulatory Confidence"
+          },
+          {
+            "_key": "ep3aj6go9d",
+            "description": "Future-ready infrastructure built to handle enterprise-scale TPS, supporting UPI Lite, Autopay, CBDC readiness, and evolving payment ecosystems.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-de6453a3c1dd78ce795f965cd3e59d6bfb79eff9-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "Scalability for Growth"
+          }
+        ]
+      },
+      {
+        "_key": "l273co1btq",
+        "_type": "coreInfoSection",
+        "features": [
+          {
+            "_key": "ogi9kypsoy",
+            "description": "Unify core banking, switching, and payment rails on a single OCI-powered infrastructure for faster innovation and simplified operations ",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-11707ed50def19f91bb9f44a7cbc7fadce8ce959-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "444ff47c490e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7734341b42bb",
+                    "_type": "span",
+                    "marks": [
+                      "strong"
+                    ],
+                    "text": "Integrated "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "292caa32d0d7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "7734341b42bb",
+                    "_type": "span",
+                    "marks": [
+                      "strong"
+                    ],
+                    "text": "Payment Hub"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "wjnwl5l16z",
+            "description": "Active-active architecture, automated failovers, and proactive edge monitoring ensure uninterrupted 24x7x365 payment availability with minimal transaction latency. ",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05786ce955e2c365f0f9ddf92c9e89c5dd1f068c-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "74e874891993",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9dc069e6c740",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Bulletproof "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c0fcfeae7b7b",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9dc069e6c740",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Availability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "gxys1lnymg",
+            "description": "Consolidate payment operations under a single resilient infrastructure to reduce maintenance overhead, vendor management complexity, and long-term operational costs. ",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "84e3767e5aba",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b27e06ab8760",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Drastically "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "ad01dfc667a3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b27e06ab8760",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reduce TCO"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "pal2nvxv6y",
+            "description": "Integrate CBS, digital channels, third-party APIs, and NPCI ecosystems through standards-compliant APIs and messaging frameworks. ",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dbc18bb3dad79b7e41766d873e308e8521b884f4-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "20fd8afb5f6e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "efbaec8193c7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Seamless "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1245c98380e2",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "efbaec8193c7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          }
+        ],
+        "id": "coreInfo",
+        "isTextBlack": true,
+        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+        "titleParts": [
+          {
+            "_key": "ucdevua6y9",
+            "color": "text-black",
+            "text": "One Unified Rail. "
+          },
+          {
+            "_key": "iimy8zzfit",
+            "color": "text-brand-600",
+            "text": "Zero Bottlenecks. "
+          },
+          {
+            "_key": "220v9vf2sm",
+            "color": "text-warning",
+            "text": "Infinite Scale."
+          }
+        ]
+      },
+      {
         "_key": "4tt2vt87zj",
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
@@ -20880,102 +20976,6 @@
         },
         "imageWidth": 1280,
         "isImageFullWidth": true
-      },
-      {
-        "_key": "0b6zom1a8h",
-        "_type": "quickActionCardParentSection",
-        "actionCardHeader": {
-          "icon": null,
-          "subTitleText": "A single switch, many outcomes—speed, savings, security, and scale.",
-          "text": {
-            "title": [
-              {
-                "_key": "s3v9x54vvi",
-                "color": "text-white",
-                "text": "Transform Your Bank’s Payments with Bankai SaaS"
-              }
-            ],
-            "variant": "h1"
-          }
-        },
-        "bgColor": "brand",
-        "hasCardBackground": true,
-        "id": "quickActionCardParent7",
-        "isTextWhite": true,
-        "quickActionCard": [
-          {
-            "_key": "es0kk5e6ht",
-            "description": "A single unified partner for seamless NPCI integration, end-to-end security, and 24x7 dedicated enterprise support.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c33930822db5a3a02dbed931275fb761b5943bef-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Single Vendor Accountability"
-          },
-          {
-            "_key": "e8v5tuvivz",
-            "description": "Ensure operational continuity with a high-availability, active-active deployment architecture designed for minimal disruption.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ebfa6cdc9c6892cf5282a1a0f1a55a6d3b42ebc9-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Reduced Downtime"
-          },
-          {
-            "_key": "f3b6nihy03",
-            "description": "Unified CBS and switch orchestration under a single, modern ecosystem removes architectural silos to ensure lightning-fast transaction routing and effortless system maintenance.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-049b40da95376c544052b25f0874f934929e40d6-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Operational Efficiency"
-          },
-          {
-            "_key": "4rjqzth33c",
-            "description": "Lower your operational complexity and TCO with a centralized switching platform and pre-built banking connectors.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-92cf8df000185d772c164557b835853be0992e17-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Cost Savings"
-          },
-          {
-            "_key": "xrtiqsry0t",
-            "description": "Stay fully compliant with NPCI specifications and comprehensive audit trails.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ccbf22931fff1efeaa608b7bf312e4ac78d323ad-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Regulatory Confidence"
-          },
-          {
-            "_key": "ep3aj6go9d",
-            "description": "Future-ready infrastructure built to handle enterprise-scale TPS, supporting UPI Lite, Autopay, CBDC readiness, and evolving payment ecosystems.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-de6453a3c1dd78ce795f965cd3e59d6bfb79eff9-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Scalability for Growth"
-          }
-        ]
       },
       {
         "_key": "p0vhg7kdrs",
