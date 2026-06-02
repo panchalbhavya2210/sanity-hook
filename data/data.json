@@ -26961,15 +26961,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "zdDSdhTDV24lASLsPde1GJ",
+    "_rev": "6XauXwCqdfjH3lSp8mBLUw",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "UAjCtlAuHSg7wG7TzHEbWd"
+        "rev": "zdDSdhTDV24lASLsPde1GJ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T09:15:06Z",
+    "_updatedAt": "2026-06-02T09:38:27Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -27102,7 +27102,7 @@
           {
             "_key": "dlyb4big6i",
             "color": "text-black",
-            "text": "to the"
+            "text": "to the "
           },
           {
             "_key": "2ctqxt9dfz",
