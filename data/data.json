@@ -20012,15 +20012,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "Af0w24d1UBF0wdCcQLnTKN",
+    "_rev": "6XauXwCqdfjH3lSp8mDm2U",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "6XauXwCqdfjH3lSp8m2OO2"
+        "rev": "Af0w24d1UBF0wdCcQLnTKN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T07:30:11Z",
+    "_updatedAt": "2026-06-02T10:24:54Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20953,7 +20953,7 @@
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "cta",
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Transform fragmented banking ecosystems into a centralized, scalable, and NPCI-compliant payment switching platform built for modern banking operations.",
         "titleParts": [
           {
             "_key": "kj08hgg6vd",
