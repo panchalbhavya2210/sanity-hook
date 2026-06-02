@@ -19513,15 +19513,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "UAjCtlAuHSg7wG7TzFr2KA",
+    "_rev": "6XauXwCqdfjH3lSp8mA6ig",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "bM4Vn6Xhr0kQ8myfj6oGd7"
+        "rev": "UAjCtlAuHSg7wG7TzFr2KA"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-05-29T10:31:52Z",
+    "_updatedAt": "2026-06-02T09:07:10Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -20117,7 +20117,7 @@
           },
           "imageSrc": "/images/homepage/5.png",
           "route": "/products/digi-x",
-          "title": "Digi.X™"
+          "title": "Digital First Channels"
         },
         {
           "_key": "card5",
