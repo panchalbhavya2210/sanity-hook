@@ -2,9 +2,15 @@
   {
     "_createdAt": "2026-06-02T06:34:24Z",
     "_id": "09168870-274b-4d5f-b18d-6b5de67ef39b",
-    "_rev": "6XauXwCqdfjH3lSp8m0hUE",
+    "_rev": "6XauXwCqdfjH3lSp8m0kAQ",
+    "_system": {
+      "base": {
+        "id": "09168870-274b-4d5f-b18d-6b5de67ef39b",
+        "rev": "6XauXwCqdfjH3lSp8m0hUE"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T06:39:30Z",
+    "_updatedAt": "2026-06-02T06:41:58Z",
     "sections": [
       {
         "_key": "90278d235602",
@@ -152,7 +158,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "/smart-upi"
+      "current": "smart-upi"
     },
     "title": "Smart UPI"
   },
