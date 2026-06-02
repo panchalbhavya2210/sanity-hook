@@ -20200,15 +20200,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "tYwdV2ldLdzJB4kwq0eAXE",
+    "_rev": "Af0w24d1UBF0wdCcQLnO54",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "tYwdV2ldLdzJB4kwq0eAXE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T09:11:54Z",
+    "_updatedAt": "2026-06-02T07:26:20Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20222,7 +20222,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Bankai IMPS & UPI Switch delivers a secure, unified, and always-on payments infrastructure eliminating multi-vendor chaos and unlocking true speed, control, and compliance.",
+        "subtitle": "NPCI-Compliant IMPS & UPI Switching Platform for Banks & Fintechs.Secure, unified, and always-on payment infrastructure delivering speed, control, and seamless operations.",
         "title": "Powering the Future of Instant Digital Payments",
         "variant": "split"
       },
@@ -20232,7 +20232,7 @@
         "features": [
           {
             "_key": "ogi9kypsoy",
-            "description": "Core, switch, and payments come from different providers—slowing innovation.",
+            "description": "Unify core banking, switching, and payment rails on a single OCI-powered infrastructure for faster innovation and simplified operations ",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -20243,28 +20243,32 @@
             },
             "richTitle": [
               {
-                "_key": "db4975e9d27b",
+                "_key": "444ff47c490e",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "7afff83ce60e",
+                    "_key": "7734341b42bb",
                     "_type": "span",
-                    "marks": [],
-                    "text": "Too Many "
+                    "marks": [
+                      "strong"
+                    ],
+                    "text": "Integrated "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "da9a92252ef2",
+                "_key": "292caa32d0d7",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "7afff83ce60e",
+                    "_key": "7734341b42bb",
                     "_type": "span",
-                    "marks": [],
-                    "text": "Vendors"
+                    "marks": [
+                      "strong"
+                    ],
+                    "text": "Payment Hub"
                   }
                 ],
                 "markDefs": [],
@@ -20274,7 +20278,7 @@
           },
           {
             "_key": "wjnwl5l16z",
-            "description": "Finger-pointing and delayed support slow down issue resolution.",
+            "description": "Active-active architecture, automated failovers, and proactive edge monitoring ensure uninterrupted 24x7x365 payment availability with minimal transaction latency. ",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -20285,28 +20289,28 @@
             },
             "richTitle": [
               {
-                "_key": "20180da40b43",
+                "_key": "74e874891993",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "185b28e06ebb",
+                    "_key": "9dc069e6c740",
                     "_type": "span",
                     "marks": [],
-                    "text": "Longer "
+                    "text": "Bulletproof "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "bd6ba1dba1ac",
+                "_key": "c0fcfeae7b7b",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "185b28e06ebb",
+                    "_key": "9dc069e6c740",
                     "_type": "span",
                     "marks": [],
-                    "text": "Downtimes"
+                    "text": "Availability"
                   }
                 ],
                 "markDefs": [],
@@ -20316,7 +20320,7 @@
           },
           {
             "_key": "gxys1lnymg",
-            "description": "Managing multiple contracts and SLAs increases operational burden.",
+            "description": "Consolidate payment operations under a single resilient infrastructure to reduce maintenance overhead, vendor management complexity, and long-term operational costs. ",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -20327,28 +20331,28 @@
             },
             "richTitle": [
               {
-                "_key": "ba741688e6db",
+                "_key": "84e3767e5aba",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "5680038dce1c",
+                    "_key": "b27e06ab8760",
                     "_type": "span",
                     "marks": [],
-                    "text": "High Maintenance "
+                    "text": "Drastically "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "422000830968",
+                "_key": "ad01dfc667a3",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "5680038dce1c",
+                    "_key": "b27e06ab8760",
                     "_type": "span",
                     "marks": [],
-                    "text": "Costs"
+                    "text": "Reduce TCO"
                   }
                 ],
                 "markDefs": [],
@@ -20358,7 +20362,7 @@
           },
           {
             "_key": "pal2nvxv6y",
-            "description": "APIs don’t talk to each other; systems remain siloed.",
+            "description": "Integrate CBS, digital channels, third-party APIs, and NPCI ecosystems through standards-compliant APIs and messaging frameworks. ",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -20369,25 +20373,25 @@
             },
             "richTitle": [
               {
-                "_key": "ebeae676f349",
+                "_key": "20fd8afb5f6e",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "940d2d7bf9d8",
+                    "_key": "efbaec8193c7",
                     "_type": "span",
                     "marks": [],
-                    "text": "Lack of "
+                    "text": "Seamless "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "a478068d9911",
+                "_key": "1245c98380e2",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "940d2d7bf9d8",
+                    "_key": "efbaec8193c7",
                     "_type": "span",
                     "marks": [],
                     "text": "Integration"
@@ -20405,33 +20409,18 @@
         "titleParts": [
           {
             "_key": "ucdevua6y9",
-            "color": "",
-            "text": "Fragmented "
+            "color": "text-black",
+            "text": "One Unified Rail. "
           },
           {
             "_key": "iimy8zzfit",
             "color": "text-brand-600",
-            "text": "Ecosystems"
+            "text": "Zero Bottlenecks. "
           },
           {
             "_key": "220v9vf2sm",
-            "color": "",
-            "text": ". Delayed "
-          },
-          {
-            "_key": "yswsplpds0",
-            "color": "text-[#EE6832]",
-            "text": "Resolutions"
-          },
-          {
-            "_key": "ttj0n4uwob",
-            "color": "",
-            "text": ". Rising "
-          },
-          {
-            "_key": "vm5v8kg63f",
-            "color": "text-yellow",
-            "text": "Risks."
+            "color": "text-warning",
+            "text": "Infinite Scale."
           }
         ]
       },
@@ -20459,7 +20448,7 @@
         "quickActionCard": [
           {
             "_key": "1tlm99j1mb",
-            "description": "Zero downtime, lightning-fast transactions.",
+            "description": "Real-time transaction processing powered by resilient, high-availability architecture engineered for uninterrupted 24x7x365 operations.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20467,11 +20456,40 @@
                 "_type": "reference"
               }
             },
-            "title": "24x7x365 Real-Time Processing"
+            "richTitle": [
+              {
+                "_key": "aabd30fd1c2f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b5746c5b0d58",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Always-On "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "a4547fa8797c",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b5746c5b0d58",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Availability"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "kwuxfzcg02",
-            "description": "One team, one responsibility, no excuses.",
+            "description": "Designed to process high transaction volumes with low latency and consistent performance at enterprise scale.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20479,11 +20497,40 @@
                 "_type": "reference"
               }
             },
-            "title": "Dedicated Single-Vendor Support"
+            "richTitle": [
+              {
+                "_key": "3655a03e5558",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d198f7867ac2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "High-Throughput "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "95aabe53efa3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d198f7867ac2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "jur1l77rui",
-            "description": "PCI-DSS certified, fraud-monitored.",
+            "description": "Eliminate operational gaps and vendor dependency through a unified switching ecosystem managed under a single service framework.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20493,11 +20540,52 @@
             },
             "richTitle": [
               {
-                "_key": "f20566c551ed",
+                "_key": "bf7955c1339d",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "6050925b0657",
+                    "_key": "353320e32a93",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5b31873aed3a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "353320e32a93",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Continuity"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "tiryg3q4co",
+            "description": "PCI-DSS compliant infrastructure with multi-layered security, advanced encryption, and secure transaction controls. ",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6ccd767583fa63dbe5856713a4b510285826c0cb-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "7d5a943be594",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f54798764a1d",
                     "_type": "span",
                     "marks": [],
                     "text": "Bank-Grade "
@@ -20507,11 +20595,11 @@
                 "style": "normal"
               },
               {
-                "_key": "308b64987633",
+                "_key": "cbf9e4927a2f",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "6050925b0657",
+                    "_key": "f54798764a1d",
                     "_type": "span",
                     "marks": [],
                     "text": "Security"
@@ -20523,20 +20611,8 @@
             ]
           },
           {
-            "_key": "tiryg3q4co",
-            "description": "Built for RBI, NPCI, and evolving compliance standards.",
-            "icon": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-6ccd767583fa63dbe5856713a4b510285826c0cb-600x600-gif",
-                "_type": "reference"
-              }
-            },
-            "title": "Regulatory-Ready"
-          },
-          {
             "_key": "0ihkhyqmwk",
-            "description": "Millions of transactions/second—built for peak loads.",
+            "description": "Built to align with NPCI, RBI, and evolving regulatory requirements through secure and audit-ready infrastructure. ",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20544,11 +20620,26 @@
                 "_type": "reference"
               }
             },
-            "title": "High Throughput"
+            "richTitle": [
+              {
+                "_key": "24274f981df6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e55174258753",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Regulatory-Ready"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "8so7h2e1db",
-            "description": "Seamless connection with CBS, mobile banking & fintechs.",
+            "description": "Enable seamless integration with CBS, mobile banking platforms, digital channels, and fintech ecosystems through standards-compliant APIs. ",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20556,6 +20647,36 @@
                 "_type": "reference"
               }
             },
+            "richTitle": [
+              {
+                "_key": "ca1ce3194367",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0ad875fc40d4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API-First "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "477c69bbe9f3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0ad875fc40d4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Integration"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ],
             "title": "API-First Integration"
           }
         ]
@@ -20571,7 +20692,7 @@
               {
                 "_key": "8lhphj66dg",
                 "color": "text-black",
-                "text": "Simplified "
+                "text": "Unified "
               },
               {
                 "_key": "0mwvqtcw06",
@@ -20586,7 +20707,7 @@
               {
                 "_key": "rjbim6d54h",
                 "color": "text-black",
-                "text": "Unmatched "
+                "text": "Centralized "
               },
               {
                 "_key": "n4fhmxvkxb",
@@ -20608,17 +20729,75 @@
         "quickActionCard": [
           {
             "_key": "cvdkiq7f5z",
-            "description": "No escalation loops. Just direct resolution.",
-            "title": "Minimal Support Issues"
+            "description": "Reduce vendor dependency and escalation loops with a unified switching ecosystem. Just direct resolution.",
+            "richTitle": [
+              {
+                "_key": "7c7fb1ae792f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d0ab9d14381e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Operational "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "fc0f2162189e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "d0ab9d14381e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Simplicity"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "dxugt06dh1",
-            "description": "One vendor = no finger-pointing.",
-            "title": "Lower Operational Risk"
+            "description": "Move away from monolithic legacy bottlenecks. Deploy a modular, cloud-native architecture that scales individual payment components dynamically during peak transaction traffic.",
+            "richTitle": [
+              {
+                "_key": "337dfd0911f8",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "72f33a8c38f1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Microservices-Based "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "2e7ea31f8e61",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "72f33a8c38f1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Switching"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "zbj0zculez",
-            "description": "One agreement for CBS + Switch.",
+            "description": "Automated file generation meets hands-free bank delivery. Access your critical settlement data via a direct, pre-configured SFTP download pathway.",
             "richTitle": [
               {
                 "_key": "f4389c0e3c5e",
@@ -20628,21 +20807,21 @@
                     "_key": "70f7e1342fdb",
                     "_type": "span",
                     "marks": [],
-                    "text": "Simplified "
+                    "text": "Zero-Touch "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "f4b147a1b901",
+                "_key": "de58d7812cd8",
                 "_type": "block",
                 "children": [
                   {
                     "_key": "70f7e1342fdb",
                     "_type": "span",
                     "marks": [],
-                    "text": "Contracts"
+                    "text": "Reconciliation"
                   }
                 ],
                 "markDefs": [],
@@ -20726,7 +20905,7 @@
         "quickActionCard": [
           {
             "_key": "es0kk5e6ht",
-            "description": "One partner for uptime, security, support, and compliance.",
+            "description": "A single unified partner for seamless NPCI integration, end-to-end security, and 24x7 dedicated enterprise support.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20738,7 +20917,7 @@
           },
           {
             "_key": "e8v5tuvivz",
-            "description": "Issues resolved quickly, no vendor blame game.",
+            "description": "Ensure operational continuity with a high-availability, active-active deployment architecture designed for minimal disruption.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20750,7 +20929,7 @@
           },
           {
             "_key": "f3b6nihy03",
-            "description": "CBS and switch under one ecosystem = faster routing.",
+            "description": "Unified CBS and switch orchestration under a single, modern ecosystem removes architectural silos to ensure lightning-fast transaction routing and effortless system maintenance.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20762,7 +20941,7 @@
           },
           {
             "_key": "4rjqzth33c",
-            "description": "Lower TCO, no third-party markup.",
+            "description": "Lower your operational complexity and TCO with a centralized switching platform and pre-built banking connectors.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20774,7 +20953,7 @@
           },
           {
             "_key": "xrtiqsry0t",
-            "description": "End-to-end compliance and simplified audits.",
+            "description": "Stay fully compliant with NPCI specifications and comprehensive audit trails.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20786,7 +20965,7 @@
           },
           {
             "_key": "ep3aj6go9d",
-            "description": "Built for UPI 2.0, UPI Lite, and CBDC readiness.",
+            "description": "Future-ready infrastructure built to handle enterprise-scale TPS, supporting UPI Lite, Autopay, CBDC readiness, and evolving payment ecosystems.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20961,8 +21140,8 @@
           },
           {
             "_key": "9bll8o8gu3",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
+            "color": "text-warning",
+            "text": "Modernize "
           },
           {
             "_key": "lon9cllyye",
@@ -20977,7 +21156,7 @@
           {
             "_key": "ah3573s0fl",
             "color": "text-brand-600",
-            "text": "Experience"
+            "text": "Switch Infrastructure"
           },
           {
             "_key": "15l72tyuc5",
