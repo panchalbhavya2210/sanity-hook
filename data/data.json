@@ -20200,15 +20200,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "6XauXwCqdfjH3lSp8m2OO2",
+    "_rev": "Af0w24d1UBF0wdCcQLnTKN",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "zdDSdhTDV24lASLsPdLll6"
+        "rev": "6XauXwCqdfjH3lSp8m2OO2"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T07:29:04Z",
+    "_updatedAt": "2026-06-02T07:30:11Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -20431,7 +20431,21 @@
                     "_key": "e55174258753",
                     "_type": "span",
                     "marks": [],
-                    "text": "Regulatory-Ready"
+                    "text": "Regulatory"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "d70104f1b58d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e55174258753",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Ready"
                   }
                 ],
                 "markDefs": [],
@@ -20865,21 +20879,21 @@
                     "_key": "72f33a8c38f1",
                     "_type": "span",
                     "marks": [],
-                    "text": "Microservices-Based "
+                    "text": "Microservices"
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "2e7ea31f8e61",
+                "_key": "29c007d366a8",
                 "_type": "block",
                 "children": [
                   {
                     "_key": "72f33a8c38f1",
                     "_type": "span",
                     "marks": [],
-                    "text": "Switching"
+                    "text": "Based Switching"
                   }
                 ],
                 "markDefs": [],
