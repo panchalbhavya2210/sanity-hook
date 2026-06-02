@@ -13327,15 +13327,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "UAjCtlAuHSg7wG7TzHEEcw",
+    "_rev": "zdDSdhTDV24lASLsPdmHoQ",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "UAjCtlAuHSg7wG7TzFw5lk"
+        "rev": "UAjCtlAuHSg7wG7TzHEEcw"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T17:31:51Z",
+    "_updatedAt": "2026-06-02T10:27:32Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14408,7 +14408,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "icon": null,
           "subTitle": "Digitize, process, and manage loan documents efficiently using AI.",
           "subTitleClassName": "",
           "text": {
@@ -14423,6 +14422,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles6",
         "isBgBlue": false,
         "isTextBlack": true,
