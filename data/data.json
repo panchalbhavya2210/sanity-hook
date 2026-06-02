@@ -26961,15 +26961,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "UAjCtlAuHSg7wG7TzHEbWd",
+    "_rev": "zdDSdhTDV24lASLsPde1GJ",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "bM4Vn6Xhr0kQ8myfj6rig3"
+        "rev": "UAjCtlAuHSg7wG7TzHEbWd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T17:36:48Z",
+    "_updatedAt": "2026-06-02T09:15:06Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -27131,7 +27131,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-cc6b60633a1bfbbc956acae404fc91c1aadae97f-2560x1600-svg",
+                "_ref": "image-33763e0d21d583376ff4054a2254aaed62aec70d-3630x3630-webp",
                 "_type": "reference"
               }
             },
@@ -27162,7 +27162,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-e64fcba21c5a1f228e627e22256decb939a6f8e8-2560x1600-svg",
+                "_ref": "image-c25197ea9d13a9009e3209d99fb0004f24edfbcb-3630x3630-webp",
                 "_type": "reference"
               }
             },
@@ -27198,7 +27198,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-30f745801f4fe88584d97301ac04ff43c812af61-2560x1600-png",
+                "_ref": "image-ceb3c7c0840f79c16e5de8235b54131fa2bee2a6-3630x3630-webp",
                 "_type": "reference"
               }
             },
@@ -27231,7 +27231,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-22fd8ac846ad06e2c0b72ee352fe98c2a8d2bfdd-2560x1600-png",
+                "_ref": "image-9d16f72025a8070f38418612f45278e0ba75f2dd-3630x3630-webp",
                 "_type": "reference"
               }
             },
