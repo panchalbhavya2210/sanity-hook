@@ -165,15 +165,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "bM4Vn6Xhr0kQ8myfjAcenw",
+    "_rev": "zdDSdhTDV24lASLsPdJ8Qi",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "tYwdV2ldLdzJB4kwq0PTqk"
+        "rev": "bM4Vn6Xhr0kQ8myfjAcenw"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-05-30T17:22:09Z",
+    "_updatedAt": "2026-06-02T06:59:24Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -299,7 +299,7 @@
                 "image": {
                   "_type": "image",
                   "asset": {
-                    "_ref": "image-36918621ca0915ca5c2fdde71bb28c97c46072cd-164x83-svg",
+                    "_ref": "image-4c28d024920c8b149a49cd1c587bdd674c07e32a-164x83-svg",
                     "_type": "reference"
                   }
                 },
