@@ -13327,15 +13327,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "zdDSdhTDV24lASLsPdmHoQ",
+    "_rev": "6XauXwCqdfjH3lSp8mE5sc",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "UAjCtlAuHSg7wG7TzHEEcw"
+        "rev": "zdDSdhTDV24lASLsPdmHoQ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:27:32Z",
+    "_updatedAt": "2026-06-02T10:28:15Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14751,22 +14751,138 @@
           {
             "_key": "x43654d6l4",
             "description": "Hosted on Oracle Cloud with reduced CAPEX.",
-            "title": "Cloud Infrastructure"
+            "richTitle": [
+              {
+                "_key": "1291c11d2133",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2d6ed72baed8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cloud "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "f6245e2d73df",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "2d6ed72baed8",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Infrastructure"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "k1mfc8pz7x",
             "description": "Real-time replication ensures zero disruption.",
-            "title": "BCP & DR Ready"
+            "richTitle": [
+              {
+                "_key": "720b2398a6df",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "92edb624fec4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "BCP & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "5e6cbcd30599",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "92edb624fec4",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "DR Ready"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "s9j93eqbew",
             "description": "Continuous deployment for faster updates and improvements.",
-            "title": "DevOps Enabled"
+            "richTitle": [
+              {
+                "_key": "63bf05d34539",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3d892938face",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "DevOps "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "84bcb9469bdc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "3d892938face",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Enabled"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "21rtoy0kcj",
             "description": "Flexible integrations and faster system expansion.",
-            "title": "API-First Architecture"
+            "richTitle": [
+              {
+                "_key": "dc256c7b968d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e179a663de0f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "API-First "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "84393d86e951",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "e179a663de0f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Architecture"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ]
       },
