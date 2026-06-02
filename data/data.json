@@ -25838,15 +25838,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "tYwdV2ldLdzJB4kwq0Heey",
+    "_rev": "6XauXwCqdfjH3lSp8mEF1S",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "UAjCtlAuHSg7wG7TzFsYKE"
+        "rev": "tYwdV2ldLdzJB4kwq0Heey"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:03:55Z",
+    "_updatedAt": "2026-06-02T10:29:32Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -26441,7 +26441,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a7645256b867c5322b0b291089b2513b16937606-407x246-webp",
+                "_ref": "image-6d35c4bbb0d8447e3ad384f011e6d8654bf44113-271x164-png",
                 "_type": "reference"
               }
             },
@@ -26485,7 +26485,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-40479da190eb2deebee748718ffbb505270fe106-407x246-webp",
+                "_ref": "image-55568c9540725bfd96a22831a178dacb77f20f0d-271x164-png",
                 "_type": "reference"
               }
             },
@@ -26529,7 +26529,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-233d02d6f494f4b8ead2b862b175ea09bf64d66a-407x246-webp",
+                "_ref": "image-a771e86ef8c8daa275d2bbdf3b623d8c57432507-271x164-png",
                 "_type": "reference"
               }
             },
@@ -26573,7 +26573,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-c5a72caee660e958b8bce1c47d916d24904143f3-407x246-webp",
+                "_ref": "image-c9573c9729e92414d4e319bcab2e64752bec7f56-271x164-png",
                 "_type": "reference"
               }
             },
@@ -26824,7 +26824,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-5ebce8b55657178dbc6c51e09486d83bdea38532-855x372-webp",
+                "_ref": "image-c0bc6499bf04cf2528079e6a988f4ba61ac5bfc7-570x248-png",
                 "_type": "reference"
               }
             },
