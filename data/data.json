@@ -26914,15 +26914,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "2L5iqaQa3UmcCheddpWIn1",
+    "_rev": "2L5iqaQa3UmcCheddpWcCS",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "6XauXwCqdfjH3lSp8mBLUw"
+        "rev": "2L5iqaQa3UmcCheddpWIn1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-03T10:23:59Z",
+    "_updatedAt": "2026-06-03T10:25:46Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -27665,7 +27665,7 @@
               {
                 "_key": "fa5168a0578a",
                 "_type": "titlePart",
-                "color": "text-black",
+                "color": "text-white",
                 "text": "Deliver More Value with Less Effort"
               }
             ],
