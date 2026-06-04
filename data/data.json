@@ -1344,15 +1344,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "XrTxD1czjbsDVYzLU2etwM",
+    "_rev": "AKqZen6zsRd6FZqAicYiHl",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "2L5iqaQa3UmcCheddrxjp1"
+        "rev": "XrTxD1czjbsDVYzLU2etwM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T08:08:13Z",
+    "_updatedAt": "2026-06-04T08:09:20Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
