@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "P5R8OkVn7wrHIwE216PNZc",
+    "_rev": "ez00CovmgIFJKqHooNazfy",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "zdDSdhTDV24lASLsPdJ8Qi"
+        "rev": "P5R8OkVn7wrHIwE216PNZc"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-04T10:04:39Z",
+    "_updatedAt": "2026-06-04T10:25:52Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -355,16 +355,10 @@
       },
       {
         "_key": "496c8e53-0b63-4124-b7bb-e488fbf72262",
-        "label": "Resources",
+        "href": "/case-study",
+        "label": "Case Study",
         "layout": "withSideCard",
-        "menuType": "dropdown",
-        "promo": {
-          "cta": "Explore easyTF",
-          "description": "Secure scalable platform",
-          "image": "/images/banner-promo.webp",
-          "title": "Trade Finance & Treasury",
-          "type": "banner"
-        },
+        "menuType": "link",
         "sections": [
           {
             "_key": "cfd12a32-b5cf-4f96-8214-6e32af64c7ee",
