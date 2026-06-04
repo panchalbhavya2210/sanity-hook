@@ -14588,15 +14588,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "XrTxD1czjbsDVYzLU2jVpC",
+    "_rev": "2L5iqaQa3UmcChedds4RQh",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "6XauXwCqdfjH3lSp8mE5sc"
+        "rev": "XrTxD1czjbsDVYzLU2jVpC"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T08:56:05Z",
+    "_updatedAt": "2026-06-04T09:07:17Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14958,10 +14958,10 @@
             "variant": "h1"
           }
         },
-        "bgColor": "white",
+        "bgColor": "brand",
         "hasCardBackground": false,
         "id": "Bureau  Analysis",
-        "isChild": true,
+        "isChild": false,
         "isTextBlack": false,
         "isTextWhite": false,
         "quickActionCard": [
