@@ -14588,15 +14588,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "2L5iqaQa3UmcChedds4RQh",
+    "_rev": "XrTxD1czjbsDVYzLU2lo6o",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "XrTxD1czjbsDVYzLU2jVpC"
+        "rev": "2L5iqaQa3UmcChedds4RQh"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T09:07:17Z",
+    "_updatedAt": "2026-06-04T09:07:54Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14912,6 +14912,7 @@
           {
             "_key": "0889de99635c",
             "_type": "mediaCard",
+            "description": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
             "image": {
               "_type": "image",
               "asset": {
@@ -14919,7 +14920,6 @@
                 "_type": "reference"
               }
             },
-            "position": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
             "title": "Underwriting & Risk Analysis"
           },
           {
