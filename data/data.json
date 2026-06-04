@@ -14588,15 +14588,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "XrTxD1czjbsDVYzLU2lo6o",
+    "_rev": "2L5iqaQa3UmcChedds5zDd",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "2L5iqaQa3UmcChedds4RQh"
+        "rev": "XrTxD1czjbsDVYzLU2lo6o"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T09:07:54Z",
+    "_updatedAt": "2026-06-04T09:15:21Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -15230,53 +15230,6 @@
                 "style": "normal"
               }
             ]
-          }
-        ]
-      },
-      {
-        "_key": "6gat05888m",
-        "_type": "articlesSection",
-        "articleSectionHeader": {
-          "description": "",
-          "icon": null,
-          "subTitle": "",
-          "subTitleClassName": "",
-          "text": {
-            "title": [],
-            "variant": "h1"
-          },
-          "titleTextClassName": ""
-        },
-        "id": "articles3",
-        "isBgBlue": true,
-        "mediaInfoCardData": [
-          {
-            "_key": "18wxfs9xt2",
-            "description": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-69726928fbc26c4f985122a119250baa622b48b4-1140x496-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Underwriting & Risk Analysis"
-          },
-          {
-            "_key": "smsoj4hphw",
-            "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
-            "descriptionClassName": "",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-3a4ef572dafc6483c43d941366bd86b0621d4b9f-1140x496-webp",
-                "_type": "reference"
-              }
-            },
-            "imageAlt": "",
-            "title": "Approval & Disbursement"
           }
         ]
       },
