@@ -1344,15 +1344,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "2L5iqaQa3UmcCheddrxjp1",
+    "_rev": "XrTxD1czjbsDVYzLU2etwM",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "2L5iqaQa3UmcCheddrwuk5"
+        "rev": "2L5iqaQa3UmcCheddrxjp1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T08:07:31Z",
+    "_updatedAt": "2026-06-04T08:08:13Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1573,7 +1573,7 @@
         "_key": "53af9eea78a1",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "Experienced professionals leading strategy, operations, technology, product innovation, and customer success across the organization.",
+          "description": "Experienced professionals leading strategy, operations, technology, product innovation, and customer success across the organization.",
           "text": {
             "title": [
               {
