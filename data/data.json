@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "XrTxD1czjbsDVYzLU2bKCI",
+    "_rev": "AKqZen6zsRd6FZqAicUsd5",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "2L5iqaQa3UmcCheddruH2z"
+        "rev": "XrTxD1czjbsDVYzLU2bKCI"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T07:22:19Z",
+    "_updatedAt": "2026-06-04T07:22:32Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -652,7 +652,7 @@
           }
         ],
         "id": "Proven Expertise. Lasting Impact.",
-        "isTextBlack": false,
+        "isTextBlack": true,
         "subTitleText": "Serving banks, NBFCs, MFIs, credit unions, and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
         "titleParts": [
           {
