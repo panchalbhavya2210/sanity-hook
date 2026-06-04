@@ -495,6 +495,820 @@
     ]
   },
   {
+    "_createdAt": "2026-06-04T06:54:43Z",
+    "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
+    "_rev": "2L5iqaQa3UmcCheddrtW78",
+    "_type": "productPages",
+    "_updatedAt": "2026-06-04T07:15:43Z",
+    "sections": [
+      {
+        "_key": "ba3c7aac1c00",
+        "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "cta": {
+          "_type": "ctaButton",
+          "variant": "primary"
+        },
+        "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-d7240e46008a653802fba393a3323f4ff7d45ea8-707x672-webp",
+            "_type": "reference"
+          }
+        },
+        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions worldwide.",
+        "title": "Driving Excellence in Fintech Innovation",
+        "variant": "split"
+      },
+      {
+        "_key": "c39d60e0cc86",
+        "_type": "coreInfoSection",
+        "cta": {
+          "isButtonVisible": true
+        },
+        "features": [
+          {
+            "_key": "1686e72a303d",
+            "_type": "featureCard",
+            "description": "Delivering successful digital transformation projects across global financial institutions.",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "4986e220bd5d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "28a8164f2551",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "135+"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "38c855db55d6",
+            "_type": "featureCard",
+            "description": "Preferred technology partner for modern banking and financial services.",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d4afca6fdc103429f4f77f7542d256ecadf0e87a-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "5f3c4dbb2232",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "eabcb8f50b7d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Banks & NBFCs"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "5c11829d03e3",
+            "_type": "featureCard",
+            "description": "Building future-ready solutions focused on agility, growth, and customer experience.",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d7b7a93934a08325d7ad9eaea98eef808cd8d4f1-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "eac2ac9ee862",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "19bee822f5a9",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Fintech-First"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "d039ce3fa17f",
+            "_type": "featureCard",
+            "description": "Leveraging AI, cloud, and automation to accelerate business outcomes.",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "e133b3ebfaf7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8245a7cfe8ec",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "AI & Cloud"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          }
+        ],
+        "id": "Proven Expertise. Lasting Impact.",
+        "isTextBlack": false,
+        "subTitleText": "Serving banks, NBFCs, MFIs, credit unions, and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
+        "titleParts": [
+          {
+            "_key": "cef7f4c5fe50",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Proven "
+          },
+          {
+            "_key": "755c4628a196",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Expertise. "
+          },
+          {
+            "_key": "123b16d76d13",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "Lasting "
+          },
+          {
+            "_key": "ac2876cd1668",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Impact."
+          }
+        ]
+      },
+      {
+        "_key": "a28df7e5a269",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "subTitle": "Why Choose FormulaGenie",
+          "text": {
+            "title": [
+              {
+                "_key": "15b0dbf352ba",
+                "_type": "titlePart",
+                "color": "text-white",
+                "text": "Our core values: I • A • C • E"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "gridCols": 2,
+        "hasPadding": true,
+        "id": "Our core values: I • A • C • E",
+        "isBgBlue": true,
+        "isBgLightBlue": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "8f95358478de",
+            "_type": "mediaCard",
+            "description": "We continuously build modern, scalable, and future-ready solutions that help financial institutions stay ahead in an evolving digital landscape.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-b07e6b49efd515777d9ba85d016bc39ed1019ebe-570x248-webp",
+                "_type": "reference"
+              }
+            },
+            "isCardBgWhite": true,
+            "title": "Innovative Solutions"
+          },
+          {
+            "_key": "252a7a1acf1e",
+            "_type": "mediaCard",
+            "description": "We embrace change and respond quickly to emerging technologies, market shifts, and customer expectations with flexibility and speed.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-123c4641a45ca3b06f726c72bf60c23562b37193-570x248-webp",
+                "_type": "reference"
+              }
+            },
+            "isCardBgWhite": true,
+            "title": "Agile Mindset"
+          },
+          {
+            "_key": "b77114ae6b64",
+            "_type": "mediaCard",
+            "description": "We design experiences and technologies around real business needs, ensuring measurable value and long-term success.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7c862134e112213df9e27eb0b3605ab87ccbf56e-570x248-webp",
+                "_type": "reference"
+              }
+            },
+            "isCardBgWhite": true,
+            "title": "Customer-Centricity"
+          },
+          {
+            "_key": "28e01070885d",
+            "_type": "mediaCard",
+            "description": "With domain expertise, proven methodologies, and a commitment to quality, we turn complex challenges into successful outcomes.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-50735d26a0dd2ab5a0a0b7281b1e140242b4230b-570x248-webp",
+                "_type": "reference"
+              }
+            },
+            "isCardBgWhite": true,
+            "title": "Excellence in Execution"
+          }
+        ]
+      },
+      {
+        "_key": "aa518b12b956",
+        "_type": "platformCapabilitiesSection",
+        "capabilitesDetails": [
+          {
+            "_key": "c2dc6504a2e1",
+            "_type": "capabilityCard",
+            "description": "Delivering banking and fintech solutions through a scalable and efficient global delivery model.",
+            "hasList": false,
+            "id": 1,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e2b82aa7affce84b1603ca9111aa65931204da17-627x507-webp",
+                "_type": "reference"
+              }
+            },
+            "listPosition": 2,
+            "titleParts": [
+              {
+                "_key": "da45da450dfb",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Global Delivery Expertise"
+              }
+            ]
+          },
+          {
+            "_key": "6641bbbf0e0e",
+            "_type": "capabilityCard",
+            "description": "Deep expertise across digital banking, lending, payments, compliance, and financial operations.",
+            "hasList": false,
+            "id": 2,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-293efffcc6566cb94812661ca99d5f677d6c8f43-627x507-webp",
+                "_type": "reference"
+              }
+            },
+            "listPosition": 2,
+            "titleParts": [
+              {
+                "_key": "b3ff12124560",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Banking Domain Excellence"
+              }
+            ]
+          },
+          {
+            "_key": "26cef2e07a1f",
+            "_type": "capabilityCard",
+            "description": "Building long-term relationships through dedicated teams and collaborative engagement models.",
+            "hasList": false,
+            "id": 3,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8f6dc4503aa19690967e7728bcd9a38099f37efb-627x507-webp",
+                "_type": "reference"
+              }
+            },
+            "listPosition": 2,
+            "titleParts": [
+              {
+                "_key": "853d8dec00b2",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Strategic Partnerships"
+              }
+            ]
+          },
+          {
+            "_key": "a510f588cee6",
+            "_type": "capabilityCard",
+            "details": "Combining emerging technologies, cloud infrastructure, and domain expertise to solve complex challenges.",
+            "hasList": false,
+            "id": 4,
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-bf8655a422e91de47bf9a8cde17889b6b001cf1a-627x507-webp",
+                "_type": "reference"
+              }
+            },
+            "listPosition": 2,
+            "titleParts": [
+              {
+                "_key": "62ca6661b8d6",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Innovation-First Approach"
+              }
+            ]
+          }
+        ],
+        "hasHeader": true,
+        "id": "Built on Innovation. Driven by Excellence.",
+        "isImageSquare": false,
+        "isTextBlack": true,
+        "platformHeader": {
+          "subTitle": "Bankai Informatics is a fintech and technology company focused on helping financial institutions modernize operations, accelerate digital transformation, and deliver customer-centric banking experiences.",
+          "text": {
+            "title": [
+              {
+                "_key": "3475daae0a2f",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Built on "
+              },
+              {
+                "_key": "858cbcb75aa0",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Innovation. "
+              },
+              {
+                "_key": "29f8851987e3",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Driven by "
+              },
+              {
+                "_key": "d8008f20ff07",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Excellence"
+              },
+              {
+                "_key": "b39809579336",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "."
+              }
+            ],
+            "variant": "h1"
+          }
+        }
+      },
+      {
+        "_key": "318d1c86d9d4",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "subTitleText": "Industry-recognized certifications and process excellence frameworks ensure secure, compliant, and high-quality solutions for financial institutions worldwide.",
+          "text": {
+            "variant": "h1"
+          }
+        },
+        "bgColor": "brand",
+        "hasCardBackground": false,
+        "id": "Built on Trust. Backed by Certifications.",
+        "isChild": false,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "quickActionCard": [
+          {
+            "_key": "9ae337f45520",
+            "_type": "quickActionCard",
+            "description": "Establishes a framework for managing and protecting sensitive information through an Information Security Management System (ISMS).",
+            "title": "ISO 27001:2013"
+          },
+          {
+            "_key": "8daac9696033",
+            "_type": "quickActionCard",
+            "description": "Demonstrates a commitment to quality management and continuous improvement in processes.",
+            "title": "ISO 9001:2015"
+          },
+          {
+            "_key": "73d83add0b7a",
+            "_type": "quickActionCard",
+            "description": "Defines requirements for effective IT service management, ensuring reliable and high-quality service delivery.",
+            "title": "ISO/IEC 20000-1:2018"
+          },
+          {
+            "_key": "ddce65d82725",
+            "_type": "quickActionCard",
+            "description": "Focuses on business continuity management, ensuring resilience and disaster preparedness.",
+            "title": "ISO 22301:2019"
+          },
+          {
+            "_key": "5f27c04a47f7",
+            "_type": "quickActionCard",
+            "description": "Provides guidelines for information security controls specific to cloud services, enhancing trust and security.",
+            "title": "ISO/IEC 27017:2015"
+          },
+          {
+            "_key": "2572ce15c0e9",
+            "_type": "quickActionCard",
+            "description": "Sets standards for protecting personal data in cloud environments, ensuring privacy and compliance.",
+            "title": "ISO/IEC 27018:2019"
+          },
+          {
+            "_key": "2b1c24aec70d",
+            "_type": "quickActionCard",
+            "description": "Indicates the highest level of process maturity in software development, ensuring superior quality and performance.",
+            "title": "CMMI Dev5"
+          },
+          {
+            "_key": "8799eee08434",
+            "_type": "quickActionCard",
+            "description": "Demonstrates expertise in auditing, controlling, and ensuring the security of information systems.",
+            "title": "CISA Certified"
+          }
+        ]
+      },
+      {
+        "_key": "9019d51d604c",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "description": "From core banking to lending, analytics, AI, and cloud services, Bankai offers an integrated ecosystem designed for modern financial institutions.",
+          "text": {
+            "title": [
+              {
+                "_key": "018511f3bf9c",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "A Complete "
+              },
+              {
+                "_key": "33f0a5dd866e",
+                "_type": "titlePart",
+                "color": "text-brand-600",
+                "text": "Fintech "
+              },
+              {
+                "_key": "44246e501ed9",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Technology "
+              },
+              {
+                "_key": "a367bf5c5045",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Portfolio"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "gridCols": 4,
+        "hasPadding": false,
+        "id": "A Complete Fintech Technology Portfolio",
+        "isBgBlue": true,
+        "isBgLightBlue": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "632269eb7570",
+            "_type": "mediaCard",
+            "description": "Core Banking, Mobile Banking, Internet Banking, Tab Banking, and API-driven digital experiences.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3a75ad37f22972043835d2e1facb77dc89c530fe-271x164-webp",
+                "_type": "reference"
+              }
+            },
+            "isReversed": true,
+            "richTitle": [
+              {
+                "_key": "a72ec5ecdd1d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "52d5a2da2de1",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Digital Banking\nSuite"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "dcec8a3c5854",
+            "_type": "mediaCard",
+            "description": "Loan Origination System (easyLOS) and Loan Management System (easyLMS) for end-to-end lending.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-15db1f422ca2caf9836184dd8ed68fbfa216af34-271x164-webp",
+                "_type": "reference"
+              }
+            },
+            "isReversed": true,
+            "richTitle": [
+              {
+                "_key": "68a4159538b1",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "87e55a907166",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Digital Lending "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "c2aaeb0d828d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "87e55a907166",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Platforms"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "dd55052440c8",
+            "_type": "mediaCard",
+            "description": "Real-time BI dashboards, AI-powered risk assessment, AML/KYC, and credit underwriting solutions.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-2032b39b773de35af822d203b3cc206f534368f0-271x164-webp",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "147266d73a42",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1559c5e8946d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analytics & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1d91a8a02d73",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1559c5e8946d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Intelligence"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "684475869964",
+            "_type": "mediaCard",
+            "description": "Cloud operations, managed services, security administration, and infrastructure support.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-579833b9cc6b1b735ec6a698fce94c748ec7db23-271x164-webp",
+                "_type": "reference"
+              }
+            },
+            "isReversed": true,
+            "richTitle": [
+              {
+                "_key": "c18a059b13a5",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9b1842f74651",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Managed Cloud & "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "8c43ab17b6fe",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "9b1842f74651",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Services"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "beeaa3f08617",
+        "_type": "bankingFeatures",
+        "data": [
+          {
+            "_key": "f413d4ba5ff3",
+            "_type": "featureRow",
+            "items": [
+              {
+                "_key": "23ad08d95341",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Proven track record of delivering successful banking transformations across global financial institutions.",
+                "title": "135+ Successful Digital Banking Implementations"
+              },
+              {
+                "_key": "fb2d5e959184",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Integrated, unified, and secure Core Banking Solution seamlessly integrated with Digi.X™ while maintaining low CAPEX and OPEX.",
+                "title": "Cost-Effective, Best-of-Breed Platform"
+              },
+              {
+                "_key": "c6bd9aebe904",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Supports Retail Banking, Corporate Banking, Trade Finance, Treasury Operations, and Risk Management.",
+                "title": "Complete Banking  Ecosystem"
+              },
+              {
+                "_key": "e925c7e3c226",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Advanced capabilities including AML, KYC, Credit Underwriting, Credit Risk Modeling, Anomaly Detection, and Enterprise Bots.",
+                "title": "AI/ML-Powered  Intelligence"
+              }
+            ]
+          },
+          {
+            "_key": "87f94f632044",
+            "_type": "featureRow",
+            "items": [
+              {
+                "_key": "85c1d44fc508",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Supercharged Internet Banking, Mobile Banking, Branch Banking, Self-Service Kiosks, and Contact Center solutions for frictionless customer journeys.",
+                "title": "Omnichannel Banking  Suite"
+              },
+              {
+                "_key": "949e986f5313",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Built on Microservices, API-First, Cloud-Native, and Headless principles for maximum scalability and flexibility.",
+                "title": "Composable MACH  Architecture"
+              },
+              {
+                "_key": "b23de1afbea7",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Serving Co-operative Banks, Local Area Banks, Scheduled Commercial Banks, Payment Banks, SACCOs, MFIs, and NBFCs.",
+                "title": "Trusted Across Financial Segments"
+              },
+              {
+                "_key": "7beba4a0c00c",
+                "_type": "featureItem",
+                "cols": 3,
+                "description": "Implementation timelines reduced by more than 75% compared to traditional banking solution deployments.",
+                "title": "Faster Implementation  Cycles"
+              }
+            ]
+          },
+          {
+            "_key": "2e969bd16327",
+            "_type": "featureRow",
+            "items": [
+              {
+                "_key": "c999c180001c",
+                "_type": "featureItem",
+                "cols": 4,
+                "description": "Specialized capabilities in Oracle Database Security, Performance Optimization, and Database Tuning.",
+                "title": "Oracle Database  Expertise"
+              },
+              {
+                "_key": "67d6325f3b97",
+                "_type": "featureItem",
+                "cols": 4,
+                "description": "Combining strong producCombining strong product engineering capabilities with enterprise-grade integration expertise.t engineering capabilities with enterprise-grade integration expertise.",
+                "title": "Product Development & System Integration Excellence"
+              },
+              {
+                "_key": "9ca30ccfc7a0",
+                "_type": "featureItem",
+                "cols": 4,
+                "description": "Expertise across Cloud Computing, AI/ML, Database Administration, BCP/DR Consulting, Cybersecurity, and Network Orchestration.",
+                "title": "End-to-End  Technology Services"
+              }
+            ]
+          }
+        ],
+        "id": "bankingFeatures"
+      },
+      {
+        "_key": "08e9ca643f48",
+        "_type": "contactCtaSection",
+        "id": " Fast, Secure, and Built for Scale",
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "subText": "Security & Performance",
+        "titleParts": [
+          {
+            "_key": "ce701ddb4d55",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Fast, "
+          },
+          {
+            "_key": "9391da5d5b7c",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Secure, "
+          },
+          {
+            "_key": "57750ec1f2d5",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "and Built for Scale"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "_type": "seoObject",
+      "description": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions worldwide.",
+      "title": "Driving Excellence in Fintech Innovation"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "overview"
+    },
+    "title": "Overview"
+  },
+  {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
     "_rev": "bM4Vn6Xhr0kQ8myfj6zQxt",
