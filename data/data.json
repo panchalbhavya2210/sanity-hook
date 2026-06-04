@@ -1344,15 +1344,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "AKqZen6zsRd6FZqAicYiHl",
+    "_rev": "2L5iqaQa3UmcCheddrzpGP",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "XrTxD1czjbsDVYzLU2etwM"
+        "rev": "AKqZen6zsRd6FZqAicYiHl"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T08:09:20Z",
+    "_updatedAt": "2026-06-04T08:29:01Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1525,7 +1525,6 @@
       {
         "_key": "a8a4798c5803",
         "_type": "partnerListSection",
-        "headerSubTitleText": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
         "id": "partners",
         "partners": [
           {
@@ -1545,12 +1544,26 @@
             "_key": "c1452e996e6b",
             "_type": "partnerCard",
             "designation": "Founder",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ca89748812fb3517c46e5b81456c3f5f875e1d65-4825x6000-jpg",
+                "_type": "reference"
+              }
+            },
             "partnerName": "Chirag Patel"
           },
           {
             "_key": "69502ed63c76",
             "_type": "partnerCard",
             "designation": "Founder",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0bef16c1c01f9d9a02127872b1941e4ae7193cee-6000x5972-jpg",
+                "_type": "reference"
+              }
+            },
             "partnerName": "Chirag Patel"
           },
           {
@@ -1560,6 +1573,7 @@
             "partnerName": "Chirag Patel"
           }
         ],
+        "subTitleText": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
         "titleParts": [
           {
             "_key": "df244dbc8c54",
