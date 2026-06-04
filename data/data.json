@@ -497,9 +497,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "2L5iqaQa3UmcCheddrtW78",
+    "_rev": "XrTxD1czjbsDVYzLU2bKCI",
+    "_system": {
+      "base": {
+        "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
+        "rev": "2L5iqaQa3UmcCheddruH2z"
+      }
+    },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T07:15:43Z",
+    "_updatedAt": "2026-06-04T07:22:19Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -698,7 +704,7 @@
         "isBgBlue": true,
         "isBgLightBlue": false,
         "isTextBlack": false,
-        "isTextWhite": false,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "8f95358478de",
@@ -904,6 +910,14 @@
         "actionCardHeader": {
           "subTitleText": "Industry-recognized certifications and process excellence frameworks ensure secure, compliant, and high-quality solutions for financial institutions worldwide.",
           "text": {
+            "title": [
+              {
+                "_key": "97a64b7821ce",
+                "_type": "titlePart",
+                "color": "text-white",
+                "text": "Built on Trust. Backed by Certifications."
+              }
+            ],
             "variant": "h1"
           }
         },
@@ -1000,12 +1014,12 @@
           }
         },
         "gridCols": 4,
-        "hasPadding": false,
+        "hasPadding": true,
         "id": "A Complete Fintech Technology Portfolio",
-        "isBgBlue": true,
+        "isBgBlue": false,
         "isBgLightBlue": false,
         "isTextBlack": false,
-        "isTextWhite": false,
+        "isTextWhite": true,
         "mediaInfoCardData": [
           {
             "_key": "632269eb7570",
@@ -1090,6 +1104,7 @@
                 "_type": "reference"
               }
             },
+            "isReversed": true,
             "richTitle": [
               {
                 "_key": "147266d73a42",
@@ -1163,6 +1178,24 @@
                 "style": "normal"
               }
             ]
+          }
+        ]
+      },
+      {
+        "_key": "ffe715245be3",
+        "_type": "sectionHeaderSection",
+        "id": "A Competitive Edge Built for Modern Banking",
+        "isBgBlue": true,
+        "isTextBlack": false,
+        "isTextWhite": true,
+        "isTitleOnly": true,
+        "subTitleText": "Combining deep banking expertise, proven implementation success, AI-driven innovation, and cloud-native architecture, Bankai Informatics empowers financial institutions to accelerate digital transformation with confidence.",
+        "titleParts": [
+          {
+            "_key": "9511d95193f0",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "A Competitive Edge Built for Modern Banking"
           }
         ]
       },
@@ -1253,7 +1286,7 @@
                 "_key": "67d6325f3b97",
                 "_type": "featureItem",
                 "cols": 4,
-                "description": "Combining strong producCombining strong product engineering capabilities with enterprise-grade integration expertise.t engineering capabilities with enterprise-grade integration expertise.",
+                "description": "Combining strong product engineering capabilities with enterprise-grade integration expertise.",
                 "title": "Product Development & System Integration Excellence"
               },
               {
