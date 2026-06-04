@@ -27392,15 +27392,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "6XauXwCqdfjH3lSp8mEF1S",
+    "_rev": "2L5iqaQa3UmcChedds9Iv4",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "tYwdV2ldLdzJB4kwq0Heey"
+        "rev": "6XauXwCqdfjH3lSp8mEF1S"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:29:32Z",
+    "_updatedAt": "2026-06-04T09:34:11Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -27455,7 +27455,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-0c47f8d6c362f95de9cfeb18431e78573539b01d-407x246-webp",
+                "_ref": "image-70dd2108d0d429fb70d374bad8b9ce95ef10a121-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27498,7 +27498,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-46d3a7de762b40dfb74c888def3a581b2ccc6f9a-407x246-webp",
+                "_ref": "image-89c70451e47cb8e49ea768c4b8742b0f439f071b-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27541,7 +27541,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-29263763991efa357fc13bd617f232a5625c1087-407x246-webp",
+                "_ref": "image-f0f153a3d8dee5ebeb8184b5fa71966ed09efc20-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27585,7 +27585,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-db89ac660a237b5c1734701f318dd588da215d37-407x246-webp",
+                "_ref": "image-7b5351d4ba85d6f1fee0f31307024555c4444f1d-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27681,7 +27681,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a9f1d9498851a3b664318fadca47128a7f845879-407x246-webp",
+                "_ref": "image-c05db5a019974e9b232e381b0ce88cf8cc5df5f4-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27696,7 +27696,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-cf22b94767109d14a653587b8d45e2e02a69fe18-407x246-webp",
+                "_ref": "image-9e580a46d7ca5c5874816e73b75890f588f6a03f-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27740,7 +27740,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-628657f90561bfecdaa9d553f6c0be8fb925fb63-407x246-webp",
+                "_ref": "image-00ab15047cd55587010d1d51cf760f7f1c5c74e4-271x164-webp",
                 "_type": "reference"
               }
             },
@@ -27784,7 +27784,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d59393ead07005124c6dd2bc3bff010e4e1175b6-407x246-webp",
+                "_ref": "image-043adbf9ed99ccc15aa2df9d77d6cb6bf89c6ca1-271x164-webp",
                 "_type": "reference"
               }
             },
