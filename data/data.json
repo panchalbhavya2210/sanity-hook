@@ -1342,6 +1342,386 @@
     "title": "Overview"
   },
   {
+    "_createdAt": "2026-06-04T07:34:37Z",
+    "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
+    "_rev": "2L5iqaQa3UmcCheddrwuk5",
+    "_type": "productPages",
+    "_updatedAt": "2026-06-04T07:57:52Z",
+    "sections": [
+      {
+        "_key": "f8df8c81e0a2",
+        "_type": "heroSection",
+        "backgroundColor": "bg-[#006DFF1A]",
+        "cta": {
+          "_type": "ctaButton",
+          "variant": "primary"
+        },
+        "id": "hero",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-18bab96f9f3f44161e10b504339f5dbf63be7e8e-707x672-png",
+            "_type": "reference"
+          }
+        },
+        "subtitle": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+        "title": "Meet the Leaders Driving Innovation",
+        "variant": "split"
+      },
+      {
+        "_key": "7c84adfd0cf2",
+        "_type": "coreInfoSection",
+        "cta": {
+          "isButtonVisible": true
+        },
+        "features": [
+          {
+            "_key": "34478a0830e4",
+            "_type": "featureCard",
+            "description": "Leadership Experience",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "e641c2915a7e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "8419bfd6266d",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "25+ Years"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "089540ed18ff",
+            "_type": "featureCard",
+            "description": "Successful Implementations",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "edf795290b88",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1e2b690c0427",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "135+"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "f7afc893e1e2",
+            "_type": "featureCard",
+            "description": "Financial Institutions Served",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "38edfd64dc22",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "b484ca73e897",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "120+"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "a7240d437fc9",
+            "_type": "featureCard",
+            "description": "Banking • Fintech • Cloud • AI",
+            "hasList": false,
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "407da375d40f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a02d31c59400",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Domain expertise"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          }
+        ],
+        "id": "Powered by Experienced Leadership",
+        "isTextBlack": true,
+        "subTitleText": "Serving banks, NBFCs, MFIs, credit unions, and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
+        "titleParts": [
+          {
+            "_key": "059d760704b3",
+            "_type": "titlePart",
+            "color": "text-brand-600",
+            "text": "Powered "
+          },
+          {
+            "_key": "e077f173ea89",
+            "_type": "titlePart",
+            "color": "text-black",
+            "text": "by Experienced "
+          },
+          {
+            "_key": "f411df5b0d9e",
+            "_type": "titlePart",
+            "color": "text-warning",
+            "text": "Leadership"
+          }
+        ]
+      },
+      {
+        "_key": "a8a4798c5803",
+        "_type": "partnerListSection",
+        "headerSubTitleText": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+        "id": "partners",
+        "partners": [
+          {
+            "_key": "248b641a0891",
+            "_type": "partnerCard",
+            "designation": "Founder",
+            "partnerName": "Chirag Patel"
+          },
+          {
+            "_key": "c1452e996e6b",
+            "_type": "partnerCard",
+            "designation": "Founder",
+            "partnerName": "Chirag Patel"
+          },
+          {
+            "_key": "69502ed63c76",
+            "_type": "partnerCard",
+            "designation": "Founder",
+            "partnerName": "Chirag Patel"
+          },
+          {
+            "_key": "3e90eb1e600c",
+            "_type": "partnerCard",
+            "designation": "Founder",
+            "partnerName": "Chirag Patel"
+          }
+        ],
+        "titleParts": [
+          {
+            "_key": "df244dbc8c54",
+            "_type": "titlePart",
+            "color": "text-white",
+            "text": "Leadership Built on Experience"
+          }
+        ]
+      },
+      {
+        "_key": "53af9eea78a1",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "subTitle": "Experienced professionals leading strategy, operations, technology, product innovation, and customer success across the organization.",
+          "text": {
+            "title": [
+              {
+                "_key": "1b9d2dc03924",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Executive Leadership"
+              }
+            ],
+            "variant": "h1"
+          }
+        },
+        "gridCols": 3,
+        "hasPadding": true,
+        "id": "Executive Leadership",
+        "isBgBlue": false,
+        "isBgLightBlue": false,
+        "isTextBlack": true,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "bf22686701ac",
+            "_type": "mediaCard",
+            "description": "Leads business strategy, operational excellence, enterprise growth, and organizational transformation with over 25 years of leadership experience.",
+            "position": "Chief Operating Officer (COO)",
+            "title": "Sunil Sabnis"
+          },
+          {
+            "_key": "03981ec0252b",
+            "_type": "mediaCard",
+            "description": "Drives enterprise architecture, product strategy, and large-scale banking technology transformation across financial institutions.",
+            "position": "Chief Solution Architect – Core Banking",
+            "title": "Yasir Saiyed"
+          },
+          {
+            "_key": "a055c50366d2",
+            "_type": "mediaCard",
+            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
+            "position": "Chief Solution Architect – DiGi.X™",
+            "title": "Kamlesh Suthar"
+          },
+          {
+            "_key": "fc9d72a9a26a",
+            "_type": "mediaCard",
+            "description": "Responsible for solution innovation, fintech transformation, and strategic banking implementations, nearly two decades of experience.",
+            "position": "AVP – Banking & Fintech Solutions",
+            "title": "Sajid Sachawala"
+          },
+          {
+            "_key": "9102e647b77e",
+            "_type": "mediaCard",
+            "description": "Leads people strategy, talent development, organizational governance, and culture-building initiatives across the organization.",
+            "position": "AVP – Human Resources",
+            "title": "Vartika Agarwal"
+          },
+          {
+            "_key": "31d75b2a6c40",
+            "_type": "mediaCard",
+            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
+            "position": "Head Digix Delivery and Support",
+            "title": "Paras Gandhi"
+          },
+          {
+            "_key": "d52208414817",
+            "_type": "mediaCard",
+            "description": "Banking product specialist with over 25 years of experience across lending, core banking, MSME finance, retail lending, and product management. Santosh leads the evolution of lending and loan origination solutions.",
+            "position": "AVP – Product Development (LOS)",
+            "title": "Santosh Deshpande"
+          },
+          {
+            "_key": "93d79d779f68",
+            "_type": "mediaCard",
+            "description": "Leads end-to-end delivery and support for core banking platforms. With extensive experience in implementation, service excellence, risk management, and customer success, Nikita focuses on operational efficiency and client satisfaction.",
+            "position": "Head – Delivery & Support (CBS)",
+            "title": "Nikita Patel"
+          },
+          {
+            "_key": "d7ef00af8e0e",
+            "_type": "mediaCard",
+            "description": "Experienced banking technology professional leading implementation, support, and operational delivery across core banking and digital banking platforms. Ketan specializes in customer onboarding and enterprise support excellence.",
+            "position": "Head – Delivery & Support (CBS & DiGi.X)",
+            "title": "Ketan Raval"
+          },
+          {
+            "_key": "8eab367fc445",
+            "_type": "mediaCard",
+            "description": "Core banking and fintech specialist with expertise in product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance. Jeet helps institutions maximize value from banking technology investments.",
+            "position": "Head – Implementation & Support",
+            "title": "Jeet Jarsania"
+          },
+          {
+            "_key": "2ce2a93d10a7",
+            "_type": "mediaCard",
+            "description": "Banking operations leader with 20+ years of experience in implementation, service delivery, process optimization, and support management. Rajesh focuses on building efficient support ecosystems and customer-centric operations.",
+            "position": "Head – Delivery & Support (MH)",
+            "title": "Rajesh Mahto"
+          },
+          {
+            "_key": "5ea8e383284c",
+            "_type": "mediaCard",
+            "description": "Quality assurance leader responsible for testing, compliance, customer success, and software quality governance across multiple banking products. Vishvesh ensures reliability, performance, and product excellence.",
+            "position": "Team Lead – QA & Quality Assurance",
+            "title": "Vishvesh Vyas"
+          },
+          {
+            "_key": "14a937cfed25",
+            "_type": "mediaCard",
+            "description": "Cybersecurity professional specializing in information security governance, risk management, compliance, security awareness, and enterprise cyber resilience. Rupal helps maintain robust security frameworks across the organization.",
+            "position": "Senior Information Security Officer",
+            "title": "Rupal Sharma"
+          },
+          {
+            "_key": "1c89497d46e4",
+            "_type": "mediaCard",
+            "description": "Experienced middleware and infrastructure specialist responsible for application server management, DevOps practices, system reliability, and platform performance optimization.",
+            "position": "Lead Application Server Engineer",
+            "title": "Hiral Sathavara"
+          },
+          {
+            "_key": "1c09d577333a",
+            "_type": "mediaCard",
+            "description": "Technology operations leader with expertise in cloud infrastructure, networking, system administration, and enterprise IT operations. Milan ensures secure and efficient technology environments.",
+            "position": "Lead – IT Operations",
+            "title": "Milan Patel"
+          },
+          {
+            "_key": "0fc4c3a9e4d1",
+            "_type": "mediaCard",
+            "description": "Finance professional with 13+ years of experience in financial reporting, budgeting, forecasting, compliance, and accounting operations. Ashaka leads financial governance and operational controls.",
+            "position": "Head – Accounts & Finance",
+            "title": "Ashaka Patel"
+          },
+          {
+            "_key": "765c8bede731",
+            "_type": "mediaCard",
+            "description": "Technical support specialist with deep expertise in CBS, Digi.X, database administration, migrations, troubleshooting, and customer support operations.",
+            "position": "Senior Team Lead – Technical Support",
+            "title": "Mahendra Makwana"
+          },
+          {
+            "_key": "67422b03b8e9",
+            "_type": "mediaCard",
+            "description": "Software engineering professional focused on banking technology development, SWIFT messaging integrations, enterprise applications, and product enhancements.",
+            "position": "Senior Software Developer",
+            "title": "Moinkhan Pathan"
+          }
+        ]
+      }
+    ],
+    "seo": {
+      "_type": "seoObject",
+      "description": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+      "title": "Meet the Leaders Driving Innovation"
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "leadership"
+    },
+    "title": "LeaderShip"
+  },
+  {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
     "_rev": "bM4Vn6Xhr0kQ8myfj6zQxt",
