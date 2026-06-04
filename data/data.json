@@ -14588,15 +14588,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "6XauXwCqdfjH3lSp8mE5sc",
+    "_rev": "XrTxD1czjbsDVYzLU2jVpC",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "zdDSdhTDV24lASLsPdmHoQ"
+        "rev": "6XauXwCqdfjH3lSp8mE5sc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:28:15Z",
+    "_updatedAt": "2026-06-04T08:56:05Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14892,6 +14892,346 @@
         },
         "hasFullImage": true,
         "isBgBlue": true
+      },
+      {
+        "_key": "26e8196f61b9",
+        "_type": "articlesSection",
+        "articleSectionHeader": {
+          "text": {
+            "variant": "h1"
+          }
+        },
+        "gridCols": 3,
+        "hasPadding": false,
+        "id": "Underwriting & Risk Analysis",
+        "isBgBlue": true,
+        "isBgLightBlue": false,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "mediaInfoCardData": [
+          {
+            "_key": "0889de99635c",
+            "_type": "mediaCard",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c13e463d13a39e81e2bec03af42152b2afbfc756-354x248-png",
+                "_type": "reference"
+              }
+            },
+            "position": "KYC, AML checks, credit bureau integration, and financial analysis for risk evaluation.",
+            "title": "Underwriting & Risk Analysis"
+          },
+          {
+            "_key": "7ae084abc3f0",
+            "_type": "mediaCard",
+            "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-84b43d209fb3b1a80902b8fb388bf361e2307ae5-354x248-png",
+                "_type": "reference"
+              }
+            },
+            "title": "Approval & Disbursement"
+          },
+          {
+            "_key": "e47cff1cbc14",
+            "_type": "mediaCard",
+            "description": "Monitor deviations from credit policies and business rules while maintaining compliance and transparency.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4ea82726998d4cca8a3436ac30c63fded764cc6b-354x248-png",
+                "_type": "reference"
+              }
+            },
+            "title": "Deviation Management"
+          }
+        ]
+      },
+      {
+        "_key": "95f69b9fba63",
+        "_type": "quickActionCardParentSection",
+        "actionCardHeader": {
+          "text": {
+            "variant": "h1"
+          }
+        },
+        "bgColor": "white",
+        "hasCardBackground": false,
+        "id": "Bureau  Analysis",
+        "isChild": true,
+        "isTextBlack": false,
+        "isTextWhite": false,
+        "quickActionCard": [
+          {
+            "_key": "ac9d050dc420",
+            "_type": "quickActionCard",
+            "description": "Analyzes the applicant's credit history, repayment behavior, outstanding liabilities, and credit score to evaluate credit worthiness and risk profile.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-ac7b48b74e564d819b4140c2ac23a256490d1e1d-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "68a65b2956bc",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "646cd4c0f96b",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Bureau\nAnalysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "4881fe1986df",
+            "_type": "quickActionCard",
+            "description": "Reviews bank account transactions to assess cash inflows, outflows, average balances, and overall banking behavior for financial stability assessment.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d00d2b503b53c04d3f5d2b025aa54033ab632ab3-640x640-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "f141e43da312",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a295f45a3ef7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Banking Turnover "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "e3b04b52cc32",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a295f45a3ef7",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "a3dd974285dc",
+            "_type": "quickActionCard",
+            "description": "Examines GST return data to validate business turnover, sales trends, filing consistency, and operational performance.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4820579c83aeb7259279620667e80ea340503320-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "6fc50da93bb3",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1ba4a988a538",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "GST Turnover "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "67f983c2b64a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "1ba4a988a538",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "0bad86d656a0",
+            "_type": "quickActionCard",
+            "description": "Evaluates income sources, earning patterns, and income stability to determine repayment capacity and financial strength.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-4e8dadf8d9eae189ce973a805905180f012a5030-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "7b69a5ec12bd",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "0ab98db0305f",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Income\nAnalysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "a27b476c91d3",
+            "_type": "quickActionCard",
+            "description": "Assesses the movement of funds by comparing inflows and outflows, helping identify liquidity position and debt servicing capabilities.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c531356fc7765b0ffd297b65102d701ccf73cfba-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "f644bfd99111",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "09267b95a7b3",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Cash Flow\nAnalysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "697f447d85e7",
+            "_type": "quickActionCard",
+            "description": "Analyzes the value, quality, and adequacy of pledged assets to determine collateral coverage and mitigate lending risk.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3e49367f2ed7f04e477d21b88a9ac31db9044746-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "5b565955df53",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "18dd9cac53cf",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Collateral\nAnalysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "9700df078e66",
+            "_type": "quickActionCard",
+            "description": "Reviews project costs, revenue projections, profitability estimates, and financial feasibility to assess project viability and funding requirements.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-25293441811a48b533721b3a0d8a1adee41ffa68-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "dcb739b382b7",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "28d2f125c659",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Project Estimate "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "1f5ffdaf68c6",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "28d2f125c659",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Analysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          },
+          {
+            "_key": "42096bf32544",
+            "_type": "quickActionCard",
+            "description": "Calculates the working capital requirement and eligible bank finance based on inventory, receivables, current assets, and borrower contribution as per banking norms.",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-05bfabab259740a3d642de471fe7cfb554cd6fb3-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "richTitle": [
+              {
+                "_key": "6feaa6dbad4a",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "f13e55ad245e",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "MPBF\nAnalysis"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
+          }
+        ]
       },
       {
         "_key": "6gat05888m",
