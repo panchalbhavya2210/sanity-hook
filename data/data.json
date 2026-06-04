@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "AKqZen6zsRd6FZqAicUzQd",
+    "_rev": "XrTxD1czjbsDVYzLU2bX3s",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "AKqZen6zsRd6FZqAicUsd5"
+        "rev": "AKqZen6zsRd6FZqAicUzQd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T07:24:51Z",
+    "_updatedAt": "2026-06-04T07:25:12Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1194,7 +1194,7 @@
           {
             "_key": "9511d95193f0",
             "_type": "titlePart",
-            "color": "text-black",
+            "color": "text-white",
             "text": "A Competitive Edge Built for Modern Banking"
           }
         ]
