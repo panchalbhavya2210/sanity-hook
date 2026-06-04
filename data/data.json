@@ -497,15 +497,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "AKqZen6zsRd6FZqAicUsd5",
+    "_rev": "AKqZen6zsRd6FZqAicUzQd",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "XrTxD1czjbsDVYzLU2bKCI"
+        "rev": "AKqZen6zsRd6FZqAicUsd5"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T07:22:32Z",
+    "_updatedAt": "2026-06-04T07:24:51Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -840,7 +840,7 @@
           {
             "_key": "a510f588cee6",
             "_type": "capabilityCard",
-            "details": "Combining emerging technologies, cloud infrastructure, and domain expertise to solve complex challenges.",
+            "description": "Combining emerging technologies, cloud infrastructure, and domain expertise to solve complex challenges.",
             "hasList": false,
             "id": 4,
             "image": {
