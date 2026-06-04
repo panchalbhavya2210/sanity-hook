@@ -19599,15 +19599,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "Af0w24d1UBF0wdCcQLs8hl",
+    "_rev": "ez00CovmgIFJKqHooNWTlX",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "zdDSdhTDV24lASLsPdIzwq"
+        "rev": "Af0w24d1UBF0wdCcQLs8hl"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-02T08:49:47Z",
+    "_updatedAt": "2026-06-04T10:05:12Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19909,13 +19909,13 @@
           },
           {
             "_key": "32ffbcd8-4bac-4a07-9e86-ceefe24b0f94",
-            "href": "/coming-soon",
+            "href": "/overview",
             "label": "Overview",
             "type": "link"
           },
           {
             "_key": "b627aee4-ad55-418f-8e99-78bf097cbe0c",
-            "href": "/coming-soon",
+            "href": "/leadership",
             "label": "Leadership Team",
             "type": "link"
           },
