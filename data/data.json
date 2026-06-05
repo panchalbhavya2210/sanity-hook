@@ -7721,15 +7721,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "Af0w24d1UBF0wdCcQLwwKX",
+    "_rev": "2JUT45RarmtyPWnJiS2kvA",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "UAjCtlAuHSg7wG7TzGqAyS"
+        "rev": "Af0w24d1UBF0wdCcQLwwKX"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:10:17Z",
+    "_updatedAt": "2026-06-05T06:08:24Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -8468,6 +8468,13 @@
     ],
     "seo": {
       "description": "Modernize your legacy core banking platform with BankAI’s low-risk, API-first core modernization approach for agile, cloud-ready banking operations.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-da76fa83d95158793752d68a58c08dcab62b442b-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
