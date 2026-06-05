@@ -22801,15 +22801,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "6XauXwCqdfjH3lSp8mBHY6",
+    "_rev": "MNAtp5t0WK9epqGdZldhWR",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "zdDSdhTDV24lASLsPdfRHu"
+        "rev": "6XauXwCqdfjH3lSp8mBHY6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T09:36:17Z",
+    "_updatedAt": "2026-06-05T06:08:51Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23435,6 +23435,13 @@
     ],
     "seo": {
       "description": "Migrate to Oracle Cloud and run your banking platform securely with BankAI’s managed cloud services for high availability and reduced operational risk.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-a7a6c15434d69083fe9da37278c6fc184f9ef955-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "managed cloud services",
         "oracle cloud migration",
