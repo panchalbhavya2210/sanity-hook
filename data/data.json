@@ -8476,15 +8476,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "UAjCtlAuHSg7wG7TzFuErR",
+    "_rev": "2JUT45RarmtyPWnJiS1zWK",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "UAjCtlAuHSg7wG7TzFuErR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:34:21Z",
+    "_updatedAt": "2026-06-05T05:59:54Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -9485,7 +9485,13 @@
     ],
     "seo": {
       "description": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-f98c86f3326782f6dfbf8d940d083dc70e4f33d0-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
