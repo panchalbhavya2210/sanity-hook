@@ -14620,15 +14620,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "XrTxD1czjbsDVYzLU2nwos",
+    "_rev": "2JUT45RarmtyPWnJiS28Wu",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "2L5iqaQa3UmcChedds5zDd"
+        "rev": "XrTxD1czjbsDVYzLU2nwos"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T09:17:47Z",
+    "_updatedAt": "2026-06-05T06:01:46Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -16490,7 +16490,13 @@
     ],
     "seo": {
       "description": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-4c7024523c7a14a01c79d5a73a9ad3550aa53c57-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
