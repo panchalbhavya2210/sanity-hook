@@ -4547,15 +4547,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "2JUT45RarmtyPWnJiS2qsC",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "xYdOegpFMyaIaw5eRrmb9R"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-06-05T06:12:13Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4975,7 +4975,13 @@
     ],
     "seo": {
       "description": "We’re looking for curious minds, bold thinkers, and problem-solvers who love building meaningful technology that impacts people at scale.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-67ddd990a3bd4e4e38f45489dff7a419afb643e9-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "NACH signing tool",
         "digital signature",
