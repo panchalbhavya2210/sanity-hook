@@ -24983,15 +24983,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "MNAtp5t0WK9epqGdZldUAR",
+    "_rev": "MNAtp5t0WK9epqGdZldpK7",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "6XauXwCqdfjH3lSp8mBzQ2"
+        "rev": "MNAtp5t0WK9epqGdZldUAR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T05:55:26Z",
+    "_updatedAt": "2026-06-05T06:25:44Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -25234,7 +25234,6 @@
       {
         "_key": "xz134ijjjc",
         "_type": "imageSection",
-        "fullImageAlt": "picsum",
         "hasFullImage": false,
         "id": "imageSection4",
         "imageSource": [
@@ -25244,7 +25243,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-2e2320ef34443991458c81135a19ed680c99faca-630x472-webp",
+                "_ref": "image-31adbec32a34412e46651bddd5477aec1a741657-630x472-jpg",
                 "_type": "reference"
               }
             }
@@ -25255,7 +25254,7 @@
             "imageLink": {
               "_type": "image",
               "asset": {
-                "_ref": "image-0649647053119b10add047f81ba88558dc8d6841-630x472-webp",
+                "_ref": "image-e0a64277358f8dbd50f1bd88f992a8f3bd0d0717-630x472-jpg",
                 "_type": "reference"
               }
             }
@@ -25363,7 +25362,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-12f778b8fec9423dba896db3bd6c0735e2ef3d28-627x547-webp",
+                "_ref": "image-17e87f4d854bc7116d96afd46438ae52bfd9764c-627x547-jpg",
                 "_type": "reference"
               }
             },
@@ -25392,7 +25391,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-d9cec803edf07553e242adaec30a6f3ccdb74355-627x547-webp",
+                "_ref": "image-49231f4e4be5652358ae992fa0be034ec44d9525-627x547-jpg",
                 "_type": "reference"
               }
             },
@@ -25421,7 +25420,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-75a87aa69cbbb6fafc0772d1684bb5df5d281414-627x547-webp",
+                "_ref": "image-82898fafb20bb8a70dce7418e814f912a4a18197-627x547-jpg",
                 "_type": "reference"
               }
             },
@@ -25450,7 +25449,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-f501d7ace02dc3bfacf4d7261a68d67e4733447f-627x547-webp",
+                "_ref": "image-abb7ce2abb7e3942e24a5a068be26faae6892903-627x547-jpg",
                 "_type": "reference"
               }
             },
@@ -25479,7 +25478,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-1e5933829c36588668b7a53a6c7712f4c49d27fc-627x547-webp",
+                "_ref": "image-097a1cb34aabd3fa692c771d04d7c42af8cf36ed-627x547-jpg",
                 "_type": "reference"
               }
             },
@@ -25508,7 +25507,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-a2efd2127b9cb6054de604fe26307bda71c41490-627x547-webp",
+                "_ref": "image-cd874d0265d91f23a3c021e96fc80fdda66eddd7-627x547-jpg",
                 "_type": "reference"
               }
             },
