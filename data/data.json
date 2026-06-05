@@ -6874,15 +6874,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "6XauXwCqdfjH3lSp8mD9Gc",
+    "_rev": "2JUT45RarmtyPWnJiS1qwa",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "bM4Vn6Xhr0kQ8myfjAeliv"
+        "rev": "6XauXwCqdfjH3lSp8mD9Gc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:15:12Z",
+    "_updatedAt": "2026-06-05T05:54:09Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -7676,6 +7676,13 @@
     ],
     "seo": {
       "description": "EasyBankCore® is a cloud-native core banking platform that helps banks modernize legacy systems, accelerate digital growth, and deliver secure customer experiences.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-1d94c8a17fd87d03cb6c8a3830e31cae4122e914-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core banking software",
         "digital core banking",
