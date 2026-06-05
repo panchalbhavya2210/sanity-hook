@@ -16487,15 +16487,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "MNAtp5t0WK9epqGdZldVW3",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "ZNIpBJ0WFANlheD2WgAWUh"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-06-05T05:58:19Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -17286,7 +17286,13 @@
     ],
     "seo": {
       "description": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-2b7da053cb6ed0d6e96530ba60c20c836df633e4-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
