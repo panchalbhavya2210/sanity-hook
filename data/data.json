@@ -10842,15 +10842,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6mofs",
+    "_rev": "6KGNvrS0DL9HoKyrAHf57R",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "j9x8aXCnOL41Sub9Fp5M1D"
+        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T09:45:44Z",
+    "_updatedAt": "2026-06-05T06:03:22Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -11358,6 +11358,13 @@
     ],
     "seo": {
       "description": "Securely sign PDF documents and automate compliance with BankAI’s digital signing service embedded in EasyBankCore®.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-470d61e65ad32a12b18b5caea9d0494a621049ca-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "digital signing",
         "e-signature",
