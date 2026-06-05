@@ -23442,15 +23442,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "UAjCtlAuHSg7wG7TzJUk8f",
+    "_rev": "6KGNvrS0DL9HoKyrAHfRtr",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "tYwdV2ldLdzJB4kwq1R8mG"
+        "rev": "UAjCtlAuHSg7wG7TzJUk8f"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-01T13:14:36Z",
+    "_updatedAt": "2026-06-05T06:07:04Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -24246,7 +24246,13 @@
     ],
     "seo": {
       "description": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d72b7b8b909d4ab2d4c6411a6ce556b466a68498-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "cheque clearing",
         "cheque processing",
