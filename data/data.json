@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "XrTxD1czjbsDVYzLU2bX3s",
+    "_rev": "2JUT45RarmtyPWnJiS2sPo",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "AKqZen6zsRd6FZqAicUzQd"
+        "rev": "XrTxD1czjbsDVYzLU2bX3s"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T07:25:12Z",
+    "_updatedAt": "2026-06-05T06:13:27Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1327,6 +1327,13 @@
     "seo": {
       "_type": "seoObject",
       "description": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions worldwide.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-a1672b07a271ba375c82d73111383c91f91fa20f-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "title": "Driving Excellence in Fintech Innovation"
     },
     "slug": {
