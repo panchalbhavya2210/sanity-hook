@@ -5750,15 +5750,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "tYwdV2ldLdzJB4kwq0IPD8",
+    "_rev": "MNAtp5t0WK9epqGdZldXx1",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "UAjCtlAuHSg7wG7TzFustO"
+        "rev": "tYwdV2ldLdzJB4kwq0IPD8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:57:02Z",
+    "_updatedAt": "2026-06-05T06:00:31Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6858,7 +6858,13 @@
     ],
     "seo": {
       "description": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels — 24×7.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-72efd0715e466d85726754a45b3956e11d39fed0-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "NACH signing tool",
         "digital signature",
