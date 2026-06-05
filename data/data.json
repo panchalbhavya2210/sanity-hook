@@ -18731,15 +18731,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "tYwdV2ldLdzJB4kwq0Hhtg",
+    "_rev": "2JUT45RarmtyPWnJiS1vGy",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "tYwdV2ldLdzJB4kwq0Hhtg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:10:04Z",
+    "_updatedAt": "2026-06-05T05:57:43Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -19586,7 +19586,13 @@
     ],
     "seo": {
       "description": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-1f6b0a8ef5cf60cd62a68d9fb988416cbe019900-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
