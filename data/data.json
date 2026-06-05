@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "AKqZen6zsRd6FZqAicb4el",
+    "_rev": "2JUT45RarmtyPWnJiS2tnM",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "2L5iqaQa3UmcCheddrzpGP"
+        "rev": "AKqZen6zsRd6FZqAicb4el"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T08:34:03Z",
+    "_updatedAt": "2026-06-05T06:14:06Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1748,6 +1748,13 @@
     "seo": {
       "_type": "seoObject",
       "description": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-bb6939be1726e8b6765d8f0c776b599a8e3d5cb7-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "title": "Meet the Leaders Driving Innovation"
     },
     "slug": {
