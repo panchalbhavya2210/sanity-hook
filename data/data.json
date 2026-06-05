@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "glsFk1SvfGcE5pcbzYNKvr",
+    "_rev": "modcPV4jfphaCCi2oq7bu1",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "2JUT45RarmtyPWnJiS2sPo"
+        "rev": "glsFk1SvfGcE5pcbzYNKvr"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T12:37:57Z",
+    "_updatedAt": "2026-06-05T12:43:14Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -944,7 +944,7 @@
             "_key": "ddce65d82725",
             "_type": "quickActionCard",
             "description": "Focuses on business continuity management, ensuring resilience and disaster preparedness.",
-            "title": "ISO 22301:2019"
+            "title": "ISO 22301:2025"
           },
           {
             "_key": "5f27c04a47f7",
