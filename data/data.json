@@ -20062,15 +20062,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "tYwdV2ldLdzJB4kwq0cdRW",
+    "_rev": "2JUT45RarmtyPWnJiS2gzw",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "tYwdV2ldLdzJB4kwq0cdRW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:27:50Z",
+    "_updatedAt": "2026-06-05T06:05:58Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -21080,7 +21080,13 @@
     ],
     "seo": {
       "description": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-db7aa641dfef43e513753ebcf8fe7ad7d2857069-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "cheque clearing",
         "cheque processing",
