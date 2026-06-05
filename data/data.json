@@ -21802,15 +21802,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "6XauXwCqdfjH3lSp8mDm2U",
+    "_rev": "6KGNvrS0DL9HoKyrAHfbo9",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "Af0w24d1UBF0wdCcQLnTKN"
+        "rev": "6XauXwCqdfjH3lSp8mDm2U"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T10:24:54Z",
+    "_updatedAt": "2026-06-05T06:10:02Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -22780,6 +22780,13 @@
     ],
     "seo": {
       "description": "Power instant payments with BankAI’s IMPS and UPI switch services, designed for secure, compliant, and high-performance digital payment processing.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-ecbbfb705e8f7020c2a75176c7436addbad6d7e8-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "IMPS switch",
         "UPI switch",
