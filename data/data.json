@@ -27420,15 +27420,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "2L5iqaQa3UmcChedds9Iv4",
+    "_rev": "MNAtp5t0WK9epqGdZldUxD",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "6XauXwCqdfjH3lSp8mEF1S"
+        "rev": "2L5iqaQa3UmcChedds9Iv4"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-04T09:34:11Z",
+    "_updatedAt": "2026-06-05T05:56:58Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -28474,7 +28474,13 @@
     ],
     "seo": {
       "description": "A unified digital platform that brings banking, payments, investments, and lifestyle services together — delivering one seamless experience for customers and businesses.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-8c6bca56577a5ac04ba3ef1588a218703b1e50e6-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "NACH signing tool",
         "digital signature",
