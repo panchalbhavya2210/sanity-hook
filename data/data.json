@@ -28496,15 +28496,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "2L5iqaQa3UmcCheddpWcCS",
+    "_rev": "MNAtp5t0WK9epqGdZldUct",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "2L5iqaQa3UmcCheddpWIn1"
+        "rev": "2L5iqaQa3UmcCheddpWcCS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-03T10:25:46Z",
+    "_updatedAt": "2026-06-05T05:56:24Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -29450,7 +29450,13 @@
     ],
     "seo": {
       "description": "MobiProPlus delivers seamless tab banking and mobile field services, enabling banks to serve customers anywhere with secure digital onboarding and transactions.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-502bd672bc6d6634c971932cae7b9b2b9def907a-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "tab banking",
         "mobile field banking",
