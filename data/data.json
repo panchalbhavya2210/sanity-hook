@@ -3350,15 +3350,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9PrxG",
+    "_rev": "2JUT45RarmtyPWnJiS2iIS",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "tYwdV2ldLdzJB4kwq0cPZ6"
+        "rev": "bM4Vn6Xhr0kQ8myfj9PrxG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:30:05Z",
+    "_updatedAt": "2026-06-05T06:06:34Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -4231,7 +4231,13 @@
     ],
     "seo": {
       "description": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-eeb48f76b9a56b30243283bc4f0759e4bc19fa6b-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "cheque clearing",
         "cheque processing",
