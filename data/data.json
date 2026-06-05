@@ -2504,15 +2504,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "bM4Vn6Xhr0kQ8myfjFKb53",
+    "_rev": "2JUT45RarmtyPWnJiS2pY0",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "UAjCtlAuHSg7wG7TzIuvBs"
+        "rev": "bM4Vn6Xhr0kQ8myfjFKb53"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-01T07:02:40Z",
+    "_updatedAt": "2026-06-05T06:11:28Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3326,7 +3326,7 @@
       "image": {
         "_type": "image",
         "asset": {
-          "_ref": "image-28b2ec5867732090f01f139f7178ed57793a9ad7-627x507-png",
+          "_ref": "image-f0621a446a13dfd17ced8b357e55d60e6373413f-1200x630-webp",
           "_type": "reference"
         }
       },
