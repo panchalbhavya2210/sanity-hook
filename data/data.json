@@ -2518,15 +2518,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "2JUT45RarmtyPWnJiS2pY0",
+    "_rev": "glsFk1SvfGcE5pcbzYMniz",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "bM4Vn6Xhr0kQ8myfjFKb53"
+        "rev": "2JUT45RarmtyPWnJiS2pY0"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:11:28Z",
+    "_updatedAt": "2026-06-05T12:30:50Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3308,7 +3308,7 @@
       {
         "_key": "1q6ve3uios",
         "_type": "contactCtaSection",
-        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
+        "description": "Manage APIs efficiently with centralized governance, intelligent analytics, and enterprise-grade scalability.",
         "id": "articles",
         "isTextBlack": true,
         "titleParts": [
