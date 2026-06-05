@@ -12105,15 +12105,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9OJQP",
+    "_rev": "6KGNvrS0DL9HoKyrAHfEIt",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "bM4Vn6Xhr0kQ8myfj9OFdF"
+        "rev": "bM4Vn6Xhr0kQ8myfj9OJQP"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:14:17Z",
+    "_updatedAt": "2026-06-05T06:04:50Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -13254,7 +13254,13 @@
     ],
     "seo": {
       "description": "Modernize cheque clearing with EasyCTS — automated cheque capture, validation, and compliant settlement built for banks and financial institutions.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-aa8f135e75ac1092c5ffa1fe1079149872243005-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "cheque clearing",
         "cheque processing",
