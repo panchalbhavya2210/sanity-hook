@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "2JUT45RarmtyPWnJiS2sPo",
+    "_rev": "glsFk1SvfGcE5pcbzYNKvr",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "XrTxD1czjbsDVYzLU2bX3s"
+        "rev": "2JUT45RarmtyPWnJiS2sPo"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:13:27Z",
+    "_updatedAt": "2026-06-05T12:37:57Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -926,7 +926,7 @@
             "_key": "9ae337f45520",
             "_type": "quickActionCard",
             "description": "Establishes a framework for managing and protecting sensitive information through an Information Security Management System (ISMS).",
-            "title": "ISO 27001:2013"
+            "title": "ISO 27001:2022"
           },
           {
             "_key": "8daac9696033",
