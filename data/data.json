@@ -19720,15 +19720,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "ez00CovmgIFJKqHooNWTlX",
+    "_rev": "modcPV4jfphaCCi2oq710l",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "Af0w24d1UBF0wdCcQLs8hl"
+        "rev": "ez00CovmgIFJKqHooNWTlX"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-04T10:05:12Z",
+    "_updatedAt": "2026-06-05T12:33:01Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19876,7 +19876,7 @@
                 "_type": "reference"
               }
             },
-            "label": "Digi.X",
+            "label": "Digi.X™",
             "type": "link",
             "width": 114
           },
