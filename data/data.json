@@ -18477,15 +18477,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9YmaG",
+    "_rev": "2JUT45RarmtyPWnJiS2jwm",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj9YmaG"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T08:59:59Z",
+    "_updatedAt": "2026-06-05T06:07:33Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -18783,7 +18783,13 @@
     ],
     "seo": {
       "description": "Digitize and streamline import-export operations, remittances, compliance reporting, and trade finance workflows through a unified banking platform built for speed, accuracy, and global connectivity.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-3e05d4b1b19b653c8c08ff0c41feef27e22706a1-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "NACH signing tool",
         "digital signature",
