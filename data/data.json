@@ -11386,15 +11386,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "UAjCtlAuHSg7wG7TzGHNsj",
+    "_rev": "MNAtp5t0WK9epqGdZldeMl",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "UAjCtlAuHSg7wG7TzGHLm6"
+        "rev": "UAjCtlAuHSg7wG7TzGHNsj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T17:51:16Z",
+    "_updatedAt": "2026-06-05T06:03:42Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -12077,7 +12077,13 @@
     ],
     "seo": {
       "description": "Automate NACH workflows end-to-end with BankAI’s e-NACH platform — from mandate management to reconciliation with NPCI compliance.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-e99f2855f0cce0d39db20e32b2ebc85632811551-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "e-NACH platform",
         "NACH automation",
