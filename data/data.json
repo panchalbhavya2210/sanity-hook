@@ -26594,15 +26594,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9wFc3",
+    "_rev": "2JUT45RarmtyPWnJiS2nbE",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj9wFc3"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T12:14:18Z",
+    "_updatedAt": "2026-06-05T06:10:34Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -27525,7 +27525,13 @@
     ],
     "seo": {
       "description": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-8c32514fb5f76cc08e8e2949cb99cda96d363373-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
