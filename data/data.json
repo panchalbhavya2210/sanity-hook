@@ -17369,15 +17369,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "bM4Vn6Xhr0kQ8myfj9OjX6",
+    "_rev": "2JUT45RarmtyPWnJiS2fXM",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj9OjX6"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-30T07:18:52Z",
+    "_updatedAt": "2026-06-05T06:05:21Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -18443,7 +18443,13 @@
     ],
     "seo": {
       "description": "Simplify reconciliation across ATM, POS, UPI, IMPS, and digital channels with EasyRecon’s intelligent and automated reconciliation engine.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-0583c7ec75858941f20bb6949e08e0adbc23f135-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "reconciliation software",
         "transaction reconciliation",
