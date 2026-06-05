@@ -1752,15 +1752,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6zQxt",
+    "_rev": "2JUT45RarmtyPWnJiS1yIq",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "bM4Vn6Xhr0kQ8myfj6zQxt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T11:27:29Z",
+    "_updatedAt": "2026-06-05T05:59:11Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -2476,7 +2476,13 @@
     ],
     "seo": {
       "description": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time — ensuring compliance, accuracy, and zero manual effort.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-dbf1eae1f8b6780c45c5ee3a43d59bf056e8ec9a-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "NACH signing tool",
         "digital signature",
