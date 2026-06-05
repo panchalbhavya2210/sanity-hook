@@ -5022,15 +5022,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "tYwdV2ldLdzJB4kwq1RRzu",
+    "_rev": "6KGNvrS0DL9HoKyrAHdMfB",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "GWOVDfiedfaJZayS3aq2sN"
+        "rev": "tYwdV2ldLdzJB4kwq1RRzu"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-06-01T05:57:51Z",
+    "_updatedAt": "2026-06-05T05:47:13Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5048,6 +5048,13 @@
     "seo": {
       "_type": "seoObject",
       "description": "From legacy systems to modern digital experiences, explore how we transform banking products into intuitive, scalable, and customer-first platforms.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-2a7bd1edd8503f81831b4a4222282d98f9a14ea1-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "ogDescription": "From legacy systems to modern digital experiences, explore how we transform banking products into intuitive, scalable, and customer-first platforms.",
       "ogTitle": "Designing the Future of Banking",
       "title": "Designing the Future of Banking"
