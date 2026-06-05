@@ -21014,15 +21014,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "Af0w24d1UBF0wdCcQLurcU",
+    "_rev": "2JUT45RarmtyPWnJiS0ZrU",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "6XauXwCqdfjH3lSp8mA6ig"
+        "rev": "Af0w24d1UBF0wdCcQLurcU"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-06-02T09:19:24Z",
+    "_updatedAt": "2026-06-05T05:22:34Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -21671,6 +21671,19 @@
           "text": "Stack — For Innovators & Institutions."
         }
       ]
+    },
+    "seo": {
+      "description": "A Scalable, Intelligent Digital Banking Stack for Innovators & Institutions.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-a48e4196340d8af95fbee2d3d628f1b3afeac907-1200x630-webp",
+          "_type": "reference"
+        }
+      },
+      "ogDescription": "A Scalable, Intelligent Digital Banking Stack for Innovators & Institutions.",
+      "ogTitle": "Bankai | Home",
+      "title": "Bankai | Home"
     }
   },
   {
