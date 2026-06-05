@@ -24837,15 +24837,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "6XauXwCqdfjH3lSp8mBzQ2",
+    "_rev": "MNAtp5t0WK9epqGdZldUAR",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "UAjCtlAuHSg7wG7TzFsID8"
+        "rev": "6XauXwCqdfjH3lSp8mBzQ2"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-02T09:52:08Z",
+    "_updatedAt": "2026-06-05T05:55:26Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -25701,6 +25701,13 @@
     ],
     "seo": {
       "description": "Deliver seamless digital banking across mobile, kiosk, internet, and super app channels with BankAI’s omnichannel banking platform.",
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-1064427faa8cdda5dea93d9badce22a3679a0643-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "omnichannel banking",
         "mobile banking",
