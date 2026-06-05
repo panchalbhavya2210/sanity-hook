@@ -13256,15 +13256,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "bM4Vn6Xhr0kQ8myfj74wtg",
+    "_rev": "2JUT45RarmtyPWnJiS272e",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "bM4Vn6Xhr0kQ8myfj74O82"
+        "rev": "bM4Vn6Xhr0kQ8myfj74wtg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-05-29T12:12:50Z",
+    "_updatedAt": "2026-06-05T06:01:06Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -14593,7 +14593,13 @@
     ],
     "seo": {
       "description": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
-      "image": null,
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-2e8fa636268bdb7c9acd4fb48c8ff9494e40c0d7-1200x630-webp",
+          "_type": "reference"
+        }
+      },
       "keywords": [
         "core modernization",
         "legacy core banking",
