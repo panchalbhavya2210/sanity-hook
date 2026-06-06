@@ -4501,9 +4501,15 @@
   {
     "_createdAt": "2026-05-11T08:52:56Z",
     "_id": "career-job-ui-ux-designer",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6meoS",
+    "_rev": "modcPV4jfphaCCi2orRhke",
+    "_system": {
+      "base": {
+        "id": "career-job-ui-ux-designer",
+        "rev": "bM4Vn6Xhr0kQ8myfj6meoS"
+      }
+    },
     "_type": "careerJob",
-    "_updatedAt": "2026-05-29T09:44:28Z",
+    "_updatedAt": "2026-06-06T05:58:00Z",
     "aboutCompany": [
       {
         "_key": "hxtqgho9",
@@ -4529,7 +4535,7 @@
     "isFeatured": false,
     "jobId": "JR210",
     "jobType": "full-time",
-    "location": "Bangalore",
+    "location": "Ahmedabad",
     "locationInfo": "On-site collaboration required in Bangalore office.",
     "publishedAt": "2026-05-11T08:52:53.431Z",
     "qualifications": [
