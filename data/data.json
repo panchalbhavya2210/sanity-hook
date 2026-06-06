@@ -4565,15 +4565,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "modcPV4jfphaCCi2orSDtS",
+    "_rev": "modcPV4jfphaCCi2orSJ6p",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "glsFk1SvfGcE5pcbzZtpNU"
+        "rev": "modcPV4jfphaCCi2orSDtS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T06:36:28Z",
+    "_updatedAt": "2026-06-06T06:48:52Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4676,143 +4676,6 @@
             "title": "Mindset Over Keywords"
           }
         ]
-      },
-      {
-        "_key": "0xz8bv4m5q",
-        "_type": "platformCapabilitiesSection",
-        "capabilitesDetails": [
-          {
-            "_key": "ctee4t9x7w",
-            "description": "Maintain a positive mindset, support your teammates, and contribute to a culture driven by enthusiasm and empathy.",
-            "hasList": false,
-            "id": 1,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-61925d379cffd9fd727ef42536f522f7275b0bdc-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "mzy67pdu9g",
-                "color": "text-black",
-                "text": "Bring the Right Energy"
-              }
-            ]
-          },
-          {
-            "_key": "wnifsrimpr",
-            "description": "Take ownership of challenges, make decisions confidently, and drive meaningful impact through action.",
-            "id": 2,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-1ec5037915aedee529b4d8cc8f9773d25b2267d4-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "37eo7c293y",
-                "color": "text-black",
-                "text": "Lead with Initiative"
-              }
-            ]
-          },
-          {
-            "_key": "d1b4e0p5my",
-            "description": "Strong collaboration and open communication help teams solve complex problems faster and smarter.",
-            "id": 3,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-6d718b63c207b34dc7b231f3bf47a07f84b0a069-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "nw9224y2e7",
-                "color": "text-black",
-                "text": "Thrive Together"
-              }
-            ]
-          },
-          {
-            "_key": "cc3pga7cmo",
-            "description": "Continuous learning, experimentation, and adaptability are part of everyday work at Bankai.",
-            "id": 5,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-66d04efe51e359586aa6217dde68df66264652aa-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "ywnj2vc3a0",
-                "color": "text-black",
-                "text": "Stay Curious, Keep Growing "
-              }
-            ]
-          },
-          {
-            "_key": "g7ojnhild0",
-            "description": "We value ambitious thinkers who challenge limits and turn bold ideas into scalable solutions.",
-            "id": 6,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c54d5450d5197fb13cdd87151e818feed399e84b-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "x42zqanl36",
-                "color": "text-black",
-                "text": "Dream Big, Deliver Bigger "
-              }
-            ]
-          },
-          {
-            "_key": "0m4ts2aziw",
-            "description": "Self-driven individuals who take initiative and consistently push themselves forward thrive here.",
-            "id": 7,
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-f302e47c64ad3a4ad667dcf4c628834ca87680a1-1254x1014-webp",
-                "_type": "reference"
-              }
-            },
-            "titleParts": [
-              {
-                "_key": "po5jjpwfew",
-                "color": "text-black",
-                "text": "Fuel Your Own Fire"
-              }
-            ]
-          }
-        ],
-        "hasHeader": true,
-        "id": "platformCapabilities1",
-        "isTextBlack": true,
-        "platformHeader": {
-          "subTitle": "At Bankai, culture is not a poster on the wall — it’s how we collaborate, innovate, and grow together every day.",
-          "text": {
-            "title": [
-              {
-                "_key": "66q04g9ex0",
-                "color": "text-brand-600",
-                "text": "A Workplace Built on Ownership & Growth"
-              }
-            ],
-            "variant": "h1"
-          }
-        }
       },
       {
         "_key": "2f135bdca16d",
@@ -4955,7 +4818,6 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "We believe innovation grows through diverse ideas, inclusive collaboration, and equal opportunities for everyone to learn, contribute, and succeed.",
-          "icon": null,
           "subTitle": "",
           "subTitleClassName": "",
           "text": {
@@ -4969,6 +4831,7 @@
           },
           "titleTextClassName": ""
         },
+        "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
         "isTextBlack": true,
@@ -4980,11 +4843,11 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-95d1e037a16dd0ebe841e41f432ca6128d1ebb90-542x328-webp",
+                "_ref": "image-530468aae051e139f1d112daf2d44a7f6e20b3ab-542x328-webp",
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
+            "isReversed": true,
             "title": "Inclusive Workplace"
           },
           {
@@ -4994,11 +4857,12 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-43d531cf5e226c86efa7b051c3431cf61b16cdf8-542x328-webp",
+                "_ref": "image-570d84cb90bac155a48433a2bc16f9b1af0d4a1a-542x328-webp",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Equal Opportunities"
           },
           {
@@ -5008,11 +4872,12 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-65eae13727b18fddbe33cb3ca85b28fe0fe38cc3-542x328-webp",
+                "_ref": "image-3d61dcbfd8610c379153f74e3eed17c1a8774029-542x328-webp",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Diverse Thinking"
           },
           {
@@ -5022,11 +4887,12 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-e84008e4adc156ba0fb9d56d6b7d7e33f2d424e5-542x328-webp",
+                "_ref": "image-7b49d6c2171ce09d2c25fefff7c467d7734a699f-542x328-webp",
                 "_type": "reference"
               }
             },
             "imageAlt": "",
+            "isReversed": true,
             "title": "Growth"
           }
         ]
