@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "2JUT45RarmtyPWnJiS2tnM",
+    "_rev": "j3mhrmkZhhtq0NN3hNkoqa",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "AKqZen6zsRd6FZqAicb4el"
+        "rev": "2JUT45RarmtyPWnJiS2tnM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:14:06Z",
+    "_updatedAt": "2026-06-06T06:14:49Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1652,13 +1652,6 @@
             "title": "Vartika Agarwal"
           },
           {
-            "_key": "31d75b2a6c40",
-            "_type": "mediaCard",
-            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
-            "position": "Head Digix Delivery and Support",
-            "title": "Paras Gandhi"
-          },
-          {
             "_key": "d52208414817",
             "_type": "mediaCard",
             "description": "Banking product specialist with over 25 years of experience across lending, core banking, MSME finance, retail lending, and product management. Santosh leads the evolution of lending and loan origination solutions.",
@@ -1727,13 +1720,6 @@
             "description": "Finance professional with 13+ years of experience in financial reporting, budgeting, forecasting, compliance, and accounting operations. Ashaka leads financial governance and operational controls.",
             "position": "Head – Accounts & Finance",
             "title": "Ashaka Patel"
-          },
-          {
-            "_key": "765c8bede731",
-            "_type": "mediaCard",
-            "description": "Technical support specialist with deep expertise in CBS, Digi.X, database administration, migrations, troubleshooting, and customer support operations.",
-            "position": "Senior Team Lead – Technical Support",
-            "title": "Mahendra Makwana"
           },
           {
             "_key": "67422b03b8e9",
