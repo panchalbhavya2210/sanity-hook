@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "modcPV4jfphaCCi2oq7bu1",
+    "_rev": "j3mhrmkZhhtq0NN3hNk4IK",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "glsFk1SvfGcE5pcbzYNKvr"
+        "rev": "modcPV4jfphaCCi2oq7bu1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T12:43:14Z",
+    "_updatedAt": "2026-06-06T05:57:01Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -956,7 +956,7 @@
             "_key": "2572ce15c0e9",
             "_type": "quickActionCard",
             "description": "Sets standards for protecting personal data in cloud environments, ensuring privacy and compliance.",
-            "title": "ISO/IEC 27018:2019"
+            "title": "ISO 27018:2025"
           },
           {
             "_key": "2b1c24aec70d",
