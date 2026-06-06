@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "NmlfHczPb8AvtTz8pI9hTB",
+    "_rev": "glsFk1SvfGcE5pcbzZtGFG",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "ez00CovmgIFJKqHooNazfy"
+        "rev": "NmlfHczPb8AvtTz8pI9hTB"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-04T10:41:26Z",
+    "_updatedAt": "2026-06-06T05:55:46Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -476,7 +476,7 @@
           "image": {
             "_type": "image",
             "asset": {
-              "_ref": "image-42a2824e39df1c2b8d90ff1a17efa8352b770d52-229x111-webp",
+              "_ref": "image-c64d41e9f5b3b109622476add986a7454eb31469-458x222-png",
               "_type": "reference"
             }
           },
