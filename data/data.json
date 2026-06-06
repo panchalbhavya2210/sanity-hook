@@ -4565,15 +4565,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "glsFk1SvfGcE5pcbzZtpNU",
+    "_rev": "modcPV4jfphaCCi2orSDtS",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "2JUT45RarmtyPWnJiS2qsC"
+        "rev": "glsFk1SvfGcE5pcbzZtpNU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T06:19:08Z",
+    "_updatedAt": "2026-06-06T06:36:28Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4815,6 +4815,61 @@
         }
       },
       {
+        "_key": "2f135bdca16d",
+        "_type": "multiImageShowcaseSection",
+        "id": "multiImageShowcase",
+        "items": [
+          {
+            "_key": "82bca0b23ab8",
+            "_type": "multiImageShowcaseItem",
+            "alt": "image 1",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1468b9e46564f391c66d128b10c2f9f9c37ee17b-2568x1014-webp",
+                "_type": "reference"
+              }
+            }
+          },
+          {
+            "_key": "f9c67d912942",
+            "_type": "multiImageShowcaseItem",
+            "alt": "image 2",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-98b04bb3e0dc066411186fecf574ec0414244b7a-1260x1014-webp",
+                "_type": "reference"
+              }
+            }
+          },
+          {
+            "_key": "0ef6ecd81d64",
+            "_type": "multiImageShowcaseItem",
+            "alt": "image 4",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-7f2f688269efed597c9578a4f3520fbd5ba53009-1260x1014-webp",
+                "_type": "reference"
+              }
+            }
+          },
+          {
+            "_key": "96436c5253d8",
+            "_type": "multiImageShowcaseItem",
+            "alt": "image 3",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-8fe2f4a12be9a667e27ad170e98bf9acf6982ab6-2568x1014-webp",
+                "_type": "reference"
+              }
+            }
+          }
+        ]
+      },
+      {
         "_key": "ovxwo9wsib",
         "_type": "articlesSection",
         "articleSectionHeader": {
@@ -4987,61 +5042,6 @@
             "_key": "9ogod4ml47",
             "color": "text-brand-600",
             "text": "Don’t See Your Dream Role Yet?"
-          }
-        ]
-      },
-      {
-        "_key": "2f135bdca16d",
-        "_type": "multiImageShowcaseSection",
-        "id": "multiImageShowcase",
-        "items": [
-          {
-            "_key": "82bca0b23ab8",
-            "_type": "multiImageShowcaseItem",
-            "alt": "image 1",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-1468b9e46564f391c66d128b10c2f9f9c37ee17b-2568x1014-webp",
-                "_type": "reference"
-              }
-            }
-          },
-          {
-            "_key": "f9c67d912942",
-            "_type": "multiImageShowcaseItem",
-            "alt": "image 2",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-98b04bb3e0dc066411186fecf574ec0414244b7a-1260x1014-webp",
-                "_type": "reference"
-              }
-            }
-          },
-          {
-            "_key": "0ef6ecd81d64",
-            "_type": "multiImageShowcaseItem",
-            "alt": "image 4",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-7f2f688269efed597c9578a4f3520fbd5ba53009-1260x1014-webp",
-                "_type": "reference"
-              }
-            }
-          },
-          {
-            "_key": "96436c5253d8",
-            "_type": "multiImageShowcaseItem",
-            "alt": "image 3",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-8fe2f4a12be9a667e27ad170e98bf9acf6982ab6-2568x1014-webp",
-                "_type": "reference"
-              }
-            }
           }
         ]
       }
