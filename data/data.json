@@ -4273,16 +4273,22 @@
   {
     "_createdAt": "2026-05-11T08:52:57Z",
     "_id": "career-job-product-manager",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6meoS",
+    "_rev": "modcPV4jfphaCCi2orRhCT",
+    "_system": {
+      "base": {
+        "id": "career-job-product-manager",
+        "rev": "qRGsyocDEdQGWQXrgjlWxD"
+      }
+    },
     "_type": "careerJob",
-    "_updatedAt": "2026-05-29T09:44:28Z",
+    "_updatedAt": "2026-06-06T05:57:43Z",
     "aboutCompany": [
       {
-        "_key": "0kib5yjy",
+        "_key": "xYdOegpFMyaIaw5eRrnBXx",
         "_type": "block",
         "children": [
           {
-            "_key": "zrmt1j9v",
+            "_key": "xYdOegpFMyaIaw5eRrnBYz",
             "_type": "span",
             "text": "We build enterprise fintech products used by banks and financial institutions globally."
           }
@@ -4301,7 +4307,7 @@
     "isFeatured": false,
     "jobId": "JR330",
     "jobType": "full-time",
-    "location": "Mumbai",
+    "location": "Pune",
     "locationInfo": "Hybrid setup based in Mumbai.",
     "publishedAt": "2026-05-11T08:52:53.431Z",
     "qualifications": [
@@ -4317,11 +4323,11 @@
     ],
     "roleOverview": [
       {
-        "_key": "i3s6oxac",
+        "_key": "xYdOegpFMyaIaw5eRrnBa1",
         "_type": "block",
         "children": [
           {
-            "_key": "nsyqa1pa",
+            "_key": "xYdOegpFMyaIaw5eRrnBb3",
             "_type": "span",
             "text": "Own product lifecycle management and collaborate with stakeholders to deliver impactful solutions."
           }
@@ -4344,9 +4350,15 @@
   {
     "_createdAt": "2026-05-11T08:52:55Z",
     "_id": "career-job-react-developer",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6meoS",
+    "_rev": "glsFk1SvfGcE5pcbzZtJND",
+    "_system": {
+      "base": {
+        "id": "career-job-react-developer",
+        "rev": "bM4Vn6Xhr0kQ8myfj6meoS"
+      }
+    },
     "_type": "careerJob",
-    "_updatedAt": "2026-05-29T09:44:28Z",
+    "_updatedAt": "2026-06-06T05:57:51Z",
     "aboutCompany": [
       {
         "_key": "ojgcbz5l",
@@ -4372,7 +4384,7 @@
     "isFeatured": true,
     "jobId": "JR105",
     "jobType": "full-time",
-    "location": "Surat",
+    "location": "Pune",
     "locationInfo": "Work from Surat office with hybrid flexibility.",
     "publishedAt": "2026-05-11T08:52:53.431Z",
     "qualifications": [
