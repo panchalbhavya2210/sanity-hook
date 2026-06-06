@@ -14697,15 +14697,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "2JUT45RarmtyPWnJiS28Wu",
+    "_rev": "glsFk1SvfGcE5pcbzZtiCt",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "XrTxD1czjbsDVYzLU2nwos"
+        "rev": "2JUT45RarmtyPWnJiS28Wu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:01:46Z",
+    "_updatedAt": "2026-06-06T06:12:12Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14995,7 +14995,7 @@
         "fullImageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-9fd6f82935d178d57faf929742069ea4edaee710-1284x300-svg",
+            "_ref": "image-01a3db0810e8e4170751668cd3ad94310866808a-1284x300-png",
             "_type": "reference"
           }
         },
@@ -15032,19 +15032,6 @@
             "title": "Underwriting & Risk Analysis"
           },
           {
-            "_key": "7ae084abc3f0",
-            "_type": "mediaCard",
-            "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-84b43d209fb3b1a80902b8fb388bf361e2307ae5-354x248-png",
-                "_type": "reference"
-              }
-            },
-            "title": "Approval & Disbursement"
-          },
-          {
             "_key": "e47cff1cbc14",
             "_type": "mediaCard",
             "description": "Monitor deviations from credit policies and business rules while maintaining compliance and transparency.",
@@ -15056,6 +15043,19 @@
               }
             },
             "title": "Deviation Management"
+          },
+          {
+            "_key": "7ae084abc3f0",
+            "_type": "mediaCard",
+            "description": "Contract generation, e-sign, and instant disbursement via LMS/API integration.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-84b43d209fb3b1a80902b8fb388bf361e2307ae5-354x248-png",
+                "_type": "reference"
+              }
+            },
+            "title": "Approval & Disbursement"
           }
         ]
       },
