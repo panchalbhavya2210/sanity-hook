@@ -28727,15 +28727,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "FgFZzy882mp21voM3MmpYu",
+    "_rev": "FgFZzy882mp21voM3Mp3kK",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "MNAtp5t0WK9epqGdZldUct"
+        "rev": "FgFZzy882mp21voM3MmpYu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:31:42Z",
+    "_updatedAt": "2026-06-08T11:50:37Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -28897,7 +28897,7 @@
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-33763e0d21d583376ff4054a2254aaed62aec70d-3630x3630-webp",
+                "_ref": "image-ac680a762fd535d89f7ed0690a779c886be3ac90-627x507-png",
                 "_type": "reference"
               }
             },
