@@ -19800,15 +19800,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "6HNMNruJZobcPr5iKEc2cZ",
+    "_rev": "FgFZzy882mp21voM3MthYi",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "modcPV4jfphaCCi2oq710l"
+        "rev": "z4CtSEe3d2bzDASWmrvKIp"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-08T10:52:43Z",
+    "_updatedAt": "2026-06-08T12:28:51Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19858,24 +19858,24 @@
           {
             "_key": "7152ca55-5025-427d-a983-35b2008b8836",
             "href": "/products/omnichannel-banking",
-            "label": "Mobile Banking",
+            "label": "MobiPro®",
             "type": "link"
           },
           {
             "_key": "9a6eedc2-2eed-4ae9-a86b-4e7230e48daa",
             "href": "/products/tab-banking-solutions-mobipro",
-            "label": "Tab Banking",
+            "label": "MobiProPlus",
             "type": "link"
           },
           {
             "_key": "fa36a8bf-8d19-4539-9c4a-3c1f9a1fbb41",
             "href": "/products/super-app",
-            "label": "Super App",
+            "label": "Bankai Super App",
             "type": "link"
           },
           {
             "_key": "9e3c7969-7f96-4603-80b7-018c62aea0dc",
-            "label": "AI-Based Analytics",
+            "label": "AI-Powered Solutions",
             "type": "header"
           },
           {
@@ -19898,13 +19898,13 @@
           {
             "_key": "2a21be2f-8028-4e00-814b-1551c3779289",
             "href": "/products/digital-lending/easy-los",
-            "label": "LOS",
+            "label": "easyLOS ",
             "type": "link"
           },
           {
             "_key": "f16fdf7d-c7d0-4159-a9bc-e4bb7683e380",
             "href": "/products/digital-lending/easy-lms",
-            "label": "LMS",
+            "label": "easyLMS ",
             "type": "link"
           },
           {
@@ -19915,7 +19915,7 @@
           {
             "_key": "d463c4a5-465a-4382-a501-47246ac7cddc",
             "href": "/products/hrms/employee-self-service",
-            "label": "Employee Self Service",
+            "label": "Paynexor ",
             "type": "link"
           },
           {
