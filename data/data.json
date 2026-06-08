@@ -25057,15 +25057,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "FgFZzy882mp21voM3Mlyiu",
+    "_rev": "6HNMNruJZobcPr5iKEepAN",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "MNAtp5t0WK9epqGdZldpK7"
+        "rev": "FgFZzy882mp21voM3Mlyiu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:24:57Z",
+    "_updatedAt": "2026-06-08T11:31:23Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -25907,7 +25907,7 @@
             "_key": "7b1466a0bbf8",
             "_type": "titlePart",
             "color": "text-warning",
-            "text": "Banking "
+            "text": "Mobile Banking "
           },
           {
             "_key": "c7390b37f773",
