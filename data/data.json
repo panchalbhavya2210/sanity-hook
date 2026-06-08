@@ -27645,15 +27645,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "z4CtSEe3d2bzDASWmrmJ3Z",
+    "_rev": "FgFZzy882mp21voM3MnkEg",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "MNAtp5t0WK9epqGdZle1Lf"
+        "rev": "6HNMNruJZobcPr5iKEfOtX"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:32:00Z",
+    "_updatedAt": "2026-06-08T11:38:05Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
