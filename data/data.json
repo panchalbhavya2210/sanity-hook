@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "j3mhrmkZhhtq0NN3hNkoqa",
+    "_rev": "glsFk1SvfGcE5pcbzbpmF8",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "2JUT45RarmtyPWnJiS2tnM"
+        "rev": "j3mhrmkZhhtq0NN3hNkoqa"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T06:14:49Z",
+    "_updatedAt": "2026-06-08T05:24:52Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1528,19 +1528,6 @@
         "_type": "partnerListSection",
         "id": "partners",
         "partners": [
-          {
-            "_key": "248b641a0891",
-            "_type": "partnerCard",
-            "designation": "Founder",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ca89748812fb3517c46e5b81456c3f5f875e1d65-4825x6000-jpg",
-                "_type": "reference"
-              }
-            },
-            "partnerName": "Chirag Patel"
-          },
           {
             "_key": "c1452e996e6b",
             "_type": "partnerCard",
