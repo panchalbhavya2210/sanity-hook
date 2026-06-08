@@ -21227,15 +21227,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "2JUT45RarmtyPWnJiS0ZrU",
+    "_rev": "6HNMNruJZobcPr5iKEbyST",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "Af0w24d1UBF0wdCcQLurcU"
+        "rev": "2JUT45RarmtyPWnJiS0ZrU"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-06-05T05:22:34Z",
+    "_updatedAt": "2026-06-08T10:52:25Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -21676,7 +21676,7 @@
         {
           "_key": "pt2",
           "color": "text-warning",
-          "text": "Banks"
+          "text": "Customers"
         },
         {
           "_key": "pt3",
@@ -21748,7 +21748,7 @@
         {
           "_key": "card2",
           "buttonTitle": "Explore easyKYC",
-          "description": "Turn insights into action with advanced AI/ML capabilities—from fraud prevention and credit risk modelling , predictive analytics , risk classification to enterprise chatbot.",
+          "description": "Turn insights into action with advanced AI/ML capabilities for eKYC and customer on-boarding.",
           "image": {
             "_type": "image",
             "asset": {
@@ -21777,7 +21777,7 @@
         },
         {
           "_key": "0aff3ee9c10e",
-          "buttonTitle": "Explore MobiPro+",
+          "buttonTitle": "Explore MobiProPlus",
           "description": "Designed for relationship managers and branch-assisted journeys with larger-screen experiences for onboarding, servicing, and customer interactions.",
           "image": {
             "_type": "image",
