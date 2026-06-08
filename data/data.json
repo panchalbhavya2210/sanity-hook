@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "glsFk1SvfGcE5pcbzZtGFG",
+    "_rev": "z4CtSEe3d2bzDASWmru5in",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "NmlfHczPb8AvtTz8pI9hTB"
+        "rev": "glsFk1SvfGcE5pcbzZtGFG"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-06T05:55:46Z",
+    "_updatedAt": "2026-06-08T12:19:48Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -44,19 +44,19 @@
               {
                 "_key": "13eb32a8-f092-43ba-8ac0-89a3fd19fd69",
                 "href": "/products/omnichannel-banking",
-                "label": "Mobile Banking",
+                "label": "MobiPro®",
                 "type": "link"
               },
               {
                 "_key": "13079b2c-e406-4e99-9b46-c04c66ebe35c",
                 "href": "/products/tab-banking-solutions-mobipro",
-                "label": "Tab Banking ",
+                "label": "MobiProPlus",
                 "type": "link"
               },
               {
                 "_key": "e5752f7c-8d2c-4c2e-a331-82102cea0310",
                 "href": "/products/super-app",
-                "label": "Super App ",
+                "label": "Bankai Super App",
                 "type": "link"
               }
             ],
@@ -78,7 +78,7 @@
                 "type": "link"
               }
             ],
-            "title": "AI-Based Analytics"
+            "title": "AI-Powered Solutions"
           },
           {
             "_key": "274fa70d-f28c-458a-b7d4-374b9ffe9002",
@@ -86,13 +86,13 @@
               {
                 "_key": "86cdb569-8c20-40fd-a71e-cfb91f0c5c3f",
                 "href": "/products/digital-lending/easy-los",
-                "label": "LOS",
+                "label": "easyLOS",
                 "type": "link"
               },
               {
                 "_key": "0ecf43c7-43e0-4dee-b373-4986e6ff5ee1",
                 "href": "/products/digital-lending/easy-lms",
-                "label": "LMS",
+                "label": "easyLMS",
                 "type": "link"
               }
             ],
@@ -104,7 +104,7 @@
               {
                 "_key": "789db485-f0f3-4695-9e4b-8400a272dfa3",
                 "href": "/products/hrms/employee-self-service",
-                "label": "Employee Self Service",
+                "label": "Paynexor",
                 "type": "link"
               },
               {
