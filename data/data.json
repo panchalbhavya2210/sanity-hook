@@ -28727,15 +28727,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "MNAtp5t0WK9epqGdZldUct",
+    "_rev": "FgFZzy882mp21voM3MmpYu",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "2L5iqaQa3UmcCheddpWcCS"
+        "rev": "MNAtp5t0WK9epqGdZldUct"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T05:56:24Z",
+    "_updatedAt": "2026-06-08T11:31:42Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -28873,7 +28873,7 @@
           {
             "_key": "2ctqxt9dfz",
             "color": "text-warning",
-            "text": "Mobile Banking?"
+            "text": "Customer."
           }
         ]
       },
@@ -29069,7 +29069,7 @@
           },
           {
             "_key": "u45si6lsb3",
-            "description": "Agents can work even in low-network areas with queued sync.",
+            "description": "Agents can work even in high latency networks with offline data storage on device.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -29213,7 +29213,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "Designed with usability in mind so even new field agents can onboard customers efficiently",
+          "subTitleText": "Designed with usability in mind so even new field agents can onboard customers efficiently.",
           "text": {
             "title": [
               {
@@ -29644,7 +29644,7 @@
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "Contact CTA",
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Deliver digital doorstep banking with ease.",
         "titleParts": [
           {
             "_key": "spyvu5r7uv",
@@ -29664,7 +29664,7 @@
           {
             "_key": "x3baop3fb5",
             "color": "text-[#EE6832]",
-            "text": "Banking "
+            "text": "Tab Banking "
           },
           {
             "_key": "7t5xiq93sb",
