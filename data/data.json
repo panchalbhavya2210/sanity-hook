@@ -25057,15 +25057,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "MNAtp5t0WK9epqGdZldpK7",
+    "_rev": "FgFZzy882mp21voM3Mlyiu",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "MNAtp5t0WK9epqGdZldUAR"
+        "rev": "MNAtp5t0WK9epqGdZldpK7"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:25:44Z",
+    "_updatedAt": "2026-06-08T11:24:57Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -25624,7 +25624,7 @@
           "mediaInfoCardData": [
             {
               "_key": "tu8gkbkh9q",
-              "description": "Fully aligned with global and local regulations.",
+              "description": "Fully compliant with regulations & security standards.",
               "descriptionClassName": "text-black",
               "image": {
                 "_type": "image",
@@ -25633,7 +25633,7 @@
                   "_type": "reference"
                 }
               },
-              "title": "GDPR & RBI Guidelines"
+              "title": "DPDPA & RBI Guidelines"
             },
             {
               "_key": "4elh6tog1t",
