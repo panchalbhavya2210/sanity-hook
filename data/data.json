@@ -19800,15 +19800,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "modcPV4jfphaCCi2oq710l",
+    "_rev": "6HNMNruJZobcPr5iKEc2cZ",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "ez00CovmgIFJKqHooNWTlX"
+        "rev": "modcPV4jfphaCCi2oq710l"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-05T12:33:01Z",
+    "_updatedAt": "2026-06-08T10:52:43Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -20046,12 +20046,6 @@
             "_key": "11bf8ebe-dfa2-467d-8479-965eb3edfc9b",
             "href": "/api-hub",
             "label": "API Hub",
-            "type": "link"
-          },
-          {
-            "_key": "266fd282-4b9f-459a-a051-324dac939333",
-            "href": "https://bankaiapihub.aiplservices.com",
-            "label": "Login to Market Place",
             "type": "link"
           }
         ],
