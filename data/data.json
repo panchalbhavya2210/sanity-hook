@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "glsFk1SvfGcE5pcbzbpmF8",
+    "_rev": "glsFk1SvfGcE5pcbzbqQxU",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "j3mhrmkZhhtq0NN3hNkoqa"
+        "rev": "glsFk1SvfGcE5pcbzbpmF8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T05:24:52Z",
+    "_updatedAt": "2026-06-08T05:43:02Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1607,90 +1607,237 @@
             "_key": "bf22686701ac",
             "_type": "mediaCard",
             "description": "Leads business strategy, operational excellence, enterprise growth, and organizational transformation with over 25 years of leadership experience.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-e6313f2f47128c2f15a8e17e972016c6e78f0761-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Chief Operating Officer (COO)",
             "title": "Sunil Sabnis"
           },
           {
-            "_key": "03981ec0252b",
+            "_key": "facb0e406c45",
             "_type": "mediaCard",
-            "description": "Drives enterprise architecture, product strategy, and large-scale banking technology transformation across financial institutions.",
-            "position": "Chief Solution Architect – Core Banking",
-            "title": "Yasir Saiyed"
-          },
-          {
-            "_key": "a055c50366d2",
-            "_type": "mediaCard",
-            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
-            "position": "Chief Solution Architect – DiGi.X™",
-            "title": "Kamlesh Suthar"
+            "description": "Seasoned technology leader specializing in cloud architecture, database administration, and enterprise infrastructure management.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-f6f68ed1ce7e28102a5d715df928db938a8b13b1-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "AVP - Cloud Computing & DB Management",
+            "title": "Jayrendra Sathwara"
           },
           {
             "_key": "fc9d72a9a26a",
             "_type": "mediaCard",
             "description": "Responsible for solution innovation, fintech transformation, and strategic banking implementations, nearly two decades of experience.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dc415bb709f83138bbc84a6aa0518d60485b4b9e-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "AVP – Banking & Fintech Solutions",
             "title": "Sajid Sachawala"
           },
           {
-            "_key": "9102e647b77e",
+            "_key": "f6c3308c230a",
+            "_type": "mediaCard",
+            "description": "Drives enterprise architecture, product strategy, and large-scale banking technology transformation across financial institutions.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a1ffcdffbf9cc071c89e1fbb203c31163ab09c8f-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Chief Solution Architect - CBS",
+            "title": "Mohammad Yasir Saiyed"
+          },
+          {
+            "_key": "38d20572f1d0",
+            "_type": "mediaCard",
+            "description": "With expertise in digital core banking, AI-powered financial solutions, and Oracle database technologies. ",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-37707ef3d9cab1372318abfdf46c108c17bf9a45-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Principal Software Engineer",
+            "title": "Aditya Shah"
+          },
+          {
+            "_key": "a055c50366d2",
+            "_type": "mediaCard",
+            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-1d8ca4f949c5c80e0a141f718b8491d097c5e763-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Chief Solution Architect – DiGi.X™",
+            "title": "Kamlesh Suthar"
+          },
+          {
+            "_key": "f9f96c6390d7",
             "_type": "mediaCard",
             "description": "Leads people strategy, talent development, organizational governance, and culture-building initiatives across the organization.",
-            "position": "AVP – Human Resources",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-373f56cfb2b4efd2daf8990af54e0fa350e9d49f-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Assistant Vice President-HR",
             "title": "Vartika Agarwal"
           },
           {
-            "_key": "d52208414817",
+            "_key": "eec914135aae",
             "_type": "mediaCard",
-            "description": "Banking product specialist with over 25 years of experience across lending, core banking, MSME finance, retail lending, and product management. Santosh leads the evolution of lending and loan origination solutions.",
-            "position": "AVP – Product Development (LOS)",
-            "title": "Santosh Deshpande"
+            "description": "Finance professional with 13+ years of experience in financial reporting, budgeting, forecasting, compliance, and accounting operations. ",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-6eddf96a805a8af73343393ffc7ed56e83ac789e-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Head – Accounts & Finance",
+            "title": "Ashaka Patel"
           },
           {
-            "_key": "93d79d779f68",
+            "_key": "204ac2ad99e9",
             "_type": "mediaCard",
-            "description": "Leads end-to-end delivery and support for core banking platforms. With extensive experience in implementation, service excellence, risk management, and customer success, Nikita focuses on operational efficiency and client satisfaction.",
-            "position": "Head – Delivery & Support (CBS)",
+            "description": "Leads delivery and support of core banking platforms, driving implementation, operational excellence, risk management",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-481c2cbaefab1abb1e81d7e24e1a48e927dcc860-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Head of Delivery & Support - CBS",
             "title": "Nikita Patel"
           },
           {
             "_key": "d7ef00af8e0e",
             "_type": "mediaCard",
             "description": "Experienced banking technology professional leading implementation, support, and operational delivery across core banking and digital banking platforms. Ketan specializes in customer onboarding and enterprise support excellence.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-a6290f69f4d33a694406985d3dd1eb721c549f2a-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Head – Delivery & Support (CBS & DiGi.X)",
             "title": "Ketan Raval"
-          },
-          {
-            "_key": "8eab367fc445",
-            "_type": "mediaCard",
-            "description": "Core banking and fintech specialist with expertise in product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance. Jeet helps institutions maximize value from banking technology investments.",
-            "position": "Head – Implementation & Support",
-            "title": "Jeet Jarsania"
           },
           {
             "_key": "2ce2a93d10a7",
             "_type": "mediaCard",
             "description": "Banking operations leader with 20+ years of experience in implementation, service delivery, process optimization, and support management. Rajesh focuses on building efficient support ecosystems and customer-centric operations.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-522d23b2b02667d839baf85c75a0a114f745bd72-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Head – Delivery & Support (MH)",
             "title": "Rajesh Mahto"
+          },
+          {
+            "_key": "df6beb1f43a5",
+            "_type": "mediaCard",
+            "description": "Cybersecurity professional focused on information security, risk management, compliance, security governance, and strengthening enterprise cyber resilience.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c475bdaccf3f3751eb6a7d5edc83e43460c500d3-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Senior Information Security Officer",
+            "title": "Rupal Sharma"
+          },
+          {
+            "_key": "d52208414817",
+            "_type": "mediaCard",
+            "description": "Banking product specialist with over 25 years of experience across lending, core banking, MSME finance, retail lending, and product management. Santosh leads the evolution of lending and loan origination solutions.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-96df267a51bc9c1e7a45b4986101653556550579-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "AVP – Product Development (LOS)",
+            "title": "Santosh Deshpande"
           },
           {
             "_key": "5ea8e383284c",
             "_type": "mediaCard",
             "description": "Quality assurance leader responsible for testing, compliance, customer success, and software quality governance across multiple banking products. Vishvesh ensures reliability, performance, and product excellence.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-48aa0ee397b04a4b1a7618bfe245d642ef1cfcb5-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Team Lead – QA & Quality Assurance",
             "title": "Vishvesh Vyas"
           },
           {
-            "_key": "14a937cfed25",
+            "_key": "8eab367fc445",
             "_type": "mediaCard",
-            "description": "Cybersecurity professional specializing in information security governance, risk management, compliance, security awareness, and enterprise cyber resilience. Rupal helps maintain robust security frameworks across the organization.",
-            "position": "Senior Information Security Officer",
-            "title": "Rupal Sharma"
+            "description": "Core banking and fintech specialist with expertise in product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance. Jeet helps institutions maximize value from banking technology investments.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0525f62eb5f94ed1fbf3baa9c704f980e614c87c-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Head – Implementation & Support",
+            "title": "Jeet Jarsania"
+          },
+          {
+            "_key": "bc2ce25198f8",
+            "_type": "mediaCard",
+            "description": "IT Talent Acquisition leader with expertise in large-scale hiring, workforce planning, stakeholder management, and technology talent delivery across diverse domains.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c522f6f3d4d38c8c1f487ad15a9b40bba79e5462-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Business Development Manager - Manpower",
+            "title": "Sunil Dagar"
           },
           {
             "_key": "1c89497d46e4",
             "_type": "mediaCard",
             "description": "Experienced middleware and infrastructure specialist responsible for application server management, DevOps practices, system reliability, and platform performance optimization.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-c070024c690c82bb637e6d0e93c7ae97b3140deb-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Lead Application Server Engineer",
             "title": "Hiral Sathavara"
           },
@@ -1698,22 +1845,43 @@
             "_key": "1c09d577333a",
             "_type": "mediaCard",
             "description": "Technology operations leader with expertise in cloud infrastructure, networking, system administration, and enterprise IT operations. Milan ensures secure and efficient technology environments.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-dbe01a059a471d69038732d1a704dd80e476dcc1-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Lead – IT Operations",
             "title": "Milan Patel"
-          },
-          {
-            "_key": "0fc4c3a9e4d1",
-            "_type": "mediaCard",
-            "description": "Finance professional with 13+ years of experience in financial reporting, budgeting, forecasting, compliance, and accounting operations. Ashaka leads financial governance and operational controls.",
-            "position": "Head – Accounts & Finance",
-            "title": "Ashaka Patel"
           },
           {
             "_key": "67422b03b8e9",
             "_type": "mediaCard",
             "description": "Software engineering professional focused on banking technology development, SWIFT messaging integrations, enterprise applications, and product enhancements.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-afec018fbf576f4fa806c46e7205a8f3a05fff79-760x760-webp",
+                "_type": "reference"
+              }
+            },
             "position": "Senior Software Developer",
             "title": "Moinkhan Pathan"
+          },
+          {
+            "_key": "e829bf7879c1",
+            "_type": "mediaCard",
+            "description": "Technical support specialist with deep expertise in CBS, Digi.X, database administration, migrations, troubleshooting, and customer support operations.",
+            "image": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-0cec3f97a4454b284ac27e593d5edd8acf89c3d5-760x760-webp",
+                "_type": "reference"
+              }
+            },
+            "position": "Senior Team Lead",
+            "title": "Mahendra Makwana"
           }
         ]
       }
