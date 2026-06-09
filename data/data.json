@@ -11492,15 +11492,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "MNAtp5t0WK9epqGdZldeMl",
+    "_rev": "6HNMNruJZobcPr5iKGALGR",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "UAjCtlAuHSg7wG7TzGHNsj"
+        "rev": "MNAtp5t0WK9epqGdZldeMl"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:03:42Z",
+    "_updatedAt": "2026-06-09T11:18:03Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -11522,9 +11522,8 @@
         "_key": "h01phfpk9g",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Traditional NACH operations involve multiple systems, manual file handling, and compliance risks — slowing down processing and increasing errors.",
           "icon": null,
-          "subTitle": "",
+          "subTitle": "Traditional NACH operations involve multiple systems, manual file handling, and compliance risks — slowing down processing and increasing errors.",
           "subTitleClassName": "",
           "text": {
             "title": [
