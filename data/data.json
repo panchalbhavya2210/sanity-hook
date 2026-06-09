@@ -27644,15 +27644,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "FgFZzy882mp21voM3MnkEg",
+    "_rev": "FgFZzy882mp21voM3OtWwE",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "6HNMNruJZobcPr5iKEfOtX"
+        "rev": "FgFZzy882mp21voM3MnkEg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:38:05Z",
+    "_updatedAt": "2026-06-09T08:29:13Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -27866,7 +27866,7 @@
                     "_key": "0faca248c898",
                     "_type": "span",
                     "marks": [],
-                    "text": "Cashback*"
+                    "text": "Cashback"
                   }
                 ],
                 "markDefs": [],
@@ -27939,7 +27939,7 @@
             },
             "imageAlt": "",
             "isReversed": true,
-            "title": "Investment*"
+            "title": "Investment"
           },
           {
             "_key": "dcojrsxscy",
@@ -27977,7 +27977,7 @@
                     "_key": "066d39980ad4",
                     "_type": "span",
                     "marks": [],
-                    "text": "Marketplace*"
+                    "text": "Marketplace"
                   }
                 ],
                 "markDefs": [],
@@ -28021,7 +28021,7 @@
                     "_key": "dd0f15622170",
                     "_type": "span",
                     "marks": [],
-                    "text": "shopping*"
+                    "text": "shopping"
                   }
                 ],
                 "markDefs": [],
@@ -28064,7 +28064,7 @@
                     "_key": "2a33df8b5729",
                     "_type": "span",
                     "marks": [],
-                    "text": "Utility Tools*"
+                    "text": "Utility Tools"
                   }
                 ],
                 "markDefs": [],
