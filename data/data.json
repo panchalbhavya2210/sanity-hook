@@ -6984,15 +6984,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "z4CtSEe3d2bzDASWmu9sJU",
+    "_rev": "z4CtSEe3d2bzDASWmvEIma",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "2JUT45RarmtyPWnJiS1qwa"
+        "rev": "z4CtSEe3d2bzDASWmu9sJU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T05:53:38Z",
+    "_updatedAt": "2026-06-09T10:22:46Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -7031,6 +7031,7 @@
             }
           },
           "isButtonVisible": true,
+          "link": "https://www.youtube.com/watch?v=VtH8_mZ2hVc",
           "title": "Everything at your finger tip"
         },
         "features": [
