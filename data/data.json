@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "z4CtSEe3d2bzDASWmvKgDW",
+    "_rev": "z4CtSEe3d2bzDASWmvVj8n",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "glsFk1SvfGcE5pcbzbqQxU"
+        "rev": "z4CtSEe3d2bzDASWmvKgDW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:58:21Z",
+    "_updatedAt": "2026-06-09T12:15:08Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1531,40 +1531,17 @@
           {
             "_key": "c1452e996e6b",
             "_type": "partnerCard",
-            "designation": "Founder",
+            "buttonLabel": "Chief Executive Officer",
+            "description": "A seasoned BFSI and FinTech leader with over 20 years of experience in Core Banking, Digital Banking, FinTech, and RegTech solutions. Expertise spans product development, business growth, strategic partnerships, pre-sales, customer acquisition, and process excellence. Proven track record of working with Banks, NBFCs, MFIs, SACCOs, and Financial Institutions to deliver innovative technology solutions that drive transformation and business success. Passionate about emerging technologies including Cybersecurity and Blockchain, with a strong focus on building future-ready financial ecosystems.",
+            "designation": "Chief Executive Officer",
             "image": {
               "_type": "image",
               "asset": {
-                "_ref": "image-ca89748812fb3517c46e5b81456c3f5f875e1d65-4825x6000-jpg",
+                "_ref": "image-05b1e2df50739ad17b1272e679f302dde1362a61-489x481-png",
                 "_type": "reference"
               }
             },
-            "partnerName": "Chirag Patel"
-          },
-          {
-            "_key": "69502ed63c76",
-            "_type": "partnerCard",
-            "designation": "Founder",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-0bef16c1c01f9d9a02127872b1941e4ae7193cee-6000x5972-jpg",
-                "_type": "reference"
-              }
-            },
-            "partnerName": "Chirag Patel"
-          },
-          {
-            "_key": "3e90eb1e600c",
-            "_type": "partnerCard",
-            "designation": "Founder",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-ca89748812fb3517c46e5b81456c3f5f875e1d65-4825x6000-jpg",
-                "_type": "reference"
-              }
-            },
+            "linkedinUrl": "https://www.linkedin.com/in/chirag-patel-8a369268/ ",
             "partnerName": "Chirag Patel"
           }
         ],
@@ -1614,8 +1591,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://example.com",
             "position": "Chief Operating Officer (COO)",
-            "title": "Sunil Sabnis"
+            "title": "Sunil S. Sabnis"
           },
           {
             "_key": "facb0e406c45",
