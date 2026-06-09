@@ -27637,15 +27637,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "FgFZzy882mp21voM3OtWwE",
+    "_rev": "z4CtSEe3d2bzDASWmvPB3b",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "FgFZzy882mp21voM3MnkEg"
+        "rev": "FgFZzy882mp21voM3OtWwE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T08:29:13Z",
+    "_updatedAt": "2026-06-09T11:26:25Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -28580,9 +28580,9 @@
             ]
           }
         ],
-        "headerSubtitle": "Transform your bank into a platform your customers live in.",
         "id": "bankingChallenges",
         "isTextBlack": true,
+        "subTitleText": "Transform your bank into a platform your customers live in.",
         "titleParts": [
           {
             "_key": "fp88d6jyg7",
