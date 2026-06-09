@@ -13387,15 +13387,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "2JUT45RarmtyPWnJiS272e",
+    "_rev": "FgFZzy882mp21voM3PZhbO",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "bM4Vn6Xhr0kQ8myfj74wtg"
+        "rev": "2JUT45RarmtyPWnJiS272e"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:01:06Z",
+    "_updatedAt": "2026-06-09T11:24:13Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -13427,8 +13427,8 @@
         "_key": "sn0o9nnxt8",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Manage, monitor, and optimize every stage of lending through a unified system built for speed, accuracy, and scale.",
           "icon": null,
+          "subTitle": "Manage, monitor, and optimize every stage of lending through a unified system built for speed, accuracy, and scale.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -13581,7 +13581,7 @@
           },
           {
             "_key": "rvdfw931ld",
-            "description": "Connect with CKYC, CIBIL, accounting systems, and APIs for seamless operations.",
+            "description": "Integrate seamlessly with CKYC, CIBIL, accounting platforms, third-party APIs, and external vendors to ensure smooth and efficient operations.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -14404,14 +14404,14 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "Built to improve efficiency, reduce risk, and enhance customer experience.",
+          "subTitle": "Built to improve efficiency, reduce risk and enhance customer experience.",
           "subTitleClassName": "",
           "text": {
             "title": [
               {
                 "_key": "dnmkcx72il",
                 "color": "",
-                "text": "Why easyLMS Works for You"
+                "text": "Why NBFCs Choose easyLMS?"
               }
             ],
             "variant": "h1"
@@ -14452,7 +14452,7 @@
           },
           {
             "_key": "yforb0xw09",
-            "description": "Encryption, VAPT testing, and secure data handling.",
+            "description": "Standard Encryption, VAPT Tested and secure data handling.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -14712,7 +14712,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Digitize your loan origination process, reduce costs, and deliver faster, smarter credit decisions with easyLOS.",
+        "subText": "Digitize your loan origination process, reduce costs, and deliver faster, smarter credit decisions with easyLOS. ",
         "titleParts": [
           {
             "_key": "hhtpa5bhns",
