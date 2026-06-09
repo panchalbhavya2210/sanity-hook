@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "6HNMNruJZobcPr5iKFj2kn",
+    "_rev": "FgFZzy882mp21voM3OmUea",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "j3mhrmkZhhtq0NN3hNk4IK"
+        "rev": "6HNMNruJZobcPr5iKFj2kn"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T07:27:31Z",
+    "_updatedAt": "2026-06-09T07:31:15Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1011,8 +1011,8 @@
         "id": "A Complete Fintech Technology Portfolio",
         "isBgBlue": false,
         "isBgLightBlue": false,
-        "isTextBlack": false,
-        "isTextWhite": true,
+        "isTextBlack": true,
+        "isTextWhite": false,
         "mediaInfoCardData": [
           {
             "_key": "632269eb7570",
