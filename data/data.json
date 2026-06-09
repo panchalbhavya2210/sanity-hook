@@ -1338,15 +1338,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "glsFk1SvfGcE5pcbzbqQxU",
+    "_rev": "z4CtSEe3d2bzDASWmvKgDW",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "glsFk1SvfGcE5pcbzbpmF8"
+        "rev": "glsFk1SvfGcE5pcbzbqQxU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T05:43:02Z",
+    "_updatedAt": "2026-06-09T10:58:21Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1364,7 +1364,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+        "subtitle": "From enterprise SaaS deployments to AI-powered banking & API driven fintech solutions,our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
         "title": "Meet the Leaders Driving Innovation",
         "variant": "split"
       },
@@ -1378,7 +1378,7 @@
           {
             "_key": "34478a0830e4",
             "_type": "featureCard",
-            "description": "Leadership Experience",
+            "description": "Digital Banking & Fintech Experience",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -1396,7 +1396,7 @@
                     "_key": "8419bfd6266d",
                     "_type": "span",
                     "marks": [],
-                    "text": "25+ Years"
+                    "text": "20+ Years"
                   }
                 ],
                 "markDefs": [],
@@ -1465,7 +1465,7 @@
           {
             "_key": "a7240d437fc9",
             "_type": "featureCard",
-            "description": "Banking • Fintech • Cloud • AI",
+            "description": "AI | Digital Banking | Fintech | Cloud",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -1494,7 +1494,7 @@
         ],
         "id": "Powered by Experienced Leadership",
         "isTextBlack": true,
-        "subTitleText": "Serving banks, NBFCs, MFIs, credit unions, and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
+        "subTitleText": "Serving banks, NBFCs, MFIs & financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
         "titleParts": [
           {
             "_key": "059d760704b3",
@@ -1561,7 +1561,7 @@
             "partnerName": "Chirag Patel"
           }
         ],
-        "subTitleText": "From banking technology and product innovation to cloud operations and enterprise delivery, our leaders combine deep industry expertise with a commitment to shaping the future of financial services.",
+        "subTitleText": "Meet the leaders of Bankai who are Modernizing legacy cores, scaling transaction resilience, synchronizing global data silos & driving fintech transformation by combining deep industry expertise with cutting-edge technology like AI & Cloud Computing , enabling customer success.",
         "titleParts": [
           {
             "_key": "df244dbc8c54",
@@ -1655,7 +1655,7 @@
           {
             "_key": "38d20572f1d0",
             "_type": "mediaCard",
-            "description": "With expertise in digital core banking, AI-powered financial solutions, and Oracle database technologies. ",
+            "description": "Rich experience in next-gen AI-powered digital core banking modernization and Oracle database technologies.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1669,7 +1669,7 @@
           {
             "_key": "a055c50366d2",
             "_type": "mediaCard",
-            "description": "Leads digital banking architecture and next-generation banking channels focused on scalability, security, and customer experience.",
+            "description": "Leads API-driven digital banking innovations, architecture and next-generation banking channels focused on scalability, security, and customer experience.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1711,7 +1711,7 @@
           {
             "_key": "204ac2ad99e9",
             "_type": "mediaCard",
-            "description": "Leads delivery and support of core banking platforms, driving implementation, operational excellence, risk management",
+            "description": "Leads CoE | Delivery & Support support of core banking platforms, driving implementation, operational excellence, risk management , RBI Reporting &\nAudit Compliance.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1725,7 +1725,7 @@
           {
             "_key": "d7ef00af8e0e",
             "_type": "mediaCard",
-            "description": "Experienced banking technology professional leading implementation, support, and operational delivery across core banking and digital banking platforms. Ketan specializes in customer onboarding and enterprise support excellence.",
+            "description": "20+ Years of experience in implementation, support, and operational delivery across core banking and digital banking platforms. Ketan specializes in customer onboarding and enterprise support excellence.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1733,7 +1733,7 @@
                 "_type": "reference"
               }
             },
-            "position": "Head – Delivery & Support (CBS & DiGi.X)",
+            "position": "Head – Delivery & Support (CBS & DiGi.X) = Digi.X™",
             "title": "Ketan Raval"
           },
           {
@@ -1747,13 +1747,13 @@
                 "_type": "reference"
               }
             },
-            "position": "Head – Delivery & Support (MH)",
+            "position": "Head – Delivery & Support (MH) = Head – CoE | Delivery & Support",
             "title": "Rajesh Mahto"
           },
           {
             "_key": "df6beb1f43a5",
             "_type": "mediaCard",
-            "description": "Cybersecurity professional focused on information security, risk management, compliance, security governance, and strengthening enterprise cyber resilience.",
+            "description": "Cybersecurity professional focused on information security, risk management, audit compliance, VAPT , security governance, and strengthening enterprise cyber resilience.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1767,7 +1767,7 @@
           {
             "_key": "d52208414817",
             "_type": "mediaCard",
-            "description": "Banking product specialist with over 25 years of experience across lending, core banking, MSME finance, retail lending, and product management. Santosh leads the evolution of lending and loan origination solutions.",
+            "description": "Banking product specialist with over 25 years of experience across lending, loan servicing & management , API Integrations , leading AI-powered innovations in lending.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1781,7 +1781,7 @@
           {
             "_key": "5ea8e383284c",
             "_type": "mediaCard",
-            "description": "Quality assurance leader responsible for testing, compliance, customer success, and software quality governance across multiple banking products. Vishvesh ensures reliability, performance, and product excellence.",
+            "description": "Quality assurance leader responsible for testing, benchmarking , software quality governance,S-SDLC across multiple banking & fintech products. Vishvesh ensures reliability, performance, and product excellence.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1795,7 +1795,7 @@
           {
             "_key": "8eab367fc445",
             "_type": "mediaCard",
-            "description": "Core banking and fintech specialist with expertise in product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance. Jeet helps institutions maximize value from banking technology investments.",
+            "description": "Responsible for delivery & support for overseas core banking , fintech , lending projects with expertise in data migration , legacy modernization , product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1837,7 +1837,7 @@
           {
             "_key": "1c09d577333a",
             "_type": "mediaCard",
-            "description": "Technology operations leader with expertise in cloud infrastructure, networking, system administration, and enterprise IT operations. Milan ensures secure and efficient technology environments.",
+            "description": "ICT operations leader with expertise in cloud infrastructure, network security , secured network , system administration, and enterprise IT operations. Milan ensures secure and efficient technology environments.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1851,7 +1851,7 @@
           {
             "_key": "67422b03b8e9",
             "_type": "mediaCard",
-            "description": "Software engineering professional focused on banking technology development, SWIFT messaging integrations, enterprise applications, and product enhancements.",
+            "description": "Software engineering professional focused on Trade Finance, Treasury & SWIFT messaging integrations, enterprise applications, and product enhancements.",
             "image": {
               "_type": "image",
               "asset": {
@@ -1865,7 +1865,7 @@
           {
             "_key": "e829bf7879c1",
             "_type": "mediaCard",
-            "description": "Technical support specialist with deep expertise in CBS, Digi.X, database administration, migrations, troubleshooting, and customer support operations.",
+            "description": "Expertise in analyzing legacy systems to identify potential risks and formulate a step-by-step migration roadmap. Managing ETL (Extract, Transform, Load) pipelines to convert data from source formats into target system schemas. Responsible for data quality standards and validation rules to ensure integrity before and after the move.",
             "image": {
               "_type": "image",
               "asset": {
