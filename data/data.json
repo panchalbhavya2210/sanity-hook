@@ -1900,15 +1900,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "2JUT45RarmtyPWnJiS1yIq",
+    "_rev": "z4CtSEe3d2bzDASWmvD71K",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "bM4Vn6Xhr0kQ8myfj6zQxt"
+        "rev": "2JUT45RarmtyPWnJiS1yIq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T05:59:11Z",
+    "_updatedAt": "2026-06-09T10:13:39Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -1937,8 +1937,7 @@
         "_key": "jwr2h5sc3o",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Outdated, manual processes create inefficiencies, risks, and poor customer experiences.",
-          "subTitle": "",
+          "subTitle": "Outdated, manual processes create inefficiencies, risks, and poor customer experiences.",
           "subTitleClassName": "",
           "text": {
             "title": [
