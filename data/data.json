@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "6HNMNruJZobcPr5iKG2h5n",
+    "_rev": "z4CtSEe3d2bzDASWmvROYh",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "z4CtSEe3d2bzDASWmru5in"
+        "rev": "6HNMNruJZobcPr5iKG2h5n"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-09T09:27:59Z",
+    "_updatedAt": "2026-06-09T11:46:49Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -208,6 +208,13 @@
                 "_key": "109f1832-34e0-4445-baa7-e0abe4041990",
                 "href": "/xcelerators/others/easy-cts",
                 "label": "easyCTS",
+                "type": "link"
+              },
+              {
+                "_key": "867aa6e7268a",
+                "_type": "item",
+                "href": "/products/easyTF",
+                "label": "easyTF",
                 "type": "link"
               }
             ],
