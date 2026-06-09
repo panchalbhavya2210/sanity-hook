@@ -9630,15 +9630,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "MNAtp5t0WK9epqGdZldaaB",
+    "_rev": "z4CtSEe3d2bzDASWmuTTVj",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "tYwdV2ldLdzJB4kwq0QS80"
+        "rev": "MNAtp5t0WK9epqGdZldaaB"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:02:30Z",
+    "_updatedAt": "2026-06-09T08:25:06Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -9863,7 +9863,7 @@
             ]
           }
         ],
-        "headerSubtitle": "DiGi.X  is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
+        "headerSubtitle": "Digi.X™ is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
         "id": "coreInfo",
         "isTextBlack": true,
         "logo": {
@@ -10066,7 +10066,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. DiGi.X redefines banking at every level.",
+          "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. Digi.X™ redefines banking at every level.",
           "text": {
             "title": [
               {
@@ -10548,7 +10548,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "DiGi.X ensures banks can scale faster, stay compliant, and serve smarter.",
+          "subTitle": "Digi.X™ ensures banks can scale faster, stay compliant, and serve smarter.",
           "text": {
             "title": [
               {
@@ -10566,7 +10566,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "DiGi.X is powered by AI and Machine Learning for contextual engagement and predictive automation.",
+          "subTitleText": "Digi.X™ is powered by AI and Machine Learning for contextual engagement and predictive automation.",
           "text": {
             "title": [
               {
