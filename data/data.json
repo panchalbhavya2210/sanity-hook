@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "z4CtSEe3d2bzDASWmru5in",
+    "_rev": "6HNMNruJZobcPr5iKG2h5n",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "glsFk1SvfGcE5pcbzZtGFG"
+        "rev": "z4CtSEe3d2bzDASWmru5in"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-08T12:19:48Z",
+    "_updatedAt": "2026-06-09T09:27:59Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -198,12 +198,6 @@
           {
             "_key": "82ed34d2-8c1a-4f10-98a5-148480300f4b",
             "items": [
-              {
-                "_key": "d5a433c1-8f0b-40b8-b89e-a72b49fe3499",
-                "href": "/xcelerators/others/easy-cts",
-                "label": "easyAudit",
-                "type": "link"
-              },
               {
                 "_key": "5a27b732-f0a4-4525-b68e-fff84f0bc67a",
                 "href": "/xcelerators/others/easy-recon",
