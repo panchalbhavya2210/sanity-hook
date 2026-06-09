@@ -9624,15 +9624,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "z4CtSEe3d2bzDASWmuTTVj",
+    "_rev": "6HNMNruJZobcPr5iKG4Pst",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "MNAtp5t0WK9epqGdZldaaB"
+        "rev": "z4CtSEe3d2bzDASWmuTTVj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T08:25:06Z",
+    "_updatedAt": "2026-06-09T09:55:37Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10883,7 +10883,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Adopt secure, customer-friendly, and future-ready Digital banking gamut with Bankai.",
         "titleParts": [
           {
             "_key": "bgy5sk44ir",
