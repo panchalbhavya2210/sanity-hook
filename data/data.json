@@ -6984,15 +6984,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "z4CtSEe3d2bzDASWmvEIma",
+    "_rev": "6HNMNruJZobcPr5iKG6YfZ",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "z4CtSEe3d2bzDASWmu9sJU"
+        "rev": "z4CtSEe3d2bzDASWmvEIma"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:22:46Z",
+    "_updatedAt": "2026-06-09T10:23:47Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -7630,7 +7630,7 @@
                 "_key": "39ed6a17fc4f",
                 "_type": "titlePart",
                 "color": "text-black",
-                "text": "AI/ML at the Core"
+                "text": "Powered by AI/ML"
               }
             ],
             "variant": "h1"
