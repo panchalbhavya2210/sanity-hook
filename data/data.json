@@ -23562,15 +23562,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "6KGNvrS0DL9HoKyrAHfRtr",
+    "_rev": "FgFZzy882mp21voM3OoruM",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "UAjCtlAuHSg7wG7TzJUk8f"
+        "rev": "6KGNvrS0DL9HoKyrAHfRtr"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:07:04Z",
+    "_updatedAt": "2026-06-09T07:53:27Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -23579,7 +23579,7 @@
         "headingLogo": {
           "_type": "image",
           "asset": {
-            "_ref": "image-0e340315c7ace65c5c7e670f2594364bd5b8ca62-1030x306-jpg",
+            "_ref": "image-2c24b1c6de012232e8b0b502b48809476f519295-182x41-png",
             "_type": "reference"
           }
         },
