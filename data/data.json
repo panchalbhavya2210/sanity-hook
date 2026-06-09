@@ -491,15 +491,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "j3mhrmkZhhtq0NN3hNk4IK",
+    "_rev": "6HNMNruJZobcPr5iKFj2kn",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "modcPV4jfphaCCi2oq7bu1"
+        "rev": "j3mhrmkZhhtq0NN3hNk4IK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T05:57:01Z",
+    "_updatedAt": "2026-06-09T07:27:31Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -517,7 +517,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions worldwide.",
+        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions.",
         "title": "Driving Excellence in Fintech Innovation",
         "variant": "split"
       },
@@ -531,7 +531,7 @@
           {
             "_key": "1686e72a303d",
             "_type": "featureCard",
-            "description": "Delivering successful digital transformation projects across global financial institutions.",
+            "description": "Projects delivered successfully of digital transformation across the global for varied financial institutions.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -560,7 +560,7 @@
           {
             "_key": "38c855db55d6",
             "_type": "featureCard",
-            "description": "Preferred technology partner for modern banking and financial services.",
+            "description": "Trusted by varied financial institutions.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -571,14 +571,14 @@
             },
             "richTitle": [
               {
-                "_key": "5f3c4dbb2232",
+                "_key": "98d4a6b08dd1",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "eabcb8f50b7d",
+                    "_key": "bb17aa466f1e",
                     "_type": "span",
                     "marks": [],
-                    "text": "Banks & NBFCs"
+                    "text": "Banks | NBFCs | Fintecs | MFIs"
                   }
                 ],
                 "markDefs": [],
@@ -679,7 +679,6 @@
         "_key": "a28df7e5a269",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "Why Choose FormulaGenie",
           "text": {
             "title": [
               {
