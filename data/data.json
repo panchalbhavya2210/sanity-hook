@@ -24387,15 +24387,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "MNAtp5t0WK9epqGdZldf1z",
+    "_rev": "6HNMNruJZobcPr5iKGANCL",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "tYwdV2ldLdzJB4kwq0QqaI"
+        "rev": "MNAtp5t0WK9epqGdZldf1z"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:04:17Z",
+    "_updatedAt": "2026-06-09T11:18:30Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -24586,9 +24586,9 @@
             ]
           }
         ],
-        "headerSubtitle": "Handling NACH files manually increases the risk of errors, delays, and compliance issues—especially with high transaction volumes.",
         "id": "coreInfo",
         "isTextBlack": true,
+        "subTitleText": "Handling NACH files manually increases the risk of errors, delays, and compliance issues—especially with high transaction volumes.",
         "titleParts": [
           {
             "_key": "z21hjfsacm",
