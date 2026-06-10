@@ -9609,15 +9609,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "z4CtSEe3d2bzDASWmvGli5",
+    "_rev": "FgFZzy882mp21voM3RVwIu",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "6HNMNruJZobcPr5iKG4Pst"
+        "rev": "z4CtSEe3d2bzDASWmvGli5"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:37:58Z",
+    "_updatedAt": "2026-06-10T05:20:45Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -9848,7 +9848,7 @@
           "alt": "bank-core",
           "src": null
         },
-        "subTitleText": "Digi.X™ is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Self-Service Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more.",
+        "subTitleText": "Digi.X™ is gamut of Ubiquitous Digital Banking Channels which supports both assisted & self-service channels like Mobile, Internet, Tab, Kiosks, ICD, IVR, Long/Short codes, WhatsApp & many more. ",
         "titleParts": [
           {
             "_key": "6kpl80ckjl",
