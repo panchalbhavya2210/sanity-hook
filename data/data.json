@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "z4CtSEe3d2bzDASWmy1zuY",
+    "_rev": "FgFZzy882mp21voM3RpDkW",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "6HNMNruJZobcPr5iKHFcpn"
+        "rev": "z4CtSEe3d2bzDASWmy1zuY"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-10T05:56:32Z",
+    "_updatedAt": "2026-06-10T09:30:08Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1608,7 +1608,7 @@
             },
             "link": "https://www.linkedin.com/in/jayendra-sathwara-295a1962/",
             "position": "AVP - Cloud Computing & DB Management",
-            "title": "Jayrendra B. Sathwara"
+            "title": "Jayendra B. Sathwara"
           },
           {
             "_key": "fc9d72a9a26a",
