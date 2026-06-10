@@ -19777,15 +19777,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "FgFZzy882mp21voM3MthYi",
+    "_rev": "6HNMNruJZobcPr5iKHEFLf",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "z4CtSEe3d2bzDASWmrvKIp"
+        "rev": "FgFZzy882mp21voM3MthYi"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-08T12:28:51Z",
+    "_updatedAt": "2026-06-10T05:11:49Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -20064,7 +20064,7 @@
           {
             "_key": "15557b9c-d6ce-47ad-984b-89dad119ee59",
             "href": "/case-study",
-            "label": "Our Recent Case Studies",
+            "label": "Success Stories",
             "type": "headerLink"
           }
         ],
