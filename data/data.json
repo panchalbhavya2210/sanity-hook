@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "z4CtSEe3d2bzDASWmvVj8n",
+    "_rev": "FgFZzy882mp21voM3RXCeI",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "z4CtSEe3d2bzDASWmvKgDW"
+        "rev": "z4CtSEe3d2bzDASWmvVj8n"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T12:15:08Z",
+    "_updatedAt": "2026-06-10T05:42:22Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1654,7 +1654,7 @@
           {
             "_key": "a055c50366d2",
             "_type": "mediaCard",
-            "description": "Leads API-driven digital banking innovations, architecture and next-generation banking channels focused on scalability, security, and customer experience.",
+            "description": "Leads API-driven digital banking innovations ,  architecture and next-generation banking channels focused on scalability, security, and customer experience.",
             "image": {
               "_type": "image",
               "asset": {
