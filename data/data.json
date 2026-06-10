@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "z4CtSEe3d2bzDASWmvROYh",
+    "_rev": "z4CtSEe3d2bzDASWmxxsPD",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "6HNMNruJZobcPr5iKG2h5n"
+        "rev": "z4CtSEe3d2bzDASWmvROYh"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-09T11:46:49Z",
+    "_updatedAt": "2026-06-10T05:11:31Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -357,7 +357,7 @@
       {
         "_key": "496c8e53-0b63-4124-b7bb-e488fbf72262",
         "href": "/case-study",
-        "label": "Case Study",
+        "label": "Success Stories",
         "layout": "withSideCard",
         "menuType": "link",
         "sections": [
