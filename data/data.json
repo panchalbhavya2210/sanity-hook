@@ -1345,15 +1345,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "FgFZzy882mp21voM3RXCeI",
+    "_rev": "6HNMNruJZobcPr5iKHFcpn",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "z4CtSEe3d2bzDASWmvVj8n"
+        "rev": "FgFZzy882mp21voM3RXCeI"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-10T05:42:22Z",
+    "_updatedAt": "2026-06-10T05:54:44Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1591,7 +1591,7 @@
                 "_type": "reference"
               }
             },
-            "link": "https://example.com",
+            "link": "https://www.linkedin.com/in/sunil-sabnis-b46931195/",
             "position": "Chief Operating Officer (COO)",
             "title": "Sunil S. Sabnis"
           },
@@ -1606,8 +1606,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/jayendra-sathwara-295a1962/",
             "position": "AVP - Cloud Computing & DB Management",
-            "title": "Jayrendra Sathwara"
+            "title": "Jayrendra B. Sathwara"
           },
           {
             "_key": "fc9d72a9a26a",
@@ -1620,8 +1621,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/sajid-sachawala-35750670/",
             "position": "AVP – Banking & Fintech Solutions",
-            "title": "Sajid Sachawala"
+            "title": "Mohd. Sajid Sachawala"
           },
           {
             "_key": "f6c3308c230a",
@@ -1634,6 +1636,7 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/yasir-saiyed/",
             "position": "Chief Solution Architect - CBS",
             "title": "Mohammad Yasir Saiyed"
           },
@@ -1648,8 +1651,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/aditya-shah-indian",
             "position": "Principal Software Engineer",
-            "title": "Aditya Shah"
+            "title": "Aditya V. Shah"
           },
           {
             "_key": "a055c50366d2",
@@ -1662,8 +1666,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/kamlesh-suthar-82309753",
             "position": "Chief Solution Architect – DiGi.X™",
-            "title": "Kamlesh Suthar"
+            "title": "Kamlesh J. Suthar"
           },
           {
             "_key": "f9f96c6390d7",
@@ -1676,8 +1681,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/vartika-aggarwal-16707a13/",
             "position": "Assistant Vice President-HR",
-            "title": "Vartika Agarwal"
+            "title": "Vartika V. Agarwal"
           },
           {
             "_key": "eec914135aae",
@@ -1690,8 +1696,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/ashaka-patel-4aa090336/",
             "position": "Head – Accounts & Finance",
-            "title": "Ashaka Patel"
+            "title": "Ashaka A. Patel"
           },
           {
             "_key": "204ac2ad99e9",
@@ -1704,8 +1711,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/nikita-patel-109245303/",
             "position": "Head of Delivery & Support - CBS",
-            "title": "Nikita Patel"
+            "title": "Nikita S. Patel"
           },
           {
             "_key": "d7ef00af8e0e",
@@ -1718,8 +1726,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/ketan-raval-008a513aa",
             "position": "Head – Delivery & Support (CBS & DiGi.X) = Digi.X™",
-            "title": "Ketan Raval"
+            "title": "Ketan C. Raval"
           },
           {
             "_key": "2ce2a93d10a7",
@@ -1732,8 +1741,9 @@
                 "_type": "reference"
               }
             },
+            "link": "http://linkedin.com/in/rajesh-mahto-143a1b62",
             "position": "Head – Delivery & Support (MH) = Head – CoE | Delivery & Support",
-            "title": "Rajesh Mahto"
+            "title": "Rajesh A. Mahto"
           },
           {
             "_key": "df6beb1f43a5",
@@ -1746,8 +1756,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/rupal-sharma03/",
             "position": "Senior Information Security Officer",
-            "title": "Rupal Sharma"
+            "title": "Rupal R. Sharma"
           },
           {
             "_key": "d52208414817",
@@ -1760,8 +1771,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/santosh-deshpande-312b0173/",
             "position": "AVP – Product Development (LOS)",
-            "title": "Santosh Deshpande"
+            "title": "Santosh S. Deshpande"
           },
           {
             "_key": "5ea8e383284c",
@@ -1774,8 +1786,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/vishvesh-vyas/",
             "position": "Team Lead – QA & Quality Assurance",
-            "title": "Vishvesh Vyas"
+            "title": "Vishvesh N. Vyas"
           },
           {
             "_key": "8eab367fc445",
@@ -1788,8 +1801,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/jeetjarsania",
             "position": "Head – Implementation & Support",
-            "title": "Jeet Jarsania"
+            "title": "Jeet H. Jarsania"
           },
           {
             "_key": "bc2ce25198f8",
@@ -1802,8 +1816,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/sunildagar/",
             "position": "Business Development Manager - Manpower",
-            "title": "Sunil Dagar"
+            "title": "Sunil P. Dagar"
           },
           {
             "_key": "1c89497d46e4",
@@ -1816,8 +1831,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/hiral-sathavara-234477150",
             "position": "Lead Application Server Engineer",
-            "title": "Hiral Sathavara"
+            "title": "Hiral J. Sathavara"
           },
           {
             "_key": "1c09d577333a",
@@ -1830,8 +1846,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/milan-patel-329418133",
             "position": "Lead – IT Operations",
-            "title": "Milan Patel"
+            "title": "Milan A. Patel"
           },
           {
             "_key": "67422b03b8e9",
@@ -1844,8 +1861,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/moinkhan-pathan-8890631ab",
             "position": "Senior Software Developer",
-            "title": "Moinkhan Pathan"
+            "title": "Mohinkhan F. Pathan"
           },
           {
             "_key": "e829bf7879c1",
@@ -1858,8 +1876,9 @@
                 "_type": "reference"
               }
             },
+            "link": "https://www.linkedin.com/in/mahendra-makwana-046b60193",
             "position": "Senior Team Lead",
-            "title": "Mahendra Makwana"
+            "title": "Mahendra P. Makwana"
           }
         ]
       }
