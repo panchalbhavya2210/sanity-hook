@@ -13391,15 +13391,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "FgFZzy882mp21voM3PZhbO",
+    "_rev": "arEKRV0Zhtdp43SHotaHfM",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "2JUT45RarmtyPWnJiS272e"
+        "rev": "FgFZzy882mp21voM3PZhbO"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T11:24:13Z",
+    "_updatedAt": "2026-06-12T12:21:50Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -13493,7 +13493,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "End-to-End  Lifecycle"
           },
           {
             "_key": "7k7trw4n91",
@@ -13537,7 +13538,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Preconfigured  Workflows"
           },
           {
             "_key": "v3stosz8po",
@@ -13581,7 +13583,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Real-Time Visibility"
           },
           {
             "_key": "rvdfw931ld",
@@ -13625,7 +13628,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Integrate Ecosystem"
           }
         ]
       },
