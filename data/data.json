@@ -13391,15 +13391,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "arEKRV0Zhtdp43SHotaHfM",
+    "_rev": "nwBZWpZG7GoXpa1301HrMt",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "FgFZzy882mp21voM3PZhbO"
+        "rev": "arEKRV0Zhtdp43SHotaHfM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-12T12:21:50Z",
+    "_updatedAt": "2026-06-12T12:24:00Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -14043,8 +14043,8 @@
         "_key": "ss92fztgbe",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Business Functions: Operational, financial, and customer management in one system.",
           "icon": null,
+          "subTitle": "Business Functions: Operational, financial, and customer management in one system.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -14105,7 +14105,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Loan Lifecycle  Management"
           },
           {
             "_key": "n1nk941mkz",
@@ -14122,11 +14123,11 @@
             "isReversed": true,
             "richTitle": [
               {
-                "_key": "060c8a52a9ed",
+                "_key": "5cc91b253a78",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "27a178a320ef",
+                    "_key": "e7fad07504c2",
                     "_type": "span",
                     "marks": [],
                     "text": "Payment "
@@ -14136,11 +14137,11 @@
                 "style": "normal"
               },
               {
-                "_key": "c7259a6d5df4",
+                "_key": "54053beb719c",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "27a178a320ef",
+                    "_key": "e7fad07504c2",
                     "_type": "span",
                     "marks": [],
                     "text": "Tracking"
@@ -14149,7 +14150,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Payment Tracking"
           },
           {
             "_key": "6b4zf53q0x",
@@ -14193,7 +14195,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Customer Interaction Tracking"
           },
           {
             "_key": "0r3txhqypf",
@@ -14237,7 +14240,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Reporting & MIS"
           }
         ]
       },
@@ -14520,8 +14524,8 @@
         "_key": "knb35syuny",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Technology and infrastructure built for scale, speed, and reliability.",
           "icon": null,
+          "subTitle": "Technology and infrastructure built for scale, speed, and reliability.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -14581,7 +14585,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Cloud-Ready Infrastructure"
           },
           {
             "_key": "w4v0lp0rx9",
@@ -14624,7 +14629,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "High Availability"
           },
           {
             "_key": "uo9divwhju",
@@ -14667,7 +14673,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "DevOps Enabled"
           },
           {
             "_key": "le4r95jm6v",
@@ -14710,7 +14717,8 @@
                 "markDefs": [],
                 "style": "normal"
               }
-            ]
+            ],
+            "title": "Monitoring & Data Security"
           }
         ]
       },
