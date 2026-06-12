@@ -22912,15 +22912,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "MNAtp5t0WK9epqGdZldhWR",
+    "_rev": "arEKRV0Zhtdp43SHotW3my",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "6XauXwCqdfjH3lSp8mBHY6"
+        "rev": "MNAtp5t0WK9epqGdZldhWR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:08:51Z",
+    "_updatedAt": "2026-06-12T11:57:40Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23380,7 +23380,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Key Takeaways. Bankai enables financial institutions to modernize securely, efficiently, and with minimal downtime.",
+          "subTitle": "Key Takeaways: Bankai enables financial institutions to modernize securely, efficiently, and with minimal downtime.",
           "text": {
             "title": [
               {
