@@ -9628,15 +9628,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "FgFZzy882mp21voM3RVwIu",
+    "_rev": "eXElWFPF5LO84jZC2iuL9q",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "z4CtSEe3d2bzDASWmvGli5"
+        "rev": "FgFZzy882mp21voM3RVwIu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-10T05:20:45Z",
+    "_updatedAt": "2026-06-12T12:03:28Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -9838,7 +9838,7 @@
                     "_key": "6fcde4203eca",
                     "_type": "span",
                     "marks": [],
-                    "text": "Speed Up Go-to-"
+                    "text": "Speed Up Go-to "
                   }
                 ],
                 "markDefs": [],
