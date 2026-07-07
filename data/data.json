@@ -492,15 +492,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "n3kbNYBoL1jFrKaaxCKzGT",
+    "_rev": "n3kbNYBoL1jFrKaaxCL3dr",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "FgFZzy882mp21voM3OmUea"
+        "rev": "n3kbNYBoL1jFrKaaxCKzGT"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T06:25:42Z",
+    "_updatedAt": "2026-07-07T06:28:16Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1272,28 +1272,28 @@
               {
                 "_key": "c999c180001c",
                 "_type": "featureItem",
-                "cols": 4,
+                "cols": 3,
                 "description": "Specialized capabilities in Oracle Database Security, Performance Optimization, and Database Tuning.",
                 "title": "Oracle Database  Expertise"
               },
               {
                 "_key": "67d6325f3b97",
                 "_type": "featureItem",
-                "cols": 4,
+                "cols": 3,
                 "description": "Combining strong product engineering capabilities with enterprise-grade integration expertise.",
                 "title": "Product Development & System Integration Excellence"
               },
               {
                 "_key": "9ca30ccfc7a0",
                 "_type": "featureItem",
-                "cols": 4,
+                "cols": 3,
                 "description": "Expertise across Cloud Computing, AI/ML, Database Administration, BCP/DR Consulting, Cybersecurity, and Network Orchestration.",
                 "title": "End-to-End  Technology Services"
               },
               {
                 "_key": "9ca5270c188a",
                 "_type": "featureItem",
-                "cols": 4,
+                "cols": 3,
                 "description": "Innovate with our Loantech Platform & API HUB ,which automates the entire lending lifecycle—from application to disbursement to repayment enabling faster approvals, intelligent risk assessment, and AI-driven credit management. ",
                 "title": "Loan Origination & Management System(LOMS)"
               }
