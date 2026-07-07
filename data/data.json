@@ -492,15 +492,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "n3kbNYBoL1jFrKaaxCL3dr",
+    "_rev": "FV4xGIVUyu5d0Pvju4Ah7M",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "n3kbNYBoL1jFrKaaxCKzGT"
+        "rev": "n3kbNYBoL1jFrKaaxCL3dr"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T06:28:16Z",
+    "_updatedAt": "2026-07-07T12:00:15Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1219,7 +1219,7 @@
                 "_key": "c6bd9aebe904",
                 "_type": "featureItem",
                 "cols": 3,
-                "description": "Serving Co-operative Banks, Local Area Banks, Scheduled Commercial Banks, Payment Banks & NBFCs.",
+                "description": "Supports Retail Banking, Corporate Banking, Trade Finance, Treasury Operations and Risk Management.",
                 "title": "Complete Banking  Ecosystem"
               },
               {
