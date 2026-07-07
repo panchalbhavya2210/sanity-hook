@@ -22931,15 +22931,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "arEKRV0Zhtdp43SHotW3my",
+    "_rev": "n3kbNYBoL1jFrKaaxCUTuj",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "MNAtp5t0WK9epqGdZldhWR"
+        "rev": "arEKRV0Zhtdp43SHotW3my"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-12T11:57:40Z",
+    "_updatedAt": "2026-07-07T09:08:56Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23045,7 +23045,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+        "subTitleText": "Bankai’s Managed Oracle Cloud Infrastructure (OCI) services is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
         "titleParts": [
           {
             "_key": "6rfg9kl3x1",
@@ -23353,13 +23353,13 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "Reap the immediate and long-term benefits of seamless Oracle Cloud migration with our proven Lift & Shift approach purpose-built for speed, security, and scale.",
+          "subTitle": "Reap the immediate and long-term benefits of seamless Oracle Cloud migration with our proven Lift 'n' Shift approach purpose-built for speed, security, and scale.",
           "text": {
             "title": [
               {
                 "_key": "vzwrofqhq5",
                 "color": "",
-                "text": "Why Lift & Shift with Bankai?"
+                "text": "Why Lift 'n' Shift with Bankai?"
               }
             ],
             "variant": "h1"
