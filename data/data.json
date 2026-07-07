@@ -1352,15 +1352,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "FgFZzy882mp21voM3RpDkW",
+    "_rev": "65F5vUtzEln2HQ0lqFY2Xv",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "z4CtSEe3d2bzDASWmy1zuY"
+        "rev": "FgFZzy882mp21voM3RpDkW"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-10T09:30:08Z",
+    "_updatedAt": "2026-07-07T06:26:52Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1539,7 +1539,7 @@
             "_key": "c1452e996e6b",
             "_type": "partnerCard",
             "buttonLabel": "Chief Executive Officer",
-            "description": "A seasoned BFSI and FinTech leader with over 20 years of experience in Core Banking, Digital Banking, FinTech, and RegTech solutions. Expertise spans product development, business growth, strategic partnerships, pre-sales, customer acquisition, and process excellence. Proven track record of working with Banks, NBFCs, MFIs, SACCOs, and Financial Institutions to deliver innovative technology solutions that drive transformation and business success. Passionate about emerging technologies including Cybersecurity and Blockchain, with a strong focus on building future-ready financial ecosystems.",
+            "description": "A seasoned BFSI and FinTech leader with over 20 years of experience in Core Banking, Digital Banking, FinTech, and RegTech solutions. Expertise spans product development, business growth, strategic partnerships, pre-sales, customer acquisition, and process excellence. Proven track record of working with Banks, NBFCs, MFIs, SACCOs, and Financial Institutions to deliver innovative technology solutions that drive transformation and business success. Passionate about emerging technologies like AI/ML , Cybersecurity and Blockchain, with a strong focus on building future-ready financial ecosystems.",
             "designation": "Chief Executive Officer",
             "image": {
               "_type": "image",
