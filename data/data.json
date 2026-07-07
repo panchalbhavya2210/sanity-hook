@@ -2542,15 +2542,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "glsFk1SvfGcE5pcbzYMniz",
+    "_rev": "tMAfBzBFE6atbs0qxv3BiK",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "2JUT45RarmtyPWnJiS2pY0"
+        "rev": "glsFk1SvfGcE5pcbzYMniz"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T12:30:50Z",
+    "_updatedAt": "2026-07-07T11:58:53Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -2570,7 +2570,7 @@
           }
         },
         "subtitle": "Build, connect, and scale faster with a unified API ecosystem designed for developers and businesses.",
-        "title": "Empowering Seamless API Connectivity",
+        "title": "Empowering Seamless API Integrations",
         "variant": "split"
       },
       {
@@ -3349,7 +3349,7 @@
           {
             "_key": "1xccgt4se4",
             "color": "text-warning",
-            "text": "One API Platform"
+            "text": "One API Platform "
           },
           {
             "_key": "f8dhzrbeeg",
