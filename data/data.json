@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "z4CtSEe3d2bzDASWmxxsPD",
+    "_rev": "tMAfBzBFE6atbs0qxuuSDV",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "z4CtSEe3d2bzDASWmvROYh"
+        "rev": "z4CtSEe3d2bzDASWmxxsPD"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-06-10T05:11:31Z",
+    "_updatedAt": "2026-07-07T10:21:01Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -218,7 +218,7 @@
                 "type": "link"
               }
             ],
-            "title": "Others"
+            "title": "Core Plugins"
           }
         ]
       },
