@@ -19689,15 +19689,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "1k6jXR2pqeSc0rml0gDFGZ",
+    "_rev": "1k6jXR2pqeSc0rml0gDnzX",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "6HNMNruJZobcPr5iKHEFLf"
+        "rev": "1k6jXR2pqeSc0rml0gDFGZ"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-07T10:21:19Z",
+    "_updatedAt": "2026-07-07T10:26:24Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19926,19 +19926,13 @@
         "_key": "44d4d4a5-6252-49a1-a73f-41cddf780b64",
         "items": [
           {
-            "_key": "328f8849-7947-4bdd-b862-1e53a465c4bc",
-            "href": "#",
-            "label": "Explore",
-            "type": "header"
-          },
-          {
             "_key": "11bf8ebe-dfa2-467d-8479-965eb3edfc9b",
             "href": "/api-hub",
             "label": "API Hub",
             "type": "link"
           }
         ],
-        "title": "API Hub"
+        "title": " "
       },
       {
         "_key": "10f5dd39-a8a6-4ef5-b068-a2f2842849cf",
