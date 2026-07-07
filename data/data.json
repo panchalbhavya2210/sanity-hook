@@ -7825,15 +7825,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "2JUT45RarmtyPWnJiS2kvA",
+    "_rev": "1k6jXR2pqeSc0rml0g8F5z",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "Af0w24d1UBF0wdCcQLwwKX"
+        "rev": "2JUT45RarmtyPWnJiS2kvA"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:08:24Z",
+    "_updatedAt": "2026-07-07T09:37:25Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -8535,17 +8535,17 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Leverage Bankai’s core modernization expertise to hollow the core.",
         "titleParts": [
           {
             "_key": "ul4jhys5i5",
             "color": "",
-            "text": "Ready to "
+            "text": "Learn how to "
           },
           {
             "_key": "2l3hgcoj57",
             "color": "text-[#EE6832]",
-            "text": "Transform "
+            "text": "modernize "
           },
           {
             "_key": "iua64j1ty4",
@@ -8560,12 +8560,7 @@
           {
             "_key": "oed9vseqz5",
             "color": "text-brand-600",
-            "text": "Experience"
-          },
-          {
-            "_key": "dt62eb2nbx",
-            "color": "",
-            "text": "?"
+            "text": "& fintech ecosystem."
           }
         ]
       }
