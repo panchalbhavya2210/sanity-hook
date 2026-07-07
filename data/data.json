@@ -1352,15 +1352,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "65F5vUtzEln2HQ0lqFY2Xv",
+    "_rev": "tMAfBzBFE6atbs0qxuuAvU",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "FgFZzy882mp21voM3RpDkW"
+        "rev": "65F5vUtzEln2HQ0lqFY2Xv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T06:26:52Z",
+    "_updatedAt": "2026-07-07T10:17:36Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1704,23 +1704,8 @@
               }
             },
             "link": "https://www.linkedin.com/in/ashaka-patel-4aa090336/",
-            "position": "Head – Accounts & Finance",
+            "position": "Manager – Accounts & Finance",
             "title": "Ashaka A. Patel"
-          },
-          {
-            "_key": "204ac2ad99e9",
-            "_type": "mediaCard",
-            "description": "Leads CoE | Delivery & Support support of core banking platforms, driving implementation, operational excellence, risk management , RBI Reporting &\nAudit Compliance.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-481c2cbaefab1abb1e81d7e24e1a48e927dcc860-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/nikita-patel-109245303/",
-            "position": "Head of Delivery & Support - CBS",
-            "title": "Nikita S. Patel"
           },
           {
             "_key": "d7ef00af8e0e",
@@ -1753,21 +1738,6 @@
             "title": "Rajesh A. Mahto"
           },
           {
-            "_key": "df6beb1f43a5",
-            "_type": "mediaCard",
-            "description": "Cybersecurity professional focused on information security, risk management, audit compliance, VAPT , security governance, and strengthening enterprise cyber resilience.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c475bdaccf3f3751eb6a7d5edc83e43460c500d3-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/rupal-sharma03/",
-            "position": "Senior Information Security Officer",
-            "title": "Rupal R. Sharma"
-          },
-          {
             "_key": "d52208414817",
             "_type": "mediaCard",
             "description": "Banking product specialist with over 25 years of experience across lending, loan servicing & management , API Integrations , leading AI-powered innovations in lending.",
@@ -1783,36 +1753,6 @@
             "title": "Santosh S. Deshpande"
           },
           {
-            "_key": "5ea8e383284c",
-            "_type": "mediaCard",
-            "description": "Quality assurance leader responsible for testing, benchmarking , software quality governance,S-SDLC across multiple banking & fintech products. Vishvesh ensures reliability, performance, and product excellence.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-48aa0ee397b04a4b1a7618bfe245d642ef1cfcb5-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/vishvesh-vyas/",
-            "position": "Team Lead – QA & Quality Assurance",
-            "title": "Vishvesh N. Vyas"
-          },
-          {
-            "_key": "8eab367fc445",
-            "_type": "mediaCard",
-            "description": "Responsible for delivery & support for overseas core banking , fintech , lending projects with expertise in data migration , legacy modernization , product implementation, project management, pre-sales consulting, MIS reporting, and regulatory compliance.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-0525f62eb5f94ed1fbf3baa9c704f980e614c87c-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/jeetjarsania",
-            "position": "Head – Implementation & Support",
-            "title": "Jeet H. Jarsania"
-          },
-          {
             "_key": "bc2ce25198f8",
             "_type": "mediaCard",
             "description": "IT Talent Acquisition leader with expertise in large-scale hiring, workforce planning, stakeholder management, and technology talent delivery across diverse domains.",
@@ -1826,66 +1766,6 @@
             "link": "https://www.linkedin.com/in/sunildagar/",
             "position": "Business Development Manager - Manpower",
             "title": "Sunil P. Dagar"
-          },
-          {
-            "_key": "1c89497d46e4",
-            "_type": "mediaCard",
-            "description": "Experienced middleware and infrastructure specialist responsible for application server management, DevOps practices, system reliability, and platform performance optimization.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-c070024c690c82bb637e6d0e93c7ae97b3140deb-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/hiral-sathavara-234477150",
-            "position": "Lead Application Server Engineer",
-            "title": "Hiral J. Sathavara"
-          },
-          {
-            "_key": "1c09d577333a",
-            "_type": "mediaCard",
-            "description": "ICT operations leader with expertise in cloud infrastructure, network security , secured network , system administration, and enterprise IT operations. Milan ensures secure and efficient technology environments.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-dbe01a059a471d69038732d1a704dd80e476dcc1-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/milan-patel-329418133",
-            "position": "Lead – IT Operations",
-            "title": "Milan A. Patel"
-          },
-          {
-            "_key": "67422b03b8e9",
-            "_type": "mediaCard",
-            "description": "Software engineering professional focused on Trade Finance, Treasury & SWIFT messaging integrations, enterprise applications, and product enhancements.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-afec018fbf576f4fa806c46e7205a8f3a05fff79-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/moinkhan-pathan-8890631ab",
-            "position": "Senior Software Developer",
-            "title": "Mohinkhan F. Pathan"
-          },
-          {
-            "_key": "e829bf7879c1",
-            "_type": "mediaCard",
-            "description": "Expertise in analyzing legacy systems to identify potential risks and formulate a step-by-step migration roadmap. Managing ETL (Extract, Transform, Load) pipelines to convert data from source formats into target system schemas. Responsible for data quality standards and validation rules to ensure integrity before and after the move.",
-            "image": {
-              "_type": "image",
-              "asset": {
-                "_ref": "image-0cec3f97a4454b284ac27e593d5edd8acf89c3d5-760x760-webp",
-                "_type": "reference"
-              }
-            },
-            "link": "https://www.linkedin.com/in/mahendra-makwana-046b60193",
-            "position": "Senior Team Lead",
-            "title": "Mahendra P. Makwana"
           }
         ]
       }
