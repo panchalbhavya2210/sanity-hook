@@ -10834,15 +10834,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "6KGNvrS0DL9HoKyrAHf57R",
+    "_rev": "1k6jXR2pqeSc0rml0gD0jR",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "6KGNvrS0DL9HoKyrAHf57R"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:03:22Z",
+    "_updatedAt": "2026-07-07T10:19:24Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -11311,34 +11311,33 @@
       {
         "_key": "5zbd53yffg",
         "_type": "contactCtaSection",
-        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles3",
-        "subText": "Deliver secure, customer-friendly, and future-ready mobile banking with Bankai.",
+        "subText": "Embed secure eSignatures to your documents with ease.",
         "titleParts": [
           {
             "_key": "5oedhydo51",
             "color": "",
-            "text": "Ready to "
+            "text": "Learn "
           },
           {
             "_key": "z6xuajl1ii",
             "color": "text-[#EE6832]",
-            "text": "Transform "
+            "text": "more "
           },
           {
             "_key": "0mker5fiiu",
             "color": "",
-            "text": "Your "
+            "text": "about our "
           },
           {
             "_key": "wza0al7a3m",
             "color": "text-[#EE6832]",
-            "text": "Banking "
+            "text": "digital "
           },
           {
             "_key": "a056d55inr",
             "color": "text-brand-600",
-            "text": "Experience"
+            "text": "eSignature solution?"
           },
           {
             "_key": "eh9qwy07hw",
