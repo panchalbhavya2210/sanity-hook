@@ -19689,15 +19689,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "6HNMNruJZobcPr5iKHEFLf",
+    "_rev": "1k6jXR2pqeSc0rml0gDFGZ",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "FgFZzy882mp21voM3MthYi"
+        "rev": "6HNMNruJZobcPr5iKHEFLf"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-06-10T05:11:49Z",
+    "_updatedAt": "2026-07-07T10:21:19Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19897,7 +19897,7 @@
           },
           {
             "_key": "b39f6752-3443-4d14-8f79-f7535a75bc36",
-            "label": "Others",
+            "label": "Core Plugins",
             "type": "header"
           },
           {
