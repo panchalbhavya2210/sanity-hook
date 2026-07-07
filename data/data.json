@@ -492,15 +492,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "FgFZzy882mp21voM3OmUea",
+    "_rev": "n3kbNYBoL1jFrKaaxCKzGT",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "6HNMNruJZobcPr5iKFj2kn"
+        "rev": "FgFZzy882mp21voM3OmUea"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T07:31:15Z",
+    "_updatedAt": "2026-07-07T06:25:42Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -518,7 +518,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed service solutions.",
+        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed cloud services.",
         "title": "Driving Excellence in Fintech Innovation",
         "variant": "split"
       },
@@ -572,14 +572,14 @@
             },
             "richTitle": [
               {
-                "_key": "98d4a6b08dd1",
+                "_key": "79f95b6641eb",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "bb17aa466f1e",
+                    "_key": "d686d4de6cf9",
                     "_type": "span",
                     "marks": [],
-                    "text": "Banks | NBFCs | Fintecs | MFIs"
+                    "text": "Banks | NBFCs | Fintechs | MFIs"
                   }
                 ],
                 "markDefs": [],
@@ -648,7 +648,7 @@
         ],
         "id": "Proven Expertise. Lasting Impact.",
         "isTextBlack": true,
-        "subTitleText": "Serving banks, NBFCs, MFIs, credit unions, and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
+        "subTitleText": "Serving banks, NBFCs, MFIs and financial institutions through innovative solutions, successful implementations, and trusted partnerships across the globe.",
         "titleParts": [
           {
             "_key": "cef7f4c5fe50",
@@ -1219,7 +1219,7 @@
                 "_key": "c6bd9aebe904",
                 "_type": "featureItem",
                 "cols": 3,
-                "description": "Supports Retail Banking, Corporate Banking, Trade Finance, Treasury Operations, and Risk Management.",
+                "description": "Serving Co-operative Banks, Local Area Banks, Scheduled Commercial Banks, Payment Banks & NBFCs.",
                 "title": "Complete Banking  Ecosystem"
               },
               {
@@ -1253,7 +1253,7 @@
                 "_key": "b23de1afbea7",
                 "_type": "featureItem",
                 "cols": 3,
-                "description": "Serving Co-operative Banks, Local Area Banks, Scheduled Commercial Banks, Payment Banks, SACCOs, MFIs, and NBFCs.",
+                "description": "Trusted by Co-operative Banks, Scheduled Commercial Banks, Local Area Banks , Payment Banks , MFIs, and NBFCs.",
                 "title": "Trusted Across Financial Segments"
               },
               {
@@ -1289,6 +1289,13 @@
                 "cols": 4,
                 "description": "Expertise across Cloud Computing, AI/ML, Database Administration, BCP/DR Consulting, Cybersecurity, and Network Orchestration.",
                 "title": "End-to-End  Technology Services"
+              },
+              {
+                "_key": "9ca5270c188a",
+                "_type": "featureItem",
+                "cols": 4,
+                "description": "Innovate with our Loantech Platform & API HUB ,which automates the entire lending lifecycle—from application to disbursement to repayment enabling faster approvals, intelligent risk assessment, and AI-driven credit management. ",
+                "title": "Loan Origination & Management System(LOMS)"
               }
             ]
           }
@@ -1301,25 +1308,25 @@
         "id": " Fast, Secure, and Built for Scale",
         "isTextBlack": false,
         "isTextWhite": false,
-        "subText": "Security & Performance",
+        "subText": "Inspiring Innovations",
         "titleParts": [
           {
             "_key": "ce701ddb4d55",
             "_type": "titlePart",
             "color": "text-brand-600",
-            "text": "Fast, "
+            "text": "Fintech "
           },
           {
             "_key": "9391da5d5b7c",
             "_type": "titlePart",
-            "color": "text-warning",
-            "text": "Secure, "
+            "color": "text-black",
+            "text": "Solutions Built for "
           },
           {
             "_key": "57750ec1f2d5",
             "_type": "titlePart",
-            "color": "text-black",
-            "text": "and Built for Scale"
+            "color": "text-success",
+            "text": "Scale"
           }
         ]
       }
