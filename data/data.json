@@ -1352,15 +1352,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "tMAfBzBFE6atbs0qxuuAvU",
+    "_rev": "tMAfBzBFE6atbs0qxv2qr6",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "65F5vUtzEln2HQ0lqFY2Xv"
+        "rev": "tMAfBzBFE6atbs0qxuuAvU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T10:17:36Z",
+    "_updatedAt": "2026-07-07T11:54:10Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1374,7 +1374,7 @@
         "image": {
           "_type": "image",
           "asset": {
-            "_ref": "image-18bab96f9f3f44161e10b504339f5dbf63be7e8e-707x672-png",
+            "_ref": "image-202f2a2ad09d769c7e0aa9f28dc4f51aced2ca76-707x672-webp",
             "_type": "reference"
           }
         },
