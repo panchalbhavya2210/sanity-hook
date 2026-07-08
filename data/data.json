@@ -8474,15 +8474,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "6HNMNruJZobcPr5iKGAktf",
+    "_rev": "GEUPu1VOF9GyCKQDeG5pIb",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "2JUT45RarmtyPWnJiS1zWK"
+        "rev": "6HNMNruJZobcPr5iKGAktf"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T11:25:20Z",
+    "_updatedAt": "2026-07-08T06:30:06Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -8944,7 +8944,7 @@
           },
           {
             "_key": "ceptx1xxx3",
-            "description": "Evaluate creditworthiness using AI-driven scoring models for predictive scoring, risk classification & probability of default.",
+            "description": "Evaluate creditworthiness using AI-driven scoring models for predictive scoring, risk classification & review of probability of default.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -8952,7 +8952,7 @@
                 "_type": "reference"
               }
             },
-            "title": "Credit Analysis"
+            "title": "Credit Decisioning Platform "
           },
           {
             "_key": "a174awaf0i",
