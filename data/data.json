@@ -8474,15 +8474,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "GEUPu1VOF9GyCKQDeG5pIb",
+    "_rev": "B7v4H5xN2WmKnaQDWMIwYm",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "6HNMNruJZobcPr5iKGAktf"
+        "rev": "GEUPu1VOF9GyCKQDeG5pIb"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-08T06:30:06Z",
+    "_updatedAt": "2026-07-08T06:32:18Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -8928,7 +8928,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Data Collection"
+            "richTitle": [
+              {
+                "_key": "8f360cc9d180",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5f4da34aaadd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "30a5c947172e",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "5f4da34aaadd",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Collection"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "q8q0sd2vr3",
@@ -8940,7 +8969,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Data Processing"
+            "richTitle": [
+              {
+                "_key": "2b1b4fe2e2af",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bb64a1e8d22c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Data "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "07b3b36aaa8f",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "bb64a1e8d22c",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Processing"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ceptx1xxx3",
@@ -8964,7 +9022,36 @@
                 "_type": "reference"
               }
             },
-            "title": "Decision Engine"
+            "richTitle": [
+              {
+                "_key": "cfec87525db0",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a70345e920d2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Decision "
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              },
+              {
+                "_key": "da10ea8fd01d",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "a70345e920d2",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Engine"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           }
         ],
         "id": "coreInfo",
