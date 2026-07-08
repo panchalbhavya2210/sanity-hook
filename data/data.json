@@ -492,15 +492,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "FV4xGIVUyu5d0Pvju4Ah7M",
+    "_rev": "U4Kf70E1gVF9dPfCguM0Yv",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "n3kbNYBoL1jFrKaaxCL3dr"
+        "rev": "FV4xGIVUyu5d0Pvju4Ah7M"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T12:00:15Z",
+    "_updatedAt": "2026-07-08T11:09:39Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -579,7 +579,7 @@
                     "_key": "d686d4de6cf9",
                     "_type": "span",
                     "marks": [],
-                    "text": "Banks | NBFCs | Fintechs | MFIs"
+                    "text": "Banks | Fintechs | NBFCs | MFIs"
                   }
                 ],
                 "markDefs": [],
