@@ -1353,15 +1353,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "U4Kf70E1gVF9dPfCgx0PW5",
+    "_rev": "B7v4H5xN2WmKnaQDWQf6Qe",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "tMAfBzBFE6atbs0qxv2qr6"
+        "rev": "U4Kf70E1gVF9dPfCgx0PW5"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:53:20Z",
+    "_updatedAt": "2026-07-09T09:54:32Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1782,7 +1782,7 @@
         }
       },
       "title": "Meet the Leaders Driving Innovation",
-      "url": "https://bankaiinformatics.co.in/leadership"
+      "url": "https://www.bankaiinformatics.co.in/leadership"
     },
     "slug": {
       "_type": "slug",
@@ -10930,15 +10930,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "B7v4H5xN2WmKnaQDWQevms",
+    "_rev": "B7v4H5xN2WmKnaQDWQf5bc",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "1k6jXR2pqeSc0rml0gD0jR"
+        "rev": "B7v4H5xN2WmKnaQDWQevms"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:53:41Z",
+    "_updatedAt": "2026-07-09T09:54:21Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -11462,7 +11462,7 @@
       "ogDescription": "Digitally sign documents with ease using BankAI’s secure, compliant digital signing service for banking workflows.",
       "ogTitle": "Digital Signing Services | Secure eSignature for Banks",
       "title": "Digital Signing Services | BankAI",
-      "url": "https://www.bankaiinformatics.co.in/xcelerators/digital-signing"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/plugins/digital-signing"
     },
     "slug": {
       "_type": "slug",
