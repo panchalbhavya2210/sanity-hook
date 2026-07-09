@@ -5436,15 +5436,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "B7v4H5xN2WmKnaQDWQuII8",
+    "_rev": "U4Kf70E1gVF9dPfCgxCGU5",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "GEUPu1VOF9GyCKQDeMak6D"
+        "rev": "B7v4H5xN2WmKnaQDWQuII8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T11:06:39Z",
+    "_updatedAt": "2026-07-09T11:06:57Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6567,7 +6567,7 @@
       "_type": "slug",
       "current": "/xcelerators/others/envia"
     },
-    "title": "Chat Bot"
+    "title": "ENViA"
   },
   {
     "_createdAt": "2026-04-14T05:38:29Z",
@@ -19480,15 +19480,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "B7v4H5xN2WmKnaQDWQuCp8",
+    "_rev": "B7v4H5xN2WmKnaQDWQuNAg",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "GEUPu1VOF9GyCKQDeMbTFX"
+        "rev": "B7v4H5xN2WmKnaQDWQuCp8"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-09T11:06:08Z",
+    "_updatedAt": "2026-07-09T11:06:57Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19713,8 +19713,8 @@
           {
             "_key": "8bb6e2d8d990",
             "_type": "item",
-            "href": "/xcelerators/others/ENViA",
-            "label": "Chat Bot",
+            "href": "/xcelerators/others/envia",
+            "label": "ENViA",
             "type": "link"
           }
         ],
