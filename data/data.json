@@ -4297,79 +4297,6 @@
     "title": "Bankai Iam"
   },
   {
-    "_createdAt": "2026-05-11T08:52:53Z",
-    "_id": "career-job-scrum-master",
-    "_rev": "bM4Vn6Xhr0kQ8myfj6meoS",
-    "_type": "careerJob",
-    "_updatedAt": "2026-05-29T09:44:28Z",
-    "aboutCompany": [
-      {
-        "_key": "u06ihb5a",
-        "_type": "block",
-        "children": [
-          {
-            "_key": "4up5127l",
-            "_type": "span",
-            "text": "BankAI powers the future of digital banking by helping financial institutions create seamless and customer-focused experiences."
-          }
-        ]
-      }
-    ],
-    "applyLink": "https://example.com/jobs/scrum-master-graduate",
-    "benefits": [
-      "Hybrid work environment",
-      "Learning support programs",
-      "Paid leaves",
-      "Career growth opportunities"
-    ],
-    "compensation": "Competitive salary package with performance incentives.",
-    "department": "engineering",
-    "experienceLevel": "graduate",
-    "isFeatured": true,
-    "jobId": "JR742",
-    "jobType": "full-time",
-    "location": "Ahmedabad",
-    "locationInfo": "Hybrid work model based in Ahmedabad, India.",
-    "publishedAt": "2026-05-11T08:52:53.430Z",
-    "qualifications": [
-      "Bachelor degree in Computer Science or related field",
-      "Understanding of Agile/Scrum principles",
-      "Good communication skills"
-    ],
-    "responsibilities": [
-      "Facilitate sprint planning and retrospectives",
-      "Support Agile and Scrum practices",
-      "Coordinate between product and engineering teams",
-      "Track sprint progress and blockers"
-    ],
-    "roleOverview": [
-      {
-        "_key": "ojp8mbm0",
-        "_type": "block",
-        "children": [
-          {
-            "_key": "8zys15sd",
-            "_type": "span",
-            "text": "We are looking for a Graduate Scrum Master to support agile product development and improve collaboration across teams."
-          }
-        ]
-      }
-    ],
-    "skills": [
-      "Agile Methodology",
-      "Scrum",
-      "Communication",
-      "JIRA",
-      "Team Collaboration"
-    ],
-    "slug": {
-      "_type": "slug",
-      "current": "scrum-master-graduate"
-    },
-    "summary": "Support agile product development and collaborate with cross-functional teams to deliver banking solutions efficiently.",
-    "title": "Scrum Master - Graduate"
-  },
-  {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
     "_rev": "B7v4H5xN2WmKnaQDWQhddo",
@@ -4749,22 +4676,15 @@
   {
     "_createdAt": "2026-05-11T08:52:58Z",
     "_id": "careers-page",
-    "_rev": "tYwdV2ldLdzJB4kwq0G8H8",
+    "_rev": "GEUPu1VOF9GyCKQDeMR7Vl",
     "_system": {
       "base": {
         "id": "careers-page",
-        "rev": "xYdOegpFMyaIaw5eRrtFq1"
+        "rev": "tYwdV2ldLdzJB4kwq0G8H8"
       }
     },
     "_type": "careersPage",
-    "_updatedAt": "2026-05-29T09:45:45Z",
-    "featuredJobs": [
-      {
-        "_key": "vVaFl7ADmGgQzf5cZ9wyVx",
-        "_ref": "career-job-scrum-master",
-        "_type": "reference"
-      }
-    ],
+    "_updatedAt": "2026-07-09T10:37:24Z",
     "hero": {
       "hero": {
         "_type": "heroSection",
