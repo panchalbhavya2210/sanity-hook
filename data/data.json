@@ -7705,15 +7705,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "B7v4H5xN2WmKnaQDWNWGtS",
+    "_rev": "B7v4H5xN2WmKnaQDWQeXuw",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "B7v4H5xN2WmKnaQDWNGSWO"
+        "rev": "B7v4H5xN2WmKnaQDWNWGtS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-08T12:07:36Z",
+    "_updatedAt": "2026-07-09T09:50:47Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -8470,7 +8470,7 @@
       "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
       "ogTitle": "Core Modernization | Modernize Your Banking Infrastructure",
       "title": "Core Modernization Consulting | BankAI",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://bankaiinformatics.co.in/products/core-modernization"
     },
     "slug": {
       "_type": "slug",
