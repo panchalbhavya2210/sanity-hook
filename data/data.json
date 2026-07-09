@@ -28720,15 +28720,15 @@
   {
     "_createdAt": "2026-04-14T08:39:19Z",
     "_id": "tab-banking-solutions-mobipro",
-    "_rev": "FgFZzy882mp21voM3Mp3kK",
+    "_rev": "GEUPu1VOF9GyCKQDeMKhCR",
     "_system": {
       "base": {
         "id": "tab-banking-solutions-mobipro",
-        "rev": "FgFZzy882mp21voM3MmpYu"
+        "rev": "FgFZzy882mp21voM3Mp3kK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:50:37Z",
+    "_updatedAt": "2026-07-09T10:14:57Z",
     "sections": [
       {
         "_key": "jgpg1o2xpf",
@@ -29691,7 +29691,7 @@
       "ogDescription": "Bring banking to the field with MobiProPlus — secure tab banking, remote onboarding, and frictionless customer service.",
       "ogTitle": "MobiProPlus | Tab & Mobile Field Banking Solutions",
       "title": "MobiProPlus Tab Banking | Digital Outreach for Field Sales",
-      "url": "https://yourdomain.com/products/tab-banking-solutions-mobipro"
+      "url": "https://www.bankaiinformatics.co.in/products/tab-banking-solutions-mobipro"
     },
     "slug": {
       "_type": "slug",
