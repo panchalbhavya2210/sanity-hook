@@ -9606,15 +9606,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "eXElWFPF5LO84jZC2iuL9q",
+    "_rev": "GEUPu1VOF9GyCKQDeMGhAL",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "FgFZzy882mp21voM3RVwIu"
+        "rev": "eXElWFPF5LO84jZC2iuL9q"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-12T12:03:28Z",
+    "_updatedAt": "2026-07-09T09:57:23Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10919,7 +10919,7 @@
       "ogDescription": "Build, deliver, and analyze digital banking experiences with Digi.X™ — a unified stack for modern financial institutions.",
       "ogTitle": "Digi.X™ | Digital Banking Stack for Modern Banks",
       "title": "Digi.X™ Digital Banking Stack | BankAI",
-      "url": "https://yourdomain.com/xcelerators/digi-x"
+      "url": "https://www.bankaiinformatics.co.in/products/digi-x"
     },
     "slug": {
       "_type": "slug",
@@ -20154,15 +20154,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "z4CtSEe3d2bzDASWmvGJRU",
+    "_rev": "B7v4H5xN2WmKnaQDWQg9z0",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "2JUT45RarmtyPWnJiS2gzw"
+        "rev": "z4CtSEe3d2bzDASWmvGJRU"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:36:09Z",
+    "_updatedAt": "2026-07-09T10:01:52Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -21189,7 +21189,7 @@
       "ogDescription": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
       "ogTitle": "Execute Excel Formulas at Scale",
       "title": "Execute Excel Formulas at Scale",
-      "url": "https://yourdomain.com/products/easy-cts"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/plugins/formula-genie"
     },
     "slug": {
       "_type": "slug",
