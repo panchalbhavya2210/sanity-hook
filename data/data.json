@@ -4706,15 +4706,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "6KGNvrS0DL9HoKyrAHdMfB",
+    "_rev": "GEUPu1VOF9GyCKQDeMTgAL",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "tYwdV2ldLdzJB4kwq1RRzu"
+        "rev": "6KGNvrS0DL9HoKyrAHdMfB"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-06-05T05:47:13Z",
+    "_updatedAt": "2026-07-09T10:41:09Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -4741,7 +4741,8 @@
       },
       "ogDescription": "From legacy systems to modern digital experiences, explore how we transform banking products into intuitive, scalable, and customer-first platforms.",
       "ogTitle": "Designing the Future of Banking",
-      "title": "Designing the Future of Banking"
+      "title": "Designing the Future of Banking",
+      "url": "https://www.bankaiinformatics.co.in/case-study"
     },
     "slug": {
       "_type": "slug",
