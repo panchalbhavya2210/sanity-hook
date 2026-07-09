@@ -14744,15 +14744,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "glsFk1SvfGcE5pcbzZtiCt",
+    "_rev": "GEUPu1VOF9GyCKQDeMKrfd",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "2JUT45RarmtyPWnJiS28Wu"
+        "rev": "glsFk1SvfGcE5pcbzZtiCt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T06:12:12Z",
+    "_updatedAt": "2026-07-09T10:15:54Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -16630,7 +16630,7 @@
       "ogDescription": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
       "ogTitle": "Unleash New Opportunities in Lending",
       "title": "Unleash New Opportunities in Lending",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/digital-lending/easy-los"
     },
     "slug": {
       "_type": "slug",
@@ -16641,15 +16641,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "MNAtp5t0WK9epqGdZldVW3",
+    "_rev": "GEUPu1VOF9GyCKQDeMKppN",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "bM4Vn6Xhr0kQ8myfj6mofs"
+        "rev": "MNAtp5t0WK9epqGdZldVW3"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T05:58:19Z",
+    "_updatedAt": "2026-07-09T10:15:38Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -17456,7 +17456,7 @@
       "ogDescription": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
       "ogTitle": "HR & Payroll, Simplified",
       "title": "HR & Payroll, Simplified",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/hrms/employee-self-service"
     },
     "slug": {
       "_type": "slug",
