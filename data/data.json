@@ -13368,15 +13368,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "nwBZWpZG7GoXpa1301HrMt",
+    "_rev": "U4Kf70E1gVF9dPfCgx0uAf",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "arEKRV0Zhtdp43SHotaHfM"
+        "rev": "nwBZWpZG7GoXpa1301HrMt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-12T12:24:00Z",
+    "_updatedAt": "2026-07-09T09:56:28Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -14733,7 +14733,7 @@
       "ogDescription": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
       "ogTitle": "Loan Management & Servicing, Simplified",
       "title": "Loan Management & Servicing, Simplified",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/digital-lending/easy-lms"
     },
     "slug": {
       "_type": "slug",
@@ -22895,15 +22895,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "n3kbNYBoL1jFrKaaxCUTuj",
+    "_rev": "GEUPu1VOF9GyCKQDeMGZSX",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "arEKRV0Zhtdp43SHotW3my"
+        "rev": "n3kbNYBoL1jFrKaaxCUTuj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T09:08:56Z",
+    "_updatedAt": "2026-07-09T09:56:11Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23545,7 +23545,7 @@
       "ogDescription": "Shift banking workloads to Oracle Cloud with confidence using BankAI’s managed cloud services, migration support, and ongoing operations.",
       "ogTitle": "Managed Cloud Banking Services | Oracle Cloud Migration",
       "title": "Managed Cloud Services for Banking | BankAI",
-      "url": "https://yourdomain.com/products/managed-cloud-services"
+      "url": "https://www.bankaiinformatics.co.in/products/managed-cloud-services"
     },
     "slug": {
       "_type": "slug",
