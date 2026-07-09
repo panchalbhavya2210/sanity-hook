@@ -5741,15 +5741,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "GEUPu1VOF9GyCKQDeMKArj",
+    "_rev": "B7v4H5xN2WmKnaQDWQi5OK",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "MNAtp5t0WK9epqGdZldXx1"
+        "rev": "GEUPu1VOF9GyCKQDeMKArj"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:12:58Z",
+    "_updatedAt": "2026-07-09T10:13:56Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6870,7 +6870,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "products/chat-bot"
+      "current": "chat-bot"
     },
     "title": "Chat Bot"
   },
