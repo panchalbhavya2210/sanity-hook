@@ -2544,15 +2544,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "GEUPu1VOF9GyCKQDeMFfKr",
+    "_rev": "B7v4H5xN2WmKnaQDWQf7q8",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "tMAfBzBFE6atbs0qxv3BiK"
+        "rev": "GEUPu1VOF9GyCKQDeMFfKr"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:52:47Z",
+    "_updatedAt": "2026-07-09T09:54:41Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3379,7 +3379,7 @@
       "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
       "ogTitle": "API Hub",
       "title": "API Hub",
-      "url": "https://bankaiinformatics.co.in/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/core-modernization"
     },
     "slug": {
       "_type": "slug",
@@ -8483,15 +8483,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "U4Kf70E1gVF9dPfCgx0JJN",
+    "_rev": "B7v4H5xN2WmKnaQDWQfDBq",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "B7v4H5xN2WmKnaQDWMIwYm"
+        "rev": "U4Kf70E1gVF9dPfCgx0bmt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:52:30Z",
+    "_updatedAt": "2026-07-09T09:55:06Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -9595,7 +9595,7 @@
       "ogDescription": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
       "ogTitle": "AI-Powered Credit Underwriting",
       "title": "AI-Powered Credit Underwriting",
-      "url": "https://bankaiinformatics.co.in/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/credit-underwriting"
     },
     "slug": {
       "_type": "slug",
