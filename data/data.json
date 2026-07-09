@@ -23556,15 +23556,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "FgFZzy882mp21voM3OoruM",
+    "_rev": "GEUPu1VOF9GyCKQDeMHIwd",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "6KGNvrS0DL9HoKyrAHfRtr"
+        "rev": "FgFZzy882mp21voM3OoruM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T07:53:27Z",
+    "_updatedAt": "2026-07-09T10:02:12Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -24377,7 +24377,7 @@
       "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
       "ogTitle": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
       "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
-      "url": "https://yourdomain.com/products/easy-cts"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/plugins/mxcelerate"
     },
     "slug": {
       "_type": "slug",
