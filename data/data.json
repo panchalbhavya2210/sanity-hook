@@ -1793,15 +1793,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "z4CtSEe3d2bzDASWmvD71K",
+    "_rev": "28ehL6p2ZJrQBnxCpglpWo",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "2JUT45RarmtyPWnJiS1yIq"
+        "rev": "z4CtSEe3d2bzDASWmvD71K"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:13:39Z",
+    "_updatedAt": "2026-07-09T10:50:37Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -2533,7 +2533,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "AI-Powered KYC. Instant. Intelligent. Secure.",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/products/aml-kyc"
     },
     "slug": {
       "_type": "slug",
