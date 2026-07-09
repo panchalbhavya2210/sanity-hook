@@ -2544,15 +2544,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "B7v4H5xN2WmKnaQDWQf7q8",
+    "_rev": "U4Kf70E1gVF9dPfCgx1mIp",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "GEUPu1VOF9GyCKQDeMFfKr"
+        "rev": "B7v4H5xN2WmKnaQDWQf7q8"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:54:41Z",
+    "_updatedAt": "2026-07-09T10:06:27Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3379,7 +3379,7 @@
       "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
       "ogTitle": "API Hub",
       "title": "API Hub",
-      "url": "https://www.bankaiinformatics.co.in/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/api-hub"
     },
     "slug": {
       "_type": "slug",
@@ -22895,15 +22895,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "GEUPu1VOF9GyCKQDeMGZSX",
+    "_rev": "GEUPu1VOF9GyCKQDeMI6rz",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "n3kbNYBoL1jFrKaaxCUTuj"
+        "rev": "GEUPu1VOF9GyCKQDeMGZSX"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:56:11Z",
+    "_updatedAt": "2026-07-09T10:06:42Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23545,7 +23545,7 @@
       "ogDescription": "Shift banking workloads to Oracle Cloud with confidence using BankAI’s managed cloud services, migration support, and ongoing operations.",
       "ogTitle": "Managed Cloud Banking Services | Oracle Cloud Migration",
       "title": "Managed Cloud Services for Banking | BankAI",
-      "url": "https://www.bankaiinformatics.co.in/products/managed-cloud-services"
+      "url": "https://www.bankaiinformatics.co.in/services/managed-cloud-services"
     },
     "slug": {
       "_type": "slug",
