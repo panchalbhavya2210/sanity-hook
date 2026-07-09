@@ -2543,15 +2543,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "tMAfBzBFE6atbs0qxv3BiK",
+    "_rev": "GEUPu1VOF9GyCKQDeMFfKr",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "glsFk1SvfGcE5pcbzYMniz"
+        "rev": "tMAfBzBFE6atbs0qxv3BiK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T11:58:53Z",
+    "_updatedAt": "2026-07-09T09:52:47Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3378,7 +3378,7 @@
       "ogDescription": "Transform legacy banking systems into agile, modern cores with BankAI’s core modernization services.",
       "ogTitle": "API Hub",
       "title": "API Hub",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://bankaiinformatics.co.in/products/core-modernization"
     },
     "slug": {
       "_type": "slug",
