@@ -9293,15 +9293,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "GEUPu1VOF9GyCKQDeMGhAL",
+    "_rev": "GEUPu1VOF9GyCKQDeMRI49",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "eXElWFPF5LO84jZC2iuL9q"
+        "rev": "GEUPu1VOF9GyCKQDeMGhAL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:57:23Z",
+    "_updatedAt": "2026-07-09T10:38:11Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10606,7 +10606,7 @@
       "ogDescription": "Build, deliver, and analyze digital banking experiences with Digi.X™ — a unified stack for modern financial institutions.",
       "ogTitle": "Digi.X™ | Digital Banking Stack for Modern Banks",
       "title": "Digi.X™ Digital Banking Stack | BankAI",
-      "url": "https://www.bankaiinformatics.co.in/products/digi-x"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/digi-x"
     },
     "slug": {
       "_type": "slug",
