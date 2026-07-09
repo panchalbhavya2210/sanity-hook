@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "U4Kf70E1gVF9dPfCgx1ZI5",
+    "_rev": "U4Kf70E1gVF9dPfCgx1eWV",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "B7v4H5xN2WmKnaQDWQgOO4"
+        "rev": "U4Kf70E1gVF9dPfCgx1ZI5"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-09T10:03:17Z",
+    "_updatedAt": "2026-07-09T10:04:19Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -309,7 +309,7 @@
             "items": [
               {
                 "_key": "57d36437-6b29-4935-a82d-34f3fb8924f4",
-                "href": "/services/core-modernization",
+                "href": "/services/managed-cloud-services",
                 "label": "Run core operations on secure cloud infrastructure with managed uptime, scalability, and performance.",
                 "type": "linkWithHeader"
               }
