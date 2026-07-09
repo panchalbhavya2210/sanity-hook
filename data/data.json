@@ -25050,15 +25050,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "6HNMNruJZobcPr5iKEepAN",
+    "_rev": "GEUPu1VOF9GyCKQDeMKZ9r",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "FgFZzy882mp21voM3Mlyiu"
+        "rev": "6HNMNruJZobcPr5iKEepAN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-08T11:31:23Z",
+    "_updatedAt": "2026-07-09T10:14:42Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -25930,7 +25930,7 @@
       "ogDescription": "Create unified banking journeys across devices and channels with BankAI’s omnichannel digital banking solution.",
       "ogTitle": "Omnichannel Banking | Seamless Digital Channels",
       "title": "Omnichannel Banking Platform | BankAI",
-      "url": "https://yourdomain.com/products/omnichannel-banking"
+      "url": "https://www.bankaiinformatics.co.in/products/omnichannel-banking"
     },
     "slug": {
       "_type": "slug",
