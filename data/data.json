@@ -4605,15 +4605,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "modcPV4jfphaCCi2orSJ6p",
+    "_rev": "B7v4H5xN2WmKnaQDWQhddo",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "modcPV4jfphaCCi2orSDtS"
+        "rev": "modcPV4jfphaCCi2orSJ6p"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-06T06:48:52Z",
+    "_updatedAt": "2026-07-09T10:11:13Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4971,7 +4971,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "Build the Future With Bankai",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/careers"
     },
     "slug": {
       "_type": "slug",
@@ -5741,15 +5741,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "MNAtp5t0WK9epqGdZldXx1",
+    "_rev": "GEUPu1VOF9GyCKQDeMKArj",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "tYwdV2ldLdzJB4kwq0IPD8"
+        "rev": "MNAtp5t0WK9epqGdZldXx1"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:00:31Z",
+    "_updatedAt": "2026-07-09T10:12:58Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6866,7 +6866,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "AI-Powered Virtual Banking Assistant.",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/products/chat-bot"
     },
     "slug": {
       "_type": "slug",
