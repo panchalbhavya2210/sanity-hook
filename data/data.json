@@ -19480,15 +19480,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "B7v4H5xN2WmKnaQDWQuNAg",
+    "_rev": "B7v4H5xN2WmKnaQDWQwDSs",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "B7v4H5xN2WmKnaQDWQuCp8"
+        "rev": "B7v4H5xN2WmKnaQDWQuNAg"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-09T11:06:57Z",
+    "_updatedAt": "2026-07-09T11:15:46Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19504,6 +19504,11 @@
         "_key": "9f31946a-36af-4225-98b9-0027c7e6e59d",
         "href": "/privacy-policy",
         "label": "Privacy Policy"
+      },
+      {
+        "_key": "d5e184e38832",
+        "href": "/cookies-policy",
+        "label": "Cookies Policy"
       }
     ],
     "sections": [
