@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "U4Kf70E1gVF9dPfCgx1eWV",
+    "_rev": "GEUPu1VOF9GyCKQDeMLTx5",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "U4Kf70E1gVF9dPfCgx1ZI5"
+        "rev": "U4Kf70E1gVF9dPfCgx1eWV"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-09T10:04:19Z",
+    "_updatedAt": "2026-07-09T10:18:41Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -132,7 +132,7 @@
             "items": [
               {
                 "_key": "a2ed774e-b3df-4b21-8d96-9764e714e530",
-                "href": "/products/digi-x",
+                "href": "/xcelerators/digi-x",
                 "image": {
                   "_type": "image",
                   "asset": {
@@ -21200,15 +21200,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "U4Kf70E1gVF9dPfCgx3ObL",
+    "_rev": "GEUPu1VOF9GyCKQDeMLJ3v",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "FgFZzy882mp21voM3Racfo"
+        "rev": "U4Kf70E1gVF9dPfCgx3ObL"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-09T10:16:44Z",
+    "_updatedAt": "2026-07-09T10:17:40Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -21884,7 +21884,7 @@
       "ogDescription": "A Scalable, Intelligent Digital Banking Stack for Innovators & Institutions.",
       "ogTitle": "Bankai | Home",
       "title": "Bankai | Home",
-      "url": "https://www.bankaiinformatics.co.in/"
+      "url": "https://www.bankaiinformatics.co.in"
     }
   },
   {
