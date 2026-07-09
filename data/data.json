@@ -21889,15 +21889,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "6KGNvrS0DL9HoKyrAHfbo9",
+    "_rev": "GEUPu1VOF9GyCKQDeMIIQh",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "6XauXwCqdfjH3lSp8mDm2U"
+        "rev": "6KGNvrS0DL9HoKyrAHfbo9"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:10:02Z",
+    "_updatedAt": "2026-07-09T10:07:10Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -22884,7 +22884,7 @@
       "ogDescription": "Unlock faster, more reliable digital payments with BankAI’s integrated IMPS and UPI switch services.",
       "ogTitle": "IMPS & UPI Switch Services | Secure Payments Infrastructure",
       "title": "IMPS & UPI Switch Services | BankAI",
-      "url": "https://yourdomain.com/products/imps-upi-switch-services"
+      "url": "https://www.bankaiinformatics.co.in/services/imps-upi-switch-services"
     },
     "slug": {
       "_type": "slug",
