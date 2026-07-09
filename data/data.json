@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "tMAfBzBFE6atbs0qxuuSDV",
+    "_rev": "B7v4H5xN2WmKnaQDWQgOO4",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "z4CtSEe3d2bzDASWmxxsPD"
+        "rev": "tMAfBzBFE6atbs0qxuuSDV"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-07T10:21:01Z",
+    "_updatedAt": "2026-07-09T10:02:35Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -213,7 +213,7 @@
               {
                 "_key": "867aa6e7268a",
                 "_type": "item",
-                "href": "/products/easyTF",
+                "href": "/xcelerators/easyTF",
                 "label": "easyTF",
                 "type": "link"
               }
@@ -3390,15 +3390,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "2JUT45RarmtyPWnJiS2iIS",
+    "_rev": "B7v4H5xN2WmKnaQDWQgLDE",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "bM4Vn6Xhr0kQ8myfj9PrxG"
+        "rev": "2JUT45RarmtyPWnJiS2iIS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:06:34Z",
+    "_updatedAt": "2026-07-09T10:02:32Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -4288,7 +4288,7 @@
       "ogDescription": "Secure every user, device, and application with a unified, intelligent IAM platform built for zero trust, scalability, and seamless access across digital ecosystems.",
       "ogTitle": "Redefining Identity & Access for the Modern Enterprise",
       "title": "Redefining Identity & Access for the Modern Enterprise",
-      "url": "https://yourdomain.com/products/easy-cts"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/plugins/bankai-iam"
     },
     "slug": {
       "_type": "slug",
