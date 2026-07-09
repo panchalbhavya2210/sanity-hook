@@ -10930,15 +10930,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "1k6jXR2pqeSc0rml0gD0jR",
+    "_rev": "B7v4H5xN2WmKnaQDWQevms",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "6KGNvrS0DL9HoKyrAHf57R"
+        "rev": "1k6jXR2pqeSc0rml0gD0jR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-07T10:19:24Z",
+    "_updatedAt": "2026-07-09T09:53:41Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -11462,7 +11462,7 @@
       "ogDescription": "Digitally sign documents with ease using BankAI’s secure, compliant digital signing service for banking workflows.",
       "ogTitle": "Digital Signing Services | Secure eSignature for Banks",
       "title": "Digital Signing Services | BankAI",
-      "url": "https://yourdomain.com/xcelerators/digital-signing"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/digital-signing"
     },
     "slug": {
       "_type": "slug",
