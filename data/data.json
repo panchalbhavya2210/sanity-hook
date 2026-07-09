@@ -19480,15 +19480,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "GEUPu1VOF9GyCKQDeMLkhn",
+    "_rev": "GEUPu1VOF9GyCKQDeMbTFX",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "1k6jXR2pqeSc0rml0gDnzX"
+        "rev": "GEUPu1VOF9GyCKQDeMLkhn"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-09T10:20:07Z",
+    "_updatedAt": "2026-07-09T11:05:03Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19706,8 +19706,15 @@
           {
             "_key": "844dda37d9e3",
             "_type": "item",
-            "href": "/xcelerators/easyTF",
+            "href": "/xcelerators/others/easyTF",
             "label": "easyTF",
+            "type": "link"
+          },
+          {
+            "_key": "8bb6e2d8d990",
+            "_type": "item",
+            "href": "/xcelerators/others/chat-bot",
+            "label": "Chat Bot",
             "type": "link"
           }
         ],
