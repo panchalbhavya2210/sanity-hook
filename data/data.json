@@ -12191,15 +12191,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "6KGNvrS0DL9HoKyrAHfEIt",
+    "_rev": "U4Kf70E1gVF9dPfCgx1c4L",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "bM4Vn6Xhr0kQ8myfj9OJQP"
+        "rev": "6KGNvrS0DL9HoKyrAHfEIt"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:04:50Z",
+    "_updatedAt": "2026-07-09T10:03:43Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -13357,7 +13357,7 @@
       "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
       "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
       "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
-      "url": "https://yourdomain.com/products/easy-cts"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/others/easy-cts"
     },
     "slug": {
       "_type": "slug",
@@ -18569,15 +18569,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "2JUT45RarmtyPWnJiS2jwm",
+    "_rev": "GEUPu1VOF9GyCKQDeMHh9Z",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "bM4Vn6Xhr0kQ8myfj9YmaG"
+        "rev": "2JUT45RarmtyPWnJiS2jwm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T06:07:33Z",
+    "_updatedAt": "2026-07-09T10:03:59Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -18892,7 +18892,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "Modern Trade Finance, Simplified",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/products/easyTF"
     },
     "slug": {
       "_type": "slug",
