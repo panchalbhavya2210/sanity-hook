@@ -11473,15 +11473,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "6HNMNruJZobcPr5iKGALGR",
+    "_rev": "GEUPu1VOF9GyCKQDeMHWlZ",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "MNAtp5t0WK9epqGdZldeMl"
+        "rev": "6HNMNruJZobcPr5iKGALGR"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T11:18:03Z",
+    "_updatedAt": "2026-07-09T10:02:53Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -12180,7 +12180,7 @@
       "ogDescription": "Simplify NACH processing with BankAI’s secure, automated e-NACH solution for banks and financial institutions.",
       "ogTitle": "e-NACH Automation | NPCI-Compliant NACH Platform",
       "title": "e-NACH Automation Platform | BankAI",
-      "url": "https://yourdomain.com/products/e-nach"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/nach/e-nach"
     },
     "slug": {
       "_type": "slug",
@@ -24388,15 +24388,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "6HNMNruJZobcPr5iKGANCL",
+    "_rev": "B7v4H5xN2WmKnaQDWQgUug",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "MNAtp5t0WK9epqGdZldf1z"
+        "rev": "6HNMNruJZobcPr5iKGANCL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T11:18:30Z",
+    "_updatedAt": "2026-07-09T10:03:10Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -25039,7 +25039,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "NACH Signing Tool | BankAI",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/nach/nach-signing-tool"
     },
     "slug": {
       "_type": "slug",
