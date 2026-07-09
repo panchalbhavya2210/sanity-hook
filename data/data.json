@@ -18903,15 +18903,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "2JUT45RarmtyPWnJiS1vGy",
+    "_rev": "B7v4H5xN2WmKnaQDWQiSjS",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "tYwdV2ldLdzJB4kwq0Hhtg"
+        "rev": "2JUT45RarmtyPWnJiS1vGy"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-05T05:57:43Z",
+    "_updatedAt": "2026-07-09T10:15:22Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -19774,7 +19774,7 @@
       "ogDescription": "A unified employee self-service platform that simplifies HR processes, improves transparency, and enhances employee experience.",
       "ogTitle": "Empower Your Workforce with ESS",
       "title": "Empower Your Workforce with ESS",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://www.bankaiinformatics.co.in/products/hrms/employee-self-service"
     },
     "slug": {
       "_type": "slug",
