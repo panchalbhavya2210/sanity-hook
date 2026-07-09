@@ -492,15 +492,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "U4Kf70E1gVF9dPfCguM0Yv",
+    "_rev": "U4Kf70E1gVF9dPfCgx0FEj",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "FV4xGIVUyu5d0Pvju4Ah7M"
+        "rev": "U4Kf70E1gVF9dPfCguM0Yv"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-08T11:09:39Z",
+    "_updatedAt": "2026-07-09T09:51:56Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1341,7 +1341,8 @@
           "_type": "reference"
         }
       },
-      "title": "Driving Excellence in Fintech Innovation"
+      "title": "Driving Excellence in Fintech Innovation",
+      "url": "https://bankaiinformatics.co.in/overview"
     },
     "slug": {
       "_type": "slug",
@@ -8481,15 +8482,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "B7v4H5xN2WmKnaQDWMIwYm",
+    "_rev": "U4Kf70E1gVF9dPfCgx0JJN",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "GEUPu1VOF9GyCKQDeG5pIb"
+        "rev": "B7v4H5xN2WmKnaQDWMIwYm"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-08T06:32:18Z",
+    "_updatedAt": "2026-07-09T09:52:30Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -9593,7 +9594,7 @@
       "ogDescription": "Enhance creditworthiness evaluation with AI-driven intelligence that analyzes borrower data in real time, enabling faster, smarter, and more accurate lending decisions.",
       "ogTitle": "AI-Powered Credit Underwriting",
       "title": "AI-Powered Credit Underwriting",
-      "url": "https://yourdomain.com/products/core-modernization"
+      "url": "https://bankaiinformatics.co.in/products/core-modernization"
     },
     "slug": {
       "_type": "slug",
