@@ -5429,7 +5429,7 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "B7v4H5xN2WmKnaQDWQi5OK",
+    "_rev": "U4Kf70E1gVF9dPfCgxBRY1",
     "_system": {
       "base": {
         "id": "chat-bot",
@@ -5437,7 +5437,7 @@
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:13:56Z",
+    "_updatedAt": "2026-07-09T11:02:45Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
