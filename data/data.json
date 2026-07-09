@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "GEUPu1VOF9GyCKQDeMLTx5",
+    "_rev": "GEUPu1VOF9GyCKQDeMO9tV",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "U4Kf70E1gVF9dPfCgx1eWV"
+        "rev": "GEUPu1VOF9GyCKQDeMLTx5"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-09T10:18:41Z",
+    "_updatedAt": "2026-07-09T10:27:54Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -321,7 +321,7 @@
             "items": [
               {
                 "_key": "1d9548fb-6bba-4014-a645-3405875ff9ed",
-                "href": "/products/core-modernization",
+                "href": "/services/core-modernization",
                 "label": "Upgrade legacy systems with cloud-ready architecture, open APIs, and flexible integration layers.",
                 "type": "linkWithHeader"
               }
@@ -19785,15 +19785,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "1k6jXR2pqeSc0rml0gDnzX",
+    "_rev": "GEUPu1VOF9GyCKQDeMLkhn",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "1k6jXR2pqeSc0rml0gDFGZ"
+        "rev": "1k6jXR2pqeSc0rml0gDnzX"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-07T10:26:24Z",
+    "_updatedAt": "2026-07-09T10:20:07Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19933,7 +19933,7 @@
           {
             "_key": "e7aa8acd-0911-49dd-8cee-975fcea9bccc",
             "alt": "Mobipro",
-            "href": "/products/digi-x",
+            "href": "/xcelerators/digi-x",
             "icon": {
               "_type": "image",
               "asset": {
@@ -20011,7 +20011,7 @@
           {
             "_key": "844dda37d9e3",
             "_type": "item",
-            "href": "/products/easyTF",
+            "href": "/xcelerators/easyTF",
             "label": "easyTF",
             "type": "link"
           }
