@@ -18569,15 +18569,15 @@
   {
     "_createdAt": "2026-05-14T05:00:01Z",
     "_id": "easy-tf",
-    "_rev": "GEUPu1VOF9GyCKQDeMHh9Z",
+    "_rev": "B7v4H5xN2WmKnaQDWQgmqS",
     "_system": {
       "base": {
         "id": "easy-tf",
-        "rev": "2JUT45RarmtyPWnJiS2jwm"
+        "rev": "GEUPu1VOF9GyCKQDeMHh9Z"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:03:59Z",
+    "_updatedAt": "2026-07-09T10:05:48Z",
     "sections": [
       {
         "_key": "u5ig7lv42c",
@@ -18892,11 +18892,11 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "Modern Trade Finance, Simplified",
-      "url": "https://www.bankaiinformatics.co.in/products/easyTF"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/easyTF"
     },
     "slug": {
       "_type": "slug",
-      "current": "products/easyTF"
+      "current": "xcelerators/easyTF"
     },
     "title": "Easy Tf"
   },
