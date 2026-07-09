@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "U4Kf70E1gVF9dPfCgxBmNx",
+    "_rev": "B7v4H5xN2WmKnaQDWQuHhg",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "GEUPu1VOF9GyCKQDeMO9tV"
+        "rev": "U4Kf70E1gVF9dPfCgxBmNx"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-09T11:04:15Z",
+    "_updatedAt": "2026-07-09T11:06:36Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -220,8 +220,8 @@
               {
                 "_key": "bb96833cb31b",
                 "_type": "item",
-                "href": "/xcelerators/others/chat-bot",
-                "label": "Chat Bot",
+                "href": "/xcelerators/others/envia",
+                "label": "ENViA",
                 "type": "link"
               }
             ],
@@ -5436,15 +5436,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "GEUPu1VOF9GyCKQDeMak6D",
+    "_rev": "B7v4H5xN2WmKnaQDWQuII8",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "U4Kf70E1gVF9dPfCgxBRY1"
+        "rev": "GEUPu1VOF9GyCKQDeMak6D"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T11:04:01Z",
+    "_updatedAt": "2026-07-09T11:06:39Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6561,11 +6561,11 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "AI-Powered Virtual Banking Assistant.",
-      "url": "https://www.bankaiinformatics.co.in/xcelerators/others/chat-bot"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/others/envia"
     },
     "slug": {
       "_type": "slug",
-      "current": "chat-bot"
+      "current": "/xcelerators/others/envia"
     },
     "title": "Chat Bot"
   },
@@ -19480,15 +19480,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "GEUPu1VOF9GyCKQDeMbTFX",
+    "_rev": "B7v4H5xN2WmKnaQDWQuCp8",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "GEUPu1VOF9GyCKQDeMLkhn"
+        "rev": "GEUPu1VOF9GyCKQDeMbTFX"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-09T11:05:03Z",
+    "_updatedAt": "2026-07-09T11:06:08Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19713,7 +19713,7 @@
           {
             "_key": "8bb6e2d8d990",
             "_type": "item",
-            "href": "/xcelerators/others/chat-bot",
+            "href": "/xcelerators/others/ENViA",
             "label": "Chat Bot",
             "type": "link"
           }
