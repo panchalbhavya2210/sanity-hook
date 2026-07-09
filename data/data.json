@@ -6565,15 +6565,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "6HNMNruJZobcPr5iKG6YfZ",
+    "_rev": "U4Kf70E1gVF9dPfCgxACRr",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "z4CtSEe3d2bzDASWmvEIma"
+        "rev": "6HNMNruJZobcPr5iKG6YfZ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T10:23:47Z",
+    "_updatedAt": "2026-07-09T10:51:35Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -7384,7 +7384,7 @@
       "ogDescription": "Transform your banking operations with EasyBankCore® — a scalable, secure core banking platform built for digital-first banks.",
       "ogTitle": "EasyBankCore® | Modern Core Banking for Banks",
       "title": "EasyBankCore® | Modern Core Banking Software",
-      "url": "https://yourdomain.com/products/core-banking"
+      "url": "https://www.bankaiinformatics.co.in/products/core-banking"
     },
     "slug": {
       "_type": "slug",
@@ -16329,15 +16329,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "GEUPu1VOF9GyCKQDeMKppN",
+    "_rev": "U4Kf70E1gVF9dPfCgxAKH3",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "MNAtp5t0WK9epqGdZldVW3"
+        "rev": "GEUPu1VOF9GyCKQDeMKppN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:15:38Z",
+    "_updatedAt": "2026-07-09T10:53:52Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -17144,7 +17144,7 @@
       "ogDescription": "EasyPayPack is a modern, all-in-one platform designed to automate HR operations, streamline payroll, and empower organizations with smarter workforce management.",
       "ogTitle": "HR & Payroll, Simplified",
       "title": "HR & Payroll, Simplified",
-      "url": "https://www.bankaiinformatics.co.in/products/hrms/employee-self-service"
+      "url": "https://www.bankaiinformatics.co.in/products/hrms/easy-pay-check"
     },
     "slug": {
       "_type": "slug",
@@ -26588,15 +26588,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "z4CtSEe3d2bzDASWmvPB3b",
+    "_rev": "GEUPu1VOF9GyCKQDeMXuM9",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "FgFZzy882mp21voM3OtWwE"
+        "rev": "z4CtSEe3d2bzDASWmvPB3b"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-06-09T11:26:25Z",
+    "_updatedAt": "2026-07-09T10:51:08Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -27659,7 +27659,7 @@
       "ogDescription": "Securely sign NACH files with BankAI’s automated NACH signing tool, built for banking compliance and efficiency.",
       "ogTitle": "NACH Signing Tool | Secure Digital NACH Signing",
       "title": "Beyond Banking. One Super App. Infinite Possibilities",
-      "url": "https://yourdomain.com/products/nach-signin-tool"
+      "url": "https://www.bankaiinformatics.co.in/products/super-app"
     },
     "slug": {
       "_type": "slug",
