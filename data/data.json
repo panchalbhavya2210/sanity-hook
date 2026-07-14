@@ -19861,15 +19861,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "B7v4H5xN2WmKnaQDWQg9z0",
+    "_rev": "3uea0P0pc3APtyfu1Fc2X4",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "z4CtSEe3d2bzDASWmvGJRU"
+        "rev": "B7v4H5xN2WmKnaQDWQg9z0"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:01:52Z",
+    "_updatedAt": "2026-07-14T05:38:23Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -20872,7 +20872,7 @@
           {
             "_key": "6exley2ayr",
             "color": "text-black",
-            "text": ", instantly"
+            "text": ", instantly."
           }
         ]
       }
