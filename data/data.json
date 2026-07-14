@@ -11881,15 +11881,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "U4Kf70E1gVF9dPfCgx1c4L",
+    "_rev": "jp4xz8DHqK1toWgUndPNIK",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "6KGNvrS0DL9HoKyrAHfEIt"
+        "rev": "U4Kf70E1gVF9dPfCgx1c4L"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:03:43Z",
+    "_updatedAt": "2026-07-14T05:48:05Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -11903,7 +11903,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "EasyCTS modernizes cheque processing with automated inward and outward clearing, seamless CBS integration, and full compliance with RBI CTS guidelines—helping banks reduce delays, eliminate manual errors, and deliver faster clearing results to customers.",
+        "subtitle": "easyCTS modernizes cheque processing with automated inward and outward clearing, seamless CBS integration, and full compliance with RBI CTS guidelines—helping banks reduce delays, eliminate manual errors, and deliver faster clearing results to customers.",
         "title": "Accelerate Cheque Clearing with Automation, Security & Compliance",
         "variant": "split"
       },
@@ -12284,7 +12284,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "EasyCTS acts as an intelligent middleware connecting Core Banking Systems with CHI/Sponsor Bank networks through secure APIs and SFTP channels.",
+          "subTitle": "easyCTS acts as an intelligent middleware connecting Core Banking Systems with CHI/Sponsor Bank networks through secure APIs and SFTP channels.",
           "text": {
             "title": [
               {
@@ -12528,7 +12528,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "EasyCTS enforces compliance with strong approval mechanisms and secure verification workflows.",
+          "subTitleText": "easyCTS enforces compliance with strong approval mechanisms and secure verification workflows.",
           "text": {
             "title": [
               {
@@ -12767,7 +12767,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "Key Features of EasyCTS",
+          "subTitle": "Key Features of easyCTS",
           "text": {
             "title": [
               {
@@ -12960,7 +12960,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "EasyCTS improves efficiency, security, and customer satisfaction while reducing operational complexity.",
+          "subTitle": "easyCTS improves efficiency, security, and customer satisfaction while reducing operational complexity.",
           "text": {
             "title": [
               {
@@ -12994,10 +12994,9 @@
       {
         "_key": "ik3isj31n8",
         "_type": "contactCtaSection",
-        "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Accelerate cheque processing and strengthen compliance with EasyCTS — the complete automation platform for banks.",
+        "subText": "Accelerate cheque processing and strengthen compliance with easyCTS — the complete automation platform for banks.",
         "titleParts": [
           {
             "_key": "m1yijmzgu8",
@@ -13044,9 +13043,9 @@
         "digital cheque clearing",
         "banking reconciliation"
       ],
-      "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
-      "ogTitle": "EasyCTS | Automated Cheque Clearing for Banks",
-      "title": "EasyCTS Cheque Clearing | Digital Cheque Processing",
+      "ogDescription": "Deliver faster, more accurate cheque clearing with easyCTS, a digital cheque processing solution for modern banks.",
+      "ogTitle": "easyCTS | Automated Cheque Clearing for Banks",
+      "title": "easyCTS Cheque Clearing | Digital Cheque Processing",
       "url": "https://www.bankaiinformatics.co.in/xcelerators/others/easy-cts"
     },
     "slug": {
