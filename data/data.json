@@ -10625,15 +10625,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "B7v4H5xN2WmKnaQDWQf5bc",
+    "_rev": "3uea0P0pc3APtyfu1FcL4Z",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "B7v4H5xN2WmKnaQDWQevms"
+        "rev": "B7v4H5xN2WmKnaQDWQf5bc"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:54:21Z",
+    "_updatedAt": "2026-07-14T05:42:37Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -11129,11 +11129,6 @@
             "_key": "a056d55inr",
             "color": "text-brand-600",
             "text": "eSignature solution?"
-          },
-          {
-            "_key": "eh9qwy07hw",
-            "color": "",
-            "text": "?"
           }
         ]
       }
