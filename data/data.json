@@ -3395,6 +3395,25 @@
     "title": "Api Hub"
   },
   {
+    "_createdAt": "2026-07-14T11:25:57Z",
+    "_id": "b683acf5-cd84-43df-8a11-f736b27f1bd4",
+    "_rev": "3uea0P0pc3APtyfu1GEvao",
+    "_type": "careerJob",
+    "_updatedAt": "2026-07-14T11:36:53Z",
+    "department": "engineering",
+    "experienceLevel": "mid",
+    "isFeatured": false,
+    "jobId": "1",
+    "jobType": "full-time",
+    "location": "Ahmedabad",
+    "publishedAt": "2026-07-14T11:23:56.868Z",
+    "slug": {
+      "_type": "slug",
+      "current": "product-engineer"
+    },
+    "title": "Product Engineer"
+  },
+  {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
     "_rev": "B7v4H5xN2WmKnaQDWQgLDE",
