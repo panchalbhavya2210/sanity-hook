@@ -5436,15 +5436,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "U4Kf70E1gVF9dPfCgxCGU5",
+    "_rev": "EUpKYI5JW6L6ubJBJA2WjE",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "B7v4H5xN2WmKnaQDWQuII8"
+        "rev": "U4Kf70E1gVF9dPfCgxCGU5"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T11:06:57Z",
+    "_updatedAt": "2026-07-14T05:49:02Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -5549,7 +5549,7 @@
         "journeyCards": [
           {
             "_key": "lxf4apkh4r",
-            "description": "ils to understand user intent beyond predefined commands.",
+            "description": "Fails to understand user intent beyond predefined commands.",
             "icon": {
               "_type": "image",
               "asset": {
