@@ -20907,15 +20907,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "GEUPu1VOF9GyCKQDeMLJ3v",
+    "_rev": "EUpKYI5JW6L6ubJBJA0UF5",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "U4Kf70E1gVF9dPfCgx3ObL"
+        "rev": "GEUPu1VOF9GyCKQDeMLJ3v"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-09T10:17:40Z",
+    "_updatedAt": "2026-07-14T05:21:25Z",
     "banner": {
       "buttonLabel": "Explore easyTF",
       "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
@@ -20939,14 +20939,14 @@
       "backgroundVideo": {
         "_type": "file",
         "asset": {
-          "_ref": "file-81d0ca06c0c3eb17d25b3b79594ee32f1a28ce04-webm",
+          "_ref": "file-2d906584905f1160292fe1dd3387cc65585810f9-mp4",
           "_type": "reference"
         }
       },
       "backgroundVideoMobile": {
         "_type": "file",
         "asset": {
-          "_ref": "file-ee99a66d09592936b1f7b3c19c3a7710b18280f0-webm",
+          "_ref": "file-21b7227f966213be988b4da0fe987fa5ef5d5c90-mp4",
           "_type": "reference"
         }
       },
