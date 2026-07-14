@@ -10625,15 +10625,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "3uea0P0pc3APtyfu1FcL4Z",
+    "_rev": "jp4xz8DHqK1toWgUndOXaM",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "B7v4H5xN2WmKnaQDWQf5bc"
+        "rev": "3uea0P0pc3APtyfu1FcL4Z"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:42:37Z",
+    "_updatedAt": "2026-07-14T05:42:57Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -10647,7 +10647,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents within EasyBankCore® — instantly, seamlessly, and with full legal compliance.",
+        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents — instantly, seamlessly, and with full legal compliance.",
         "title": "PDF Digital Signing Services",
         "variant": "split"
       },
