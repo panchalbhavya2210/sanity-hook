@@ -499,15 +499,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "GEUPu1VOF9GyCKQDeMGKsr",
+    "_rev": "jp4xz8DHqK1toWgUndm7pk",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "U4Kf70E1gVF9dPfCgx0FEj"
+        "rev": "GEUPu1VOF9GyCKQDeMGKsr"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:55:33Z",
+    "_updatedAt": "2026-07-14T07:33:49Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -525,7 +525,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, cloud, and managed cloud services.",
+        "subtitle": "Empowering banks, financial institutions, and fintech organizations with innovative digital banking, lending, AI/ML, solutions, and managed cloud services.",
         "title": "Driving Excellence in Fintech Innovation",
         "variant": "split"
       },
