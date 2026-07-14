@@ -19861,15 +19861,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "3uea0P0pc3APtyfu1Fc2X4",
+    "_rev": "3uea0P0pc3APtyfu1Fc780",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "B7v4H5xN2WmKnaQDWQg9z0"
+        "rev": "3uea0P0pc3APtyfu1Fc2X4"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:38:23Z",
+    "_updatedAt": "2026-07-14T05:39:12Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -20186,28 +20186,28 @@
             "description": "Transform Excel formulas into instant real-time calculations. ",
             "richTitle": [
               {
-                "_key": "9fb578f58722",
+                "_key": "f4798ae53c65",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "132bdc4406f5",
+                    "_key": "57c041c0d35c",
                     "_type": "span",
                     "marks": [],
-                    "text": "One-Click Excel "
+                    "text": "1-Click "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "4a1513d4051d",
+                "_key": "a9ba8880ee2e",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "132bdc4406f5",
+                    "_key": "57c041c0d35c",
                     "_type": "span",
                     "marks": [],
-                    "text": "Spreadsheet Calculation"
+                    "text": "Calculation"
                   }
                 ],
                 "markDefs": [],
