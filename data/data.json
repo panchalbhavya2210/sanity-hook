@@ -4713,15 +4713,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "GEUPu1VOF9GyCKQDeMTgAL",
+    "_rev": "jp4xz8DHqK1toWgUndWeDG",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "6KGNvrS0DL9HoKyrAHdMfB"
+        "rev": "GEUPu1VOF9GyCKQDeMTgAL"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-09T10:41:09Z",
+    "_updatedAt": "2026-07-14T06:27:29Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5196,7 +5196,7 @@
       },
       {
         "_key": "tvnt9yhyz4",
-        "deployment": "Hosted on Cloud | Primary DC & DR",
+        "deployment": "Hosted on Oracle Cloud | Primary DC & DR ",
         "features": [
           {
             "_key": "gsilgbb8np",
@@ -5329,7 +5329,7 @@
       },
       {
         "_key": "rpuhjb22bi",
-        "deployment": "Hosted on Cloud | Primary DC & DR",
+        "deployment": "Hosted on Oracle Cloud | Primary DC & DR",
         "features": [
           {
             "_key": "i4u8et4fjs",
