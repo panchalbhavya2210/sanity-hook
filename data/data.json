@@ -23264,15 +23264,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "GEUPu1VOF9GyCKQDeMHIwd",
+    "_rev": "jp4xz8DHqK1toWgUndOG9k",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "FgFZzy882mp21voM3OoruM"
+        "rev": "GEUPu1VOF9GyCKQDeMHIwd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:02:12Z",
+    "_updatedAt": "2026-07-14T05:41:05Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -24036,7 +24036,7 @@
         "_type": "contactCtaSection",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Validate faster, translate smarter, and operate with complete confidence",
+        "subText": "Validate faster, translate smarter, and operate with complete confidence.",
         "titleParts": [
           {
             "_key": "29l9mlm6ma",
@@ -24061,7 +24061,7 @@
           {
             "_key": "bmadchlgzu",
             "color": "text-warning",
-            "text": "Count"
+            "text": "Count."
           }
         ]
       }
