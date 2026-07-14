@@ -17157,15 +17157,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "B7v4H5xN2WmKnaQDWQgWjg",
+    "_rev": "EUpKYI5JW6L6ubJBJA2Jku",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "2JUT45RarmtyPWnJiS2fXM"
+        "rev": "B7v4H5xN2WmKnaQDWQgWjg"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:03:31Z",
+    "_updatedAt": "2026-07-14T05:46:11Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -17179,7 +17179,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "EasyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels—ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
+        "subtitle": "easyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels—ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
         "title": "Smart Automated Reconciliation for Digital Transactions",
         "variant": "split"
       },
@@ -17535,7 +17535,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "EasyRecon transforms reconciliation into a streamlined, automated, and reliable process.",
+          "subTitle": "easyRecon transforms reconciliation into a streamlined, automated, and reliable process.",
           "text": {
             "title": [
               {
@@ -17565,7 +17565,7 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "description": "",
-          "subTitle": "EasyRecon connects all transaction sources into a single platform, enabling seamless and automated reconciliation.",
+          "subTitle": "easyRecon connects all transaction sources into a single platform, enabling seamless and automated reconciliation.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -18199,7 +18199,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Automate, simplify, and scale your reconciliation workflows with EasyRecon.",
+        "subText": "Automate, simplify, and scale your reconciliation workflows with easyRecon.",
         "titleParts": [
           {
             "_key": "3arkkq0wb6",
@@ -18230,7 +18230,7 @@
       }
     ],
     "seo": {
-      "description": "Simplify reconciliation across ATM, POS, UPI, IMPS, and digital channels with EasyRecon’s intelligent and automated reconciliation engine.",
+      "description": "Simplify reconciliation across ATM, POS, UPI, IMPS, and digital channels with easyRecon’s intelligent and automated reconciliation engine.",
       "image": {
         "_type": "image",
         "asset": {
@@ -18245,9 +18245,9 @@
         "banking reconciliation",
         "financial operations"
       ],
-      "ogDescription": "Reduce errors and accelerate reconciliation with EasyRecon, a unified platform for digital transaction matching.",
-      "ogTitle": "EasyRecon | Automated Transaction Reconciliation",
-      "title": "EasyRecon Reconciliation | Automated Transaction Matching",
+      "ogDescription": "Reduce errors and accelerate reconciliation with easyRecon, a unified platform for digital transaction matching.",
+      "ogTitle": "easyRecon | Automated Transaction Reconciliation",
+      "title": "easyRecon Reconciliation | Automated Transaction Matching",
       "url": "https://www.bankaiinformatics.co.in/xcelerators/others/easy-recon"
     },
     "slug": {
