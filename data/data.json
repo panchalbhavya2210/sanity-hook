@@ -9301,15 +9301,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "3uea0P0pc3APtyfu1Fb7DB",
+    "_rev": "jp4xz8DHqK1toWgUndM47a",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "GEUPu1VOF9GyCKQDeMRI49"
+        "rev": "3uea0P0pc3APtyfu1Fb7DB"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:25:09Z",
+    "_updatedAt": "2026-07-14T05:25:46Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10493,7 +10493,7 @@
                 "points": [
                   "BASE (Aadhaar Seeding)",
                   "PAN Verification",
-                  "LOS",
+                  "Loan Origination System(LOS)",
                   "Income Tax Validation",
                   "BANL"
                 ],
