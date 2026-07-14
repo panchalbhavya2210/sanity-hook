@@ -4713,15 +4713,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "jp4xz8DHqK1toWgUndWeDG",
+    "_rev": "3uea0P0pc3APtyfu1FgMuW",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "GEUPu1VOF9GyCKQDeMTgAL"
+        "rev": "jp4xz8DHqK1toWgUndWeDG"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-14T06:27:29Z",
+    "_updatedAt": "2026-07-14T06:33:09Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5429,6 +5429,152 @@
           "text": "Appreciate team Bankai’s support in digitizing our agricultural loan processes & implementing EasyBankCore® - CBS for our organization. I strongly recommend Bankai’s CBS & Managed Services to organizations who are looking for next-gen digital Core Banking Solution.   "
         },
         "theme": "light"
+      },
+      {
+        "_key": "38be81aa5887",
+        "_type": "study",
+        "deployment": "Hosted on Oracle Cloud | Primary DC , DR , UAT",
+        "features": [
+          {
+            "_key": "863fb4c8c5ab",
+            "description": "Branches",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-5c3de18da8a3937a9185dba9fb2c4bb48213adee-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "4 (3 Branches + 1 Head Office)"
+          },
+          {
+            "_key": "30cc9b0ce84a",
+            "description": "Back Office Platform Users",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-90f6314740dd18e9815b0ff026ac3b7dec66e70d-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "50"
+          },
+          {
+            "_key": "d7cf48e06283",
+            "description": "Active Customer Count",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-d592b7a8dd1574716547b2f04df27a21d7f09bc8-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "1,08,000+"
+          },
+          {
+            "_key": "ccca6a1d19b1",
+            "description": "Active Accounts",
+            "icon": {
+              "_type": "image",
+              "asset": {
+                "_ref": "image-3fd8461a42fcd2615a70d0ae9024b37084984e29-600x600-gif",
+                "_type": "reference"
+              }
+            },
+            "title": "1,15,000+"
+          }
+        ],
+        "logo": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-264ed58a03df34c3d0a6c31e0aa9bc0ae6dd102b-83x80-png",
+            "_type": "reference"
+          }
+        },
+        "name": "Dhanera Mercantile Co-Operative Bank Ltd",
+        "since": "2011",
+        "takeaways": [
+          {
+            "_key": "7523ccc91177",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "329d3f549a97",
+                "colSpan": 1,
+                "label": "Core Banking Solution"
+              },
+              {
+                "_key": "d59fb410b621",
+                "colSpan": 1,
+                "label": "Mobile Banking"
+              },
+              {
+                "_key": "5a53f975db1b",
+                "colSpan": 1,
+                "label": "SMS/Email Notification"
+              },
+              {
+                "_key": "8189fff3f731",
+                "colSpan": 1,
+                "label": "E-Statement"
+              }
+            ]
+          },
+          {
+            "_key": "0e0b99bac1db",
+            "columns": 4,
+            "items": [
+              {
+                "_key": "af75fdc89f40",
+                "colSpan": 1,
+                "label": "RTGS/NEFT"
+              },
+              {
+                "_key": "8175ba4da66c",
+                "colSpan": 1,
+                "label": "NACH"
+              },
+              {
+                "_key": "295ed5cc8055",
+                "colSpan": 1,
+                "label": "CTS"
+              },
+              {
+                "_key": "85e8f728193b",
+                "colSpan": 1,
+                "label": "NFS/IMPS/UPI"
+              }
+            ]
+          },
+          {
+            "_key": "88a6cf27b7b6",
+            "columns": 2,
+            "items": [
+              {
+                "_key": "34fced844cf4",
+                "colSpan": 1,
+                "label": "Bill Payment Integration"
+              },
+              {
+                "_key": "d5a2b628df7a",
+                "colSpan": 1,
+                "label": "Reconciliation"
+              }
+            ]
+          },
+          {
+            "_key": "acd6a08d3bee",
+            "columns": 1,
+            "items": [
+              {
+                "_key": "abcea7c56d92",
+                "colSpan": 1,
+                "label": "Miscall/IVR/Long Code"
+              }
+            ]
+          }
+        ],
+        "theme": "blue"
       }
     ],
     "title": "Case Studies"
