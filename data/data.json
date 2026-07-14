@@ -19861,15 +19861,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "3uea0P0pc3APtyfu1Fc780",
+    "_rev": "jp4xz8DHqK1toWgUndO8qs",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "3uea0P0pc3APtyfu1Fc2X4"
+        "rev": "EUpKYI5JW6L6ubJBJA1nmp"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:39:12Z",
+    "_updatedAt": "2026-07-14T05:40:07Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -20714,28 +20714,28 @@
             },
             "richTitle": [
               {
-                "_key": "42c258b3a270",
+                "_key": "6c00bc3431d3",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "ae1cf9a79474",
+                    "_key": "c0659b70262d",
                     "_type": "span",
                     "marks": [],
-                    "text": "Reduced Implementation "
+                    "text": "Retain Your "
                   }
                 ],
                 "markDefs": [],
                 "style": "normal"
               },
               {
-                "_key": "aab7a42fde43",
+                "_key": "f9045c4061d3",
                 "_type": "block",
                 "children": [
                   {
-                    "_key": "ae1cf9a79474",
+                    "_key": "c0659b70262d",
                     "_type": "span",
                     "marks": [],
-                    "text": "Timeline"
+                    "text": "Calculations"
                   }
                 ],
                 "markDefs": [],
