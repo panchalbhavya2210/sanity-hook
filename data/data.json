@@ -11163,15 +11163,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "GEUPu1VOF9GyCKQDeMHWlZ",
+    "_rev": "EUpKYI5JW6L6ubJBJA27Wz",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "6HNMNruJZobcPr5iKGALGR"
+        "rev": "GEUPu1VOF9GyCKQDeMHWlZ"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:02:53Z",
+    "_updatedAt": "2026-07-14T05:43:59Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -11831,7 +11831,7 @@
           {
             "_key": "2irtskgmz2",
             "color": "text-warning",
-            "text": "Simplify "
+            "text": "Simplify Your NACH Operations Toda"
           },
           {
             "_key": "2u4p7stmey",
@@ -11846,7 +11846,7 @@
           {
             "_key": "lnttue04wh",
             "color": "",
-            "text": "Today "
+            "text": "Today."
           }
         ]
       }
