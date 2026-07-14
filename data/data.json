@@ -9301,15 +9301,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "jp4xz8DHqK1toWgUndM47a",
+    "_rev": "3uea0P0pc3APtyfu1FbGYo",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "3uea0P0pc3APtyfu1Fb7DB"
+        "rev": "jp4xz8DHqK1toWgUndM47a"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:25:46Z",
+    "_updatedAt": "2026-07-14T05:27:22Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10564,28 +10564,28 @@
         "titleParts": [
           {
             "_key": "bgy5sk44ir",
-            "color": "",
-            "text": "Ready to "
+            "color": "text-brand-600",
+            "text": "Ready "
           },
           {
             "_key": "2ux4xls2dx",
-            "color": "text-[#EE6832]",
-            "text": "Transform "
+            "color": "text-black",
+            "text": "To "
           },
           {
             "_key": "5g4oytap56",
-            "color": "",
-            "text": "Your "
+            "color": "text-success",
+            "text": "Adapt "
           },
           {
             "_key": "qjrcddzyk7",
-            "color": "text-[#EE6832]",
-            "text": "Banking "
+            "color": "text-black",
+            "text": "to "
           },
           {
             "_key": "pqgi2dldrr",
-            "color": "text-brand-600",
-            "text": "Experience"
+            "color": "text-success",
+            "text": "Digital Shifts"
           },
           {
             "_key": "2tpo3nug7m",
