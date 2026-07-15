@@ -4713,15 +4713,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "jp4xz8DHqK1toWgUnefTVu",
+    "_rev": "VvoTrv03okwDAu5fbFuBsU",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "3uea0P0pc3APtyfu1FgMuW"
+        "rev": "jp4xz8DHqK1toWgUnefTVu"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-14T11:01:04Z",
+    "_updatedAt": "2026-07-15T06:01:01Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -4759,6 +4759,7 @@
       {
         "_key": "fupeqnck8x",
         "deployment": "Primary DC: On Premises <br/> DR: Oracle Cloud",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "p18vis6iuz",
@@ -4902,6 +4903,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "testimonial": {
           "author": "Paresh Kelawala",
           "role": "AGM IT & CISO",
@@ -4912,6 +4914,7 @@
       {
         "_key": "d5vtz2wf60",
         "deployment": "Hosted on Oracle Cloud | Primary DC & DR",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "3cpyws43la",
@@ -5050,6 +5053,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "testimonial": {
           "author": "Mr. Avani Kumar Jain",
           "role": "CEO",
@@ -5060,6 +5064,7 @@
       {
         "_key": "wtrvaqcudv",
         "deployment": "Hosted on Cloud | Primary DC & DR",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "cezspblcw1",
@@ -5187,6 +5192,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "testimonial": {
           "author": "A.K. Sinha",
           "role": "COO",
@@ -5197,6 +5203,7 @@
       {
         "_key": "tvnt9yhyz4",
         "deployment": "Hosted on Oracle Cloud | Primary DC & DR ",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "gsilgbb8np",
@@ -5320,6 +5327,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "testimonial": {
           "author": "CA Jayshreeben Vyas",
           "role": "MD",
@@ -5330,6 +5338,7 @@
       {
         "_key": "rpuhjb22bi",
         "deployment": "Hosted on Oracle Cloud | Primary DC & DR",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "i4u8et4fjs",
@@ -5423,6 +5432,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "testimonial": {
           "author": "B.M. Raichada",
           "role": "Deputy General Manager ",
@@ -5434,6 +5444,7 @@
         "_key": "38be81aa5887",
         "_type": "study",
         "deployment": "Hosted on Oracle Cloud | Primary DC , DR , UAT",
+        "deploymentTitle": "Deployment",
         "features": [
           {
             "_key": "863fb4c8c5ab",
@@ -5574,6 +5585,7 @@
             ]
           }
         ],
+        "takeawaysTitle": "Key Takeaways",
         "theme": "blue"
       }
     ],
