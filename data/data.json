@@ -4713,15 +4713,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "VvoTrv03okwDAu5fbFuBsU",
+    "_rev": "gvb15rYHBFgFq42eS7Dw5Q",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "jp4xz8DHqK1toWgUnefTVu"
+        "rev": "VvoTrv03okwDAu5fbFuBsU"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-15T06:01:01Z",
+    "_updatedAt": "2026-07-15T06:03:27Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5444,7 +5444,7 @@
         "_key": "38be81aa5887",
         "_type": "study",
         "deployment": "Hosted on Oracle Cloud | Primary DC , DR , UAT",
-        "deploymentTitle": "Deployment",
+        "deploymentTitle": "Deployment On",
         "features": [
           {
             "_key": "863fb4c8c5ab",
