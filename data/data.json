@@ -6740,15 +6740,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "qU3y77xBBnEgoQiNLv4bTq",
+    "_rev": "3f5OQyfSZVAKd0RUZDEuta",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "3f5OQyfSZVAKd0RUZDAzEK"
+        "rev": "qU3y77xBBnEgoQiNLv4bTq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:37:51Z",
+    "_updatedAt": "2026-07-27T07:06:34Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -6805,7 +6805,7 @@
           },
           {
             "_key": "5frt95r88q",
-            "description": "Experience immediate improvements in operational efficiency and productivity for your internal teams — without disruption.",
+            "description": "Experience immediate improvements in operational efficiency and productivity for your internal teams without disruption.",
             "icon": {
               "_type": "image",
               "asset": {
