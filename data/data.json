@@ -14600,15 +14600,15 @@
   {
     "_createdAt": "2026-04-28T05:14:52Z",
     "_id": "easy-los",
-    "_rev": "GEUPu1VOF9GyCKQDeMKrfd",
+    "_rev": "ZD9hpBEYl1x1VYz1fFsob3",
     "_system": {
       "base": {
         "id": "easy-los",
-        "rev": "glsFk1SvfGcE5pcbzZtiCt"
+        "rev": "GEUPu1VOF9GyCKQDeMKrfd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:15:54Z",
+    "_updatedAt": "2026-07-27T07:24:58Z",
     "sections": [
       {
         "_key": "90u0ob2j7v",
@@ -14632,7 +14632,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning — enabling faster, smarter, and fully digital lending.",
+        "subtitle": "A powerful Loan Origination Platform that simplifies application processing, underwriting, and credit decisioning to enabling faster, smarter, and fully digital lending.",
         "title": "Unleash New Opportunities in Lending",
         "variant": "split"
       },
@@ -14640,8 +14640,8 @@
         "_key": "gdde0271wz",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Digitize and streamline the complete loan journey — from lead capture to disbursement — with automation, intelligence, and seamless integrations.",
           "icon": null,
+          "subTitle": "Digitize and streamline the complete loan journey, from lead capture to disbursement, with automation, intelligence, and seamless integrations.",
           "subTitleClassName": "",
           "text": {
             "title": [
