@@ -21745,15 +21745,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "GEUPu1VOF9GyCKQDeMIIQh",
+    "_rev": "qU3y77xBBnEgoQiNLvICEA",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "6KGNvrS0DL9HoKyrAHfbo9"
+        "rev": "GEUPu1VOF9GyCKQDeMIIQh"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:07:10Z",
+    "_updatedAt": "2026-07-27T08:23:17Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -21776,7 +21776,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "A next-gen switch that simplifies digital payments for banks with a single, high-performance platform—scalable, secure, and future-ready.",
+          "subTitleText": "A next-gen switch that simplifies digital payments for banks with a single, high-performance platform that's scalable, secure, and future-ready.",
           "text": {
             "title": [
               {
@@ -22047,7 +22047,7 @@
         "_type": "quickActionCardParentSection",
         "actionCardHeader": {
           "icon": null,
-          "subTitleText": "A single switch, many outcomes—speed, savings, security, and scale.",
+          "subTitleText": "A single switch, many outcomes: speed, savings, security, and scale.",
           "text": {
             "title": [
               {
@@ -22313,7 +22313,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+        "subTitleText": "Moving to Oracle Cloud Infrastructure (OCI) is more than a tech upgrade; it's a strategic shift toward agility, scalability, and cost-efficiency.",
         "titleParts": [
           {
             "_key": "ucdevua6y9",
