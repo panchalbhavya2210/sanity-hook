@@ -6745,15 +6745,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "3f5OQyfSZVAKd0RUZDAzEK",
+    "_rev": "qU3y77xBBnEgoQiNLv4bTq",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "EUpKYI5JW6L6ubJBJADaRQ"
+        "rev": "3f5OQyfSZVAKd0RUZDAzEK"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:37:02Z",
+    "_updatedAt": "2026-07-27T05:37:51Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -7496,7 +7496,7 @@
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
-        "subText": "Embrace AI-Powered , scalable , secure, cloud-native digital banking solution with ease.",
+        "subText": "Embrace AI-Powered, scalable, secure, cloud-native digital banking solution with ease.",
         "titleParts": [
           {
             "_key": "a8tfhlop07",
