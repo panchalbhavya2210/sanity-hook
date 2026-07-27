@@ -4728,15 +4728,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "2Ylzj40DB4KRPTzoYOONFl",
+    "_rev": "ZD9hpBEYl1x1VYz1fFo6ob",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "gvb15rYHBFgFq42eS7Dw5Q"
+        "rev": "2Ylzj40DB4KRPTzoYOONFl"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-15T06:08:33Z",
+    "_updatedAt": "2026-07-27T05:54:55Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5471,7 +5471,7 @@
                 "_type": "reference"
               }
             },
-            "title": "4 (3 Branches + 1 Head Office)"
+            "title": "4 Branches"
           },
           {
             "_key": "30cc9b0ce84a",
@@ -5517,7 +5517,7 @@
             "_type": "reference"
           }
         },
-        "name": "Dhanera Mercantile Co-Operative Bank Ltd",
+        "name": "Dhanera Mercantile Co-Operative Bank Ltd.",
         "since": "2011",
         "takeaways": [
           {
