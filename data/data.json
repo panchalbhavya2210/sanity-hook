@@ -1375,15 +1375,15 @@
   {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-    "_rev": "B7v4H5xN2WmKnaQDWQf6Qe",
+    "_rev": "qU3y77xBBnEgoQiNLv4fj4",
     "_system": {
       "base": {
         "id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
-        "rev": "U4Kf70E1gVF9dPfCgx0PW5"
+        "rev": "B7v4H5xN2WmKnaQDWQf6Qe"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:54:32Z",
+    "_updatedAt": "2026-07-27T05:43:04Z",
     "sections": [
       {
         "_key": "f8df8c81e0a2",
@@ -1562,7 +1562,7 @@
             "_key": "c1452e996e6b",
             "_type": "partnerCard",
             "buttonLabel": "Chief Executive Officer",
-            "description": "A seasoned BFSI and FinTech leader with over 20 years of experience in Core Banking, Digital Banking, FinTech, and RegTech solutions. Expertise spans product development, business growth, strategic partnerships, pre-sales, customer acquisition, and process excellence. Proven track record of working with Banks, NBFCs, MFIs, SACCOs, and Financial Institutions to deliver innovative technology solutions that drive transformation and business success. Passionate about emerging technologies like AI/ML , Cybersecurity and Blockchain, with a strong focus on building future-ready financial ecosystems.",
+            "description": "A seasoned BFSI and FinTech leader with over 20 years of experience in Core Banking, Digital Banking, FinTech, and RegTech solutions. Expertise spans product development, business growth, strategic partnerships, pre-sales, customer acquisition, and process excellence. Proven track record of working with Banks, NBFCs, MFIs, SACCOs, and Financial Institutions to deliver innovative technology solutions that drive transformation and business success. Passionate about emerging technologies like AI/ML, Cybersecurity and Blockchain, with a strong focus on building future-ready financial ecosystems.",
             "designation": "Chief Executive Officer",
             "image": {
               "_type": "image",
