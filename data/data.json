@@ -21074,15 +21074,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "qU3y77xBBnEgoQiNLv4Mpi",
+    "_rev": "ZD9hpBEYl1x1VYz1fFmacT",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "qU3y77xBBnEgoQiNLv4Lic"
+        "rev": "qU3y77xBBnEgoQiNLv4Mpi"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-27T05:28:59Z",
+    "_updatedAt": "2026-07-27T05:34:38Z",
     "hero": {
       "backgroundImage": {
         "_type": "image",
@@ -21670,7 +21670,7 @@
         {
           "_key": "card4",
           "buttonTitle": "Explore Digi.X™",
-          "description": "Reapprise your digital strategies with Real-time Integrated Straight Through Processing (STP) Digital Channels enabling complete customer transactional information and the ability to offer tailored products to any customer at any time.",
+          "description": "Reappraise your digital strategies with Real-time Integrated Straight Through Processing (STP) Digital Channels enabling complete customer transactional information and the ability to offer tailored products to any customer at any time.",
           "image": {
             "_type": "image",
             "asset": {
