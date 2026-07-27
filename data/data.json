@@ -6740,15 +6740,15 @@
   {
     "_createdAt": "2026-04-14T05:38:29Z",
     "_id": "core-banking",
-    "_rev": "3f5OQyfSZVAKd0RUZDEuta",
+    "_rev": "qU3y77xBBnEgoQiNLvADw6",
     "_system": {
       "base": {
         "id": "core-banking",
-        "rev": "qU3y77xBBnEgoQiNLv4bTq"
+        "rev": "3f5OQyfSZVAKd0RUZDEuta"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T07:06:34Z",
+    "_updatedAt": "2026-07-27T07:10:14Z",
     "sections": [
       {
         "_key": "3nfkmzuvzj",
@@ -6778,7 +6778,7 @@
         "_type": "coreInfoSection",
         "cta": {
           "buttonLabel": "Explore the Platform",
-          "description": "From loans and deposits to customer data and documents — access everything in one place to enhance productivity and enable reliable decision-making.",
+          "description": "From loans and deposits to customer data and documents, access everything in one place to enhance productivity and enable reliable decision-making.",
           "icon": {
             "_type": "image",
             "asset": {
@@ -7348,17 +7348,17 @@
         "bankingSolutionCardData": [
           {
             "_key": "9q6ysx09qp",
-            "description": "Serve Retail, SME, and Corporate customers with personalized banking experiences — instantly and at scale.",
+            "description": "Serve Retail, SME, and Corporate customers with personalized banking experiences instantly and at scale.",
             "title": "Deliver Personalized Banking Products"
           },
           {
             "_key": "io65kxfmmr",
-            "description": "Our core tech is built for agility and speed — no limits, no friction, just performance.",
+            "description": "Our core tech is built for agility and speed with no limits, no friction, just performance.",
             "title": "Digital @ Core with No Barriers"
           },
           {
             "_key": "0i3wf65tua",
-            "description": "Access integrated Digital Solutions, Regulatory Reports, Loan Origination & Servicing — all in one platform.",
+            "description": "Access integrated Digital Solutions, Regulatory Reports, Loan Origination & Servicing, all in one platform.",
             "title": "End-to-End Banking, Enabled"
           },
           {
@@ -7406,7 +7406,7 @@
                 "_type": "reference"
               }
             },
-            "title": "AI/ML — Not Just Integrated, Built-In"
+            "title": "AI/ML: Not Just Integrated, Built-In"
           },
           {
             "_key": "ai95zfwftt",
@@ -7462,7 +7462,7 @@
         "mediaInfoCardData": [
           {
             "_key": "bbqpe5a2qr",
-            "description": "A comprehensive, region-specific reporting hub that simplifies the entire lifecycle — from data ingestion to STP submission.",
+            "description": "A comprehensive, region-specific reporting hub that simplifies the entire lifecycle, from data ingestion to STP submission.",
             "image": {
               "_type": "image",
               "asset": {
