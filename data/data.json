@@ -22751,15 +22751,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "qU3y77xBBnEgoQiNLv6JVu",
+    "_rev": "ZD9hpBEYl1x1VYz1fFyovd",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "GEUPu1VOF9GyCKQDeMI6rz"
+        "rev": "qU3y77xBBnEgoQiNLv6JVu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:59:40Z",
+    "_updatedAt": "2026-07-27T08:19:08Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -22865,7 +22865,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Bankai’s Managed Oracle Cloud Infrastructure (OCI) services is more than a tech upgrade—it's a strategic shift toward agility, scalability, and cost-efficiency.",
+        "subTitleText": "Bankai’s Managed Oracle Cloud Infrastructure (OCI) services is more than a tech upgrade; it's a strategic shift toward agility, scalability, and cost-efficiency.",
         "titleParts": [
           {
             "_key": "6rfg9kl3x1",
@@ -23196,7 +23196,7 @@
           },
           {
             "_key": "tdjrdzvvpc",
-            "description": "Robust DR solutions ensure application resilience with SLA-based RPO and RTO — minimizing impact during outages.",
+            "description": "Robust DR solutions ensure application resilience with SLA-based RPO and RTO, minimizing impact during outages.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 4,
