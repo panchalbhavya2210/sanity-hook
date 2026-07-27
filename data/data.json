@@ -499,15 +499,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "jp4xz8DHqK1toWgUndm7pk",
+    "_rev": "3f5OQyfSZVAKd0RUZDAvMS",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "GEUPu1VOF9GyCKQDeMGKsr"
+        "rev": "jp4xz8DHqK1toWgUndm7pk"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T07:33:49Z",
+    "_updatedAt": "2026-07-27T05:34:06Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -945,7 +945,22 @@
             "_key": "73d83add0b7a",
             "_type": "quickActionCard",
             "description": "Defines requirements for effective IT service management, ensuring reliable and high-quality service delivery.",
-            "title": "ISO/IEC 20000-1:2018"
+            "richTitle": [
+              {
+                "_key": "e6bae069d467",
+                "_type": "block",
+                "children": [
+                  {
+                    "_key": "02bd055d3511",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "ISO/IEC 20000-1:2018"
+                  }
+                ],
+                "markDefs": [],
+                "style": "normal"
+              }
+            ]
           },
           {
             "_key": "ddce65d82725",
@@ -1301,7 +1316,7 @@
                 "_key": "9ca5270c188a",
                 "_type": "featureItem",
                 "cols": 3,
-                "description": "Innovate with our Loantech Platform & API HUB ,which automates the entire lending lifecycle—from application to disbursement to repayment enabling faster approvals, intelligent risk assessment, and AI-driven credit management. ",
+                "description": "Innovate with our Loantech Platform & API HUB ,which automates the entire lending lifecycle, from application to disbursement to repayment enabling faster approvals, intelligent risk assessment, and AI-driven credit management. ",
                 "title": "Loan Origination & Management System(LOMS)"
               }
             ]
