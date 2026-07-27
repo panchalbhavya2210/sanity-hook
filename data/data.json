@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "qU3y77xBBnEgoQiNLv6pPO",
+    "_rev": "NRohdOlVbmL1YMhaz713UV",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "B7v4H5xN2WmKnaQDWQuHhg"
+        "rev": "qU3y77xBBnEgoQiNLv6pPO"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-27T06:06:52Z",
+    "_updatedAt": "2026-07-27T15:56:23Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -220,7 +220,7 @@
               {
                 "_key": "bb96833cb31b",
                 "_type": "item",
-                "href": "/xcelerators/others/envia",
+                "href": "/xcelerators/core-plugins/envia",
                 "label": "ENViA",
                 "type": "link"
               }
