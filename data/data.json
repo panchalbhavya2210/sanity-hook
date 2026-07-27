@@ -21073,15 +21073,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "ZD9hpBEYl1x1VYz1fFmacT",
+    "_rev": "qU3y77xBBnEgoQiNLv5210",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "qU3y77xBBnEgoQiNLv4Mpi"
+        "rev": "ZD9hpBEYl1x1VYz1fFmacT"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-27T05:34:38Z",
+    "_updatedAt": "2026-07-27T05:50:04Z",
     "hero": {
       "backgroundImage": {
         "_type": "image",
@@ -21325,7 +21325,7 @@
               "_type": "reference"
             }
           },
-          "title": "The Navanagar Co-Operative Bank Ltd."
+          "title": "The Nawanagar Co-Operative Bank Ltd."
         },
         {
           "_key": "partner20",
