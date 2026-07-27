@@ -9474,15 +9474,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "3uea0P0pc3APtyfu1FbGYo",
+    "_rev": "ZD9hpBEYl1x1VYz1fFmoJV",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "jp4xz8DHqK1toWgUndM47a"
+        "rev": "3uea0P0pc3APtyfu1FbGYo"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:27:22Z",
+    "_updatedAt": "2026-07-27T05:45:59Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -9868,7 +9868,7 @@
           },
           {
             "_key": "g522augv5l",
-            "description": "Smarter service, secure transactions, easyonboarding.",
+            "description": "Smarter service, secure transactions and easy onboarding.",
             "icon": {
               "_type": "image",
               "asset": {
@@ -9909,7 +9909,6 @@
           }
         ],
         "journeyHeader": {
-          "icon": null,
           "subTitle": "Benefits of Digital Banking from improving access to boosting efficiency and inclusivity. Digi.X™ redefines banking at every level.",
           "text": {
             "title": [
