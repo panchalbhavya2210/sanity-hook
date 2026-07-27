@@ -21059,15 +21059,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "qU3y77xBBnEgoQiNLv4Lic",
+    "_rev": "qU3y77xBBnEgoQiNLv4Mpi",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "EUpKYI5JW6L6ubJBJA0UF5"
+        "rev": "qU3y77xBBnEgoQiNLv4Lic"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-27T05:27:41Z",
+    "_updatedAt": "2026-07-27T05:28:59Z",
     "hero": {
       "backgroundImage": {
         "_type": "image",
@@ -21640,7 +21640,7 @@
         {
           "_key": "card3",
           "buttonTitle": "Explore easyLOS",
-          "description": "Elevate your lending journey with a comprehensive lending platform & digitize the entire lending lifecycle—from origination to servicing that enhances operational efficacy and borrower experience.",
+          "description": "Elevate your lending journey with a comprehensive platform that digitizes the entire lending lifecycle, from origination to servicing, while improving operational efficiency and the borrower experience.",
           "image": {
             "_type": "image",
             "asset": {
