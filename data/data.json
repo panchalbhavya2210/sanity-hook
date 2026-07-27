@@ -26815,15 +26815,15 @@
   {
     "_createdAt": "2026-05-07T06:12:11Z",
     "_id": "super-app",
-    "_rev": "GEUPu1VOF9GyCKQDeMXuM9",
+    "_rev": "ZD9hpBEYl1x1VYz1fFsCk5",
     "_system": {
       "base": {
         "id": "super-app",
-        "rev": "z4CtSEe3d2bzDASWmvPB3b"
+        "rev": "GEUPu1VOF9GyCKQDeMXuM9"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:51:08Z",
+    "_updatedAt": "2026-07-27T07:16:01Z",
     "sections": [
       {
         "_key": "kb4i03cb84",
@@ -26844,7 +26844,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "A unified digital platform that brings banking, payments, investments, and lifestyle services together — delivering one seamless experience for customers and businesses.",
+        "subtitle": "A unified digital platform that brings banking, payments, investments, and lifestyle services together, delivering one seamless experience for customers and businesses.",
         "title": "Beyond Banking. One Super App. Infinite Possibilities",
         "variant": "split"
       },
@@ -27775,7 +27775,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "We don’t just build apps — we build long-term banking ecosystems.",
+          "subTitle": "We don’t just build apps; we build long-term banking ecosystems.",
           "subTitleClassName": "",
           "text": {
             "title": [
