@@ -19641,15 +19641,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "ZD9hpBEYl1x1VYz1fFofph",
+    "_rev": "NRohdOlVbmL1YMhaz711G3",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "B7v4H5xN2WmKnaQDWQwDSs"
+        "rev": "ZD9hpBEYl1x1VYz1fFofph"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-27T06:06:29Z",
+    "_updatedAt": "2026-07-27T15:56:07Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19879,7 +19879,7 @@
           {
             "_key": "8bb6e2d8d990",
             "_type": "item",
-            "href": "/xcelerators/others/envia",
+            "href": "/xcelerators/core-plugins/envia",
             "label": "ENViA",
             "type": "link"
           }
