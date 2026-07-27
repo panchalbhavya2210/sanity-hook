@@ -24304,15 +24304,15 @@
   {
     "_createdAt": "2026-04-16T04:45:06Z",
     "_id": "nach-signing-tool",
-    "_rev": "B7v4H5xN2WmKnaQDWQgUug",
+    "_rev": "qU3y77xBBnEgoQiNLvGn5S",
     "_system": {
       "base": {
         "id": "nach-signing-tool",
-        "rev": "6HNMNruJZobcPr5iKGANCL"
+        "rev": "B7v4H5xN2WmKnaQDWQgUug"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:03:10Z",
+    "_updatedAt": "2026-07-27T08:10:02Z",
     "sections": [
       {
         "_key": "rx7muov8c",
@@ -24326,7 +24326,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration—ensuring security, compliance, and operational efficiency.",
+        "subtitle": "Bankai’s NACH Signing Tool enables banks to digitally sign and verify NACH files with high-speed automation, strong encryption, and seamless NPCI integration, ensuring security, compliance, and operational efficiency.",
         "title": "Secure, Automated & NPCI-Compliant File Signing",
         "variant": "split"
       },
@@ -24505,7 +24505,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Handling NACH files manually increases the risk of errors, delays, and compliance issues—especially with high transaction volumes.",
+        "subTitleText": "Handling NACH files manually increases the risk of errors, delays, and compliance issues, especially with high transaction volumes.",
         "titleParts": [
           {
             "_key": "z21hjfsacm",
