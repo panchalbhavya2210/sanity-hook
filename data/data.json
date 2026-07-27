@@ -5609,15 +5609,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "ZD9hpBEYl1x1VYz1fFp6aL",
+    "_rev": "ZD9hpBEYl1x1VYz1fFyMo5",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "qU3y77xBBnEgoQiNLv6r06"
+        "rev": "ZD9hpBEYl1x1VYz1fFp6aL"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T06:20:52Z",
+    "_updatedAt": "2026-07-27T08:13:10Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -5631,7 +5631,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels — 24×7.",
+        "subtitle": "Deliver instant, secure, and human-like banking support with a multilingual AI assistant that handles queries, transactions, and customer interactions across all channels 24×7.",
         "title": "AI-Powered Virtual Banking Assistant",
         "variant": "split"
       },
@@ -5639,7 +5639,7 @@
         "_key": "i82uknk60m",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "Modern customers expect instant, personalized, and seamless support — but legacy systems struggle to keep up.",
+          "subTitle": "Modern customers expect instant, personalized, and seamless support, but legacy systems struggle to keep up.",
           "text": {
             "title": [
               {
