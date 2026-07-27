@@ -5609,15 +5609,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "qU3y77xBBnEgoQiNLv6r06",
+    "_rev": "ZD9hpBEYl1x1VYz1fFp6aL",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "EUpKYI5JW6L6ubJBJA2WjE"
+        "rev": "qU3y77xBBnEgoQiNLv6r06"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T06:07:19Z",
+    "_updatedAt": "2026-07-27T06:20:52Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -6733,7 +6733,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "/xcelerators/core-plugins/envia"
+      "current": "/xcelerators/others/envia"
     },
     "title": "ENViA"
   },
