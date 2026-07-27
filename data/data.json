@@ -1815,15 +1815,15 @@
   {
     "_createdAt": "2026-05-07T10:06:06Z",
     "_id": "aml-kyc",
-    "_rev": "28ehL6p2ZJrQBnxCpglpWo",
+    "_rev": "ZD9hpBEYl1x1VYz1fFsPJN",
     "_system": {
       "base": {
         "id": "aml-kyc",
-        "rev": "z4CtSEe3d2bzDASWmvD71K"
+        "rev": "28ehL6p2ZJrQBnxCpglpWo"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:50:37Z",
+    "_updatedAt": "2026-07-27T07:17:51Z",
     "sections": [
       {
         "_key": "m5qiekrpne",
@@ -1844,7 +1844,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time — ensuring compliance, accuracy, and zero manual effort.",
+        "subtitle": "Transform customer onboarding with AI-driven OCR that extracts, verifies, and validates identity data in real time, ensuring compliance, accuracy, and zero manual effort.",
         "title": "AI-Powered KYC. Instant. Intelligent. Secure.",
         "variant": "split"
       },
@@ -2304,7 +2304,7 @@
         "_key": "c03kdq2w5w",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "Advanced AI and ML models power every stage — from extraction to verification.",
+          "subTitle": "Advanced AI and ML models power every stage, from extraction to verification.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -2323,7 +2323,7 @@
         "mediaInfoCardData": [
           {
             "_key": "majvwo6oq0",
-            "description": "Extract data from passports, IDs, and documents — even with poor quality or complex formats.",
+            "description": "Extract data from passports, IDs, and documents, even with poor quality or complex formats.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -2526,7 +2526,7 @@
         "_type": "contactCtaSection",
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
-        "subText": "Go beyond automation — build a real-time, intelligent compliance system that scales with your business and keeps you ahead of regulatory challenges.",
+        "subText": "Go beyond automation to build a real-time, intelligent compliance system that scales with your business and keeps you ahead of regulatory challenges.",
         "titleParts": [
           {
             "_key": "o9ddvcykap",
