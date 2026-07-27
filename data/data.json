@@ -2566,15 +2566,15 @@
   {
     "_createdAt": "2026-04-23T09:47:12Z",
     "_id": "api-hub",
-    "_rev": "U4Kf70E1gVF9dPfCgx1mIp",
+    "_rev": "qU3y77xBBnEgoQiNLvHdmk",
     "_system": {
       "base": {
         "id": "api-hub",
-        "rev": "B7v4H5xN2WmKnaQDWQf7q8"
+        "rev": "U4Kf70E1gVF9dPfCgx1mIp"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:06:27Z",
+    "_updatedAt": "2026-07-27T08:16:16Z",
     "sections": [
       {
         "_key": "ckrq94qswb",
@@ -3342,7 +3342,7 @@
           {
             "_key": "775d14394d99",
             "_type": "quickActionCard",
-            "description": "Pay only for what you use—perfect for unpredictable traffic or seasonal scaling.\n",
+            "description": "Pay only for what you use, perfect for unpredictable traffic or seasonal scaling.\n",
             "title": "Usage-Based Pricing"
           },
           {
