@@ -3412,15 +3412,15 @@
   {
     "_createdAt": "2026-04-16T04:47:06Z",
     "_id": "bankai-iam",
-    "_rev": "B7v4H5xN2WmKnaQDWQgLDE",
+    "_rev": "qU3y77xBBnEgoQiNLvFL1m",
     "_system": {
       "base": {
         "id": "bankai-iam",
-        "rev": "2JUT45RarmtyPWnJiS2iIS"
+        "rev": "B7v4H5xN2WmKnaQDWQgLDE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:02:32Z",
+    "_updatedAt": "2026-07-27T07:49:18Z",
     "sections": [
       {
         "_key": "y4ybr7an1r",
@@ -3922,7 +3922,7 @@
           },
           {
             "_key": "con1uoxjh2",
-            "description": "Use only what you need — expand anytime.",
+            "description": "Use only what you need and expand anytime.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
