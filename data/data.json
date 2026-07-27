@@ -5609,15 +5609,15 @@
   {
     "_createdAt": "2026-05-07T10:06:08Z",
     "_id": "chat-bot",
-    "_rev": "EUpKYI5JW6L6ubJBJA2WjE",
+    "_rev": "qU3y77xBBnEgoQiNLv6r06",
     "_system": {
       "base": {
         "id": "chat-bot",
-        "rev": "U4Kf70E1gVF9dPfCgxCGU5"
+        "rev": "EUpKYI5JW6L6ubJBJA2WjE"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:49:02Z",
+    "_updatedAt": "2026-07-27T06:07:19Z",
     "sections": [
       {
         "_key": "ay1kev2bsv",
@@ -5640,17 +5640,16 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "subTitle": "Modern customers expect instant, personalized, and seamless support — but legacy systems struggle to keep up.",
-          "subTitleClassName": "",
           "text": {
             "title": [
               {
-                "_key": "luc69016dd",
-                "color": "text-whtie",
+                "_key": "87f6b573fe4c",
+                "_type": "titlePart",
+                "color": "text-white",
                 "text": "Why Traditional Banking Support Fails "
               }
             ]
-          },
-          "titleTextClassName": ""
+          }
         },
         "id": "articles5",
         "isBgBlue": true,
@@ -5667,7 +5666,6 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
             "title": "Slow Response Times"
           },
           {
@@ -5681,7 +5679,6 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
             "title": "Language Barriers"
           },
           {
@@ -5695,7 +5692,6 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
             "title": "Rigid Chatbots"
           },
           {
@@ -5709,7 +5705,6 @@
                 "_type": "reference"
               }
             },
-            "imageAlt": "",
             "title": "Fragmented Experience"
           }
         ]
@@ -6738,7 +6733,7 @@
     },
     "slug": {
       "_type": "slug",
-      "current": "/xcelerators/others/envia"
+      "current": "/xcelerators/core-plugins/envia"
     },
     "title": "ENViA"
   },
