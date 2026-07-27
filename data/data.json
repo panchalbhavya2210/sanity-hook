@@ -17323,15 +17323,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "EUpKYI5JW6L6ubJBJA2Jku",
+    "_rev": "3f5OQyfSZVAKd0RUZDJys2",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "B7v4H5xN2WmKnaQDWQgWjg"
+        "rev": "EUpKYI5JW6L6ubJBJA2Jku"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:46:11Z",
+    "_updatedAt": "2026-07-27T08:10:43Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -17345,7 +17345,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "easyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels—ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
+        "subtitle": "easyRecon simplifies and automates reconciliation across ATM, POS, UPI, IMPS, and other digital channels, ensuring accuracy, reducing risk, and eliminating manual effort through a unified, intelligent platform",
         "title": "Smart Automated Reconciliation for Digital Transactions",
         "variant": "split"
       },
