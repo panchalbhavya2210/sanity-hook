@@ -7570,15 +7570,15 @@
   {
     "_createdAt": "2026-04-14T09:16:36Z",
     "_id": "core-modernization",
-    "_rev": "EUpKYI5JW6L6ubJBJ9z8H5",
+    "_rev": "qU3y77xBBnEgoQiNLvI1fO",
     "_system": {
       "base": {
         "id": "core-modernization",
-        "rev": "B7v4H5xN2WmKnaQDWQh3ey"
+        "rev": "EUpKYI5JW6L6ubJBJ9z8H5"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:01:37Z",
+    "_updatedAt": "2026-07-27T08:21:34Z",
     "sections": [
       {
         "_key": "ug7jafaopz",
@@ -7683,7 +7683,7 @@
         ],
         "id": "coreInfo",
         "isTextBlack": true,
-        "subTitleText": "Transition from legacy systems to agile, modular architecture — securely and at your pace.",
+        "subTitleText": "Transition from legacy systems to agile, modular architecture securely and at your pace.",
         "titleParts": [
           {
             "_key": "ic08xfo2bn",
@@ -8111,7 +8111,7 @@
         "capabilitesDetails": [
           {
             "_key": "n7oau6uilb",
-            "description": "Take full ownership of your infrastructure with maximum security, governance, and compliance — ideal for banks with strict data policies.",
+            "description": "Take full ownership of your infrastructure with maximum security, governance, and compliance, ideal for banks with strict data policies.",
             "details": "Provides unified deposits, loans, and payment services to replace legacy banking systems.",
             "hasList": false,
             "heading": "EasyBankCore®",
