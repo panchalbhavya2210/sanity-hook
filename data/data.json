@@ -22756,15 +22756,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "GEUPu1VOF9GyCKQDeMI6rz",
+    "_rev": "qU3y77xBBnEgoQiNLv6JVu",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "GEUPu1VOF9GyCKQDeMGZSX"
+        "rev": "GEUPu1VOF9GyCKQDeMI6rz"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:06:42Z",
+    "_updatedAt": "2026-07-27T05:59:40Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -23062,8 +23062,20 @@
             "titleParts": [
               {
                 "_key": "hqqbj0hkj6",
-                "color": "",
-                "text": "Speed of Migration "
+                "color": "text-brand-600",
+                "text": "Speed "
+              },
+              {
+                "_key": "9d8ada6673b0",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "of "
+              },
+              {
+                "_key": "f5cc1e02facd",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "Migration "
               }
             ]
           },
@@ -23083,8 +23095,14 @@
             "titleParts": [
               {
                 "_key": "1yv7aiefke",
-                "color": "",
-                "text": "Cost Savings"
+                "color": "text-brand-600",
+                "text": "Cost "
+              },
+              {
+                "_key": "b2fd42f3b4bc",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "Savings"
               }
             ]
           },
@@ -23104,8 +23122,20 @@
             "titleParts": [
               {
                 "_key": "vrdg6b1lgf",
-                "color": "",
-                "text": "Immediate Cloud Benefits "
+                "color": "text-warning",
+                "text": "Immediate "
+              },
+              {
+                "_key": "cf07b531d328",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Cloud "
+              },
+              {
+                "_key": "7bb605613683",
+                "_type": "titlePart",
+                "color": "text-yellow",
+                "text": "Benefits "
               }
             ]
           },
@@ -23125,8 +23155,14 @@
             "titleParts": [
               {
                 "_key": "4gpo2tmbnc",
-                "color": "",
-                "text": "Reduced Risk"
+                "color": "text-brand-600",
+                "text": "Reduced "
+              },
+              {
+                "_key": "b1fcb86ef055",
+                "_type": "titlePart",
+                "color": "text-success",
+                "text": "Risk"
               }
             ]
           },
@@ -23146,8 +23182,20 @@
             "titleParts": [
               {
                 "_key": "eamm5nf45k",
-                "color": "",
-                "text": "Mitigated Security Risks"
+                "color": "text-brand-600",
+                "text": "Mitigated "
+              },
+              {
+                "_key": "43515f5dd810",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Security "
+              },
+              {
+                "_key": "1a25ddd280a4",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Risks"
               }
             ]
           },
@@ -23167,8 +23215,20 @@
             "titleParts": [
               {
                 "_key": "ao74jfbs13",
-                "color": "",
-                "text": "Enhanced Disaster Recovery"
+                "color": "text-brand-600",
+                "text": "Enhanced "
+              },
+              {
+                "_key": "ba6fd94193e2",
+                "_type": "titlePart",
+                "color": "text-black",
+                "text": "Disaster "
+              },
+              {
+                "_key": "c452207e4c4f",
+                "_type": "titlePart",
+                "color": "text-warning",
+                "text": "Recovery"
               }
             ]
           }
@@ -23290,7 +23350,7 @@
           },
           {
             "_key": "kj7blu59ov",
-            "title": "Secured BlockChain Table Implementation for Audit Trail Log Tables"
+            "title": "Secured Blockchain Table Implementation for Audit Trail Log Tables"
           },
           {
             "_key": "8gqkubjyb6",
