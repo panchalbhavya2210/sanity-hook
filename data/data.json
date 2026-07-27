@@ -20022,15 +20022,15 @@
   {
     "_createdAt": "2026-04-16T04:47:04Z",
     "_id": "formula-genie",
-    "_rev": "jp4xz8DHqK1toWgUndO8qs",
+    "_rev": "3f5OQyfSZVAKd0RUZDIY99",
     "_system": {
       "base": {
         "id": "formula-genie",
-        "rev": "EUpKYI5JW6L6ubJBJA1nmp"
+        "rev": "jp4xz8DHqK1toWgUndO8qs"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:40:07Z",
+    "_updatedAt": "2026-07-27T07:47:12Z",
     "sections": [
       {
         "_key": "8o9mqm2t31",
@@ -20044,7 +20044,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs—without writing a single line of backend code.",
+        "subtitle": "Turn your Excel logic into powerful, secure APIs instantly. FormulaGenie transforms spreadsheets into scalable, high-performance REST APIs without writing a single line of backend code.",
         "title": "Execute Excel Formulas at Scale",
         "variant": "split"
       },
@@ -20054,7 +20054,7 @@
         "features": [
           {
             "_key": "1vhegfuhsj",
-            "description": "Wrap Excel-based logic into managed APIs—no engineering overhead",
+            "description": "Wrap Excel-based logic into managed APIs, no engineering overhead.",
             "hasList": false,
             "icon": {
               "_type": "image",
@@ -20209,7 +20209,7 @@
           {
             "_key": "xh0ar1f2hd",
             "color": "text-black",
-            "text": "to API —  "
+            "text": "to API "
           },
           {
             "_key": "xwngjm4fkt",
