@@ -9474,15 +9474,15 @@
   {
     "_createdAt": "2026-04-14T05:31:55Z",
     "_id": "digi-x",
-    "_rev": "ZD9hpBEYl1x1VYz1fFmoJV",
+    "_rev": "qU3y77xBBnEgoQiNLv4mpy",
     "_system": {
       "base": {
         "id": "digi-x",
-        "rev": "3uea0P0pc3APtyfu1FbGYo"
+        "rev": "ZD9hpBEYl1x1VYz1fFmoJV"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:45:59Z",
+    "_updatedAt": "2026-07-27T05:46:59Z",
     "sections": [
       {
         "_key": "epgl3t43dz",
@@ -10044,7 +10044,7 @@
           },
           {
             "_key": "f4mqi8qj45",
-            "description": "Elevate Cross & Upsellin",
+            "description": "Elevate Cross & Upselling",
             "icon": {
               "_type": "image",
               "asset": {
