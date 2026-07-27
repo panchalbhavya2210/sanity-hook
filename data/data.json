@@ -8346,15 +8346,15 @@
   {
     "_createdAt": "2026-04-28T07:01:58Z",
     "_id": "credit-underwriting",
-    "_rev": "B7v4H5xN2WmKnaQDWQfDBq",
+    "_rev": "3f5OQyfSZVAKd0RUZDFeM4",
     "_system": {
       "base": {
         "id": "credit-underwriting",
-        "rev": "U4Kf70E1gVF9dPfCgx0bmt"
+        "rev": "B7v4H5xN2WmKnaQDWQfDBq"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:55:06Z",
+    "_updatedAt": "2026-07-27T07:18:47Z",
     "sections": [
       {
         "_key": "4payty2m2v",
@@ -9430,7 +9430,7 @@
         "description": "A digital signature is an encrypted seal that verifies identity, detects tampering, and holds legal validity under IT Act, eIDAS, and global standards.",
         "id": "articles",
         "isTextBlack": true,
-        "subText": "Reimagine credit underwriting with AI — faster decisions, smarter risk insights, and stronger profitability. Build a future-ready lending ecosystem powered by intelligence.",
+        "subText": "Reimagine credit underwriting with AI for faster decisions, smarter risk insights, and stronger profitability. Build a future-ready lending ecosystem powered by intelligence.",
         "titleParts": [
           {
             "_key": "jgp5v3r0wq",
