@@ -499,15 +499,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "3f5OQyfSZVAKd0RUZDAvMS",
+    "_rev": "qU3y77xBBnEgoQiNLv4XRm",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "jp4xz8DHqK1toWgUndm7pk"
+        "rev": "3f5OQyfSZVAKd0RUZDAvMS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:34:06Z",
+    "_updatedAt": "2026-07-27T05:35:27Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -1275,7 +1275,7 @@
                 "_key": "b23de1afbea7",
                 "_type": "featureItem",
                 "cols": 3,
-                "description": "Trusted by Co-operative Banks, Scheduled Commercial Banks, Local Area Banks , Payment Banks , MFIs, and NBFCs.",
+                "description": "Trusted by Co-operative Banks, Scheduled Commercial Banks, Local Area Banks, Payment Banks, MFIs, and NBFCs.",
                 "title": "Trusted Across Financial Segments"
               },
               {
