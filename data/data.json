@@ -21059,27 +21059,15 @@
   {
     "_createdAt": "2026-04-13T05:11:48Z",
     "_id": "home-page",
-    "_rev": "EUpKYI5JW6L6ubJBJA0UF5",
+    "_rev": "qU3y77xBBnEgoQiNLv4Lic",
     "_system": {
       "base": {
         "id": "home-page",
-        "rev": "GEUPu1VOF9GyCKQDeMLJ3v"
+        "rev": "EUpKYI5JW6L6ubJBJA0UF5"
       }
     },
     "_type": "homePage",
-    "_updatedAt": "2026-07-14T05:21:25Z",
-    "banner": {
-      "buttonLabel": "Explore easyTF",
-      "description": "Streamline global trade operations, manage liquidity, and automate treasury workflows with a secure, scalable platform built for modern banking.",
-      "image": {
-        "_type": "image",
-        "asset": {
-          "_ref": "image-1547fcec9507c4c2b9313daea14767b9f5e0afad-900x600-jpg",
-          "_type": "reference"
-        }
-      },
-      "title": "easyTF"
-    },
+    "_updatedAt": "2026-07-27T05:27:41Z",
     "hero": {
       "backgroundImage": {
         "_type": "image",
@@ -21690,7 +21678,6 @@
               "_type": "reference"
             }
           },
-          "imageSrc": "/images/homepage/6.png",
           "route": "/products/hrms/easy-pay-check",
           "title": "People-First HR Tech"
         }
@@ -21727,7 +21714,7 @@
         {
           "_key": "pt5",
           "color": "text-black",
-          "text": "Stack — For Innovators & Institutions."
+          "text": "Stack For: Innovators & Institutions."
         }
       ]
     },
