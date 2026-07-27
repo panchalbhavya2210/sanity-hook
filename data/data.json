@@ -19646,15 +19646,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "B7v4H5xN2WmKnaQDWQwDSs",
+    "_rev": "ZD9hpBEYl1x1VYz1fFofph",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "B7v4H5xN2WmKnaQDWQuNAg"
+        "rev": "B7v4H5xN2WmKnaQDWQwDSs"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-09T11:15:46Z",
+    "_updatedAt": "2026-07-27T06:06:29Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -19792,7 +19792,7 @@
                 "_type": "reference"
               }
             },
-            "label": "Next Gen Solution",
+            "label": "Next-Gen Digital Banking",
             "type": "header",
             "width": 115
           },
