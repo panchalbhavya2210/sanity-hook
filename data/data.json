@@ -25803,15 +25803,15 @@
   {
     "_createdAt": "2026-04-16T10:30:10Z",
     "_id": "staff-augmentation",
-    "_rev": "GEUPu1VOF9GyCKQDeMJBY3",
+    "_rev": "qU3y77xBBnEgoQiNLv4hnO",
     "_system": {
       "base": {
         "id": "staff-augmentation",
-        "rev": "2JUT45RarmtyPWnJiS2nbE"
+        "rev": "GEUPu1VOF9GyCKQDeMJBY3"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:09:35Z",
+    "_updatedAt": "2026-07-27T05:44:34Z",
     "sections": [
       {
         "_key": "pbb4t245t8",
@@ -26749,7 +26749,7 @@
       ],
       "ogDescription": "Scalable, cost-effective, and fully compliant hiring solutions designed to help businesses grow faster with the right talent.",
       "ogTitle": "Built Smarter Teams with Bankai",
-      "title": "Built Smarter Teams with Bankai",
+      "title": "Build Smarter Teams with Bankai | Staff Augmentation",
       "url": "https://www.bankaiinformatics.co.in/services/staff-augmentation"
     },
     "slug": {
