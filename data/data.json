@@ -24966,15 +24966,15 @@
   {
     "_createdAt": "2026-04-14T07:37:52Z",
     "_id": "omnichannel-banking",
-    "_rev": "GEUPu1VOF9GyCKQDeMKZ9r",
+    "_rev": "qU3y77xBBnEgoQiNLvAT0Y",
     "_system": {
       "base": {
         "id": "omnichannel-banking",
-        "rev": "6HNMNruJZobcPr5iKEepAN"
+        "rev": "GEUPu1VOF9GyCKQDeMKZ9r"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:14:42Z",
+    "_updatedAt": "2026-07-27T07:14:27Z",
     "sections": [
       {
         "_key": "wdfs412arr",
@@ -24999,7 +24999,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Bankai’s mobile banking platform delivers seamless, secure, and fully branded digital experiences—built for your customers, optimized for your growth.",
+        "subtitle": "Bankai’s mobile banking platform delivers seamless, secure, and fully branded digital experiences, built for your customers, optimized for your growth.",
         "title": "Your Bank. Your Brand. Your Digital Channel.",
         "variant": "split"
       },
@@ -25316,7 +25316,7 @@
         ],
         "journeyHeader": {
           "icon": null,
-          "subTitle": "One Platform. All Solutions. A modular, future-ready platform that powers security, compliance, and customer delight—all in one app.",
+          "subTitle": "One Platform. All Solutions. A modular, future-ready platform that powers security, compliance, and customer delight all in one app.",
           "text": {
             "title": [
               {
@@ -25513,7 +25513,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "Give your customers everything they expect — and more — all from a single app.",
+          "subTitle": "Give your customers everything they expect and more all from a single app.",
           "text": {
             "title": [
               {
@@ -25775,7 +25775,7 @@
         "id": "platformCapabilities3",
         "isTextBlack": true,
         "platformHeader": {
-          "subTitle": "The Importance of Mobile Banking. Mobile banking isn’t just convenient — it’s essential for modern financial life.",
+          "subTitle": "The Importance of Mobile Banking. Mobile banking isn’t just convenientit’s essential for modern financial life.",
           "text": {
             "title": [
               {
