@@ -13224,15 +13224,15 @@
   {
     "_createdAt": "2026-04-28T06:29:47Z",
     "_id": "easy-lms",
-    "_rev": "U4Kf70E1gVF9dPfCgx0uAf",
+    "_rev": "ZD9hpBEYl1x1VYz1fFuwnF",
     "_system": {
       "base": {
         "id": "easy-lms",
-        "rev": "nwBZWpZG7GoXpa1301HrMt"
+        "rev": "U4Kf70E1gVF9dPfCgx0uAf"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T09:56:28Z",
+    "_updatedAt": "2026-07-27T07:37:06Z",
     "sections": [
       {
         "_key": "28llprjkxd",
@@ -13256,7 +13256,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle — from origination to servicing, collections, and reporting — for banks, NBFCs, and lenders.",
+        "subtitle": "A digital LoanTech platform that automates the entire loan lifecycle, from origination to servicing, collections, and reporting for banks, NBFCs, and lenders.",
         "title": "Loan Management & Servicing, Simplified",
         "variant": "split"
       },
@@ -13286,7 +13286,7 @@
         "mediaInfoCardData": [
           {
             "_key": "tj3vpj54hg",
-            "description": "From loan creation to closure — manage disbursement, repayment, restructuring, and write-offs in one flow.",
+            "description": "From loan creation to closure, manage disbursement, repayment, restructuring, and write-offs in one flow.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
