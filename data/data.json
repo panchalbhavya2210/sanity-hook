@@ -10792,15 +10792,15 @@
   {
     "_createdAt": "2026-04-16T04:47:03Z",
     "_id": "digital-signing",
-    "_rev": "jp4xz8DHqK1toWgUndOXaM",
+    "_rev": "qU3y77xBBnEgoQiNLvGV62",
     "_system": {
       "base": {
         "id": "digital-signing",
-        "rev": "3uea0P0pc3APtyfu1FcL4Z"
+        "rev": "jp4xz8DHqK1toWgUndOXaM"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:42:57Z",
+    "_updatedAt": "2026-07-27T08:07:25Z",
     "sections": [
       {
         "_key": "kbr5kp7dmp",
@@ -10814,7 +10814,7 @@
             "_type": "reference"
           }
         },
-        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents — instantly, seamlessly, and with full legal compliance.",
+        "subtitle": "Secure. Authentic. Legally Valid. Digitally sign documents instantly, seamlessly, and with full legal compliance.",
         "title": "PDF Digital Signing Services",
         "variant": "split"
       },
@@ -10864,7 +10864,7 @@
         "mediaInfoCardData": [
           {
             "_key": "scxtyotom6",
-            "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents — eliminating impersonation risks and creating a secure trust framework between parties.",
+            "description": "Every digital signature is tied to a verified digital certificate issued by a certifying authority. This ensures that only authorized individuals can sign documents, eliminating impersonation risks and creating a secure trust framework between parties.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
@@ -11120,7 +11120,7 @@
           },
           {
             "_key": "cfklj7kvot",
-            "description": "Let users sign in seconds — securely and remotely.",
+            "description": "Let users sign in seconds, securely and remotely.",
             "details": "Our digital banking and fintech platform will enable composability to integrate and configure our Banking Solutions with assured interoperability.",
             "heading": "EasyBankCore®",
             "id": 5,
@@ -11146,7 +11146,7 @@
         "isTextBlack": true,
         "platformHeader": {
           "icon": null,
-          "subTitle": "Enable document signing anytime, anywhere — while reducing costs and boosting compliance.",
+          "subTitle": "Enable document signing anytime, anywhere while reducing costs and boosting compliance.",
           "text": {
             "title": [
               {
@@ -11189,7 +11189,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "Designed for banks, enterprises, and government bodies — our solution fits right into your ecosystem.",
+          "subTitle": "Designed for banks, enterprises, and government bodies, our solution fits right into your ecosystem.",
           "subTitleClassName": "",
           "text": {
             "title": [
