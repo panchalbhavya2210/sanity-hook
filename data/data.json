@@ -11330,15 +11330,15 @@
   {
     "_createdAt": "2026-04-16T04:45:05Z",
     "_id": "e-nach",
-    "_rev": "EUpKYI5JW6L6ubJBJA27Wz",
+    "_rev": "3f5OQyfSZVAKd0RUZDJm00",
     "_system": {
       "base": {
         "id": "e-nach",
-        "rev": "GEUPu1VOF9GyCKQDeMHWlZ"
+        "rev": "EUpKYI5JW6L6ubJBJA27Wz"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:43:59Z",
+    "_updatedAt": "2026-07-27T08:08:39Z",
     "sections": [
       {
         "_key": "hbk7aousl9",
@@ -11361,7 +11361,7 @@
         "_type": "articlesSection",
         "articleSectionHeader": {
           "icon": null,
-          "subTitle": "Traditional NACH operations involve multiple systems, manual file handling, and compliance risks — slowing down processing and increasing errors.",
+          "subTitle": "Traditional NACH operations involve multiple systems, manual file handling, and compliance risks, slowing down processing and increasing errors.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -11473,7 +11473,7 @@
         "articleSectionHeader": {
           "description": "",
           "icon": null,
-          "subTitle": "A unified system that manages every stage of NACH operations through a single interface — improving efficiency, accuracy, and compliance.",
+          "subTitle": "A unified system that manages every stage of NACH operations through a single interface, improving efficiency, accuracy, and compliance.",
           "subTitleClassName": "",
           "text": {
             "title": [
