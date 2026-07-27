@@ -23472,15 +23472,15 @@
   {
     "_createdAt": "2026-04-16T04:47:07Z",
     "_id": "mt-to-mx-conversion",
-    "_rev": "jp4xz8DHqK1toWgUndOG9k",
+    "_rev": "3f5OQyfSZVAKd0RUZDIdcC",
     "_system": {
       "base": {
         "id": "mt-to-mx-conversion",
-        "rev": "GEUPu1VOF9GyCKQDeMHIwd"
+        "rev": "jp4xz8DHqK1toWgUndOG9k"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-14T05:41:05Z",
+    "_updatedAt": "2026-07-27T07:48:28Z",
     "sections": [
       {
         "_key": "lde6y1xzho",
@@ -23501,8 +23501,8 @@
             "_type": "reference"
           }
         },
-        "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed — all from one unified interface.",
-        "title": "Validate. Translate. Automate Financial Messages — Instantly",
+        "subtitle": "A powerful platform to validate, interpret, and convert SWIFT MT and ISO 20022 (CBPR+) messages with accuracy, compliance, and speed all from one unified interface.",
+        "title": "Validate. Translate. Automate Financial Messages Instantly",
         "variant": "split"
       },
       {
@@ -24291,8 +24291,8 @@
         "banking reconciliation"
       ],
       "ogDescription": "Deliver faster, more accurate cheque clearing with EasyCTS, a digital cheque processing solution for modern banks.",
-      "ogTitle": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
-      "title": "Transform Financial Messaging — From MT to ISO 20022, Instantly.",
+      "ogTitle": "Transform Financial Messaging From MT to ISO 20022, Instantly.",
+      "title": "Transform Financial Messaging From MT to ISO 20022, Instantly.",
       "url": "https://www.bankaiinformatics.co.in/xcelerators/plugins/mxcelerate"
     },
     "slug": {
