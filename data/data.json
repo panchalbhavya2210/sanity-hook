@@ -22751,15 +22751,15 @@
   {
     "_createdAt": "2026-04-14T12:04:39Z",
     "_id": "managed-cloud-services",
-    "_rev": "ZD9hpBEYl1x1VYz1fFyovd",
+    "_rev": "NRohdOlVbmL1YMhaz7rTU7",
     "_system": {
       "base": {
         "id": "managed-cloud-services",
-        "rev": "qU3y77xBBnEgoQiNLv6JVu"
+        "rev": "ZD9hpBEYl1x1VYz1fFyovd"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T08:19:08Z",
+    "_updatedAt": "2026-07-28T04:52:47Z",
     "sections": [
       {
         "_key": "i4gz7iepet",
@@ -22892,12 +22892,12 @@
         "_key": "ag29x0b9j3",
         "_type": "imageSectionSingle",
         "id": "imageShow2",
-        "imageAlt": "",
+        "imageAlt": "Migration Process",
         "imageHeight": 1441,
         "imageSource": {
           "_type": "image",
           "asset": {
-            "_ref": "image-280450c22707b84bb9bf72ba64f5c56840bfed00-2160x1091-webp",
+            "_ref": "image-a73bfeb84916c449faa86c8c510fe37cfcb00b95-5760x2908-webp",
             "_type": "reference"
           }
         },
