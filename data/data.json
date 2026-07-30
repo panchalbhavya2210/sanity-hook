@@ -4728,15 +4728,15 @@
   {
     "_createdAt": "2026-04-15T05:58:36Z",
     "_id": "case-studies",
-    "_rev": "ZD9hpBEYl1x1VYz1fFo6ob",
+    "_rev": "YQf3SPqHn7bg8S0TxoT5Tc",
     "_system": {
       "base": {
         "id": "case-studies",
-        "rev": "2Ylzj40DB4KRPTzoYOONFl"
+        "rev": "ZD9hpBEYl1x1VYz1fFo6ob"
       }
     },
     "_type": "caseStudyPage",
-    "_updatedAt": "2026-07-27T05:54:55Z",
+    "_updatedAt": "2026-07-30T08:03:35Z",
     "heroSection": {
       "_type": "heroSection",
       "backgroundColor": "bg-[#006DFF1A]",
@@ -5487,7 +5487,7 @@
           },
           {
             "_key": "d7cf48e06283",
-            "description": "Active Customer Count",
+            "description": "Banking Customers",
             "icon": {
               "_type": "image",
               "asset": {
@@ -5499,7 +5499,7 @@
           },
           {
             "_key": "ccca6a1d19b1",
-            "description": "Active Accounts",
+            "description": "Transaction Count Per Day",
             "icon": {
               "_type": "image",
               "asset": {
@@ -5507,7 +5507,7 @@
                 "_type": "reference"
               }
             },
-            "title": "1,15,000+"
+            "title": "55,000"
           }
         ],
         "logo": {
@@ -5601,6 +5601,11 @@
           }
         ],
         "takeawaysTitle": "Key Takeaways",
+        "testimonial": {
+          "author": "Ajabhai Patel",
+          "role": "CEO",
+          "text": "EasyBankCore has a nice user-friendly interface, its secured, fast and it organizes data in a very simplified manner."
+        },
         "theme": "blue"
       }
     ],
