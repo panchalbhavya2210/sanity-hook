@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "NRohdOlVbmL1YMhaz85qzL",
+    "_rev": "YQf3SPqHn7bg8S0TxoTAdN",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "jAlsQmcs5UvOUCn3HeBido"
+        "rev": "NRohdOlVbmL1YMhaz85qzL"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-28T09:00:27Z",
+    "_updatedAt": "2026-07-30T08:03:55Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -31,7 +31,7 @@
                     "_type": "reference"
                   }
                 },
-                "label": "It is an AI-Powered, Digital at Core , API First multi channel banking solution that's enables full range of banking services.",
+                "label": "It is an AI-Powered, Digital at Core , API First multi channel banking solution that enables full range of banking services.",
                 "type": "image",
                 "width": 159
               }
