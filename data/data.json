@@ -1373,46 +1373,6 @@
     "title": "Overview"
   },
   {
-    "_createdAt": "2026-04-30T11:59:07Z",
-    "_id": "3fdb6ff5-41f2-4355-ae95-5d7ed253efba",
-    "_rev": "22uPhQi95aN0jC0OXlr2uD",
-    "_type": "blog",
-    "_updatedAt": "2026-07-31T05:48:44Z",
-    "author": {
-      "designation": "Test",
-      "name": "Test"
-    },
-    "body": [
-      {
-        "_key": "0a7cec51f444",
-        "_type": "block",
-        "children": [
-          {
-            "_key": "ea9169a5fda5",
-            "_type": "span",
-            "marks": [],
-            "text": "Test"
-          }
-        ],
-        "markDefs": [],
-        "style": "normal"
-      }
-    ],
-    "excerpt": "Designing the Future of Banking",
-    "publishedAt": "2026-07-31T05:48:29.764Z",
-    "seo": {
-      "_type": "seoObject",
-      "description": "Designing the Future of Banking",
-      "title": "Designing the Future of Banking"
-    },
-    "slug": {
-      "_type": "slug",
-      "current": "test"
-    },
-    "status": "draft",
-    "title": "Test"
-  },
-  {
     "_createdAt": "2026-06-04T07:34:37Z",
     "_id": "76ef18ed-5a76-48ba-931e-01fa8e4d881f",
     "_rev": "qU3y77xBBnEgoQiNLv4ggI",
