@@ -499,15 +499,15 @@
   {
     "_createdAt": "2026-06-04T06:54:43Z",
     "_id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-    "_rev": "3f5OQyfSZVAKd0RUZDAxmN",
+    "_rev": "AbE0eRTxRWYSaELT1WbY6c",
     "_system": {
       "base": {
         "id": "2b37291b-6266-4a96-ad29-33fb184395a7",
-        "rev": "qU3y77xBBnEgoQiNLv4XRm"
+        "rev": "3f5OQyfSZVAKd0RUZDAxmN"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T05:36:05Z",
+    "_updatedAt": "2026-08-04T06:07:23Z",
     "sections": [
       {
         "_key": "ba3c7aac1c00",
@@ -998,7 +998,7 @@
         "_key": "9019d51d604c",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "From core banking to lending, analytics, AI, and cloud services, Bankai offers an integrated ecosystem designed for modern financial institutions.",
+          "subTitle": "From core banking to lending, analytics, AI, and cloud services, Bankai offers an integrated ecosystem designed for modern financial institutions.",
           "text": {
             "title": [
               {
