@@ -17375,15 +17375,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "22uPhQi95aN0jC0OXyVpql",
+    "_rev": "PVKj5jLrChYA0ekPWVhLQ9",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "U4Kf70E1gVF9dPfCgxAKH3"
+        "rev": "22uPhQi95aN0jC0OXyVpql"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-08-04T06:08:29Z",
+    "_updatedAt": "2026-08-04T06:09:24Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -18073,9 +18073,8 @@
         "_key": "qpokq5dpo1",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Leverage real-time insights and reports to optimize workforce performance.",
           "icon": null,
-          "subTitle": "",
+          "subTitle": "Leverage real-time insights and reports to optimize workforce performance.",
           "subTitleClassName": "",
           "text": {
             "title": [
