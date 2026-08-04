@@ -19636,15 +19636,15 @@
   {
     "_createdAt": "2026-04-16T09:23:18Z",
     "_id": "employee-self-service",
-    "_rev": "B7v4H5xN2WmKnaQDWQiSjS",
+    "_rev": "AbE0eRTxRWYSaELT1Wcq1i",
     "_system": {
       "base": {
         "id": "employee-self-service",
-        "rev": "2JUT45RarmtyPWnJiS1vGy"
+        "rev": "B7v4H5xN2WmKnaQDWQiSjS"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:15:22Z",
+    "_updatedAt": "2026-08-04T06:10:05Z",
     "sections": [
       {
         "_key": "darum29qp6",
@@ -19876,7 +19876,7 @@
         "_key": "qks0k80st0",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Employees can securely access and update their personal and professional details anytime.",
+          "subTitle": "Employees can securely access and update their personal and professional details anytime.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -20385,9 +20385,8 @@
         "_key": "tcjcvbqs1c",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Manage and submit conveyance transactions directly through the portal.",
           "icon": null,
-          "subTitle": "",
+          "subTitle": "Manage and submit conveyance transactions directly through the portal.",
           "subTitleClassName": "",
           "text": {
             "title": [
