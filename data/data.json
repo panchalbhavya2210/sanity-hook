@@ -17375,15 +17375,15 @@
   {
     "_createdAt": "2026-04-16T09:58:25Z",
     "_id": "easy-pay-check",
-    "_rev": "U4Kf70E1gVF9dPfCgxAKH3",
+    "_rev": "22uPhQi95aN0jC0OXyVpql",
     "_system": {
       "base": {
         "id": "easy-pay-check",
-        "rev": "GEUPu1VOF9GyCKQDeMKppN"
+        "rev": "U4Kf70E1gVF9dPfCgxAKH3"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-09T10:53:52Z",
+    "_updatedAt": "2026-08-04T06:08:29Z",
     "sections": [
       {
         "_key": "g7uqi5gm62",
@@ -17415,8 +17415,8 @@
         "_key": "12n1ozxyz8",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "description": "Centralize employee data and simplify HR operations with intuitive tools built for accuracy and control.",
           "icon": null,
+          "subTitle": "Centralize employee data and simplify HR operations with intuitive tools built for accuracy and control.",
           "subTitleClassName": "",
           "text": {
             "title": [
