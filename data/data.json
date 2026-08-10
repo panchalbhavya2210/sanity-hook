@@ -2,15 +2,15 @@
   {
     "_createdAt": "2026-04-10T10:21:13Z",
     "_id": "0vJl3HsPHyXwhTtFLuuWFP",
-    "_rev": "YQf3SPqHn7bg8S0TxoTAdN",
+    "_rev": "sMm47hOqDL2EcefVgUjszH",
     "_system": {
       "base": {
         "id": "0vJl3HsPHyXwhTtFLuuWFP",
-        "rev": "NRohdOlVbmL1YMhaz85qzL"
+        "rev": "YQf3SPqHn7bg8S0TxoTAdN"
       }
     },
     "_type": "navbar",
-    "_updatedAt": "2026-07-30T08:03:55Z",
+    "_updatedAt": "2026-08-10T09:46:09Z",
     "menus": [
       {
         "_key": "1cda7a9d-5f7b-4ec9-9995-782ee752f8ef",
@@ -200,20 +200,20 @@
             "items": [
               {
                 "_key": "5a27b732-f0a4-4525-b68e-fff84f0bc67a",
-                "href": "/xcelerators/others/easy-recon",
+                "href": "/xcelerators/core-plugins/easy-recon",
                 "label": "easyRecon",
                 "type": "link"
               },
               {
                 "_key": "109f1832-34e0-4445-baa7-e0abe4041990",
-                "href": "/xcelerators/others/easy-cts",
+                "href": "/xcelerators/core-plugins/easy-cts",
                 "label": "easyCTS",
                 "type": "link"
               },
               {
                 "_key": "867aa6e7268a",
                 "_type": "item",
-                "href": "/xcelerators/others/easyTF",
+                "href": "/xcelerators/core-plugins/easyTF",
                 "label": "easyTF",
                 "type": "link"
               },
