@@ -4363,15 +4363,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "22uPhQi95aN0jC0OXyVLtu",
+    "_rev": "bpWfj1oaPAF74w4Gbb9074",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "B7v4H5xN2WmKnaQDWQhddo"
+        "rev": "22uPhQi95aN0jC0OXyVLtu"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-08-04T06:07:52Z",
+    "_updatedAt": "2026-08-10T12:08:10Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4615,7 +4615,7 @@
         "_key": "j2ftqnl2ya",
         "_type": "articlesSection",
         "articleSectionHeader": {
-          "subTitle": "We believe innovation grows through diverse ideas, inclusive collaboration, and equal opportunities for everyone to learn, contribute, and succeed.",
+          "subTitle": "We believe innovation grows through diverse ideas, inclusive collaboration, and equal opportunities for everyone to learn, contribute, and succeed.\nWe embrace diversity, ensure equity, and foster inclusion to build stronger teams and better outcomes.",
           "subTitleClassName": "",
           "text": {
             "title": [
@@ -4631,6 +4631,7 @@
         "gridCols": 4,
         "id": "articles5",
         "isBgBlue": false,
+        "isBgLightBlue": false,
         "isTextBlack": true,
         "mediaInfoCardData": [
           {
