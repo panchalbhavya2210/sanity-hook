@@ -4363,15 +4363,15 @@
   {
     "_createdAt": "2026-05-11T07:26:44Z",
     "_id": "careers",
-    "_rev": "bpWfj1oaPAF74w4Gbb9074",
+    "_rev": "Sd2n3xn1IQMrChHtWq7x5w",
     "_system": {
       "base": {
         "id": "careers",
-        "rev": "22uPhQi95aN0jC0OXyVLtu"
+        "rev": "bpWfj1oaPAF74w4Gbb9074"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-08-10T12:08:10Z",
+    "_updatedAt": "2026-08-10T12:16:37Z",
     "sections": [
       {
         "_key": "0ct5rjopf9",
@@ -4636,7 +4636,7 @@
         "mediaInfoCardData": [
           {
             "_key": "9ffdu9f7ne",
-            "description": "We foster an environment where every individual feels respected, valued, and heard.",
+            "description": "We foster an environment where every individual feels respected, valued and heard.",
             "descriptionClassName": "",
             "image": {
               "_type": "image",
