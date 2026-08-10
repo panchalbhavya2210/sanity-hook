@@ -18200,15 +18200,15 @@
   {
     "_createdAt": "2026-04-16T04:46:12Z",
     "_id": "easy-recon",
-    "_rev": "3f5OQyfSZVAKd0RUZDJys2",
+    "_rev": "sMm47hOqDL2EcefVgUjcHP",
     "_system": {
       "base": {
         "id": "easy-recon",
-        "rev": "EUpKYI5JW6L6ubJBJA2Jku"
+        "rev": "3f5OQyfSZVAKd0RUZDJys2"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T08:10:43Z",
+    "_updatedAt": "2026-08-10T09:44:48Z",
     "sections": [
       {
         "_key": "p29c9hsr6x",
@@ -19291,11 +19291,11 @@
       "ogDescription": "Reduce errors and accelerate reconciliation with easyRecon, a unified platform for digital transaction matching.",
       "ogTitle": "easyRecon | Automated Transaction Reconciliation",
       "title": "easyRecon Reconciliation | Automated Transaction Matching",
-      "url": "https://www.bankaiinformatics.co.in/xcelerators/others/easy-recon"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/core-plugins/easy-recon"
     },
     "slug": {
       "_type": "slug",
-      "current": "xcelerators/others/easy-recon"
+      "current": "xcelerators/core-plugins/easy-recon"
     },
     "title": "Easy Recon"
   },
