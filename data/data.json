@@ -12926,15 +12926,15 @@
   {
     "_createdAt": "2026-04-16T04:46:14Z",
     "_id": "easy-cts",
-    "_rev": "ZD9hpBEYl1x1VYz1fFy79l",
+    "_rev": "bpWfj1oaPAF74w4Gbb0kl0",
     "_system": {
       "base": {
         "id": "easy-cts",
-        "rev": "jp4xz8DHqK1toWgUndPNIK"
+        "rev": "ZD9hpBEYl1x1VYz1fFy79l"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T08:11:53Z",
+    "_updatedAt": "2026-08-10T09:45:13Z",
     "sections": [
       {
         "_key": "hqb24flhfz",
@@ -14091,11 +14091,11 @@
       "ogDescription": "Deliver faster, more accurate cheque clearing with easyCTS, a digital cheque processing solution for modern banks.",
       "ogTitle": "easyCTS | Automated Cheque Clearing for Banks",
       "title": "easyCTS Cheque Clearing | Digital Cheque Processing",
-      "url": "https://www.bankaiinformatics.co.in/xcelerators/others/easy-cts"
+      "url": "https://www.bankaiinformatics.co.in/xcelerators/core-plugins/easy-cts"
     },
     "slug": {
       "_type": "slug",
-      "current": "xcelerators/others/easy-cts"
+      "current": "xcelerators/core-plugins/easy-cts"
     },
     "title": "Easy Cts"
   },
