@@ -20517,15 +20517,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "Sd2n3xn1IQMrChHtWq0emx",
+    "_rev": "Sd2n3xn1IQMrChHtWq2G3e",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "NRohdOlVbmL1YMhaz711G3"
+        "rev": "Sd2n3xn1IQMrChHtWq0emx"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-08-10T09:46:44Z",
+    "_updatedAt": "2026-08-10T10:28:05Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -20890,9 +20890,6 @@
           "_key": "f12dd5d9-f38c-44c0-bc47-6d1cde8e435a",
           "href": "#",
           "label": "Linkedin"
-        },
-        {
-          "_key": "59047904cd54"
         }
       ],
       "title": "Socials"
