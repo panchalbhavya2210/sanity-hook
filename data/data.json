@@ -20517,15 +20517,15 @@
   {
     "_createdAt": "2026-04-10T10:40:35Z",
     "_id": "footer-main",
-    "_rev": "NRohdOlVbmL1YMhaz711G3",
+    "_rev": "Sd2n3xn1IQMrChHtWq0emx",
     "_system": {
       "base": {
         "id": "footer-main",
-        "rev": "ZD9hpBEYl1x1VYz1fFofph"
+        "rev": "NRohdOlVbmL1YMhaz711G3"
       }
     },
     "_type": "footer",
-    "_updatedAt": "2026-07-27T15:56:07Z",
+    "_updatedAt": "2026-08-10T09:46:44Z",
     "legalLinks": [
       {
         "_key": "d29dddb1-b916-4b57-94a8-6d3c297d9603",
@@ -20735,20 +20735,20 @@
           },
           {
             "_key": "d76b8f0b-4891-4934-9b4a-9351e856602c",
-            "href": "/xcelerators/others/easy-recon",
+            "href": "/xcelerators/core-plugins/easy-recon",
             "label": "easyRecon",
             "type": "link"
           },
           {
             "_key": "b8bd7c18-7fa8-4b0b-ade9-4a4661bce968",
-            "href": "/xcelerators/others/easy-cts",
+            "href": "/xcelerators/core-plugins/easy-cts",
             "label": "easyCTS",
             "type": "link"
           },
           {
             "_key": "844dda37d9e3",
             "_type": "item",
-            "href": "/xcelerators/others/easyTF",
+            "href": "/xcelerators/core-plugins/easyTF",
             "label": "easyTF",
             "type": "link"
           },
@@ -20890,6 +20890,9 @@
           "_key": "f12dd5d9-f38c-44c0-bc47-6d1cde8e435a",
           "href": "#",
           "label": "Linkedin"
+        },
+        {
+          "_key": "59047904cd54"
         }
       ],
       "title": "Socials"
