@@ -22622,15 +22622,15 @@
   {
     "_createdAt": "2026-04-15T05:50:35Z",
     "_id": "imps-upi-switch-services",
-    "_rev": "qU3y77xBBnEgoQiNLvICEA",
+    "_rev": "AE5c1QH9ZKIQmkTJ77lLv7",
     "_system": {
       "base": {
         "id": "imps-upi-switch-services",
-        "rev": "GEUPu1VOF9GyCKQDeMIIQh"
+        "rev": "qU3y77xBBnEgoQiNLvICEA"
       }
     },
     "_type": "productPages",
-    "_updatedAt": "2026-07-27T08:23:17Z",
+    "_updatedAt": "2026-08-11T15:43:13Z",
     "sections": [
       {
         "_key": "d0cpsq4une",
@@ -23412,8 +23412,6 @@
       {
         "_key": "p0vhg7kdrs",
         "_type": "sectionHeaderSection",
-        "className": "pt-10! px-5",
-        "icon": null,
         "id": "sectionheader1",
         "isBgBlue": false,
         "isTextBlack": true,
