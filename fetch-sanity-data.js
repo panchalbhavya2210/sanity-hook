@@ -48,6 +48,10 @@ async function main() {
     console.log(
       `Successfully fetched ${data.length} documents and saved to data/data.json`,
     );
+
+    // Optimize the export in place (strip whitespace + `_key` fields) so the
+    // file that gets pushed is the small production build.
+    require("./scripts/build-data");
   } catch (err) {
     console.error("Failed to fetch Sanity data:", err);
     process.exit(1);
